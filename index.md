@@ -8,6 +8,9 @@
   - In class:
     - Welcome
     - Icebreaker
+    - What is data strctures about and what is it not about
+    - ![old style car radio tuner](radiotuner.jpg "old style car radio tuner")
+    - ![TV remote](remote.jpg "TV remoter")
     - Discussion of course: content, texts, syllabus, flow, etc
     - Sign up for Text1: [C++ for Python Programmers](https://runestone.academy). Be sure to create a login using your Berea email and username and then sign-up for the book book cpp4python-f21 .
     - If time permits begin [T00: Intro to Data Structures and C++](https://docs.google.com/document/d/1rAt_iqmj_WznSwUe7M4R0wdljHDem2XB8dKKxZR1b1w/) 
