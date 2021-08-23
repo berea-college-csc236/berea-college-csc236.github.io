@@ -6,7 +6,7 @@
 ## Day 3: Monday, August 23, 2021
   - **In class**:
     - Quiz on [Chapters 2 and 3 of C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70809)
-    - Start [Teamwork T02](https://moodle.berea.edu/mod/assign/view.php?id=461203)
+    - Start [Teamwork T02](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ/edit?usp=sharing)
   - **Outside of class** (due before class on Wednesday):
     - Read [Chapters 4 and 5 in C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70810) in preparation for a reading quiz. Be sure you are logged in and do all activities to get credit!
 
