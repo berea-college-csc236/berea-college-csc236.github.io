@@ -15,7 +15,7 @@
   - **In class**:
     - Debrief of word game and algorithns/data structures
     - Quiz on [Chapter 1 of C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70803)
-    - Start [Teamwork T01](https://moodle.berea.edu/mod/assign/view.php?id=461202)
+    - Complete and submit link to [Teamwork T01](https://docs.google.com/document/d/1Bz1sbwxid1ydkSHaO5nDMpMgzwa29Py6zzTlWGUvBzM/edit?usp=sharing)
   - **Outside of class** (due before class on Monday):
     - Read [Chapters 2 and 3 in C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70809) in preparation for a reading quiz. Be sure you are logged in and do all activities to get credit!
 
