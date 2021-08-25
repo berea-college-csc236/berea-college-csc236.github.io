@@ -7,7 +7,7 @@
 ## Day 4: Wednesday, August 25, 2021
   - **In class**:
     - Quiz on [Chapters 4 and 5 of C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70810)
-    - Complete and submit [Teamwork T03](https://docs.google.com/document/d/1T0BS2SzKxoOXg_EpfDCpFd8UG219_Jbqzl8W1kogtcc)
+    - Complete and submit [Teamwork T03](https://docs.google.com/document/d/1T0BS2SzKxoOXg_EpfDCpFd8UG219_Jbqzl8W1kogtcc).
   - **Outside of class**
     - Read [Chapters 6, 7 and 8 in C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70811) in preparation for a reading quiz next time. Be sure you are logged in and do all activities to get credit!
     - Complete [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8/edit?usp=sharing). This is an individual Lab. The milestone has been extended to tomorrow. The full lab is due Friday, August 27, 2021.
