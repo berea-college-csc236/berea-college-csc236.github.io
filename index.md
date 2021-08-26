@@ -11,7 +11,7 @@
     - Complete and submit [Teamwork T04]().
   - **Outside of class**
     - Read [Chapter 1 on OOP](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70812) in preparation for a reading quiz next time. Be sure you are logged in and do all activities to get credit!
-    - Start [L1: Loopy Graphics with C-Turtle](). This is an individual Lab. 
+    - Start [L1: Loopy Graphics with C-Turtle](). This is an individual lab that has milestones on Monday, Wednesday, and is due on Friday.
 
 ## Day 4: Wednesday, August 25, 2021
   - **In class**:
