@@ -4,6 +4,15 @@
 
 ---
 
+## Day 5: Friday, August 27, 2021
+  - **In class**:
+    - Quiz on [Chapters 6, 7 and 8 in C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70811)
+    - Art Show for [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8/)!
+    - Complete and submit [Teamwork T04]().
+  - **Outside of class**
+    - Read [Chapter 1 on OOP](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70812) in preparation for a reading quiz next time. Be sure you are logged in and do all activities to get credit!
+    - Complete [L1: Loopy Graphics with C-Turtle](). This is an individual Lab. 
+
 ## Day 4: Wednesday, August 25, 2021
   - **In class**:
     - Quiz on [Chapters 4 and 5 of C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70810)
