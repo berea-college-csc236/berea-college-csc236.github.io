@@ -4,6 +4,14 @@
 
 ---
 
+## Day 6: Monday, August 30, 2021
+  - **In class**:
+    - Quiz on [Chapter 1 on OOP](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70812)
+    - Complete and submit [Teamwork T05](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4).
+  - **Outside of class**
+    - Milestone 1 for [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c) is due today. 
+    - Complete [A01: OOP Principles](https://docs.google.com/document/d/1uH5vpyvL1rCLsmI14D3LIgUo2Q-0fCCdclOz2ZAk1Eg)
+
 ## Day 5: Friday, August 27, 2021
   - **In class**:
     - Quiz on [Chapters 6, 7 and 8 in C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70811)
