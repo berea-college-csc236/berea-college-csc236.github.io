@@ -3,11 +3,18 @@
 #### Berea College Fall 2021 Offering
 
 ---
+## Day 7: Wednesday, September 1, 2021
+  - **In class**:
+    - Discussion of [A01: OOP Principles](https://docs.google.com/document/d/1uH5vpyvL1rCLsmI14D3LIgUo2Q-0fCCdclOz2ZAk1Eg)
+    - Complete and submit [T05: Understanding OOD and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4/edit?usp=sharing)
+  - **Outside of class**
+    - Complete [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c) which is due before our next class. 
 
 ## Day 6: Monday, August 30, 2021
   - **In class**:
     - Quiz on [Chapter 1 on OOP](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70812)
-    - Virtual visit with [Kevin Messer](https://www.linkedin.com/in/kevinmesser/) a Berea Alumni who has had an illustrious career in the field of information technology. He also likes to help students find internships and polish their resumes. This visit relates to the "career theme" in this course.
+    - We had to postpone out virtual visit with [Kevin Messer](https://www.linkedin.com/in/kevinmesser/).
+    - Instead we began work on [T05: Understanding OOD and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4/edit?usp=sharing)
   - **Outside of class**
     - Milestone 2 for [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c) is due before our next class. 
     - Complete [A01: OOP Principles](https://docs.google.com/document/d/1uH5vpyvL1rCLsmI14D3LIgUo2Q-0fCCdclOz2ZAk1Eg) which is due before our next class.
