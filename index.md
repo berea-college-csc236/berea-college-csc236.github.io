@@ -10,7 +10,7 @@
     - Virtual visit with [Kevin Messer](https://www.linkedin.com/in/kevinmesser/) a Berea Alumni who has had an illustrious career in the field of information technology. He also likes to help students find internships and polish their resumes. This visit relates to the "career theme" in this course.
   - **Outside of class**
     - Milestone 2 for [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c) is due before our next class. 
-    - Complete [A01: OOP Principles](https://docs.google.com/document/d/1uH5vpyvL1rCLsmI14D3LIgUo2Q-0fCCdclOz2ZAk1Eg)
+    - Complete [A01: OOP Principles](https://docs.google.com/document/d/1uH5vpyvL1rCLsmI14D3LIgUo2Q-0fCCdclOz2ZAk1Eg) which is due before our next class.
 
 ## Day 5: Friday, August 27, 2021
   - **In class**:
