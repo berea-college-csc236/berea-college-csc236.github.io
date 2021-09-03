@@ -9,7 +9,7 @@
     - Complete and submit [T06: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag)
   - **Outside of class**
     - Read [Chapter 2 on Big O](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70813) in preparation for a reading quiz on Wednesday (yes, NOT Monday). Be sure you are logged in and do all activities to get credit!
-    - Start [L2: Virtual Pets]() which is due Monday, September 13 **this lab can be very long, Milestone 1 due Monday, September 7th!** 
+    - Start [L2: Virtual Pets]() which is due Monday, September 13 **this lab can be very long, Milestone 1 is due to be dubmitted to Moodle on Monday, September 7th!** 
 
 ## Day 7: Wednesday, September 1, 2021
   - **In class**:
