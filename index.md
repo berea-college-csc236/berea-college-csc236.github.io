@@ -3,14 +3,24 @@
 #### Berea College Fall 2021 Offering
 
 ---
+## Day 10: Wednesday, September 8, 2021
+  - **In class**:
+    - Quiz on [Chapter 2 on Big O](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70813) 
+    - Discuss [L2: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E)
+    - Complete and submit [T07: Big O and Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE)
+    - Complete and submit [T06: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag) to Friday
+  - **Outside of class**
+    - Read [Chapter 2 on Big O](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70813) in preparation for a reading quiz on Wednesday. **This is one of the most important topics in the entire course--you might try to find time to read it twice!** Be sure you are logged in and do all activities to get credit!
+
+
 ## Day 9: Monday, September 6, 2021
   - **In class**:
     - Discuss [L2: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E)
     - Start and Complete on [T07: Big O and Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE)
-    - We moved [T06: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag) to Friday
-
+    - We moved the due date of [T06: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag) to Friday.
   - **Outside of class**
     - Read [Chapter 2 on Big O](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70813) in preparation for a reading quiz on Wednesday. **This is one of the most important topics in the entire course--you might try to find time to read it twice!** Be sure you are logged in and do all activities to get credit!
+    - If you were not in class, complete all but the last question of [T07: Big O and Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE) before class on Wednesday, September 10, 2021.
 
 ## Day 8: Friday, September 3, 2021
   - **In class**:
