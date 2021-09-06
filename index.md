@@ -3,7 +3,7 @@
 #### Berea College Fall 2021 Offering
 
 ---
-## Day 9: Friday, September 6, 2021
+## Day 9: Monday, September 6, 2021
   - **In class**:
     - Discuss [L2: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E)
     - Complete and submit [T06: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag)
