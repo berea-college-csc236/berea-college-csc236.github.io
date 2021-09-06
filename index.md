@@ -10,7 +10,7 @@
     - Complete and submit [T07: Big O and Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE) in class.
     - Complete and submit [T06: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag) to Friday
   - **Outside of class**
-    - Comming soon...
+    - Coming soon...
 
 ## Day 9: Monday, September 6, 2021
   - **In class**:
