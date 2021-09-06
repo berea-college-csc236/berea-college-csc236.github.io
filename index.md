@@ -7,7 +7,7 @@
   - **In class**:
     - Quiz on [Chapter 2 on Big O](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70813) 
     - Discuss [L2: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E)
-    - Complete and submit [T07: Big O and Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE)
+    - Complete and submit [T07: Big O and Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE) in class.
     - Complete and submit [T06: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag) to Friday
   - **Outside of class**
     - Read [Chapter 2 on Big O](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70813) in preparation for a reading quiz on Wednesday. **This is one of the most important topics in the entire course--you might try to find time to read it twice!** Be sure you are logged in and do all activities to get credit!
