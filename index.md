@@ -6,11 +6,12 @@
 ## Day 10: Wednesday, September 8, 2021
   - **In class**:
     - Quiz on [Chapter 2 on Big O](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70813) 
-    - Discuss [L2: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E)
-    - Complete and submit [T07: Big O and Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE) in class.
-    - Complete and submit [T06: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag) to Friday
-  - **Outside of class**
-    - Coming soon...
+    - Discuss [L2: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) **due on Monday**
+    - Complete and submit [T07: Big O and Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE)
+    - Complete and submit [T06: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag)
+    - Start [T08: When does Big O matter?](https://docs.google.com/document/d/15YCNbR98lwzy7A-fVnoK_Kp-6wn4krgqF-fKXsla_CM)
+- **Outside of class**
+    - [A02: Programmer Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU) is due before class.
 
 ## Day 9: Monday, September 6, 2021
   - **In class**:
