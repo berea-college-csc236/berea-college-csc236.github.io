@@ -3,15 +3,23 @@
 #### Berea College Fall 2021 Offering
 
 ---
+## Day 11: Friday, September 10, 2021
+  - **In class**:
+    - Discuss [L2: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) **due on Monday**.
+    - Complete and submit [T06: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag)
+    - Start [T08: When does Big O matter?](https://docs.google.com/document/d/15YCNbR98lwzy7A-fVnoK_Kp-6wn4krgqF-fKXsla_CM)
+- **Outside of class**
+    - Complete and submit [L2: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) which is **due on Monday**.
+
 ## Day 10: Wednesday, September 8, 2021
   - **In class**:
     - Quiz on [Chapter 2 on Big O](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70813) 
     - Discuss [L2: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) **due on Monday**
     - Complete and submit [T07: Big O and Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE)
-    - Complete and submit [T06: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag)
     - Start [T08: When does Big O matter?](https://docs.google.com/document/d/15YCNbR98lwzy7A-fVnoK_Kp-6wn4krgqF-fKXsla_CM)
 - **Outside of class**
     - [A02: Programmer Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU) is due before class.
+    - [L2: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E): Make sincere attempt to complete everything, so you can come to class with questions. To meet this milestone, you must have written and pushed most of the code needed for completion to the repo. However, it might not yet be working.
 
 ## Day 9: Monday, September 6, 2021
   - **In class**:
