@@ -3,12 +3,21 @@
 #### Berea College Fall 2021 Offering
 
 ---
+## Day 12: Monday, September 13, 2021
+  - **In class**:
+    - Demos of [L2: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E)
+    - Complete [T09: When does Big O matter?](https://docs.google.com/document/d/15YCNbR98lwzy7A-fVnoK_Kp-6wn4krgqF-fKXsla_CM)
+    - Begin [T09: Planets Big O (and Θ)](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8/edit?usp=sharing)
+- **Outside of class**
+    - Begin [L3: Beetle Game]()
+    - Completeand submit [A03: How Long will this Take?](https://docs.google.com/document/d/1M4MeJeZsfn2DZwSCahKB0MT0ewoyBQZPrC6QDoBynMo/edit?usp=sharing)
+
 ## Day 11: Friday, September 10, 2021
   - **In class**:
     - Discussion of [A02: Programmer Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU)
     - Discuss [L2: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) **due on Monday**.
     - Complete and submit [T06: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag)
-    - Start [T08: When does Big O matter?](https://docs.google.com/document/d/15YCNbR98lwzy7A-fVnoK_Kp-6wn4krgqF-fKXsla_CM)
+    - Begin [T08: When does Big O matter?](https://docs.google.com/document/d/15YCNbR98lwzy7A-fVnoK_Kp-6wn4krgqF-fKXsla_CM)
 - **Outside of class**
     - Complete and submit [L2: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) which is **due on Monday**.
 
