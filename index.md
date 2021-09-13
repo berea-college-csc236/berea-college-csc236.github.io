@@ -10,7 +10,6 @@
     - Begin [T09: Planets Big O (and Θ)](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8/edit?usp=sharing)
 - **Outside of class**
     - Begin [L3: Beetle Game]()
-    - Completeand submit [A03: How Long will this Take?](https://docs.google.com/document/d/1M4MeJeZsfn2DZwSCahKB0MT0ewoyBQZPrC6QDoBynMo/edit?usp=sharing)
 
 ## Day 11: Friday, September 10, 2021
   - **In class**:
