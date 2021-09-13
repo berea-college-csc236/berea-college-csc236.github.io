@@ -9,7 +9,7 @@
     - Complete [T09: When does Big O matter?](https://docs.google.com/document/d/15YCNbR98lwzy7A-fVnoK_Kp-6wn4krgqF-fKXsla_CM)
     - Begin [T09: Planets Big O (and Θ)](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8/edit?usp=sharing)
 - **Outside of class**
-    - Begin [L3: Beetle Game]()
+    - Begin [L3: Beetle Game](https://docs.google.com/document/d/1Yu2WQmmSlGL-sfLgUtBifgoLCt3vFCO-IyYI01qD8Dw): Milestone 1 of the design document is due Wednesday!
 
 ## Day 11: Friday, September 10, 2021
   - **In class**:
