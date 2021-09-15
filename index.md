@@ -3,6 +3,13 @@
 #### Berea College Fall 2021 Offering
 
 ---
+## Day 13: Wednesday, September 15, 2021
+  - **In class**:
+    - Complete [T09: Planets Big O (and Θ)](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8/edit?usp=sharing)
+- **Outside of class**
+    - Continue [L3: Beetle Game](https://docs.google.com/document/d/1Yu2WQmmSlGL-sfLgUtBifgoLCt3vFCO-IyYI01qD8Dw): Milestone 2 of the design document is due Friday!
+    - Read [Chapter 3, section 3.1 to 3.9 on Stacks](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=78806) in preparation for a reading quiz on Friday. 
+
 ## Day 12: Monday, September 13, 2021
   - **In class**:
     - Demos of [L2: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E)
