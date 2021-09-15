@@ -8,7 +8,7 @@
     - Complete [T09: Planets Big O (and Θ)](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8/edit?usp=sharing)
 - **Outside of class**
     - Continue [L3: Beetle Game](https://docs.google.com/document/d/1Yu2WQmmSlGL-sfLgUtBifgoLCt3vFCO-IyYI01qD8Dw): Milestone 2 is due Friday!
-    - Read [Chapter 3, section 3.1 to 3.9 on Stacks](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=78806) in preparation for a reading quiz on Friday. 
+    - Read [Chapter 3, sections 3.1 to 3.9 on Stacks](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=78806) in preparation for a reading quiz on Friday. 
 
 ## Day 12: Monday, September 13, 2021
   - **In class**:
