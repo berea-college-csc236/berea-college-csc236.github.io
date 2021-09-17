@@ -10,7 +10,7 @@
     - Start and Complete [T10: How Long Will This Take?](https://docs.google.com/document/d/1_vzhbJdc5-bmYi1CLpMEgA7WM1c4wXH0EwFb_JOJPek)
 - **Outside of class**
     - Complete [L3: Beetle Game](https://docs.google.com/document/d/1Yu2WQmmSlGL-sfLgUtBifgoLCt3vFCO-IyYI01qD8Dw): Due Monday!
-    - Read [Chapter 3, sections 3.10 to 3.22 on Queues and Dequeues](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70814) in preparation for a reading quiz on Friday. 
+    - If you want to get ahead, read [Chapter 3, sections 3.10 to 3.22 on Queues and Dequeues](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70814) in preparation for a reading quiz on Wednesday. 
 
 ## Day 13: Wednesday, September 15, 2021
   - **In class**:
