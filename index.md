@@ -6,7 +6,6 @@
 ## Day 14: Friday, September 17, 2021
   - **In class**:
     - Quiz on [Chapter 3 Part 1 on Stacks](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=78806) 
-    - Complete [T09: Planets Big O (and Θ)](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8)
     - Start and Complete [T10: How Long Will This Take?](https://docs.google.com/document/d/1_vzhbJdc5-bmYi1CLpMEgA7WM1c4wXH0EwFb_JOJPek)
 - **Outside of class**
     - Complete [L3: Beetle Game](https://docs.google.com/document/d/1Yu2WQmmSlGL-sfLgUtBifgoLCt3vFCO-IyYI01qD8Dw): Due Monday!
