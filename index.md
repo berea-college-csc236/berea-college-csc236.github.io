@@ -3,6 +3,15 @@
 #### Berea College Fall 2021 Offering
 
 ---
+
+## Day 15: Monday, September 20, 2021
+  - **In class**:
+    - Demos of [L3: Beetle Game](https://docs.google.com/document/d/1Yu2WQmmSlGL-sfLgUtBifgoLCt3vFCO-IyYI01qD8Dw)
+    - Start [T11: Stacks, Queues, and Deques](...)
+- **Outside of class**
+    - Read [Chapter 3, sections 3.10 to 3.22 on Queues and Dequeues](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70814) in preparation for a reading quiz next time.
+    - Start [L4: The Game of War](...)
+
 ## Day 14: Friday, September 17, 2021
   - **In class**:
     - Quiz on [Chapter 3 Part 1 on Stacks](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=78806) 
