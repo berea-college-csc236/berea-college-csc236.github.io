@@ -7,10 +7,10 @@
 ## Day 15: Monday, September 20, 2021
   - **In class**:
     - Demos of [L3: Beetle Game](https://docs.google.com/document/d/1Yu2WQmmSlGL-sfLgUtBifgoLCt3vFCO-IyYI01qD8Dw)
-    - Start [T11: Stacks, Queues, and Deques](...)
+    - Start [T11: Stacks, Queues, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw)
 - **Outside of class**
     - Read [Chapter 3, sections 3.10 to 3.22 on Queues and Dequeues](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70814) in preparation for a reading quiz next time.
-    - Start [L4: The Game of War](...)
+    - Start [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8)
 
 ## Day 14: Friday, September 17, 2021
   - **In class**:
