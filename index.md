@@ -6,7 +6,7 @@
 
 ## Day 17: Friday, September 24, 2021
   - **In class**:
-    - Work on [TR1: Peerwise Review for E1](https://docs.google.com/document/d/1AKBUi_i1XsbP6Aidb5rqQifVveU4rQSpBK-pKVGy8Yc) - Complete it for Monday
+    - Work on [TR1: Peerwise Review for E1](https://docs.google.com/document/d/1AKBUi_i1XsbP6Aidb5rqQifVveU4rQSpBK-pKVGy8Yc) - Complete it for Monday, including the reviwew of your teammate's questions and  posting of approved questions to Peerwise.
 - **Outside of class**
     - Complete [TR1: Peerwise Review for E1](https://docs.google.com/document/d/1AKBUi_i1XsbP6Aidb5rqQifVveU4rQSpBK-pKVGy8Yc)
     - Continue [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) - Milestone 2 due Wednesday!
