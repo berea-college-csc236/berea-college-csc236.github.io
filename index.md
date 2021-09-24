@@ -4,7 +4,7 @@
 
 ---
 
-## Day 17: Wednesday, September 24, 2021
+## Day 17: Friday, September 24, 2021
   - **In class**:
     - Work on [TR1: Peerwise Review for E1](https://docs.google.com/document/d/1AKBUi_i1XsbP6Aidb5rqQifVveU4rQSpBK-pKVGy8Yc) - Complete it for Monday
 - **Outside of class**
