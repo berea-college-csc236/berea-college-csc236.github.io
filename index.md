@@ -11,6 +11,7 @@
     - Use the [Peerwise Rubric](https://docs.google.com/document/d/1f8Ll1vlP5A0x9qCZsmGD0AicmAHqzUZRPInNAWdPbdQ/edit?usp=sharing) when rating questions
     - Suggestions about studying for the exam
   - **Outside of class**
+    - Use the questions from Peerwise to study for the exam. **Come with questions on Wednesday!**
     - Continue [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) - Milestone 2 due Wednesday!
 
 ## Day 17: Friday, September 24, 2021
