@@ -3,6 +3,14 @@
 #### Berea College Fall 2021 Offering
 
 ---
+## Day 18: Monday, September 27, 2021
+  - **In class**:
+    - Questions about Peerwise
+    - Suggestions about studying for the exam
+    - Linked List Demonstration
+    - Complete [T12: introduction to Circular Linked Lists](https://docs.google.com/document/d/1uvElflLI-S0S3spkfCkquwi3ZgIEgM49vF9NeTPmN30)
+  - **Outside of class**
+    - Continue [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) - Milestone 2 due Wednesday!
 
 ## Day 17: Friday, September 24, 2021
   - **In class**:
