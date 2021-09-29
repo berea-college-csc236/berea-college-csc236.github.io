@@ -9,7 +9,7 @@
     - Complete [T12: introduction to Circular Linked Lists](https://docs.google.com/document/d/1uvElflLI-S0S3spkfCkquwi3ZgIEgM49vF9NeTPmN30)
   - **Outside of class**
     - Study for exam on Friday, October 1!
-    - Continue [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) - Final Implementation Due Monday!
+    - Continue [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) - Final Implementation Due Monday, October 4 (yes, this is during Reading Period)!
 
 ## Day 18: Monday, September 27, 2021
   - **In class**:
