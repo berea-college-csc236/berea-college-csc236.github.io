@@ -3,6 +3,13 @@
 #### Berea College Fall 2021 Offering
 
 ---
+## Day 20: Friday, September 29, 2021
+  - **In class**:
+    - Midterm Exam
+  - **Outside of class**
+    - Continue [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) - Final Implementation Due Monday, October 4 (yes, this is during Reading Period)!
+    - Quiz on [Chapter 4 on Linked Structures](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70817) on **Wednesday**
+
 ## Day 19: Wednesday, September 29, 2021
   - **In class**:
     - Some Q&A on questions for exam
