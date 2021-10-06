@@ -14,7 +14,7 @@
 
 ## Reding Period, No class: Monday, October 4, 2021
   - **Outside of class**:
-  - Submit L4: The Game of War - Final Implementation due today.
+    - Submit L4: The Game of War - Final Implementation due today.
     - Read [Chapter 4, Linked Structures](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70817) in preparation for a reading quiz on Wednesday, October 6, 2021 (after Reading Period)
 
 ## Day 20: Friday, October 1, 2021
