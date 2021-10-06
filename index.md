@@ -3,7 +3,7 @@
 #### Berea College Fall 2021 Offering
 
 ---
-## Day 20: Wednesday, October 6, 2021
+## Day 21: Wednesday, October 6, 2021
   - **In class**:
     - Q & A on text reading
     - Quiz on [Chapter 4, Linked Structures](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70817)
