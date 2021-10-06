@@ -7,7 +7,7 @@
   - **In class**:
     - Q & A on text reading
     - Quiz on [Chapter 4, Linked Structures](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70817)
-    - Begin [t13: Exploaring Linked Lists]()
+    - Begin [T13: Exploaring Linked Lists]()
   - **Outside of class**
     - Begin [L5: Binary Addition]() and submit the Google Doc L5: On Understanding the Codebase before our next class. 
     - Complete [A03: A Simple Introduction to Linked Lists]() which is due before our next class.
