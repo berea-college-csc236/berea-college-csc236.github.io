@@ -7,11 +7,19 @@
   - **In class**:
     - Q & A on text reading
     - Quiz on [Chapter 4, Linked Structures](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70817)
+    - Begin [t13: Exploaring Linked Lists]()
   - **Outside of class**
-    - Coming soon...
+    - Begin [L5: Binary Addition]() and submit the Google Doc L5: On Understanding the Codebase before our next class. 
+    - Complete [A03: A Simple Introduction to Linked Lists]() which is due before our next class.
 
 ## Reding Period, No class: Monday, October 4, 2021
   - **Outside of class**:
+    - Read [Chapter 4, Linked Structures](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70817) in preparation for a reading quiz on Wednesday, October 6, 2021 (after Reading Period)
+
+## Day 20: Friday, October 1, 2021
+  - **In class**:
+    - Exam E1
+  - **Outside of class**
     - Read [Chapter 4, Linked Structures](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70817) in preparation for a reading quiz on Wednesday, October 6, 2021 (after Reading Period)
 
 ## Day 19: Wednesday, September 29, 2021
