@@ -7,10 +7,10 @@
   - **In class**:
     - Q & A on text reading
     - Quiz on [Chapter 4, Linked Structures](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70817)
-    - Begin [T13: Exploaring Linked Lists]()
+    - Begin [T13: Exploaring Linked Lists](https://docs.google.com/document/d/1b4UHkIDdldDGyat5QdZ0FFzOFZKaubeOGuz-jsPR4I0)
   - **Outside of class**
-    - Begin [L5: Binary Addition]() and submit the Google Doc L5: On Understanding the Codebase before our next class. 
-    - Complete [A03: A Simple Introduction to Linked Lists]() which is due before our next class.
+    - Begin [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44) and submit the Milestone 1 section before our next class. 
+    - Complete [A03: A Simple Introduction to Linked Lists](https://docs.google.com/document/d/1r5316kQR2qmtEWYqUaPVcXp_yrIuPQV61RUAy_sj5KU) which is due before our next class.
 
 ## Reading Period, No class: Monday, October 4, 2021
   - **Outside of class**:
