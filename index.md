@@ -3,12 +3,16 @@
 #### Berea College Fall 2021 Offering
 
 ---
-## Day 20: Friday, September 29, 2021
+## Day 20: Wenesday, October 6, 2021
   - **In class**:
-    - Midterm Exam
+    - Q & A on text reading
+    - Quiz on [Chapter 4, Linked Structures](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70817)
   - **Outside of class**
-    - Continue [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) - Final Implementation Due Monday, October 4 (yes, this is during Reading Period)!
-    - Quiz on [Chapter 4 on Linked Structures](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70817) on **Wednesday**
+    - Coming soon...
+
+## Reding Period, No class: Monday, October 4, 2021
+  - **Outside of class**:
+    - Read [Chapter 4, Linked Structures](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70817) in preparation for a reading quiz on Wednesday, October 6, 2021 (after Reading Period)
 
 ## Day 19: Wednesday, September 29, 2021
   - **In class**:
@@ -17,6 +21,7 @@
   - **Outside of class**
     - Study for exam on Friday, October 1!
     - Continue [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) - Final Implementation Due Monday, October 4 (yes, this is during Reading Period)!
+    - Read [Chapter 4, Linked Structures](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70817) in preparation for a reading quiz on Wednesday, October 6, 2021 (after Reading Period)
 
 ## Day 18: Monday, September 27, 2021
   - **In class**:
