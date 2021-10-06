@@ -12,7 +12,7 @@
     - Begin [L5: Binary Addition]() and submit the Google Doc L5: On Understanding the Codebase before our next class. 
     - Complete [A03: A Simple Introduction to Linked Lists]() which is due before our next class.
 
-## Reding Period, No class: Monday, October 4, 2021
+## Reading Period, No class: Monday, October 4, 2021
   - **Outside of class**:
     - Submit [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) - Final implementation dis ue today.
     - Read [Chapter 4, Linked Structures](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70817) in preparation for a reading quiz on Wednesday, October 6, 2021 (after Reading Period)
