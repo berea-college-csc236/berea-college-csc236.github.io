@@ -3,6 +3,16 @@
 #### Berea College Fall 2021 Offering
 
 ---
+## Day 22: Friday, October 8, 2021
+  - **In class**:
+    - Discussion of midterm exam
+    - Discussion on [A03: A Simple Introduction to Linked Lists](https://docs.google.com/document/d/1r5316kQR2qmtEWYqUaPVcXp_yrIuPQV61RUAy_sj5KU)
+    - Complete [T13: Exploring Linked Lists](https://docs.google.com/document/d/1b4UHkIDdldDGyat5QdZ0FFzOFZKaubeOGuz-jsPR4I0)
+    - Start [T14: Circling Back to Circular Linked Lists](https://docs.google.com/document/d/18y3Y_DldzoHN8KqVbODXm2ojXxet3Xc1pAm9StJlt5k)
+  - **Outside of class**
+    - Continue to work on [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44): Milestone 2 is due on Wednesday!
+    - Complete [A04: Career Reflection and Resume](https://docs.google.com/document/d/1avfeQLvWTLkVHn7MhayzopEV31etJmGLZFsE8KE61dQ), which is due before our next class.
+
 ## Day 21: Wednesday, October 6, 2021
   - **In class**:
     - Q & A on text reading
