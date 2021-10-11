@@ -7,7 +7,7 @@
   - **In class**:
     - Discussion in [A04: Career Reflection and Resume](https://docs.google.com/document/d/1avfeQLvWTLkVHn7MhayzopEV31etJmGLZFsE8KE61dQ)
     - Continue [T14: Circling Back to Circular Linked Lists](https://docs.google.com/document/d/18y3Y_DldzoHN8KqVbODXm2ojXxet3Xc1pAm9StJlt5k)
-    - Visit by alumnus Kevin Messer at 2:00pm
+    - Visit by alumnus [Kevin Messer](https://www.linkedin.com/in/kevinmesser/) at 2:00pm
   - **Outside of class**
     - Continue to work on [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44): Milestone 2 is due on Wednesday!
     - Read [Chapter 5, Recursion](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70818) for a quiz on Friday
