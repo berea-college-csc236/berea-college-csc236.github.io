@@ -3,6 +3,15 @@
 #### Berea College Fall 2021 Offering
 
 ---
+## Day 24: Friday, October 15, 2021
+  - **In class**:
+    - Q & A on text reading
+    - Quiz on [Chapter 5, Recursion](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70818)
+    - Feedback about Kevin Messer's visit
+    - Complete or do optional work of [T14: Circling Back to Circular Linked Lists](https://docs.google.com/document/d/18y3Y_DldzoHN8KqVbODXm2ojXxet3Xc1pAm9StJlt5k)
+  - **Outside of class**
+    - Complete [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44)
+
 ## Day 23: Monday, October 11, 2021
   - **In class**:
     - Discussion in [A04: Career Reflection and Resume](https://docs.google.com/document/d/1avfeQLvWTLkVHn7MhayzopEV31etJmGLZFsE8KE61dQ)
