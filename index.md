@@ -3,6 +3,14 @@
 #### Berea College Fall 2021 Offering
 
 ---
+## Day 25: Monday, October 20, 2021
+  - **In class**:
+    - Present [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44)
+    - Start [T15: Exploring recursion](https://docs.google.com/document/d/1Qido7yr3NSrx052G3kqQze7PIEIRp9mlPBH3l5BRj5s)
+  - **Outside of class**
+    - Start [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)
+    - Complete [A05: Thinking Recursively](https://docs.google.com/document/d/1rLwgk3XXBBZx-rXkoq20jws50gtztj24NBz_M8b42VQ), which is due before our next class.
+
 ## Day 24: Friday, October 15, 2021
   - **In class**:
     - Q & A on text reading
@@ -11,6 +19,9 @@
     - Complete or do optional work of [T14: Circling Back to Circular Linked Lists](https://docs.google.com/document/d/18y3Y_DldzoHN8KqVbODXm2ojXxet3Xc1pAm9StJlt5k)
   - **Outside of class**
     - Complete [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44)
+
+## Mountain Day, No class: Wednesday, October 13, 2021
+    - Continue to work on [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44): Milestone 2 is due!
 
 ## Day 23: Monday, October 11, 2021
   - **In class**:
