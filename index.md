@@ -3,7 +3,15 @@
 #### Berea College Fall 2021 Offering
 
 ---
-## Day 25: Monday, October 20, 2021
+## Day 26: Monday, October 20, 2021
+  - **In class**:
+    - Discuss [A05: Thinking Recursively](https://docs.google.com/document/d/1rLwgk3XXBBZx-rXkoq20jws50gtztj24NBz_M8b42VQ)
+    - Complete [T15: Exploring recursion](https://docs.google.com/document/d/1Qido7yr3NSrx052G3kqQze7PIEIRp9mlPBH3l5BRj5s)
+    - Start [T16: Understanding recursion](https://docs.google.com/document/d/1Bte8UbQq7NSjy4XMJoEcrs8mtUgnt7jVgMQ12Eb7cmw)
+  - **Outside of class**
+    - Continue [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM), Milestone 1 is due Friday.
+
+## Day 25: Monday, October 18, 2021
   - **In class**:
     - Discuss [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44)
     - Start [T15: Exploring recursion](https://docs.google.com/document/d/1Qido7yr3NSrx052G3kqQze7PIEIRp9mlPBH3l5BRj5s)
