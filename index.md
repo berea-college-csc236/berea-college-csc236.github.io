@@ -9,6 +9,7 @@
     - Complete [T15: Exploring recursion](https://docs.google.com/document/d/1Qido7yr3NSrx052G3kqQze7PIEIRp9mlPBH3l5BRj5s)
     - Start [T16: Understanding recursion](https://docs.google.com/document/d/1Bte8UbQq7NSjy4XMJoEcrs8mtUgnt7jVgMQ12Eb7cmw)
   - **Outside of class**
+    - Read [Chapter 6, Search and Hashing](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70819) for a quiz on Friday
     - Continue [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM), Milestone 1 is due Friday.
 
 ## Day 25: Monday, October 18, 2021
