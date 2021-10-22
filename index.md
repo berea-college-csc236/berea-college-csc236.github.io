@@ -3,6 +3,16 @@
 #### Berea College Fall 2021 Offering
 
 ---
+## Day 27: Friday, October 22, 2021
+  - **In class**:
+    - Q & A on text reading
+    - Quiz on [Chapter 6, Search and Hashing](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70819) 
+    - Q & A on [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)
+    - Complete [T16: Understanding recursion](https://docs.google.com/document/d/1Bte8UbQq7NSjy4XMJoEcrs8mtUgnt7jVgMQ12Eb7cmw)
+    - Work on [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)
+  - **Outside of class**
+    - Continue [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM), Milestone 2 is due Monday. Make a sincere attempt to complete the basic algorithm as well as the required README components. To meet this milestone, you must have written and pushed the code needed for completion of the basic algorithm to the repo. However, the basic algorithm might not yet be complete working.
+
 ## Day 26: Wednesday, October 20, 2021
   - **In class**:
     - Discuss [A05: Thinking Recursively](https://docs.google.com/document/d/1rLwgk3XXBBZx-rXkoq20jws50gtztj24NBz_M8b42VQ)
