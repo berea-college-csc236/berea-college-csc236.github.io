@@ -3,6 +3,14 @@
 #### Berea College Fall 2021 Offering
 
 ---
+## Day 28: Monday, October 25, 2021
+  - **In class**:
+    - Q & A, and any demos/code review of [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)
+    - Complete [T17: Searching](https://docs.google.com/document/d/1tYBkApVgtJaTdGhd1KCYprnOyZyP5FyKvSmw5gcCa84)
+  - **Outside of class**
+    - Complete [A06: Codes and Teamwork](https://docs.google.com/document/d/1scfkIjI15XaE1W9O_lWpPv6ow0RdXd6Ue8UGGNuwULI), which is due before our next class.
+    - Continue [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM), Last stage is due Friday.
+
 ## Day 27: Friday, October 22, 2021
   - **In class**:
     - Q & A on text reading
