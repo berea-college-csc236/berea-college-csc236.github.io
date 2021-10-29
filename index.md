@@ -6,7 +6,7 @@
 ## Day 30: Friday, October 29, 2021
   - **In class**:
     - Demos of [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)
-    - discuss [A06: Codes and Teamwork](https://docs.google.com/document/d/1scfkIjI15XaE1W9O_lWpPv6ow0RdXd6Ue8UGGNuwULI)
+    - Discuss [A06: Codes and Teamwork](https://docs.google.com/document/d/1scfkIjI15XaE1W9O_lWpPv6ow0RdXd6Ue8UGGNuwULI)
     - Complete [T19: Hashing Collisions](https://docs.google.com/document/d/1LAYpzVOzkV2rSydtPBIJ14aQczKQHbne-F_YmyWpEkA/edit?usp=sharing)
   - **Outside of class**
     - Read [Chapter 7, Sorting](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70820) for a quiz on Monday
