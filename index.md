@@ -8,8 +8,8 @@
     - Q&A and Quiz on [Chapter 7, Sorting](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70820)
     - Begin and Complete [T20: Sorting](https://docs.google.com/document/d/1bUGZJNs8ARo3GyLqhumF-bL6slKTrzlZmAVF5RScjAI)
   - **Outside of class**
-    - [A07: Professional Story and Profile](https://docs.google.com/document/d/1-WQKoOoxGn9jCZHx53KMDSTMsKHS9f7KRehmgA1hye8) due on Wednesday.
-    - [Lab07: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw) due on Friday
+    - [A07: Professional Story and Profile](https://docs.google.com/document/d/1-WQKoOoxGn9jCZHx53KMDSTMsKHS9f7KRehmgA1hye8) which is due on Wednesday.
+    - Begin [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw) which is due on Monday, November 8, 2021.
     
 ## Day 30: Friday, October 29, 2021
   - **In class**:
