@@ -8,7 +8,7 @@
     - Discuss [A07: Professional Story and Profile](https://docs.google.com/document/d/1-WQKoOoxGn9jCZHx53KMDSTMsKHS9f7KRehmgA1hye8).
     - Discuss [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)
     - Complete [T20: Sorting](https://docs.google.com/document/d/1bUGZJNs8ARo3GyLqhumF-bL6slKTrzlZmAVF5RScjAI).
-    - If time allows, Start [T21: Recursive Sorts](https://docs.google.com/document/d/1Zvcu_nvpkPZfn4wDhPEM7ub96dj7vb0LB9lIly3DjZs).
+    - If time allows, Start [T21: Recursive Sorting](https://docs.google.com/document/d/1Zvcu_nvpkPZfn4wDhPEM7ub96dj7vb0LB9lIly3DjZs).
   - **Outside of class**
     - Read [Chapter 8, sections 8.1 - 8.9](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70822) for a quiz on Friday
     - Continue working on  [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw) which is due on Monday, November 8, 2021.
