@@ -5,7 +5,7 @@
 ---
 ## Day 33: Friday, November 5, 2021
   - **In class**:
-    - Q&A and Quiz on [Chapter 8, sections 8.1 - 8.9](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70821)
+    - <s>Q&A and Quiz on [Chapter 8, sections 8.1 - 8.9](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70821)</s> <strong>changed to Monday</strong>
     - Complete [T21: Recursive Sorting](https://docs.google.com/document/d/1Zvcu_nvpkPZfn4wDhPEM7ub96dj7vb0LB9lIly3DjZs).
     - If time allows, work on completing [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)
   - **Outside of class**
