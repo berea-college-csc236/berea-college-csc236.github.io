@@ -3,6 +3,16 @@
 #### Berea College Fall 2021 Offering
 
 ---
+
+## Day 34: Monday, November 8, 2021
+  - **In class**:
+    - Q&A and Quiz on [Chapter 8, sections 8.1 - 8.9](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70821)
+    - Discuss [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)
+    - Start [T22: Exploring Trees](https://docs.google.com/document/d/1t0mL8FmPE1f4IfV03tyQcT1FPfdepX37KHRBftUxSh0).
+  - **Outside of class**
+    - Read [Chapter 8, sections 8.10 - 8.23](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70822) for a quiz on Wednesday
+    - Begin [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0): Milestone 1 is due Friday
+
 ## Day 33: Friday, November 5, 2021
   - **In class**:
     - <s>Q&A and Quiz on [Chapter 8, sections 8.1 - 8.9](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70821)</s> <strong>changed to Monday</strong>
