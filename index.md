@@ -12,7 +12,7 @@
   - **Outside of class**
     - Complete [A08: Individual Review and Reflection](https://docs.google.com/document/d/1zS8jEGIKEUvBC1kr84Cs3AoqYIKnnklGyB4EowCDw2w) for Monday
     - Work on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0): Milestone 2 is due Wednesday
-    - **Announcement: Exam E2 will take place in class on Monday, November 22. Please make plans to attend class on that day!**
+  - **Announcement: Exam E2 will take place in class on Monday, November 22. Please make plans to attend class on that day!**
 
 ## Day 35: Wednesday, November 10, 2021
   - **In class**:
