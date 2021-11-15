@@ -4,6 +4,13 @@
 
 ---
 
+## Day 37: Monday, November 15, 2021
+  - **In class**:
+    - Complete [TR2: Peerwise Review for E2](https://docs.google.com/document/d/1tY3QpKNjqW3PR1YcbAGsV6HSbUT47bTv1EUx-sv6RwQ)
+  - **Outside of class**
+    - Work on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0): Milestone 2 is due Wednesday
+  - **Announcement: Exam E2 will take place in class on Monday, November 22. Please make plans to attend class on that day!**
+
 ## Day 36: Friday, November 12, 2021
   - **In class**:
     - Discuss [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0)
