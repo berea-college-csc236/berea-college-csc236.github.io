@@ -8,7 +8,8 @@
   - **In class**:
     - Q & A and Quiz on [Chapter 9](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70823)
     - Q & A on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0)
-    - Refine questions before uploading to PeerWise [TR2: Peerwise Review for E2](https://docs.google.com/document/d/1tY3QpKNjqW3PR1YcbAGsV6HSbUT47bTv1EUx-sv6RwQ)
+    - Refine questions before uploading to PeerWise [TR2: Peerwise Review for E2](https://docs.google.com/document/d/1tY3QpKNjqW3PR1YcbAGsV6HSbUT47bTv1EUx-sv6RwQ). 
+    - These revised must be entered into [Peerwise](https://peerwise.cs.auckland.ac.nz/) before the end of class today. Use the course 23859.
   - **Outside of class**
     - Complete [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0) for Friday
   - **Announcements**
