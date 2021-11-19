@@ -4,6 +4,17 @@
 
 ---
 
+## Day 39: Friday, November 19, 2021
+  - **In class**:
+    - Demo of [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0)
+    - Complete [T25: Graphs and Games](https://docs.google.com/document/d/1f6duxJ7uzhB9csKBSYvWtnX9K_79h-9ML_fe2Z87G0A)
+    - Launch of Final Project: [Final Project Requirements](https://docs.google.com/document/d/15JyajlDZ2-LW9KPa-DKm5LZSXBN10lFX6OzK4ryG4uA)
+    - Complete [FP: Initial Project Planning](https://docs.google.com/document/d/1byMsKfTPPEGO4eGSdHohAxkCYRKO1tHqb0Bd7eghFlg)
+  - **Outside of class**
+    - Work on tasks assigned to you from the [FP1: Initial Project Planning](https://docs.google.com/document/d/1byMsKfTPPEGO4eGSdHohAxkCYRKO1tHqb0Bd7eghFlg) for Monday, November 29th
+    - Study for Exam E2 for Monday, November 22. Please make plans to attend class on that day!
+    - Virtual Alumni Homecoming Panel on Saturday at 1:00pm, DT Room 108A
+
 ## Day 38: Wednesday, November 17, 2021
   - **In class**:
     - Q & A and Quiz on [Chapter 9](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70823)
