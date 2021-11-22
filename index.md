@@ -4,6 +4,12 @@
 
 ---
 
+## Day 40: Monday, November 22, 2021
+  - **In class**:
+    - Exam E2
+  - **Outside of class**
+    - Work on tasks assigned to you from the [FP1: Initial Project Planning](https://docs.google.com/document/d/1byMsKfTPPEGO4eGSdHohAxkCYRKO1tHqb0Bd7eghFlg) for Monday, November 29th
+
 ## Day 39: Friday, November 19, 2021
   - **In class**:
     - Demo of [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0)
