@@ -10,7 +10,7 @@
     - Complete [FP2: Planning and Preliminary Video Script](https://docs.google.com/document/d/16lsG7uJKPY1XXHka3-KP-7GiviBg2ePTxUKma_bg7lk) - assign tasks for Dec. 1st.
   - **Outside of class**
     - Work on tasks assigned to you from [FP2: Planning and Preliminary Video Script](https://docs.google.com/document/d/16lsG7uJKPY1XXHka3-KP-7GiviBg2ePTxUKma_bg7lk) for Wednesday.
-    - Complete [A09: A09: Considering Diversity here and in the Workplace](https://docs.google.com/document/d/1GgQ0yrnytucqukz-ypOvNld4sJ4c4UNH_IkJkh3046Y) for Wednesday
+    - Complete [A09: Considering Diversity here and in the Workplace](https://docs.google.com/document/d/1GgQ0yrnytucqukz-ypOvNld4sJ4c4UNH_IkJkh3046Y) for Wednesday
 
 ## Day 40: Monday, November 22, 2021
   - **In class**:
