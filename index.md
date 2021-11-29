@@ -4,6 +4,14 @@
 
 ---
 
+## Day 41: Monday, November 29, 2021
+  - **In class**:
+    - Complete [T25: Graphs and Games](https://docs.google.com/document/d/1f6duxJ7uzhB9csKBSYvWtnX9K_79h-9ML_fe2Z87G0A) - to finish by 2:00pm
+    - Complete [FP2: Planning and Preliminary Video Script](https://docs.google.com/document/d/16lsG7uJKPY1XXHka3-KP-7GiviBg2ePTxUKma_bg7lk) - assign tasks for Dec. 1st.
+  - **Outside of class**
+    - Work on tasks assigned to you from [FP2: Planning and Preliminary Video Script](https://docs.google.com/document/d/16lsG7uJKPY1XXHka3-KP-7GiviBg2ePTxUKma_bg7lk) for Wednesday.
+    - Complete [A09: A09: Considering Diversity here and in the Workplace](https://docs.google.com/document/d/1GgQ0yrnytucqukz-ypOvNld4sJ4c4UNH_IkJkh3046Y) for Wednesday
+
 ## Day 40: Monday, November 22, 2021
   - **In class**:
     - Exam E2
@@ -15,7 +23,7 @@
     - Demo of [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0)
     - Start [T25: Graphs and Games](https://docs.google.com/document/d/1f6duxJ7uzhB9csKBSYvWtnX9K_79h-9ML_fe2Z87G0A) - to finish by 2:00pm on Nov. 29th
     - Launch of Final Project: [Final Project Requirements](https://docs.google.com/document/d/15JyajlDZ2-LW9KPa-DKm5LZSXBN10lFX6OzK4ryG4uA)
-    - Start [FP: Initial Project Planning](https://docs.google.com/document/d/1byMsKfTPPEGO4eGSdHohAxkCYRKO1tHqb0Bd7eghFlg) - assign tasks for Nov. 29th.
+    - Start [FP1: Initial Project Planning](https://docs.google.com/document/d/1byMsKfTPPEGO4eGSdHohAxkCYRKO1tHqb0Bd7eghFlg) - assign tasks for Nov. 29th.
   - **Outside of class**
     - Work on tasks assigned to you from the [FP1: Initial Project Planning](https://docs.google.com/document/d/1byMsKfTPPEGO4eGSdHohAxkCYRKO1tHqb0Bd7eghFlg) for Monday, November 29th
     - Study for Exam E2 for Monday, November 22. Please make plans to attend class on that day!
