@@ -4,6 +4,13 @@
 
 ---
 
+## Day 43: Wednesday, December 1, 2021
+  - **In class**:
+    - Questions on [A09: Considering Diversity here and in the Workplace](https://docs.google.com/document/d/1GgQ0yrnytucqukz-ypOvNld4sJ4c4UNH_IkJkh3046Y)
+    - Complete [FP3: Final Project Big O Analysis](https://docs.google.com/document/d/1RWkZEl1XNMVA-PfnAdD9Teip1oirXtkDnU_vtboWloA) - assign tasks for Dec. 3rd.
+  - **Outside of class**
+    - Work on tasks assigned to you from [FP3: Final Project Big O Analysis](https://docs.google.com/document/d/1RWkZEl1XNMVA-PfnAdD9Teip1oirXtkDnU_vtboWloA).
+
 ## Day 41: Monday, November 29, 2021
   - **In class**:
     - Complete [T25: Graphs and Games](https://docs.google.com/document/d/1f6duxJ7uzhB9csKBSYvWtnX9K_79h-9ML_fe2Z87G0A) - to finish by 2:00pm
