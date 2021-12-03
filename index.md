@@ -7,6 +7,7 @@
 ## Day 44: Friday, December 3, 2021
   - **In class**:
     - Work on your video script, updating [FP2: Planning and Preliminary Video Script](https://docs.google.com/document/d/16lsG7uJKPY1XXHka3-KP-7GiviBg2ePTxUKma_bg7lk) as necessary.
+    - Complete [FP3: Final Project Big O Analysis](https://docs.google.com/document/d/1RWkZEl1XNMVA-PfnAdD9Teip1oirXtkDnU_vtboWloA)
   - **Outside of class**
     - Work on script and video 
     - Complete [FP4: Final Project Link to Video and Final Transcript](https://docs.google.com/document/d/17YmTJYWzVriYggUipkHsSzqzFxamCTT3BZWiE0dA2s0) by Wednesday, Dec 8th.
