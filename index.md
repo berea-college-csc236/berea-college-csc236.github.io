@@ -4,6 +4,13 @@
 
 ---
 
+## Day 44: Friday, December 3, 2021
+  - **In class**:
+    - Work on your video script, updating [FP2: Planning and Preliminary Video Script](https://docs.google.com/document/d/16lsG7uJKPY1XXHka3-KP-7GiviBg2ePTxUKma_bg7lk) as necessary.
+  - **Outside of class**
+    - Work on script and video 
+    - Complete [FP4: Final Project Link to Video and Final Transcript](https://docs.google.com/document/d/17YmTJYWzVriYggUipkHsSzqzFxamCTT3BZWiE0dA2s0) by Wednesday, Dec 8th.
+
 ## Day 43: Wednesday, December 1, 2021
   - **In class**:
     - Questions on [A09: Considering Diversity here and in the Workplace](https://docs.google.com/document/d/1GgQ0yrnytucqukz-ypOvNld4sJ4c4UNH_IkJkh3046Y)
