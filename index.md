@@ -10,7 +10,8 @@
     - Complete [FP3: Final Project Big O Analysis](https://docs.google.com/document/d/1RWkZEl1XNMVA-PfnAdD9Teip1oirXtkDnU_vtboWloA)
   - **Outside of class**
     - Work on script and video 
-    - Complete [FP4: Final Project Link to Video and Final Transcript](https://docs.google.com/document/d/17YmTJYWzVriYggUipkHsSzqzFxamCTT3BZWiE0dA2s0) by Wednesday, Dec 8th.
+    - Complete [FP4: Final Project Link to Video and Final Transcript](https://docs.google.com/document/d/17YmTJYWzVriYggUipkHsSzqzFxamCTT3BZWiE0dA2s0) by **Midnight**, Wednesday, Dec 8th.
+    - Remember to come to Final Period time, ***Thursday, Dec 9th*** at 8:30am to present your videos!
 
 ## Day 43: Wednesday, December 1, 2021
   - **In class**:
