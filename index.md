@@ -6,7 +6,7 @@
 
 ## Day 45: Thursday, 9, 2021
   - **In class**
-    - (Project Videos)[https://www.youtube.com/playlist?list=PLDdBC-S25y3qEqpvc8pZ1sgrU8zzHrClC]
+    - [Project Videos](https://www.youtube.com/playlist?list=PLDdBC-S25y3qEqpvc8pZ1sgrU8zzHrClC)
 
 ## Day 44: Friday, December 3, 2021
   - **In class**:
