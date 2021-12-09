@@ -4,6 +4,10 @@
 
 ---
 
+## Day 45: Thursday, 9, 2021
+  - **In class**
+    - (Project Videos)[https://www.youtube.com/playlist?list=PLDdBC-S25y3qEqpvc8pZ1sgrU8zzHrClC]
+
 ## Day 44: Friday, December 3, 2021
   - **In class**:
     - Work on your video script, updating [FP2: Planning and Preliminary Video Script](https://docs.google.com/document/d/16lsG7uJKPY1XXHka3-KP-7GiviBg2ePTxUKma_bg7lk) as necessary.
