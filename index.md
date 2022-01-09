@@ -20,6 +20,7 @@
     3. Set-up your Required IDE (this will take some time!)
     4. Read the syllabus to understand the course structure
     5. Sign up for our text **Berea-S22-csc236-1**, and read Chapter 1 [C++ for Python Programmers](https://runestone.academy/assignments/doAssignment?assignment_id=92012) in preparation for a reading quiz.
+    6. Introduce yourself to the class and the TAs on Slack
     
 ---
 ###### Copyright © 2022 | Licensed under a Creative Commons Attribution-Share Alike 3.0 United States License
