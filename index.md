@@ -14,9 +14,12 @@
     - Discussion of course: content, texts, syllabus, flow, etc
     - Sign up for Text1: [C++ for Python Programmers](https://runestone.academy). Be sure to create a login using your Berea email and username and then sign-up for the book Berea-S22-csc236-1.
   - **Outside of class** (due before class on Friday):
-    - Follow [A00:Getting Started](https://docs.google.com/document/d/12iJBToSMk2A1n2mSdAmwKnFEpFVlnLz73ulsyt0htNM/edit?usp=sharing) and submit to Moodle.
-    - A01: Read the [course syllabus](https://docs.google.com/document/d/1Imf6aX7ytJAIsAUYsTcDef_ZnTFriFDr3Qy5tMuxq_g/edit?usp=sharing) and post your 1-2 paragraph introduction on Slack.
-    - Read Chapter 1 in [C++ for Python Programmers](https://runestone.academy/assignments/doAssignment?assignment_id=92012) in preparation for a reading quiz.
- 
+    - Follow [A01:Getting Started](https://docs.google.com/document/d/12iJBToSMk2A1n2mSdAmwKnFEpFVlnLz73ulsyt0htNM/edit?usp=sharing) and submit to Moodle. Note that there are 6 tasks, some of which will take some time:
+    1. Help us get to know you better
+    2. Connect Data Sructures to Career
+    3. Set-up your Required IDE (this will take some time!)
+    4. Read the syllabus to understand the course structure
+    5. Sign up for our text and read Chapter 1 [C++ for Python Programmers](https://runestone.academy/assignments/doAssignment?assignment_id=92012) in preparation for a reading quiz.
+    
 ---
 ###### Copyright © 2022 | Licensed under a Creative Commons Attribution-Share Alike 3.0 United States License
