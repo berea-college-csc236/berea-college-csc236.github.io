@@ -6,13 +6,15 @@
 
 ## Day 1: Wednesday, January 12, 2022
   - **In class**:
-    - Welcome
-    - Icebreaker
-    - What is data strctures about and what is it not about
+    - Welcome!
+    - List all of the data structures you used in Python
+    - What is data structures about? And what is it NOT about?
+    - Discussion of my textbook journey
     - ![old style car radio tuner](radiotuner.jpg "old style car radio tuner")
     - ![TV remote](remote.jpg "TV remoter")
     - Discussion of course: content, texts, syllabus, flow, etc
     - Sign up for Text1: [C++ for Python Programmers](https://runestone.academy). Be sure to create a login using your Berea email and username and then sign-up for the book Berea-S22-csc236-1.
+    - Data structures game
   - **Outside of class** (all due by 8 am on Friday):
     - Follow [A01:Getting Started](https://docs.google.com/document/d/12iJBToSMk2A1n2mSdAmwKnFEpFVlnLz73ulsyt0htNM/edit?usp=sharing) and submit to Moodle. Note that there are 6 tasks, some of which will take some time:
     1. Help us get to know you better
