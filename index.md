@@ -13,7 +13,7 @@
     - ![old style car radio tuner](radiotuner.jpg "old style car radio tuner")
     - ![TV remote](remote.jpg "TV remoter")
     - Discussion of course: content, texts, syllabus, flow, etc
-    - Sign up for Text1: [C++ for Python Programmers](https://runestone.academy). Be sure to create a login using your Berea email and username and then sign-up for the book Berea-S22-csc236-1.
+    - Sign up for Text1: [C++ for Python Programmers](https://runestone.academy). Be sure to use (or make) the login from your Berea email and Berea username and then sign-up for the book Berea-S22-csc236-1. (Note that the account you used in CSC 226 should be fine.)
     - Data structures game
   - **Outside of class** (all due by 8 am on Friday):
     - Follow [A01:Getting Started](https://docs.google.com/document/d/12iJBToSMk2A1n2mSdAmwKnFEpFVlnLz73ulsyt0htNM/edit?usp=sharing) and submit to Moodle. Note that there are 6 tasks, some of which will take some time:
