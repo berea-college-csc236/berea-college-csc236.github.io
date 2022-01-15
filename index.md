@@ -4,6 +4,9 @@
 
 ---
 
+## No classes: Monday, January 17, 2022
+  - **no classes - enjoy the MLK Holiday**:
+
 ## Day 2: Friday, January 14, 2022
   - **In class**:
     - Debrief of word game and algorithns/data structures
