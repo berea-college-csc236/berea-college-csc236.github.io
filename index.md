@@ -4,6 +4,16 @@
 
 ---
 
+## Day 4: Friday, January 21, 2022
+  - **In class**:
+    - ASCII Art Show!
+    - ~~Quiz on [Chapters 4 and 5 of C++ for Python Programmers]()~~ Cancelled (Required reading NOT cancelled!)
+    - Complete and submit [Teamwork T03](https://docs.google.com/document/d/1T0BS2SzKxoOXg_EpfDCpFd8UG219_Jbqzl8W1kogtcc).
+  - **Outside of class**
+    - Read [Chapters 6, 7 and 8 in C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=93535) Be sure you are logged in and do all activities to get credit!
+    - Be prepared for a double-length quiz on chapters 1-8 on Monday (Yes, that's the entire book.)
+   
+
 ## Day 3: Wednesday, January 19, 2022
   - **In class**:
     - ~~Quiz on [Chapters 2 and 3 of C++ for Python Programmers](hhttps://runestone.academy/runestone/assignments/doAssignment?assignment_id=92789)~~ Quiz Cancelled (Required reading NOT cancelled!)
