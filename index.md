@@ -19,7 +19,7 @@
     - ~~Quiz on [Chapters 2 and 3 of C++ for Python Programmers](hhttps://runestone.academy/runestone/assignments/doAssignment?assignment_id=92789)~~ Quiz Cancelled (Required reading NOT cancelled!)
     - Complete and submit [Teamwork T02](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ/edit?usp=sharing). This is due on Monday.
   - **Outside of class** (due by 8 am on Friday):
-    - Read [Chapters 4 and 5 in C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=93534). Be sure you are logged in and do all activities to get credit!
+    - Read [Chapters 2 and 3 in C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=93534). Be sure you are logged in and do all activities to get credit!
     - Continue [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8/edit?usp=sharing). This is an individual Lab. The first milestone was due today. The full lab is due Friday, January 21, 2022.
     
 ## No classes: Monday, January 17, 2022
