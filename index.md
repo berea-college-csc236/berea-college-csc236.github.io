@@ -11,13 +11,13 @@
     - Complete and submit [Teamwork T03](https://docs.google.com/document/d/1T0BS2SzKxoOXg_EpfDCpFd8UG219_Jbqzl8W1kogtcc).
   - **Outside of class**
     - Read [Chapters 6, 7 and 8 in C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=93535) Be sure you are logged in and do all activities to get credit!
-    - Be prepared for a double-length quiz on chapters 1-8 on Monday (Yes, that's the entire book.)
+    - **Be prepared for a double-length quiz on chapters 1-8 on Monday (Yes, that's the entire C++ book.)** We will really have this!
+    - Start [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c). This is an individual lab that has Milestone 1 due on Wednesday, January 26 and the full lab due on Friday, January 28.
    
-
 ## Day 3: Wednesday, January 19, 2022
   - **In class**:
     - ~~Quiz on [Chapters 2 and 3 of C++ for Python Programmers](hhttps://runestone.academy/runestone/assignments/doAssignment?assignment_id=92789)~~ Quiz Cancelled (Required reading NOT cancelled!)
-    - Complete and submit [Teamwork T02](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ/edit?usp=sharing). This is due on Monday.
+    - Begin [Teamwork T02](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ/edit?usp=sharing). This is due on Wednesday.
   - **Outside of class** (due by 8 am on Friday):
     - Read [Chapters 4 and 5 in C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=93534). Be sure you are logged in and do all activities to get credit!
     - Continue [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8/edit?usp=sharing). This is an individual Lab. The first milestone was due today. The full lab is due Friday, January 21, 2022.
