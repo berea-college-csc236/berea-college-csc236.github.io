@@ -4,6 +4,14 @@
 
 ---
 
+## Day 5: Monday, January 24, 2022
+  - **In class**:
+    - Quiz Q0A and Q0B on entire C++ textbook
+    - Begin [Teamwork T04](https://docs.google.com/document/d/19PSMP2Mwxs5qKD3p54ebrk3Dnb4n7x6KgjU02vLdlJI).
+  - **Outside of class**
+    - Read [Chapter 1 on OOP](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70812) in preparation for a reading quiz next time. Be sure you are logged in and do all activities to get credit!
+    - Continue [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c). This is an individual lab that has a milestone on Wednesday THe full lab is due on Friday. 
+
 ## Day 4: Friday, January 21, 2022
   - **In class**:
     - ASCII Art Show!
