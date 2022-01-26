@@ -5,7 +5,9 @@
 ---
 ## Day 6: Wednesday, January 26, 2022
   - **In class**:
-    - Quiz on [Chapter 1 on OOP](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=93807)
+    - Discussion of OOP
+    - Quiz on [Chapter 1 on OOP](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=93807).
+    - Complete and submit [Teamwork T04](https://docs.google.com/document/d/19PSMP2Mwxs5qKD3p54ebrk3Dnb4n7x6KgjU02vLdlJI).
     - Begin [T05: Understanding OOD and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4/edit?usp=sharing)
   - **Outside of class**
     - Final completion of [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c) is due by 8 am Friday. Be sure to make your final commits and also submit the link to your repo.
