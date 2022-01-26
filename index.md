@@ -3,14 +3,22 @@
 #### Berea College Spring 2022 Offering
 
 ---
+## Day 6: Wednesday, January 26, 2022
+  - **In class**:
+    - Quiz on [Chapter 1 on OOP](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=93807)
+    - Begin [T05: Understanding OOD and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4/edit?usp=sharing)
+  - **Outside of class**
+    - Final completion of [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c) is due by 8 am Friday. Be sure to make your final commits and also submit the link to your repo.
+    - Begin [A01: OOP Principles](https://docs.google.com/document/d/1uH5vpyvL1rCLsmI14D3LIgUo2Q-0fCCdclOz2ZAk1Eg) which is due by Monday at 8 am.
+
 
 ## Day 5: Monday, January 24, 2022
   - **In class**:
     - Quiz Q0A and Q0B on entire C++ textbook
     - Begin [Teamwork T04](https://docs.google.com/document/d/19PSMP2Mwxs5qKD3p54ebrk3Dnb4n7x6KgjU02vLdlJI).
   - **Outside of class**
-    - Read [Chapter 1 on OOP](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=70812) in preparation for a reading quiz next time. Be sure you are logged in and do all activities to get credit!
-    - Continue [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c). This is an individual lab that has a milestone on Wednesday THe full lab is due on Friday. 
+    - Read [Chapter 1 on OOP](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=93807) in preparation for a reading quiz next time. Be sure you are logged in and do all activities to get credit!
+    - Continue [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c). This is an individual lab that has a milestone on Wednesday The full lab is due on Friday. 
 
 ## Day 4: Friday, January 21, 2022
   - **In class**:
@@ -29,7 +37,7 @@
     - Begin [Teamwork T02](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ/edit?usp=sharing). This is due on Monday.
   - **Outside of class** (due by 8 am on Friday):
     - Read [Chapters 4 and 5 in C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=93534). Be sure you are logged in and do all activities to get credit!
-    - Continue [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8/edit?usp=sharing). This is an individual Lab. The first milestone was due today. The full lab is due Friday, January 21, 2022.
+    - Continue [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8/edit?usp=sharing). This is an individual Lab. The first milestone was due today. The full lab is due Friday, January 21, 2022.  Be sure to make your final commits and also submit the link to your repo.
     
 ## No classes: Monday, January 17, 2022
   - **no classes - enjoy the MLK Holiday**:
