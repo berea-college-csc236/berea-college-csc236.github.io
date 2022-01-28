@@ -6,9 +6,10 @@
 ## Day 7: Friday, January 28, 2022
   - **In class**:
     - Art Show on L1!
-    - Complete and submit [T05: Understanding OOD and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4/edit?usp=sharing)
+    - Begin [T05: Understanding OOD and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4/edit?usp=sharing)
   - **Outside of class**
     - Complete and submit [A01: OOP Principles](https://docs.google.com/document/d/1uH5vpyvL1rCLsmI14D3LIgUo2Q-0fCCdclOz2ZAk1Eg) which is due by Monday at 8 am.
+    - Start [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing). This is an individual lab that has Milestone 1 due on Wednesday, February 2 and the full lab due on Friday, February 4.
 
 ## Day 6: Wednesday, January 26, 2022
   - **In class**:
