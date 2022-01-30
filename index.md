@@ -3,6 +3,15 @@
 #### Berea College Spring 2022 Offering
 
 ---
+
+## Day 8: Monday, January 31, 2022
+  - **In class**:
+    - Cmplete and submit [T05: Understanding OOD and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4/edit?usp=sharing)
+    - Begin [T06: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag)
+  - **Outside of class**
+    - Read [Chapter 2 on Big O](https://runestone.academy/runestone/assignments/) in preparation for a reading quiz on Wednesday. **This is one of the most important topics in the entire course--you might try to find time to read it twice!** Be sure you are logged in and do all activities to get credit!
+    - Continue [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing). This is an individual lab that has Milestone 1 due on Wednesday, February 2 and the full lab due on Friday, February 4.
+
 ## Day 7: Friday, January 28, 2022
   - **In class**:
     - Art Show on L1!
