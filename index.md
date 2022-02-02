@@ -6,7 +6,7 @@
 
 ## Day 9: Wednesday, February 2, 2022
   - **In class**:
-    - Quiz on Reading [Chapter 2 on Big O](https://runestone.academy/runestone/assignments/) 
+    - Quiz on Reading [Chapter 2 on Big O](https://runestone.academy/runestone/assignments/chooseAssignment.html) 
     - Complete [T06: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag)
   - **Outside of class**
     - Complete [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing) which is due on Friday, February 4.
@@ -15,7 +15,7 @@
   - **In class**:
     - Complete and submit [T05: Understanding OOD and ADTs](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=94763)
   - **Outside of class**
-    - Read [Chapter 2 on Big O](https://runestone.academy/runestone/assignments/) in preparation for a reading quiz on Wednesday. **This is one of the most important topics in the entire course--you might try to find time to read it twice!** Be sure you are logged in and do all activities to get credit!
+    - Read [Chapter 2 on Big O](https://runestone.academy/runestone/assignments/chooseAssignment.html) in preparation for a reading quiz on Wednesday. **This is one of the most important topics in the entire course--you might try to find time to read it twice!** Be sure you are logged in and do all activities to get credit!
     - Continue [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing). This is an individual lab that has Milestone 1 due on Wednesday, February 2 and the full lab due on Friday, February 4.
 
 ## Day 7: Friday, January 28, 2022
