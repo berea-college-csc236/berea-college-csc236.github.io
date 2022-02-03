@@ -4,9 +4,18 @@
 
 ---
 
+## Day 10: Friday, February 4, 2022
+  - **In class**:
+    - Discussion on [A02: Programmer Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU)
+    - Questions on  [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing)
+    - Complete and submit [T06: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag)
+  - **Outside of class**
+    - Complete and submit [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing) which has been extended to Monday, February 7.
+
 ## Day 9: Wednesday, February 2, 2022
   - **In class**:
     - Quiz on Reading [Chapter 2 on Big O](https://runestone.academy/runestone/assignments/chooseAssignment.html) 
+    - Questions on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing)
     - Begin [T06: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag)
   - **Outside of class**
     - Continue [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing) which has been extended to Monday, February 7.
@@ -14,6 +23,7 @@
 
 ## Day 8: Monday, January 31, 2022
   - **In class**:
+    - Questions on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing)
     - Complete and submit [T05: Understanding OOD and ADTs](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=94763)
   - **Outside of class**
     - Read [Chapter 2 on Big O](https://runestone.academy/runestone/assignments/chooseAssignment.html) in preparation for a reading quiz on Wednesday. **This is one of the most important topics in the entire course--you might try to find time to read it twice!** Be sure you are logged in and do all activities to get credit!
