@@ -9,6 +9,7 @@
     - Quiz on [Sections 3.1-3.9 in our Data Structures textbook](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=96389) 
     - Questions on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E/edit?usp=sharing)
     - Complete and submit [T09: How Long Will This Take?](https://docs.google.com/document/d/1_vzhbJdc5-bmYi1CLpMEgA7WM1c4wXH0EwFb_JOJPek/edit?usp=sharing)
+    - Begin [T10: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8/edit?usp=sharing)
   - **Outside of class**
     - The second milestone of [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E/edit?usp=sharing) should be completed by 8 am Monday.
 
