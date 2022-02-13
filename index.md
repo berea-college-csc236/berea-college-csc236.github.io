@@ -10,7 +10,7 @@
     - Complete and submit[T10: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8/edit?usp=sharing)
   - **Outside of class**
     - Continute working on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E/edit?usp=sharing) which is due Friday.
-    - Read [Sections 3.10-3.22 in our Data Structures textbook](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=96407) in preparation for a reading quiznext time.
+    - Read [Sections 3.10-3.22 in our Data Structures textbook](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=96407) in preparation for a reading quiz next time.
 
 ## Day 13: Friday, February 11, 2022
   - **In class**:
