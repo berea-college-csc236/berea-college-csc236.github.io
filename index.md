@@ -4,6 +4,14 @@
 
 ---
 
+## Day 14: Monday, February 14, 2022, Happy Valentine's Day!
+  - **In class**:
+    - Questions on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E/edit?usp=sharing) which had Milestone 2 Due by 8 am this morning.
+    - Complete and submit[T10: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8/edit?usp=sharing)
+  - **Outside of class**
+    - Continute working on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E/edit?usp=sharing) which is due Friday.
+    - Read [Sections 3.10-3.22 in our Data Structures textbook](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=96407) in preparation for a reading quiznext time.
+
 ## Day 13: Friday, February 11, 2022
   - **In class**:
     - Quiz on [Sections 3.1-3.9 in our Data Structures textbook](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=96389) 
@@ -11,6 +19,7 @@
     - Complete and submit [T09: How Long Will This Take?](https://docs.google.com/document/d/1_vzhbJdc5-bmYi1CLpMEgA7WM1c4wXH0EwFb_JOJPek/edit?usp=sharing)
     - Begin [T10: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8/edit?usp=sharing)
   - **Outside of class**
+    - Read [Sections 3.1-3.9 in our Data Structures textbook](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=96389) in preparation for a reading quiz.
     - The second milestone of [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E/edit?usp=sharing) should be completed by 8 am Monday.
 
 ## Day 12: Wednesday, February 9, 2022
