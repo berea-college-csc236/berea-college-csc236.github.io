@@ -10,7 +10,7 @@
     - Complete and submit [T11: Queues, Stacks, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw) 
   - **Outside of class**
     - Complete and submit [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E/edit?usp=sharing) which is due Friday.
-    - Complete and submit [A03: Resume and Career Reflection ](https://docs.google.com/document/d/1avfeQLvWTLkVHn7MhayzopEV31etJmGLZFsE8KE61dQ/edit?usp=sharing) unless you are completely strapped with the lab and personally request an exension. I am happy to give it, but you MUST agree to at least read [Google Slides with succinct guidelines for students in preparing a technical resume](https://docs.google.com/presentation/d/1tNxWsuDm3TyXpTn6tB32aZyYeHENNR2sCYGjKpzfmiw) in advance of Friday's meeting wit our alumni [Kevin Messer](https://www.linkedin.com/in/kevinmesser/).
+    - Complete and submit [A03: Resume and Career Reflection ](https://docs.google.com/document/d/1avfeQLvWTLkVHn7MhayzopEV31etJmGLZFsE8KE61dQ/edit?usp=sharing) unless you are completely strapped with the lab and personally request an exension. I am happy to give it, but you MUST agree to at least read [Google Slides with succinct guidelines for students in preparing a technical resume](https://docs.google.com/presentation/d/1tNxWsuDm3TyXpTn6tB32aZyYeHENNR2sCYGjKpzfmiw) and also read his [tech resume template](https://docs.google.com/document/d/11gQ1DUXhP37aenxu_AK7Oud6h7tvouYGbl3ZXnpTqGg)in advance of Friday's meeting wit our alumni [Kevin Messer](https://www.linkedin.com/in/kevinmesser/).
 
 ## Day 14: Monday, February 14, 2022, Happy Valentine's Day!
   - **In class**:
