@@ -11,7 +11,7 @@
     - Virtual visit with  alumni [Kevin Messer](https://www.linkedin.com/in/kevinmesser/).
   - **Outside of class**
     - Cmplete the design document for [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8/edit?usp=sharing) which is due Monday.
-    - If you requested an extension on [A03: Resume and Career Reflection ](https://docs.google.com/document/d/1avfeQLvWTLkVHn7MhayzopEV31etJmGLZFsE8KE61dQ/edit?usp=sharing) and you read [Google Slides with succinct guidelines for students in preparing a technical resume](https://docs.google.com/presentation/d/1tNxWsuDm3TyXpTn6tB32aZyYeHENNR2sCYGjKpzfmiw) and also read his [tech resume template](https://docs.google.com/document/d/11gQ1DUXhP37aenxu_AK7Oud6h7tvouYGbl3ZXnpTqGg) you need to complete it by Wednesday.
+    - If you requested an extension on [A03: Resume and Career Reflection ](https://docs.google.com/document/d/1avfeQLvWTLkVHn7MhayzopEV31etJmGLZFsE8KE61dQ/edit?usp=sharing) and you read [Google Slides with succinct guidelines for students in preparing a technical resume](https://docs.google.com/presentation/d/1tNxWsuDm3TyXpTn6tB32aZyYeHENNR2sCYGjKpzfmiw) and also read his [tech resume template](https://docs.google.com/document/d/11gQ1DUXhP37aenxu_AK7Oud6h7tvouYGbl3ZXnpTqGg) you need to complete  [A03: Resume and Career Reflection ](https://docs.google.com/document/d/1avfeQLvWTLkVHn7MhayzopEV31etJmGLZFsE8KE61dQ/edit?usp=sharing) by Wednesday.
 
 ## Day 15: Wednesday, February 16, 2022
   - **In class**:
