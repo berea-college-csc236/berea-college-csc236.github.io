@@ -5,7 +5,7 @@
 ---
 
 ## Day 17: Monday, February 21, 2022
-  - **In cl6ass**:
+  - **In class**:
      - Discusion of [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8/edit?usp=sharing)
     - Complete and submit [TR1: E1 Review](https://docs.google.com/document/d/1AKBUi_i1XsbP6Aidb5rqQifVveU4rQSpBK-pKVGy8Yc/edit?usp=sharing) **Note that due to the nature of this assignment, it will not be accepted late.** 
   - **Outside of class**
@@ -13,7 +13,7 @@
     - If you requested an extension on [A03: Resume and Career Reflection ](https://docs.google.com/document/d/1avfeQLvWTLkVHn7MhayzopEV31etJmGLZFsE8KE61dQ/edit?usp=sharing) it is due by by Wednesday.
 
 ## Day 16: Friday, February 18, 2022
-  - **In cl6ass**:
+  - **In class**:
     - Demos of [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E/edit?usp=sharing) which was due today.
     - Complete and submit [T11: Queues, Stacks, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw) 
     - Virtual visit with  alumni [Kevin Messer](https://www.linkedin.com/in/kevinmesser/).
