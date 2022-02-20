@@ -7,10 +7,11 @@
 ## Day 17: Monday, February 21, 2022
   - **In class**:
      - Discusion of [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8/edit?usp=sharing)
-    - Complete and submit [TR1: E1 Review](https://docs.google.com/document/d/1AKBUi_i1XsbP6Aidb5rqQifVveU4rQSpBK-pKVGy8Yc/edit?usp=sharing) **Note that due to the nature of this assignment, it will not be accepted late.** 
+    - Exam E1 will cover all of the material from the course thus far, but the major topics covered thus far are C++, OOP, Big O, and linear structures stacks, queues, and deques. i.e. the major topics are C++, and the first three chapters of the textbook. Peerwise is very unlikely to suffice for your study unless you make the Peerwise questions truly excellent. Complete and submit [TR1: E1 Review](https://docs.google.com/document/d/1AKBUi_i1XsbP6Aidb5rqQifVveU4rQSpBK-pKVGy8Yc/edit?usp=sharing). This up to each of you and your teams. **Note that due to the nature of this assignment, it will not be accepted late.** 
   - **Outside of class**
     - Complete and submit [A04: A Simple Introduction To Linked Lists](https://docs.google.com/document/d/1r5316kQR2qmtEWYqUaPVcXp_yrIuPQV61RUAy_sj5KU)
     - If you requested an extension on [A03: Resume and Career Reflection ](https://docs.google.com/document/d/1avfeQLvWTLkVHn7MhayzopEV31etJmGLZFsE8KE61dQ/edit?usp=sharing) it is due by by Wednesday.
+    - **Announcement Reminder:** Exam E1 will be Friday, February 25. Exam E1 will cover all of the material from the course thus far, but the major topics covered thus far are C++, OOP, Big O, and linear structures stacks, queues, and deques. i.e. the major topics are C++, and the first three chapters of the textbook. Peerwise is very unlikely to suffice for your study unless you make the questions excellent. 
 
 ## Day 16: Friday, February 18, 2022
   - **In class**:
@@ -20,6 +21,7 @@
   - **Outside of class**
     - Complete the design document for [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8/edit?usp=sharing) which is due Monday.
     - If you requested an extension on [A03: Resume and Career Reflection ](https://docs.google.com/document/d/1avfeQLvWTLkVHn7MhayzopEV31etJmGLZFsE8KE61dQ/edit?usp=sharing) and you read [Google Slides with succinct guidelines for students in preparing a technical resume](https://docs.google.com/presentation/d/1tNxWsuDm3TyXpTn6tB32aZyYeHENNR2sCYGjKpzfmiw) and also read his [tech resume template](https://docs.google.com/document/d/11gQ1DUXhP37aenxu_AK7Oud6h7tvouYGbl3ZXnpTqGg) you need to complete  [A03: Resume and Career Reflection ](https://docs.google.com/document/d/1avfeQLvWTLkVHn7MhayzopEV31etJmGLZFsE8KE61dQ/edit?usp=sharing) by Wednesday.
+    - **Announcement Reminder:** Exam E1 will be Friday, February 25. Exam E1 will cover all of the material from the course thus far, but the major topics covered thus far are C++, OOP, Big O, and linear structures stacks, queues, and deques. i.e. the major topics are C++, and the first three chapters of the textbook.
 
 ## Day 15: Wednesday, February 16, 2022
   - **In class**:
@@ -28,6 +30,7 @@
   - **Outside of class**
     - Complete and submit [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E/edit?usp=sharing) which is due Friday.
     - Complete and submit [A03: Resume and Career Reflection ](https://docs.google.com/document/d/1avfeQLvWTLkVHn7MhayzopEV31etJmGLZFsE8KE61dQ/edit?usp=sharing) unless you are completely strapped with the lab and personally request an exension. I am happy to give it, but you MUST agree to at least read [Google Slides with succinct guidelines for students in preparing a technical resume](https://docs.google.com/presentation/d/1tNxWsuDm3TyXpTn6tB32aZyYeHENNR2sCYGjKpzfmiw) and also read his [tech resume template](https://docs.google.com/document/d/11gQ1DUXhP37aenxu_AK7Oud6h7tvouYGbl3ZXnpTqGg) in advance of Friday's meeting with our alumni [Kevin Messer](https://www.linkedin.com/in/kevinmesser/).
+     - **Announcement:** Exam E1 will be Friday, February 25. Exam E1 will cover all of the material from the course thus far, but the major topics covered thus far are C++, OOP, Big O, and linear structures stacks, queues, and deques. i.e. the major topics are C++, and the first three chapters of the textbook. 
 
 ## Day 14: Monday, February 14, 2022, Happy Valentine's Day!
   - **In class**:
