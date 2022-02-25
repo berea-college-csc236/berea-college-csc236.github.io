@@ -4,6 +4,13 @@
 
 ---
 
+## Day 19: Friday, February 25, 2022: Exam E1 Day
+  - **In class**:
+    - Exam E1:** Exam E1 will be this Friday, February 25. Exam E1 will cover all of the material from the course thus far, but the major topics covered thus far are C++, OOP, Big O, and linear structures stacks, queues, and deques. i.e. the major topics are C++, and the first three chapters of the textbook. I recommend using [Peerwise](https://peerwise.cs.auckland.ac.nz/course/main.php?course_id=24579) and the main textbook as your primary study tools. 
+  - **Outside of class**
+    - The Second Milestone for the [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8/edit?usp=sharing) is due Monday.
+    - Read [Chapter 4 in our Data Structures textbook](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=96836) in preparation for a reading quiz.
+
 ## Day 18: Wednesday, February 23, 2022
   - **In class**:
     - Discusion of [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8/edit?usp=sharing)
