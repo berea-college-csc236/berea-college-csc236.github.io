@@ -12,7 +12,8 @@
     - Complete and submit [T12: Introduction to Circular Linked Lists](https://docs.google.com/document/d/1uvElflLI-S0S3spkfCkquwi3ZgIEgM49vF9NeTPmN30/edit?usp=sharing).
   - **Outside of class**
     - Continue to work on [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8/edit?usp=sharing) which is due Friday.
-    - Complete and submit [A05: Professional Story and Profile](https://docs.google.com/document/d/1-WQKoOoxGn9jCZHx53KMDSTMsKHS9f7KRehmgA1hye8) which is due Wednesday.
+    - If you have completed [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8/edit?usp=sharing), you may optionally begin [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44/edit?usp=sharing) which has a design doc and explanations of the provided code base due Monday, March 14 (the Monday after break.)
+    - Complete and submit [A05: Professional Story and Profile](https://docs.com/document/d/1-WQKoOoxGn9jCZHx53KMDSTMsKHS9f7KRehmgA1hye8) which is due Wednesday.
 
 ## Day 19: Friday, February 25, 2022: Exam E1 Day
   - **In class**:
