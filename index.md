@@ -4,6 +4,14 @@
 
 ---
 
+## Day 21: Wednesday, March 2, 2022
+  - **In class**:
+    - Discuss [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8/edit?usp=sharing)
+    - Begin [T13: Exploring Linked Lists](https://docs.google.com/document/d/1b4UHkIDdldDGyat5QdZ0FFzOFZKaubeOGuz-jsPR4I0/edit?usp=sharing).
+  - **Outside of class**
+    - Complete and submit [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8/edit?usp=sharing) which is due Friday.
+    - If you have completed [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8/edit?usp=sharing), you may want to begin [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44/edit?usp=sharing) which has a design doc and explanations of the provided code base due Monday, March 14 (the Monday immediately following Spring break.)
+
 ## Day 20: Monday, February 28, 2022
   - **In class**:
     - Debrief on Exam E1
