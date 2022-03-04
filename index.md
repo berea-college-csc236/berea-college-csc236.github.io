@@ -11,7 +11,7 @@
     - Begin [T14: Circling Back to Circular Linked Lists](https://docs.google.com/document/d/18y3Y_DldzoHN8KqVbODXm2ojXxet3Xc1pAm9StJlt5k/edit?usp=sharing). We will continue this after Spring Break.
   - **Outside of class**
     - Complete and submit [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8/edit?usp=sharing) which is technically due Friday, but hs been extended until this coming Monday for everyone.
-    - If you have completed [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8/edit?usp=sharing), you may want to begin [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44/edit?usp=sharing) which has a design doc and explanations of the provided code base due Monday, March 14 (the Monday immediately following Spring break.)
+    - When you have completed [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8/edit?usp=sharing), you may want to begin [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44/edit?usp=sharing) which has a design doc and explanations of the provided code base due Monday, March 14 (the Monday immediately following Spring break.)
 
 ## Day 21: Wednesday, March 2, 2022
   - **In class**:
