@@ -4,6 +4,16 @@
 
 ---
 
+## Day 23: Monday, March 14, 2022
+  - **In class: Reminder that we meet via Zoom today!** 
+    - Discussion and demos of [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8/edit?usp=sharing)
+    - Discussion of [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44/edit?usp=sharing)
+    - Complete and submit [T14: Circling Back to Circular Linked Lists](https://docs.google.com/document/d/18y3Y_DldzoHN8KqVbODXm2ojXxet3Xc1pAm9StJlt5k/edit?usp=sharing). 
+  - **Outside of class**
+    - [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44/edit?usp=sharing) which has Milestone 2 due Wednesday.
+
+## Enjoy Spring Break!
+
 ## Day 22: Friday, March 4, 2022
   - **In class: Reminder that we meet via Zoom today!** 
     - Discuss [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8/edit?usp=sharing)
