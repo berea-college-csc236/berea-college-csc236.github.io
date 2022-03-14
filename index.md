@@ -11,7 +11,7 @@
     - Complete and submit [T14: Circling Back to Circular Linked Lists](https://docs.google.com/document/d/18y3Y_DldzoHN8KqVbODXm2ojXxet3Xc1pAm9StJlt5k/edit?usp=sharing). 
   - **Outside of class**
     - [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44/edit?usp=sharing) which has Milestone 2 due Wednesday.
-    - [Chapter 5 in our data structures textbook](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=100168 is also due Wednesday in preparation for a reading quiz.
+    - [Chapter 5 in our data structures textbook](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=100168) is also due Wednesday in preparation for a reading quiz.
 
 ## Enjoy Spring Break!
 
