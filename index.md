@@ -4,14 +4,23 @@
 
 ---
 
+## Day 24: Wednesday, March 16, 2022
+  - **In class:** 
+    - Quiz on [Chapter 5 in our data structures textbook](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=100168) is also due Wednesday in preparation for a reading quiz.
+    - Discussion of [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44/edit?usp=sharing)
+    - Complete and submit [T15: Exploring Recursion](https://docs.google.com/document/d/1Qido7yr3NSrx052G3kqQze7PIEIRp9mlPBH3l5BRj5s/edit?usp=sharing). 
+  - **Outside of class**
+    - Complete and submit [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44/edit?usp=sharing) which has the final completion due due Friday.
+
+
 ## Day 23: Monday, March 14, 2022
   - **In class: Reminder that we meet back in-person today!** 
     - Discussion and demos of [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8/edit?usp=sharing)
     - Discussion of [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44/edit?usp=sharing)
     - Complete and submit [T14: Circling Back to Circular Linked Lists](https://docs.google.com/document/d/18y3Y_DldzoHN8KqVbODXm2ojXxet3Xc1pAm9StJlt5k/edit?usp=sharing). 
   - **Outside of class**
-    - [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44/edit?usp=sharing) which has Milestone 2 due Wednesday.
-    - [Chapter 5 in our data structures textbook](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=100168) is also due Wednesday in preparation for a reading quiz.
+    - Work n code in [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44/edit?usp=sharing) which has Milestone 2 due Wednesday.
+    - Read [Chapter 5 in our data structures textbook](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=100168) is also due Wednesday in preparation for a reading quiz.
 
 ## Enjoy Spring Break!
 
