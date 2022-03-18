@@ -7,8 +7,7 @@
 ## Day 25: Friday, March 18, 2022
   - **In class:** 
     - Discussion of [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44/edit?usp=sharing) which is due on Monday. 
-    - Complete [T15: Exploring Recursion](https://docs.google.com/document/d/1Qido7yr3NSrx052G3kqQze7PIEIRp9mlPBH3l5BRj5s/edit?usp=sharing).
-    - Begin [T16: Understanding Recursion](https://docs.google.com/document/d/1Bte8UbQq7NSjy4XMJoEcrs8mtUgnt7jVgMQ12Eb7cmw/edit?usp=sharing)
+    - Continue [T15: Exploring Recursion](https://docs.google.com/document/d/1Qido7yr3NSrx052G3kqQze7PIEIRp9mlPBH3l5BRj5s/edit?usp=sharing).
   - **Outside of class**
     - Complete and submit [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44/edit?usp=sharing) which has the final completion due on Monday.
     - Begin [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM/edit?usp=sharing). Milestone 1, the initial design document is due on Wednesday, March 23.
