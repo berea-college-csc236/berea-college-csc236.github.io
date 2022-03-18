@@ -4,6 +4,15 @@
 
 ---
 
+## Day 25: Friday, March 18, 2022
+  - **In class:** 
+    - Discussion of [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44/edit?usp=sharing) which is due on Monday. 
+    - Complete [T15: Exploring Recursion](https://docs.google.com/document/d/1Qido7yr3NSrx052G3kqQze7PIEIRp9mlPBH3l5BRj5s/edit?usp=sharing).
+    - Begin [T16: Understanding Recursion](https://docs.google.com/document/d/1Bte8UbQq7NSjy4XMJoEcrs8mtUgnt7jVgMQ12Eb7cmw/edit?usp=sharing)
+  - **Outside of class**
+    - Complete and submit [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44/edit?usp=sharing) which had the final completion due due Monday.
+    - Begin [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM/edit?usp=sharing). Milestone 1, the initial design document is due on Wednesday, March 23.
+ 
 ## Day 24: Wednesday, March 16, 2022
   - **In class:** 
     - Quiz on [Chapter 5 in our data structures textbook](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=100168) is also due Wednesday in preparation for a reading quiz.
