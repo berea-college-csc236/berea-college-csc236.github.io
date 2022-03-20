@@ -6,7 +6,7 @@
 
 ## Day 26: Monday, March 21, 2022
   - **In class:** 
-    - Discussion of [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44/edit?usp=sharing)
+    - Discussion of [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44/edit?usp=sharing) and [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM/edit?usp=sharing)
     - Complete [T15: Exploring Recursion](https://docs.google.com/document/d/1Qido7yr3NSrx052G3kqQze7PIEIRp9mlPBH3l5BRj5s/edit?usp=sharing) in no more than 15 minutes.
     - Begin [T16: Understanding Recursion](https://docs.google.com/document/d/1Bte8UbQq7NSjy4XMJoEcrs8mtUgnt7jVgMQ12Eb7cmw/edit?usp=sharing)
   - **Outside of class**
