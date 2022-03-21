@@ -11,6 +11,7 @@
     - Begin [T16: Understanding Recursion](https://docs.google.com/document/d/1Bte8UbQq7NSjy4XMJoEcrs8mtUgnt7jVgMQ12Eb7cmw/edit?usp=sharing)
   - **Outside of class**
     - Continue [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM/edit?usp=sharing). Milestone 1, the initial design document is due on Wednesday, March 23.
+    - The next reading quiz on [Chapter 6: Searching and Hashing](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=100630) will he held on Friday.
 
 ## Day 25: Friday, March 18, 2022
   - **In class:** 
