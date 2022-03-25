@@ -4,6 +4,14 @@
 
 ---
 
+## Day 28: Friday, March 25, 2022
+  - **In class:** 
+    - Discussion of [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM/edit?usp=sharing)
+    - Complete and submit [T17: Searching](https://docs.google.com/document/d/1tYBkApVgtJaTdGhd1KCYprnOyZyP5FyKvSmw5gcCa84/edit?usp=sharing)
+  - **Outside of class**
+    - Continue [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM/edit?usp=sharing). The second milesone is due Monday--you must have committed and pushed all the code for the basic algorithm, even if it is not quite working.
+    - Complete [A07: What is Hashing](https://docs.google.com/document/d/1ON_KiUoWUE_NKCpsuZMztgkK9dmJAMLXTa8DxhgI90U/edit?usp=sharing) for Monday. It is very short, so you can easily do this and the lab milestone.
+
 ## Day 27: Wednesday, March 23, 2022
   - **In class:** 
     - Discussion of [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM/edit?usp=sharing)
