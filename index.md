@@ -4,6 +4,15 @@
 
 ---
 
+## Day 29: Monday, March 28, 2022
+  - **In class:** 
+    - Discusion of [A07: What is Hashing](https://docs.google.com/document/d/1ON_KiUoWUE_NKCpsuZMztgkK9dmJAMLXTa8DxhgI90U/edit?usp=sharing)
+    - Discussion of [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM/edit?usp=sharing)
+    - Begin [T18: Exploring Hashing](https://docs.google.com/document/d/1Rphbo_GvKvKquZtxsSYY__cTF4ZGO4uwNEcA70dN5e0/edit?usp=sharing)
+  - **Outside of class**
+    - Read [Chapter 8: Sorting](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=101257) in preparation for a reading quiz next time.
+    - Continue [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM/edit?usp=sharing). The final  milesone is due Friday.
+
 ## Day 28: Friday, March 25, 2022
   - **In class:** 
     - Quiz on [Chapter 6: Searching and Hashing](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=100630)
