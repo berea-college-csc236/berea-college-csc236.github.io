@@ -4,11 +4,20 @@
 
 ---
 
+## Day 30: Wednesday, March 30, 2022
+  - **In class:** 
+    - Quiz on [Chapter 7: Sorting](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=101257)
+    - Last chance discussion of [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM/edit?usp=sharing) which is due Friday.
+    - Complete and submit [T18: Exploring Hashing](https://docs.google.com/document/d/1Rphbo_GvKvKquZtxsSYY__cTF4ZGO4uwNEcA70dN5e0/edit?usp=sharing)
+    - Begin [T19: Hashing Collisions](https://docs.google.com/document/d/1LAYpzVOzkV2rSydtPBIJ14aQczKQHbne-F_YmyWpEkA/edit?usp=sharing)
+  - **Outside of class**
+    - Complete and submit [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM/edit?usp=sharing). The final  milesone is due Friday.
+
 ## Day 29: Monday, March 28, 2022
   - **In class:** 
     - Discusion of [A07: What is Hashing](https://docs.google.com/document/d/1ON_KiUoWUE_NKCpsuZMztgkK9dmJAMLXTa8DxhgI90U/edit?usp=sharing)
     - Discussion of [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM/edit?usp=sharing)
-    - Complete and submit [T18: Exploring Hashing](https://docs.google.com/document/d/1Rphbo_GvKvKquZtxsSYY__cTF4ZGO4uwNEcA70dN5e0/edit?usp=sharing)
+    - begin [T18: Exploring Hashing](https://docs.google.com/document/d/1Rphbo_GvKvKquZtxsSYY__cTF4ZGO4uwNEcA70dN5e0/edit?usp=sharing)
   - **Outside of class**
     - Read [Chapter 7: Sorting](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=101257) in preparation for a reading quiz next time.
     - Continue [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM/edit?usp=sharing). The final  milesone is due Friday.
