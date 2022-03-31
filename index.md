@@ -3,13 +3,19 @@
 #### Berea College Spring 2022 Offering
 
 ---
+## Day 31: Friday, April 1, 2022
+  - **In class:** 
+    - Art show of [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM/edit?usp=sharing) which is due by 8:00 am
+    - Complete and submit [T19: Hashing Collisions](https://docs.google.com/document/d/1LAYpzVOzkV2rSydtPBIJ14aQczKQHbne-F_YmyWpEkA/edit?usp=sharing)
+  - **Outside of class**
+    - Begin [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw) which has only a single milestone. It is due Friday, April 8.
+    - Complete and submit [A08: Considering Diversity here and in the Workplace](https://docs.google.com/document/d/1GgQ0yrnytucqukz-ypOvNld4sJ4c4UNH_IkJkh3046Y)
 
 ## Day 30: Wednesday, March 30, 2022
   - **In class:** 
     - Quiz on [Chapter 7: Sorting](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=101257)
     - Last chance discussion of [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM/edit?usp=sharing) which is due Friday.
     - Complete and submit [T18: Exploring Hashing](https://docs.google.com/document/d/1Rphbo_GvKvKquZtxsSYY__cTF4ZGO4uwNEcA70dN5e0/edit?usp=sharing)
-    - Begin [T19: Hashing Collisions](https://docs.google.com/document/d/1LAYpzVOzkV2rSydtPBIJ14aQczKQHbne-F_YmyWpEkA/edit?usp=sharing)
   - **Outside of class**
     - Complete and submit [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM/edit?usp=sharing). The final  milesone is due Friday.
 
