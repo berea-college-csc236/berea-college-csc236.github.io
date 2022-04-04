@@ -3,6 +3,16 @@
 #### Berea College Spring 2022 Offering
 
 ---
+
+## Day 32: Monday, April 4, 2022
+  - **In class:** 
+     - Discuss [A08: Considering Diversity here and in the Workplace](https://docs.google.com/document/d/1GgQ0yrnytucqukz-ypOvNld4sJ4c4UNH_IkJkh3046Y)
+     - Complete and submit [T19: Hashing Collisions](https://docs.google.com/document/d/1LAYpzVOzkV2rSydtPBIJ14aQczKQHbne-F_YmyWpEkA/edit?usp=sharing)
+     - Begin [T20: On Sorting](https://docs.google.com/document/d/1bUGZJNs8ARo3GyLqhumF-bL6slKTrzlZmAVF5RScjAI)
+  - **Outside of class**
+    - Continue [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw) which has only a single milestone. It is due Friday, April 8.
+    - Complete and submit [A09: Codes and Teamwork](https://docs.google.com/document/d/1scfkIjI15XaE1W9O_lWpPv6ow0RdXd6Ue8UGGNuwULI/edit?usp=sharing)  for next time.
+
 ## Day 31: Friday, April 1, 2022
   - **In class:** 
     - Art show of [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM/edit?usp=sharing) which is due by 8:00 am
