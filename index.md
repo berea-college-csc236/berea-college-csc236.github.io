@@ -7,6 +7,7 @@
 ## Day 33: Wednesday, April 6, 2022
   - **In class:** 
      - Complete and submit [T20: On Sorting](https://docs.google.com/document/d/1bUGZJNs8ARo3GyLqhumF-bL6slKTrzlZmAVF5RScjAI)
+     - Begin [T21: Recursive Sorting](https://docs.google.com/document/d/1Zvcu_nvpkPZfn4wDhPEM7ub96dj7vb0LB9lIly3DjZs) which we will complete on Friday.
   - **Outside of class**
     - Continue [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw) which has only a single milestone. It is due ~~Friday, April 8~~ Monday, April 11.
     - Read [Sections 8.1-8.9: on Trees](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=101895) in preparation for a reading quiz which will he held on Friday.
