@@ -3,6 +3,13 @@
 #### Berea College Spring 2022 Offering
 
 ---
+## Day 35: Monday, April 8, 2022
+  - **In class:** 
+     - Complete and submit [T21: Recursive Sorting](https://docs.google.com/document/d/1Zvcu_nvpkPZfn4wDhPEM7ub96dj7vb0LB9lIly3DjZs).
+  - **Outside of class**
+    - Begin [L8: Annimal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0/edit?usp=sharing). The first Milestone is due Friday, April 15.
+    - Read [Sections 8.10-8.23: on Tree Algorithms](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=102666) in preparation for a reading quiz which will he held next time.
+
 ## Day 34: Friday, April 8, 2022
   - **In class:** 
      - Quiz on [Sections 8.1-8.9: on Trees](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=101895)
