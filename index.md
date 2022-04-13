@@ -10,6 +10,7 @@
      - Complete and submit [T22: Exploring Trees](https://docs.google.com/document/d/1t0mL8FmPE1f4IfV03tyQcT1FPfdepX37KHRBftUxSh0/edit?usp=sharing).
   - **Outside of class**
     - Complete the first milestone of [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0/edit?usp=sharing). The first Milestone is due Friday, April 15, which is Good Friday, so there is no class.  But, this is still due.
+     - Read [Chapter 9 on Graphs and Graph lgorithms](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=102835) in preparation for a reading quiz which will be held on Monday. This is the last chapter and last reading quiz!
 
 ## Day 35: Monday, April 11, 2022
   - **In class:** 
