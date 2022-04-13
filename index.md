@@ -9,6 +9,7 @@
   - **In class:** 
      - Quiz on [Sections 8.10-8.23: on Tree Algorithms](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=102666)
      - Questions on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0/edit?usp=sharing)
+     - Discussion of [Final Project](https://docs.google.com/document/d/15JyajlDZ2-LW9KPa-DKm5LZSXBN10lFX6OzK4ryG4uA/edit?usp=sharing) and final project team selection
      - Complete and submit [T22: Exploring Trees](https://docs.google.com/document/d/1t0mL8FmPE1f4IfV03tyQcT1FPfdepX37KHRBftUxSh0/edit?usp=sharing)
   - **Outside of class**
     - Extra Credit Career event Opportunity: Bethanie Williams ('20) presents Tenessee Tech's Cybersecurity Program: Thursday, April 14, 4 pm in DT 104. Patricipation will earn you an additional dropped quiz.
