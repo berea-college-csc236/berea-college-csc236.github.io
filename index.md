@@ -3,7 +3,7 @@
 #### Berea College Spring 2022 Offering
 
 ---
-## Day 36: Wednesday, April 10, 2022
+## Day 36: Wednesday, April 13, 2022
   - **In class:** 
      - Quiz on [Sections 8.10-8.23: on Tree Algorithms](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=102666)
      - Questions on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0/edit?usp=sharing)
@@ -11,7 +11,7 @@
   - **Outside of class**
     - Complete the first milestone of [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0/edit?usp=sharing). The first Milestone is due Friday, April 15, which is Good Friday, so there is no class.  But, this is still due.
 
-## Day 35: Monday, April 8, 2022
+## Day 35: Monday, April 11, 2022
   - **In class:** 
      - Complete and submit [T21: Recursive Sorting](https://docs.google.com/document/d/1Zvcu_nvpkPZfn4wDhPEM7ub96dj7vb0LB9lIly3DjZs).
      - Begin [T22: Exploring Trees](https://docs.google.com/document/d/1t0mL8FmPE1f4IfV03tyQcT1FPfdepX37KHRBftUxSh0/edit?usp=sharing) which will be completed next time.
