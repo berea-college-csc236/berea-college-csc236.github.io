@@ -3,6 +3,8 @@
 #### Berea College Spring 2022 Offering
 
 ---
+## No class: Fiday, April 15, 2022 - Enjoy your long holiday weekend!
+
 ## Day 36: Wednesday, April 13, 2022
   - **In class:** 
      - Quiz on [Sections 8.10-8.23: on Tree Algorithms](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=102666)
