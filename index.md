@@ -11,6 +11,7 @@
      - Begin [T23: Binary Searrch Trees](https://docs.google.com/document/d/1YUYAn-6t1TLIE_pNS94MvAU7InyuF6E6N-iDuRoYk1Y/edit?usp=sharing)
   - **Outside of class**
     - Complete the second milestone of [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0/edit?usp=sharing). The second Milestone is due Wednesday, April 20.
+    - Complete [A10: Review and Reflection](https://docs.google.com/document/d/1zS8jEGIKEUvBC1kr84Cs3AoqYIKnnklGyB4EowCDw2w/edit?usp=sharing) which is due Wednesday, April 20.
 
 ## No class: Friday, April 15, 2022 - Enjoy your long holiday weekend!
 
