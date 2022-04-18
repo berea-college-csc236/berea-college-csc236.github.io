@@ -3,6 +3,15 @@
 #### Berea College Spring 2022 Offering
 
 ---
+## Day 37: Monday, April 18, 2022
+  - **In class:** 
+     - Quiz on [Chapter 9 on Graphs and Graph Algorithms](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=102835)
+     - Questions on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0/edit?usp=sharing)
+     - Choosing projects for [Final Project](https://docs.google.com/document/d/15JyajlDZ2-LW9KPa-DKm5LZSXBN10lFX6OzK4ryG4uA/edit?usp=sharing) and final project team selection
+     - Begin [T23: Binary Searrch Trees](https://docs.google.com/document/d/1YUYAn-6t1TLIE_pNS94MvAU7InyuF6E6N-iDuRoYk1Y/edit?usp=sharing)
+  - **Outside of class**
+    - Complete the second milestone of [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0/edit?usp=sharing). The second Milestone is due Wednesday, April 20.
+
 ## No class: Friday, April 15, 2022 - Enjoy your long holiday weekend!
 
 ## Day 36: Wednesday, April 13, 2022
