@@ -12,6 +12,7 @@
   - **Outside of class**
     - Work on the second milestone of [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0/edit?usp=sharing). The second Milestone is due Friday, April 22.
     - Complete [A10: Review and Reflection](https://docs.google.com/document/d/1zS8jEGIKEUvBC1kr84Cs3AoqYIKnnklGyB4EowCDw2w/edit?usp=sharing) which is due Wednesday, April 20.
+    - Announcements: The second exam will take place on Wednesday, April 27, and the final exam period will be used for presenting final projects. And, because I received no messages from students about masking, masks are now encouraged but optional in CSC 236 until further notice.
 
 ## No class: Friday, April 15, 2022 - Enjoy your long holiday weekend!
 
