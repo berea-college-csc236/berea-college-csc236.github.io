@@ -3,15 +3,25 @@
 #### Berea College Spring 2022 Offering
 
 ---
+## Day 38: Wednesday, April 20, 2022
+  - **In class:** 
+     - Questions on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0/edit?usp=sharing)
+     - Complete and submit [FP1: Initial Planning for Final Project](https://docs.google.com/document/d/1byMsKfTPPEGO4eGSdHohAxkCYRKO1tHqb0Bd7eghFlg) which is due by Friday at 8 am and will not be accepted late.
+     - Complete [TR2 Peerwise Review for E2](https://docs.google.com/document/d/1tY3QpKNjqW3PR1YcbAGsV6HSbUT47bTv1EUx-sv6RwQ/edit?usp=sharing) which is due by Friday at 8 am and will not be accepted late. Be sure that all questions are reviewed and improved. Wrong or poor questions count against the entire team, not just the author because you are expected to have reviewed and approved them.
+     - Note that we will complete [T23: Binary Search Trees](https://docs.google.com/document/d/1YUYAn-6t1TLIE_pNS94MvAU7InyuF6E6N-iDuRoYk1Y/edit?usp=sharing) on Friday.
+  - **Outside of class**
+    - Work on the second milestone of [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0/edit?usp=sharing). The second Milestone is due Friday, April 22.
+    - Reminder: The second exam will take place on Wednesday, April 27, and the final exam period will be used for presenting final projects. And, because I received no messages from students about masking, masks are now encouraged but optional in CSC 236 until further notice.
+
 ## Day 37: Monday, April 18, 2022
   - **In class:** 
      - Quiz on [Chapter 9 on Graphs and Graph Algorithms](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=102835)
      - Questions on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0/edit?usp=sharing)
      - Choosing projects for [Final Project](https://docs.google.com/document/d/15JyajlDZ2-LW9KPa-DKm5LZSXBN10lFX6OzK4ryG4uA/edit?usp=sharing) and final project team selection
-     - Begin [T23: Binary Search Trees](https://docs.google.com/document/d/1YUYAn-6t1TLIE_pNS94MvAU7InyuF6E6N-iDuRoYk1Y/edit?usp=sharing)
+     - Begin [T23: Binary Search Trees](https://docs.google.com/document/d/1YUYAn-6t1TLIE_pNS94MvAU7InyuF6E6N-iDuRoYk1Y/edit?usp=sharing) which we will complete on Friday.
   - **Outside of class**
     - Work on the second milestone of [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0/edit?usp=sharing). The second Milestone is due Friday, April 22.
-    - Complete [A10: Review and Reflection](https://docs.google.com/document/d/1zS8jEGIKEUvBC1kr84Cs3AoqYIKnnklGyB4EowCDw2w/edit?usp=sharing) which is due Wednesday, April 20.
+    - Complete [A10: Review and Reflection](https://docs.google.com/document/d/1zS8jEGIKEUvBC1kr84Cs3AoqYIKnnklGyB4EowCDw2w/edit?usp=sharing) which is due Wednesday, April 20 and due to the nature of the assignment, it will not be accepted late.
     - Announcements: The second exam will take place on Wednesday, April 27, and the final exam period will be used for presenting final projects. And, because I received no messages from students about masking, masks are now encouraged but optional in CSC 236 until further notice.
 
 ## No class: Friday, April 15, 2022 - Enjoy your long holiday weekend!
