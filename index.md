@@ -11,7 +11,10 @@
      - Complete [FP2: Planning and Preliminary Video Script](https://docs.google.com/document/d/16lsG7uJKPY1XXHka3-KP-7GiviBg2ePTxUKma_bg7lk/edit?usp=sharing)
   - **Outside of class**
     - Complete [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0/edit?usp=sharing) which is due on Monday.
-    - Reminder: The second exam will take place on Wednesday, April 27, and the final exam period will be used for presenting final projects. 
+    - Reminder: The second exam will take place on Wednesday, April 27
+    - Reminder: The final exam period will be used for presenting final projects: 
+    - Section A (9:20-10:30) has the final exam period on Wednesday, May 4 at 3 pm. 
+    - Section B (10:40-11:50) has the final exam period on Thursday, May 5 at 11:45 am.
  
 ## Day 38: Wednesday, April 20, 2022
   - **In class:** 
