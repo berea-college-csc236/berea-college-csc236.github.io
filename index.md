@@ -3,6 +3,15 @@
 #### Berea College Spring 2022 Offering
 
 ---
+
+## Day 39: Friday, April 22, 2022
+  - **In class:** 
+     - Questions on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0/edit?usp=sharing)
+     - Complete [T23: Binary Search Trees](https://docs.google.com/document/d/1YUYAn-6t1TLIE_pNS94MvAU7InyuF6E6N-iDuRoYk1Y/edit?usp=sharing)
+  - **Outside of class**
+    - Complete [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0/edit?usp=sharing) which is due on Monday.
+    - Reminder: The second exam will take place on Wednesday, April 27, and the final exam period will be used for presenting final projects. 
+ 
 ## Day 38: Wednesday, April 20, 2022
   - **In class:** 
      - Questions on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0/edit?usp=sharing)
