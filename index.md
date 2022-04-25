@@ -5,16 +5,16 @@
 ---
 
 ## Remainder of course items:
-    - **Tuesday, May 26:** Complete [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0/edit?usp=sharing) which is due on ~~Monday~~ Tuesday by 8 am.
-    - **Wednesday, May 27:** Study for the second exam which will take place on Wednesday, April 27 (next time.)
-    - Complete and submit [FP3 Project Big O Analysis](https://docs.google.com/document/d/1RWkZEl1XNMVA-PfnAdD9Teip1oirXtkDnU_vtboWloA) which is due on Monday, May 2 by 8 am.
-    - **Complete IEQs, so I can make the course even better!** by the end of Reading Day, Friday, April 29 at 11:59 PM. 
-    - **Final Exam Period Day:** Complete and submit [FP4: Final Project Link to Video and Final Transcript](https://docs.google.com/document/d/17YmTJYWzVriYggUipkHsSzqzFxamCTT3BZWiE0dA2s0) which is due by 8 am on the day of your final exam period.
-    - Reminder: The final exam period will be used for presenting final projects: 
-    - **Attend Final Exam Period to Present Video and answer questions:**    
-    - Section A (9:20-10:30) has the final exam period on Wednesday, May 4 at 3 pm. 
-    - Section B (10:40-11:50) has the final exam period on Thursday, May 5 at 11:45 am.
-    - **Saturday, May 7:** Complete and submit [FPE: Team Evaluation](https://forms.gle/uxHqrMHCnXe39mqN9) which is due by Saturday, May 7 at 8 am, but I recommend you do it earlier!
+  - **Tuesday, May 26:** Complete [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0/edit?usp=sharing) which is due on ~~Monday~~ Tuesday by 8 am.
+  - **Wednesday, May 27:** Study for the second exam which will take place on Wednesday, April 27 (next time.)
+  - **Monday, May 2:** Complete and submit [FP3 Project Big O Analysis](https://docs.google.com/document/d/1RWkZEl1XNMVA-PfnAdD9Teip1oirXtkDnU_vtboWloA) which is due on Monday, May 2 by 8 am.
+  - **Complete IEQs, so I can make the course even better!** by the end of Reading Day, Friday, April 29 at 11:59 PM. 
+  - **Final Exam Period Day:** Complete and submit [FP4: Final Project Link to Video and Final Transcript](https://docs.google.com/document/d/17YmTJYWzVriYggUipkHsSzqzFxamCTT3BZWiE0dA2s0) which is due by 8 am on the day of your final exam period.
+  - Reminder: The final exam period will be used for presenting final projects: 
+  - **Attend Final Exam Period to Present Video and answer questions:**    
+  - Section A (9:20-10:30) has the final exam period on Wednesday, May 4 at 3 pm. 
+  - Section B (10:40-11:50) has the final exam period on Thursday, May 5 at 11:45 am.
+  - **Saturday, May 7:** Complete and submit [FPE: Team Evaluation](https://forms.gle/uxHqrMHCnXe39mqN9) which is due by Saturday, May 7 at 8 am, but I recommend you do it earlier!
 
 ## Day 40: Monday, April 25, 2022
   - **In class:** 
