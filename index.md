@@ -28,7 +28,7 @@
     - Reminder: The final exam period will be used for presenting final projects: 
     - Section A (9:20-10:30) has the final exam period on Wednesday, May 4 at 3 pm. 
     - Section B (10:40-11:50) has the final exam period on Thursday, May 5 at 11:45 am.
-    - Complete and submit [FPE: Team Evaluation](https://forms.gle/uxHqrMHCnXe39mqN9) which is due by Saturday, May 7 at 8 am, but I recommend you do it earlier!
+    - **Saturday, May 7:** Complete and submit **FPE: Team Evaluation** which is due by Saturday, May 7 at 8 am by following the link which is available in Moodle.
 
 ## Day 39: Friday, April 22, 2022
   - **In class:** 
