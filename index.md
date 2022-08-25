@@ -6,13 +6,21 @@
 ## Website to the Berea College
 # CSC 236 Data Structures course
 
+## Day 3: Monday, August 29, 2022
+  - **In class**:
+    - Quiz on [Chapters 2 and 3 of C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107634)
+    - Begin and hopefully complete [Teamwork T02](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ).
+  - **Outside of class**:
+    - Read [Chapters 4 and 5 in C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107632). Be sure you are logged in and do all activities to get credit!
+    - Continue [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). This is an individual Lab. The first milestone is due on Wednesday. The full lab is due Friday, September 2, 2022.
+
 ## Day 2: Friday, August 26, 2022
   - **In class**:
     - Debrief of word game and algorithns/data structures
     - Quiz on [Chapter 1 of C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107633)
-    - Complete, download, and submit [Teamwork T01](https://docs.google.com/document/d/1Bz1sbwxid1ydkSHaO5nDMpMgzwa29Py6zzTlWGUvBzM/edit?usp=sharing)
+    - Complete, download, and submit [Teamwork T01](https://docs.google.com/document/d/1Bz1sbwxid1ydkSHaO5nDMpMgzwa29Py6zzTlWGUvBzM)
   - **Outside of class** (due before class on Monday):
-    - Begin [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8/edit?usp=sharing). This is an individual Lab. The first milestone is due Wednesday, January 19, 2022. The final completion milestone of the  lab is due Friday, January 21, 2022.
+    - Begin [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8/edit?usp=sharing). This is an individual Lab. The first milestone is due Wednesday, August 31, 2022. The final completion milestone of the  lab is due Friday, September 2, 2022.
     - Read [Chapters 2 and 3 in C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107634). Be sure you are logged in and do all activities to get credit!
 
 ## Day 1: Wednesday, August 24, 2022
