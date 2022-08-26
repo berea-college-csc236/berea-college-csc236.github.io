@@ -34,7 +34,7 @@
     - Sign up for our first text: [C++ for Python Programmers](https://runestone.academy). Be sure to use (or make) the login from your Berea email and Berea username and then sign-up for the book *Berea-csc236-f22-1*. (Note that the account you used in CSC 226 should be fine.)
     - Data structures game
   - **Outside of class** (all due by the start of class on Friday):
-    - Complete [A01:Getting Started](https://docs.google.com/document/d/12iJBToSMk2A1n2mSdAmwKnFEpFVlnLz73ulsyt0htNM/edit?usp=sharing) and submit to Moodle. Note that there are 6 tasks, some of which will take some time:
+    - Complete [A00:Getting Started](https://docs.google.com/document/d/12iJBToSMk2A1n2mSdAmwKnFEpFVlnLz73ulsyt0htNM/edit?usp=sharing) and submit to Moodle. Note that there are 6 tasks, some of which will take some time:
       1. Help us get to know you better
       2. Connect Data Structures to Career
       3. Set-up your Required IDE (this will take some time!)
