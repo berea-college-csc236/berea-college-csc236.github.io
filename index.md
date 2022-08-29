@@ -6,6 +6,14 @@
 ## Website to the Berea College
 # CSC 236 Data Structures course
 
+## Day 4: Wednesday, August 31, 2022
+  - **In class**:
+    - Quiz on [Chapters 4 and 5 of C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107632)
+    - Complete and submit [Teamwork T03](https://docs.google.com/document/d/1T0BS2SzKxoOXg_EpfDCpFd8UG219_Jbqzl8W1kogtcc).
+  - **Outside of class**
+    - Read [Chapters 6, 7 and 8 in C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107631) Be sure you are logged in and do all activities to get credit!
+    - Continue [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). This is an individual Lab. The full lab is due Friday, September 2, 2022.
+
 ## Day 3: Monday, August 29, 2022
   - **In class**:
     - Quiz on [Chapters 2 and 3 of C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107634)
