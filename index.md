@@ -6,14 +6,14 @@
 ## Website to the Berea College
 # CSC 236 Data Structures course
 
-## Day 5: Friday, September 2, 2022 ***************** DRAFT ***********************
+## Day 5: Friday, September 2, 2022
   - **In class**:
     - ASCII Art Show!
     - Quiz on [Chapters 6, 7 and 8 in C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107631)
     - Complete and submit [Teamwork T03](https://docs.google.com/document/d/1T0BS2SzKxoOXg_EpfDCpFd8UG219_Jbqzl8W1kogtcc).
   - **Outside of class**
     - Read [Chapter 1 on OOP](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107531) in preparation for a reading quiz next time. Be sure you are logged in and do all activities to get credit!
-    - Start [L1: Loopy Graphics with C-Turtle](dhttps://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c). This is an individual lab that has Milestone 1 due on Wednesday, September 7 and the full lab due on Friday, September 9.
+    - Start [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c). This is an individual lab that has Milestone 1 due on Monday, September 5, Milestone 2 on Wednesday, September 7, and the full lab due on Friday, September 9.
 
 ## Day 4: Wednesday, August 31, 2022
   - **In class**:
