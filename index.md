@@ -1,11 +1,9 @@
+## Website for the Berea College
 ## CSC 236: Data Structures
 ### Dr. Mario Nakazawa
 #### Berea College Fall 2022 Offering
 
 ---
-## Website to the Berea College
-# CSC 236 Data Structures course
-
 ## Day 7: Wednesday, September 7, 2022
   - **In class**:
     - Complete and Submit [T04: Drawing with C-Turtles](https://docs.google.com/document/d/19PSMP2Mwxs5qKD3p54ebrk3Dnb4n7x6KgjU02vLdlJI).
