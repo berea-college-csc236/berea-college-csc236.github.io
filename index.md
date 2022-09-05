@@ -23,7 +23,7 @@
 
 ## Day 5: Friday, September 2, 2022
   - **In class**:
-    - ASCII Art Show!
+    - [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8) Show!
     - Quiz on [Chapters 6, 7 and 8 in C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107631)
     - Complete and submit [T03: Debugging Techniques](https://docs.google.com/document/d/1T0BS2SzKxoOXg_EpfDCpFd8UG219_Jbqzl8W1kogtcc).
     - Make sure you are enrolled in the "csc236-f22" on Runestone in order to be able to do the next reading!
