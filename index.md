@@ -4,6 +4,23 @@
 #### Berea College Fall 2022 Offering
 
 ---
+## Day 9: Monday, September 12, 2022
+  - **In class** Remember that the TAs will run this class:
+    - Questions on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q)
+    - Complete [T06: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag)
+  - **Outside of class**
+    - Read [Chapter 2 on Big O](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107534) in preparation for a reading quiz on Wednesday. **This is one of the most important topics in the entire course; you might try to find time to read it twice!** Be sure you are logged in and do all activities to get credit!
+    - Continue [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q). This is an individual lab that has Milestone 1 due on Wednesday, September 14 and the full lab due on Friday, September 16.
+
+## Day 8: Friday, September 9, 2022
+  - **In class**:
+    - Art Show on [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c)!
+    - If necessary, complete and submit [T05: Understanding OOD and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4)
+    - Begin [T06: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag)
+  - **Outside of class**
+    - Complete and submit [A01: OOP Principles](https://docs.google.com/document/d/1uH5vpyvL1rCLsmI14D3LIgUo2Q-0fCCdclOz2ZAk1Eg) which is due by Monday at 8 am.
+    - Start [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q). This is an individual lab that has Milestone 1 due on Wednesday, September 14 and the full lab due on Friday, September 16.
+
 ## Day 7: Wednesday, September 7, 2022
   - **In class**:
     - Complete and Submit [T04: Drawing with C-Turtles](https://docs.google.com/document/d/19PSMP2Mwxs5qKD3p54ebrk3Dnb4n7x6KgjU02vLdlJI).
