@@ -4,10 +4,20 @@
 #### Berea College Fall 2022 Offering
 
 ---
+## Day 10: Wednesday, September 14, 2022
+  - **In class**:
+    - Quiz on Reading [Chapter 2 on Big O](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107534) 
+    - Questions on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q)
+    - Complete if necessary [T05: Understanding OOD and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4)
+    - Begin [T06: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag)
+  - **Outside of class**
+    - Continue [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q) - Does the deadline need to be extended to Monday?
+    - Complete and submit [A02: Programmer Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU)
+
 ## Day 9: Monday, September 12, 2022
   - **In class** Remember that the TAs will run this class:
     - Questions on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q)
-    - Begin [T06: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag)
+    - Continue work on [T05: Understanding OOD and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4)
   - **Outside of class**
     - Read [Chapter 2 on Big O](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107534) in preparation for a reading quiz on Wednesday. **This is one of the most important topics in the entire course; you might try to find time to read it twice!** Be sure you are logged in and do all activities to get credit!
     - Continue [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q). This is an individual lab that has Milestone 1 due on Wednesday, September 14 and the full lab due on Friday, September 16.
