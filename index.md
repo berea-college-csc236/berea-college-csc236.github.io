@@ -12,7 +12,7 @@
     - Begin [T06: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag)
   - **Outside of class**
     - Continue [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q) - Does the deadline need to be extended to Monday?
-    - Complete and submit [A02: Programmer Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU)
+    - Complete and submit [A02: Programmer Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU) by Monday
 
 ## Day 9: Monday, September 12, 2022
   - **In class** Remember that the TAs will run this class:
