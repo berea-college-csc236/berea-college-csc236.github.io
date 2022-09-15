@@ -4,12 +4,21 @@
 #### Berea College Fall 2022 Offering
 
 ---
+## Day 11: Friday, September 16, 2022
+  - **In class**:
+    - Debrief  [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing)
+    - Complete and submit [T06: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag)
+    - Begin [T07: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE)
+  - **Outside of class**
+    - Complete and submit [A02: Programmer Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU) by Monday
+    - Read [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) which has its first milestone due on Wednesday, September 21.
+
 ## Day 10: Wednesday, September 14, 2022
   - **In class**:
     - Quiz on Reading [Chapter 2 on Big O](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107534) 
     - Questions on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q)
     - Complete if necessary [T05: Understanding OOD and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4)
-    - Begin [T06: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag)
+    - Begin [T06: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag) - *your team composition is on Moodle*
   - **Outside of class**
     - Continue [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q) - Does the deadline need to be extended to Monday?
     - Complete and submit [A02: Programmer Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU) by Monday
