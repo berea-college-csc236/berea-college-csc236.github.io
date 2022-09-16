@@ -11,7 +11,7 @@
     - Begin [T07: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE)
   - **Outside of class**
     - Complete and submit [A02: Programmer Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU) by Monday
-    - Read [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) which has its first milestone due on Wednesday, September 21.
+    - Read [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) which has its first design document due Monday, September 19.
 
 ## Day 10: Wednesday, September 14, 2022
   - **In class**:
