@@ -4,6 +4,23 @@
 #### Berea College Fall 2022 Offering
 
 ---
+## Day 13: Wednesday, September 21, 2022
+  - **In class** Remember that the TAs will run this class:
+    - Questions on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E)
+    - Complete and submit [T08: When does Big O matter?](https://docs.google.com/document/d/15YCNbR98lwzy7A-fVnoK_Kp-6wn4krgqF-fKXsla_CM)
+    - Begin [T09: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8)
+  - **Outside of class**
+    - Read [Sections 3.1-3.9 in our Data Structures textbook](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107533) in preparation for  a reading quiz.
+    - The complete lab of [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E)
+
+## Day 12: Monday, September 19, 2022
+  - **In class**:
+    - Discussion on [A02: Programmer Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU)
+    - Questions on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E)
+    - Complete and submit [T07: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE)
+  - **Outside of class**
+    - Complete the second milestone of [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) which is due on Wednesday, Wednesday, Sept 21.
+
 ## Day 11: Friday, September 16, 2022
   - **In class**:
     - Debrief  [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit?usp=sharing)
