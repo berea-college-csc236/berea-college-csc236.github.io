@@ -4,11 +4,29 @@
 #### Berea College Fall 2022 Offering
 
 ---
+## Day 15: Monday, September 26, 2022
+  - **In class**:
+    - Quiz on [Sections 3.10-3.22 in our Data Structures textbook](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107532) 
+    - Complete [T09: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8)
+    - Complete and submit [T10: How Long Will This Take?](https://docs.google.com/document/d/1_vzhbJdc5-bmYi1CLpMEgA7WM1c4wXH0EwFb_JOJPek)
+  - **Outside of class**
+    - Complete and submit [A03: Resume and Career Reflection ](https://docs.google.com/document/d/1avfeQLvWTLkVHn7MhayzopEV31etJmGLZFsE8KE61dQ) unless you are really struggling with the lab and personally request an exension. If you get an extension you still MUST read [Google Slides with succinct guidelines for students in preparing a technical resume](https://docs.google.com/presentation/d/1tNxWsuDm3TyXpTn6tB32aZyYeHENNR2sCYGjKpzfmiw) and also read [tech resume template](https://docs.google.com/document/d/11gQ1DUXhP37aenxu_AK7Oud6h7tvouYGbl3ZXnpTqGg) in advance of a meeting with our alumni [Kevin Messer](https://www.linkedin.com/in/kevinmesser/).
+     - **Announcement:** Exam E1 will be Friday, October 7. Exam E1 will cover all of the material from the course thus far, but the major topics covered thus far are C++, OOP, Big O, and linear structures stacks, queues, and deques. i.e. the major topics are C++, and the first three chapters of the textbook. 
+
+## Day 14: Friday, September 23, 2022
+  - **In class**:
+    - Quiz on [Sections 3.1-3.9 in our Data Structures textbook](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107533) 
+    - Questions on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E). Are you struggling?
+    - Begin [T09: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8)
+  - **Outside of class**
+    - Read [Sections 3.10-3.22 in our Data Structures textbook](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107532) in preparation for a reading quiz.
+    - Start on [A03: Resume and Career Reflection ](https://docs.google.com/document/d/1avfeQLvWTLkVHn7MhayzopEV31etJmGLZFsE8KE61dQ)
+    - Read [Google Slides with succinct guidelines for students in preparing a technical resume](https://docs.google.com/presentation/d/1tNxWsuDm3TyXpTn6tB32aZyYeHENNR2sCYGjKpzfmiw) and also read the [tech resume template](https://docs.google.com/document/d/11gQ1DUXhP37aenxu_AK7Oud6h7tvouYGbl3ZXnpTqGg) in advance of a meeting with our alumni [Kevin Messer](https://www.linkedin.com/in/kevinmesser/).
+
 ## Day 13: Wednesday, September 21, 2022
   - **In class** Remember that the TAs will run this class:
     - Questions on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E)
     - Complete and submit [T08: When does Big O matter?](https://docs.google.com/document/d/15YCNbR98lwzy7A-fVnoK_Kp-6wn4krgqF-fKXsla_CM)
-    - Begin [T09: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8)
   - **Outside of class**
     - Read [Sections 3.1-3.9 in our Data Structures textbook](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107533) in preparation for  a reading quiz.
     - The complete lab of [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E)
