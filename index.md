@@ -4,6 +4,20 @@
 #### Berea College Fall 2022 Offering
 
 ---
+## Day 16: Wednesday, September 28, 2022
+  - **In class**:
+    - Section A:
+      - Complete and submit [T10: How Long Will This Take?](https://docs.google.com/document/d/1_vzhbJdc5-bmYi1CLpMEgA7WM1c4wXH0EwFb_JOJPek)
+      - Begin [T11: Queues, Stacks, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw)
+    - Section B: 
+      - Complete [T09: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8)
+      - Complete and submit [T10: How Long Will This Take?](https://docs.google.com/document/d/1_vzhbJdc5-bmYi1CLpMEgA7WM1c4wXH0EwFb_JOJPek)
+      - Begin [T11: Queues, Stacks, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw)
+  - **Outside of class**
+    - Complete the design document for [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) which is due Monday.
+    - Use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScfXGza-1SNIx-MqGY5oAXx2mIOhLGFNsEwsImkmN9165_Zlg/viewform) to add questions you may have for Kevin. This form will close on Friday.
+    - **Announcement:** Exam E1 will be Friday, October 7. Exam E1 will cover all of the material from the course thus far, but the major topics covered thus far are C++, OOP, Big O, and linear structures stacks, queues, and deques. i.e. the major topics are C++, and the first three chapters of the textbook. 
+
 ## Day 15: Monday, September 26, 2022
   - **In class**:
     - Quiz on [Sections 3.10-3.22 in our Data Structures textbook](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107532) 
