@@ -12,7 +12,6 @@
     - Section B: 
       - Complete [T09: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8)
       - Complete and submit [T10: How Long Will This Take?](https://docs.google.com/document/d/1_vzhbJdc5-bmYi1CLpMEgA7WM1c4wXH0EwFb_JOJPek)
-      - Begin [T11: Queues, Stacks, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw)
   - **Outside of class**
     - Complete the design document for [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) which is due Monday.
     - Use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScfXGza-1SNIx-MqGY5oAXx2mIOhLGFNsEwsImkmN9165_Zlg/viewform) to add questions you may have for Kevin. This form will close on Friday.
@@ -23,7 +22,9 @@
     - Quiz on [Sections 3.10-3.22 in our Data Structures textbook](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107532) 
     - Demo for  [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E)?
     - Section A: Complete [T09: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8)
-    - Section B: Begin and submit [T09: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8)
+    - Section B: 
+      - Complete and submit [T08: When does Big O matter?](https://docs.google.com/document/d/15YCNbR98lwzy7A-fVnoK_Kp-6wn4krgqF-fKXsla_CM)
+      - Begin [T09: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8)
   - **Outside of class**
     - Complete and submit [A03: Resume and Career Reflection](https://docs.google.com/document/d/1avfeQLvWTLkVHn7MhayzopEV31etJmGLZFsE8KE61dQ) Due on Wednesday
     - Read [Google Slides with succinct guidelines for students in preparing a technical resume](https://docs.google.com/presentation/d/1tNxWsuDm3TyXpTn6tB32aZyYeHENNR2sCYGjKpzfmiw) and [tech resume template](https://docs.google.com/document/d/11gQ1DUXhP37aenxu_AK7Oud6h7tvouYGbl3ZXnpTqGg) in advance of a meeting with our alumni [Kevin Messer](https://www.linkedin.com/in/kevinmesser/).
