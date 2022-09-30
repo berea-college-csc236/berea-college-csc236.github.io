@@ -7,7 +7,7 @@
 ## Day 17: Friday, September 30, 2022
   - **In class**:
     - Section B: 
-      - Take 10 minutes only: Complete [T09: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8)
+      - Take 10 minutes only: Complete if possible [T09: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8)
     - Complete and submit [TR1: E1 Review](https://docs.google.com/document/d/1AKBUi_i1XsbP6Aidb5rqQifVveU4rQSpBK-pKVGy8Yc). Remember that it is up to each of you and your teams to help each other make it excellent. **Note that due to the nature of this assignment, it will not be accepted late.** 
   - **Outside of class**
     - Complete the design document for [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) which is due Monday.
