@@ -4,6 +4,16 @@
 #### Berea College Fall 2022 Offering
 
 ---
+## Day 17: Friday, September 30, 2022
+  - **In class**:
+    - Section B: 
+      - Take 10 minutes only: Complete [T09: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8)
+    - Complete and submit [TR1: E1 Review](https://docs.google.com/document/d/1AKBUi_i1XsbP6Aidb5rqQifVveU4rQSpBK-pKVGy8Yc). Remember that it is up to each of you and your teams to help each other make it excellent. **Note that due to the nature of this assignment, it will not be accepted late.** 
+  - **Outside of class**
+    - Complete the design document for [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) which is due Monday.
+    - Use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScfXGza-1SNIx-MqGY5oAXx2mIOhLGFNsEwsImkmN9165_Zlg/viewform) to add questions you may have for Kevin. This form will close on Friday evening.
+    - **Announcement:** Exam E1 will be Friday, October 7. Exam E1 will cover all of the material from the course thus far, but the major topics covered thus far are C++, OOP, Big O, and linear structures stacks, queues, and deques. i.e. the major topics are C++, and the first three chapters of the textbook. 
+
 ## Day 16: Wednesday, September 28, 2022
   - **In class**:
     - Section A:
