@@ -4,6 +4,37 @@
 #### Berea College Fall 2022 Offering
 
 ---
+
+## Day 20: Friday, October 7, 2022
+  - **In class**:
+    - **Exam E1**: Remember that I will not be there. The TAs will proctor the exam.
+  - **Outside of class**
+    - Continue to work on [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) for the second milestone that is due Wednesday.
+    - Read [Chapter 4 in our Data Structures textbook](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107535) in preparation for a reading quiz on Wednesday
+
+## Day 19: Wednesday, October 5, 2022
+  - **In class**:
+    - Discussion of topics for E1
+    - Section B: 
+      - Complete and submit [T11: Queues, Stacks, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw)
+  - **Outside of class**
+    - Continue to work on [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) for the second milestone.
+    - **Study for E1**, which will be Friday, October 7. Exam E1 will cover all of the material from the course thus far, but the major topics covered thus far are C++, OOP, Big O, and linear structures stacks, queues, and deques. i.e. the major topics are C++, and the first three chapters of the textbook.
+    - Read [Chapter 4 in our Data Structures textbook](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107535) in preparation for a reading quiz on Wednesday
+
+## Day 18: Monday, October 3, 2022
+  - **In class**:
+    - Virtual visit with alumni [Kevin Messer](https://www.linkedin.com/in/kevinmesser/).
+    - Section A:
+      - Complete and submit [T11: Queues, Stacks, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw)
+    - Section B: 
+      - Complete and submit [T10: How Long Will This Take?](https://docs.google.com/document/d/1_vzhbJdc5-bmYi1CLpMEgA7WM1c4wXH0EwFb_JOJPek)
+      - Start [T11: Queues, Stacks, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw)
+  - **Outside of class**
+    - Continue to work on [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) for the second milestone.
+    - Complete and submit [A04: A Simple Introduction To Linked Lists](https://docs.google.com/document/d/1r5316kQR2qmtEWYqUaPVcXp_yrIuPQV61RUAy_sj5KU)
+    - **Announcement Reminder:** Exam E1 will be Friday, October 7. Exam E1 will cover all of the material from the course thus far, but the major topics covered thus far are C++, OOP, Big O, and linear structures stacks, queues, and deques. i.e. the major topics are C++, and the first three chapters of the textbook.
+
 ## Day 17: Friday, September 30, 2022
   - **In class**:
     - Section B: 
@@ -21,7 +52,6 @@
       - Begin [T11: Queues, Stacks, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw)
     - Section B: 
       - Complete [T09: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8)
-      - Complete and submit [T10: How Long Will This Take?](https://docs.google.com/document/d/1_vzhbJdc5-bmYi1CLpMEgA7WM1c4wXH0EwFb_JOJPek)
   - **Outside of class**
     - Complete the design document for [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) which is due Monday.
     - Use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScfXGza-1SNIx-MqGY5oAXx2mIOhLGFNsEwsImkmN9165_Zlg/viewform) to add questions you may have for Kevin. This form will close on Friday.
