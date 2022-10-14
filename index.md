@@ -5,6 +5,18 @@
 
 ---
 
+## Day 22: Friday, October 14, 2022
+  - **In class**:
+    - Discuss [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8)
+    - Section A:
+      - Continue [T12: Introduction to Circular Linked Lists](https://docs.google.com/document/d/1uvElflLI-S0S3spkfCkquwi3ZgIEgM49vF9NeTPmN30).
+    - Section B:
+      - Submit [T11: Queues, Stacks, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw)
+      - Start [T12: Introduction to Circular Linked Lists](https://docs.google.com/document/d/1uvElflLI-S0S3spkfCkquwi3ZgIEgM49vF9NeTPmN30).
+  - **Outside of class**
+    - If you are done with [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) start [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44), which has a design doc and explanations of the privded code base due Friday, October 21, 2022.
+    - Complete and submit [A05: Professional Story and Profile](https://docs.google.com/document/d/1-WQKoOoxGn9jCZHx53KMDSTMsKHS9f7KRehmgA1hye8) which is due Monday.
+
 ## Day 21: Wednesday, October 12, 2022
   - **In class**:
     - Debrief on Exam E1
