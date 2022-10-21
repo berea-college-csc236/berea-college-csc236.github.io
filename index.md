@@ -5,6 +5,16 @@
 
 ---
 
+## Day 24: Friday, October 21, 2022
+  - **In class**:
+    - Demo [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) those who have not done so.
+    - Discuss [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44)
+    - Complete [T13: Exploring Linked Lists](https://docs.google.com/document/d/1b4UHkIDdldDGyat5QdZ0FFzOFZKaubeOGuz-jsPR4I0).
+    - Complete and submit [T14: Circling Back to Circular Linked Lists](https://docs.google.com/document/d/18y3Y_DldzoHN8KqVbODXm2ojXxet3Xc1pAm9StJlt5k). 
+  - **Outside of class**
+    - Work on code in [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44/edit?usp=sharing) which has Milestone 2 due Monday.
+    - Read [Chapter 5 in our data structures textbook](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107536) in preparation for a reading quiz on Monday.
+
 ## Day 23: Monday, October 17, 2022
   - **In class**:
     - Discuss and demo [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8)
