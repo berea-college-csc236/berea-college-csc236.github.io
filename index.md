@@ -5,6 +5,18 @@
 
 ---
 
+## Day 28: Monday, October 28, 2022
+  - **In class**:
+    - Discuss [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM), where the first milestone was due today.
+    - Section A:
+      - Complete and submit [T16: Understanding Recursion](https://docs.google.com/document/d/1Bte8UbQq7NSjy4XMJoEcrs8mtUgnt7jVgMQ12Eb7cmw)
+    - Section B:
+      - Complete and submit [T15: Exploring Recursion](https://docs.google.com/document/d/1Qido7yr3NSrx052G3kqQze7PIEIRp9mlPBH3l5BRj5s).
+      - Complete and submit [T16: Understanding Recursion](https://docs.google.com/document/d/1Bte8UbQq7NSjy4XMJoEcrs8mtUgnt7jVgMQ12Eb7cmw)
+  - **Outside of class**
+    - Continue [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM), where the second milestone is due Friday.
+    - Read [Chapter 6: Searching and Hashing](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107538) for Quiz on Wednesday.
+
 ## Day 27: Friday, October 28, 2022
   - **In class**:
     - Discuss [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44) which was due today.
