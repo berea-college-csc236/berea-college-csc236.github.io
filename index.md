@@ -15,6 +15,7 @@
       - Complete and submit [T17: Searching](https://docs.google.com/document/d/1tYBkApVgtJaTdGhd1KCYprnOyZyP5FyKvSmw5gcCa84)
   - **Outside of class**
     - Continue [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)--the final milestone is due Wednesday.
+    - Remember to read [Chapter 7: Sorting](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107537) for a quiz on Wednesday.
 
 ## Day 30: Friday, November 4, 2022
   - **In class**:
