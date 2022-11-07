@@ -16,6 +16,8 @@
   - **Outside of class**
     - Continue [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)--the final milestone is due Wednesday.
     - Remember to read [Chapter 7: Sorting](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107537) for a quiz on Wednesday.
+  - **Announcement**
+    - We will have Homecoming events you can attand for extra credit or to drop quiz grades! Details will be forthcoming.
 
 ## Day 30: Friday, November 4, 2022
   - **In class**:
