@@ -5,6 +5,17 @@
 
 ---
 
+## Day 32: Wednesday, November 7, 2022
+  - **In class**:
+    - Quiz for [Chapter 7: Sorting](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107537)
+    - Demo of [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). The final milestone is due today.
+    - Complete and submit [T18: Exploring Hashing](https://docs.google.com/document/d/1Rphbo_GvKvKquZtxsSYY__cTF4ZGO4uwNEcA70dN5e0)
+    - Start [T19: Hashing Functions and Collisions](https://docs.google.com/document/d/1LAYpzVOzkV2rSydtPBIJ14aQczKQHbne-F_YmyWpEkA).
+  - **Outside of class**
+    - Complete and submit [A08: Considering Diversity here and in the Workplace](https://docs.google.com/document/d/1GgQ0yrnytucqukz-ypOvNld4sJ4c4UNH_IkJkh3046Y)
+  - **Announcement**
+    - We will have Homecoming events you can attand for extra credit or to drop quiz grades! Details will be forthcoming.
+
 ## Day 31: Monday, November 7, 2022
   - **In class**:
     - Discussion of [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). The second milesone was due today.
@@ -29,7 +40,7 @@
       - Complete and submit [T16: Understanding Recursion](https://docs.google.com/document/d/1Bte8UbQq7NSjy4XMJoEcrs8mtUgnt7jVgMQ12Eb7cmw)
       - Complete and submit [T17: Searching](https://docs.google.com/document/d/1tYBkApVgtJaTdGhd1KCYprnOyZyP5FyKvSmw5gcCa84)
   - **Outside of class**
-    - Continue [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)--the second milestone is due Monday.
+    - Continue [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)--the second milestone is due Wednesday.
     - Read [Chapter 7: Sorting](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107537) for a quiz on Wednesday.
 
 ## Day 29: Wednesday, November 2, 2022
@@ -42,7 +53,7 @@
       - Complete and submit [T16: Understanding Recursion](https://docs.google.com/document/d/1Bte8UbQq7NSjy4XMJoEcrs8mtUgnt7jVgMQ12Eb7cmw)
       - Complete and submit [T17: Searching](https://docs.google.com/document/d/1tYBkApVgtJaTdGhd1KCYprnOyZyP5FyKvSmw5gcCa84)
   - **Outside of class**
-    - Continue [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). The second milesone is due Monday--you must have committed and pushed all the code for the basic algorithm, even if it is not quite working.
+    - Continue [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). The second milesone is due Wednesday--you must have committed and pushed all the code for the basic algorithm, even if it is not quite working.
     - Complete [A07: What is Hashing](https://docs.google.com/document/d/1ON_KiUoWUE_NKCpsuZMztgkK9dmJAMLXTa8DxhgI90U/edit?usp=sharing) for Friday. It is very short, so you can easily do this and the lab milestone.
 
 ## Day 28: Monday, October 31, 2022
