@@ -19,7 +19,7 @@
       - Alumni Panel, 11:00am - 12:30pm on Saturday, November 19th at Danforth Technology
       - Lunch and Network Event, 12:30pm - 2:00pm on Saturday, November 19th at Danforth Technology 
 
-## Day 32: Wednesday, November 7, 2022
+## Day 32: Wednesday, November 9, 2022
   - **In class**:
     - Quiz for [Chapter 7: Sorting](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107537)
     - Demo of [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). The final milestone is due today.
