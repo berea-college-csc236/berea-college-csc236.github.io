@@ -5,6 +5,20 @@
 
 ---
 
+## Day 33: Friday, November 11, 2022
+  - **In class**:
+    - Demo of [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM) for those who have not had a chance yet.
+    - Complete and submit [T18: Exploring Hashing](https://docs.google.com/document/d/1Rphbo_GvKvKquZtxsSYY__cTF4ZGO4uwNEcA70dN5e0)
+    - Start and complete [T19: Hashing Functions and Collisions](https://docs.google.com/document/d/1LAYpzVOzkV2rSydtPBIJ14aQczKQHbne-F_YmyWpEkA).
+  - **Outside of class**
+    - Begin [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw) which has only a single milestone. It is due Wednesday, November 16.
+    - Complete and submit [A09: Codes and Teamwork](https://docs.google.com/document/d/1scfkIjI15XaE1W9O_lWpPv6ow0RdXd6Ue8UGGNuwULI) for Monday.
+  - **Announcement**
+    - We will have Homecoming events you can attand for extra credit or to drop quiz grades! There will be
+      - Great Conversations, 6:00pm on Thursday November 17th at the Boone Tavern Event Center
+      - Alumni Panel, 11:00am - 12:30pm on Saturday, November 19th at Danforth Technology
+      - Lunch and Network Event, 12:30pm - 2:00pm on Saturday, November 19th at Danforth Technology 
+
 ## Day 32: Wednesday, November 7, 2022
   - **In class**:
     - Quiz for [Chapter 7: Sorting](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107537)
