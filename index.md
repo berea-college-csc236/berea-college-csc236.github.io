@@ -7,11 +7,13 @@
 
 ## Day 34: Monday, November 14, 2022
   - **In class**:
+    - Questions on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)
     - Start and complete [T19: Hashing Functions and Collisions](https://docs.google.com/document/d/1LAYpzVOzkV2rSydtPBIJ14aQczKQHbne-F_YmyWpEkA). You *must* finish this by today.
     - Complete and submit [T20: On Sorting](https://docs.google.com/document/d/1bUGZJNs8ARo3GyLqhumF-bL6slKTrzlZmAVF5RScjAI). You *must* be least 1/2 way done for this by today.
   - **Outside of class**
-    - Complete and submit [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw) if necessary by Tuesday.
-   - Read [Sections 8.1-8.9: on Trees](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107539) for a quiz on Wednesday.
+    - Complete and submit [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw) if necessary by Wednesday.
+    - Remember to complete and submit [A09: Codes and Teamwork](https://docs.google.com/document/d/1scfkIjI15XaE1W9O_lWpPv6ow0RdXd6Ue8UGGNuwULI) for Wednesday.
+    - Read [Sections 8.1-8.9: on Trees](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107539) for a quiz on Wednesday.
   - **Announcement**
     - We will have Homecoming events you can attand for extra credit or to drop quiz grades! There will be
       - Great Conversations, 6:00pm on Thursday November 17th at the Boone Tavern Event Center
