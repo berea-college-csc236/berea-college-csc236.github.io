@@ -13,7 +13,7 @@
     - Complete and submit [T21: Recursive Sorting](https://docs.google.com/document/d/1Zvcu_nvpkPZfn4wDhPEM7ub96dj7vb0LB9lIly3DjZs)
   - **Outside of class**
     - Read [Sections 8.10-8.23: on Tree Algorithms](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107540) for a quiz for next time.
-    - Look at [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0), the last Lab!
+    - Work on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0), the first milestone is due Nov 28
   - **Announcement**
     - We will have Homecoming events you can attand for extra credit or to drop quiz grades! There will be
       - Alumni Panel, 11:00am - 12:30pm on Saturday, November 19th at Danforth Technology
