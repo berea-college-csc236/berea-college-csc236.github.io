@@ -7,6 +7,8 @@
 
 ## Day 36: Friday, November 18, 2022
   - **In class**:
+    - Questions on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0), the last Lab!
+    - Discussion on [Final Project Requirements](https://docs.google.com/document/d/15JyajlDZ2-LW9KPa-DKm5LZSXBN10lFX6OzK4ryG4uA)
     - Complete and submit [T20: On Sorting](https://docs.google.com/document/d/1bUGZJNs8ARo3GyLqhumF-bL6slKTrzlZmAVF5RScjAI)
     - Complete and submit [T21: Recursive Sorting](https://docs.google.com/document/d/1Zvcu_nvpkPZfn4wDhPEM7ub96dj7vb0LB9lIly3DjZs)
   - **Outside of class**
