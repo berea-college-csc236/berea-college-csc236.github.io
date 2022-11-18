@@ -5,14 +5,25 @@
 
 ---
 
+## Day 36: Friday, November 18, 2022
+  - **In class**:
+    - Complete and submit [T20: On Sorting](https://docs.google.com/document/d/1bUGZJNs8ARo3GyLqhumF-bL6slKTrzlZmAVF5RScjAI)
+    - Complete and submit [T21: Recursive Sorting](https://docs.google.com/document/d/1Zvcu_nvpkPZfn4wDhPEM7ub96dj7vb0LB9lIly3DjZs)
+  - **Outside of class**
+    - Read [Sections 8.10-8.23: on Tree Algorithms](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107540) for a quiz for next time.
+    - Look at [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0), the last Lab!
+  - **Announcement**
+    - We will have Homecoming events you can attand for extra credit or to drop quiz grades! There will be
+      - Alumni Panel, 11:00am - 12:30pm on Saturday, November 19th at Danforth Technology
+      - Lunch and Network Event, 12:30pm - 2:00pm on Saturday, November 19th at Danforth Technology 
+
 ## Day 35: Wednesday, November 16, 2022
   - **In class**:
     - Quiz on [Sections 8.1-8.9: on Trees](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107539).
-    - Questions on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)
     - Complete and submit [T20: On Sorting](https://docs.google.com/document/d/1bUGZJNs8ARo3GyLqhumF-bL6slKTrzlZmAVF5RScjAI)
     - Begin [T21: Recursive Sorting](https://docs.google.com/document/d/1Zvcu_nvpkPZfn4wDhPEM7ub96dj7vb0LB9lIly3DjZs) which we will complete next time.
   - **Outside of class**
-    - Read [Sections 8.10-8.23: on Tree Algorithms](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107540) for a quiz for next time.
+    - Read [Sections 8.10-8.23: on Tree Algorithms](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107540) for a quiz for Monday.
     - Look at [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0), the last Lab!
   - **Announcement**
     - We will have Homecoming events you can attand for extra credit or to drop quiz grades! There will be
@@ -42,7 +53,7 @@
     - Complete and submit [T18: Exploring Hashing](https://docs.google.com/document/d/1Rphbo_GvKvKquZtxsSYY__cTF4ZGO4uwNEcA70dN5e0)
     - Start and complete [T19: Hashing Functions and Collisions](https://docs.google.com/document/d/1LAYpzVOzkV2rSydtPBIJ14aQczKQHbne-F_YmyWpEkA).
   - **Outside of class**
-    - Complete and submit [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw) which has only a single milestone. It is due Monday, November 14.
+    - Complete and submit [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw) which has only a single milestone. It is due Wednesday, November 16.
     - Complete and submit [A09: Codes and Teamwork](https://docs.google.com/document/d/1scfkIjI15XaE1W9O_lWpPv6ow0RdXd6Ue8UGGNuwULI) for Wednesday.
   - **Announcement**
     - We will have Homecoming events you can attand for extra credit or to drop quiz grades! There will be
