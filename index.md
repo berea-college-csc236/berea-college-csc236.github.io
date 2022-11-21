@@ -5,6 +5,23 @@
 
 ---
 
+## Day 37: Monday, November 21, 2022
+  - **In class**:
+    - Quiz on [Sections 8.10-8.23: on Tree Algorithms](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107540).
+    - Questions on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0), the last Lab!
+    - Choose projects and teams for [Final Project](https://docs.google.com/document/d/15JyajlDZ2-LW9KPa-DKm5LZSXBN10lFX6OzK4ryG4uA)
+    - Section A:
+      - Complete and submit [T22: Exploring Trees](https://docs.google.com/document/d/1t0mL8FmPE1f4IfV03tyQcT1FPfdepX37KHRBftUxSh0)
+      - Begin [T23: Binary Search Trees](https://docs.google.com/document/d/1YUYAn-6t1TLIE_pNS94MvAU7InyuF6E6N-iDuRoYk1Y)
+    - Section B:
+      - Complete and submit [T21: Recursive Sorting](https://docs.google.com/document/d/1Zvcu_nvpkPZfn4wDhPEM7ub96dj7vb0LB9lIly3DjZs)
+      - Start and submit [T22: Exploring Trees](https://docs.google.com/document/d/1t0mL8FmPE1f4IfV03tyQcT1FPfdepX37KHRBftUxSh0)
+- **Outside of class**
+    - Read [Chapter 9: on Graphs and Graph Algorithms](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107541) for a quiz for next time.
+    - Work on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0), the first milestone is due Nov 28. **Milestone 2 and 3 are due Wednesday and Friday, so make sure you are working on the implementation!** 
+- **Announcement**
+    - The second exam for this class is planned for Wednesday, December 7th.
+
 ## Day 36: Friday, November 18, 2022
   - **In class**:
     - Questions on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0), the last Lab!
@@ -12,7 +29,7 @@
     - Complete and submit [T20: On Sorting](https://docs.google.com/document/d/1bUGZJNs8ARo3GyLqhumF-bL6slKTrzlZmAVF5RScjAI)
     - Complete and submit [T21: Recursive Sorting](https://docs.google.com/document/d/1Zvcu_nvpkPZfn4wDhPEM7ub96dj7vb0LB9lIly3DjZs)
     - Complete and submit [T22: Exploring Trees](https://docs.google.com/document/d/1t0mL8FmPE1f4IfV03tyQcT1FPfdepX37KHRBftUxSh0)
-- **Outside of class**
+  - **Outside of class**
     - Read [Sections 8.10-8.23: on Tree Algorithms](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107540) for a quiz for next time.
     - Work on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0), the first milestone is due Nov 28
   - **Announcement**
