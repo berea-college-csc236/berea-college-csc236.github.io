@@ -10,11 +10,10 @@
     - Questions on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0), the **last Lab**
     - Choose projects and teams for [Final Project](https://docs.google.com/document/d/15JyajlDZ2-LW9KPa-DKm5LZSXBN10lFX6OzK4ryG4uA)
     - Section A:
-      - Complete and submit [T23: Binary Search Trees](https://docs.google.com/document/d/1YUYAn-6t1TLIE_pNS94MvAU7InyuF6E6N-iDuRoYk1Y)
-      - Start [T24: Exploring Graphs](https://docs.google.com/document/d/1lq4QQeKIZg7rA1KItCHP8jRKkDQsMkVGZdTr1DlDBHY)
- - Section B:
+      - Work on [T23: Binary Search Trees](https://docs.google.com/document/d/1YUYAn-6t1TLIE_pNS94MvAU7InyuF6E6N-iDuRoYk1Y)
+    - Section B:
       - Complete and submit [T22: Exploring Trees](https://docs.google.com/document/d/1t0mL8FmPE1f4IfV03tyQcT1FPfdepX37KHRBftUxSh0)
-      - Start [T23: Binary Search Trees](https://docs.google.com/document/d/1YUYAn-6t1TLIE_pNS94MvAU7InyuF6E6N-iDuRoYk1Y)
+      - Work on [T23: Binary Search Trees](https://docs.google.com/document/d/1YUYAn-6t1TLIE_pNS94MvAU7InyuF6E6N-iDuRoYk1Y)
 - **Outside of class**
     - Work on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0), **Milestone 2 is due Wednesday!** Final Milestone is due Friday. 
     - Complete [A10: Review and Reflection](https://docs.google.com/document/d/1zS8jEGIKEUvBC1kr84Cs3AoqYIKnnklGyB4EowCDw2w) by Friday. Due to the nature of the assignment, **It will not be accepted late.**
