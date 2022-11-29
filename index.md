@@ -4,6 +4,16 @@
 #### Berea College Fall 2022 Offering
 
 ---
+## Day 39: Monday, November 28, 2022
+  - **In class**:
+    - Questions on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0), the **last Lab**
+    - Complete and submit [T23: Binary Search Trees](https://docs.google.com/document/d/1YUYAn-6t1TLIE_pNS94MvAU7InyuF6E6N-iDuRoYk1Y)
+    - Complete and submit [T24: Exploring Graphs](https://docs.google.com/document/d/1lq4QQeKIZg7rA1KItCHP8jRKkDQsMkVGZdTr1DlDBHY), the **last teamwork?**
+- **Outside of class**
+    - Work on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0), **Milestone 2 is due Wednesday!** Final Milestone is due Friday. 
+    - Complete [A10: Review and Reflection](https://docs.google.com/document/d/1zS8jEGIKEUvBC1kr84Cs3AoqYIKnnklGyB4EowCDw2w) by Friday. Due to the nature of the assignment, **It will not be accepted late.**
+    - Complete [FP1: Initial Planning for Final Project](https://docs.google.com/document/d/1byMsKfTPPEGO4eGSdHohAxkCYRKO1tHqb0Bd7eghFlg) by Thursday, depending on how the topics are selected. 
+
 ## Day 38: Monday, November 28, 2022
   - **In class**:
     - Quiz [Chapter 9: on Graphs and Graph Algorithms](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107541) - The **last reading!**
