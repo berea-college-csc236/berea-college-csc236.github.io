@@ -4,7 +4,7 @@
 #### Berea College Fall 2022 Offering
 
 ---
-## Day 39: Wednesday, November 30, 2022
+## Day 40: Wednesday, November 30, 2022
   - **In class**:
     - Questions on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0), the **last Lab**, **Milestone 2 is due TODAY!** 
     - Complete and submit [T23: Binary Search Trees](https://docs.google.com/document/d/1YUYAn-6t1TLIE_pNS94MvAU7InyuF6E6N-iDuRoYk1Y)
