@@ -10,7 +10,7 @@
     - Complete [TR2 Peerwise Review for E2](https://docs.google.com/document/d/1eAqhEN9_FAKaz_hFZgvVSAW1oz97OV3ldRrso84pMP4) which is due by 11:55pm and will not be accepted late. Be sure that all questions are reviewed and improved. 
 - **Outside of class**
     - Work on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0), Final Milestone is **due Monday**. 
-    - Read and get ready for [FP2: Planning and Preliminary Video Script](https://docs.google.com/document/d/16lsG7uJKPY1XXHka3-KP-7GiviBg2ePTxUKma_bg7lk) **on Monday**
+    - Read and get ready for [FP2: Planning and Preliminary Video Script](https://docs.google.com/document/d/16lsG7uJKPY1XXHka3-KP-7GiviBg2ePTxUKma_bg7lk) which we will work during class **on Monday**
 
 ## Day 40: Wednesday, November 30, 2022
   - **In class**:
