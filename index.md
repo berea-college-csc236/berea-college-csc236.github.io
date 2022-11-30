@@ -4,6 +4,14 @@
 #### Berea College Fall 2022 Offering
 
 ---
+## Day 41: Friday, December 2, 2022
+  - **In class**:
+    - Questions on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0), the **last Lab**, **Milestone 2 is due today!** 
+    - Complete [TR2 Peerwise Review for E2](https://docs.google.com/document/d/1eAqhEN9_FAKaz_hFZgvVSAW1oz97OV3ldRrso84pMP4) which is due by 11:55pm and will not be accepted late. Be sure that all questions are reviewed and improved. 
+- **Outside of class**
+    - Work on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0), Final Milestone is **due Monday**. 
+    - Read and get ready for [FP2: Planning and Preliminary Video Script](https://docs.google.com/document/d/16lsG7uJKPY1XXHka3-KP-7GiviBg2ePTxUKma_bg7lk) **on Monday**
+
 ## Day 40: Wednesday, November 30, 2022
   - **In class**:
     - Questions on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0), the **last Lab**, **Milestone 2 is due Friday!** 
@@ -18,9 +26,8 @@
   - **In class**:
     - Questions on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0), the **last Lab**
     - Complete and submit [T23: Binary Search Trees](https://docs.google.com/document/d/1YUYAn-6t1TLIE_pNS94MvAU7InyuF6E6N-iDuRoYk1Y)
-    - Complete and submit [T24: Exploring Graphs](https://docs.google.com/document/d/1lq4QQeKIZg7rA1KItCHP8jRKkDQsMkVGZdTr1DlDBHY), the **last teamwork?**
 - **Outside of class**
-    - Work on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0), **Milestone 2 is due Wednesday!** Final Milestone is due Friday. 
+    - Work on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0), **Milestone 2 is due Friday!** Final Milestone is due Monday. 
     - Complete [A10: Review and Reflection](https://docs.google.com/document/d/1zS8jEGIKEUvBC1kr84Cs3AoqYIKnnklGyB4EowCDw2w) by Friday. Due to the nature of the assignment, **It will not be accepted late.**
     - Complete [FP1: Initial Planning for Final Project](https://docs.google.com/document/d/1byMsKfTPPEGO4eGSdHohAxkCYRKO1tHqb0Bd7eghFlg) by Thursday, depending on how the topics are selected. 
 
@@ -35,7 +42,7 @@
       - Complete and submit [T22: Exploring Trees](https://docs.google.com/document/d/1t0mL8FmPE1f4IfV03tyQcT1FPfdepX37KHRBftUxSh0)
       - Work on [T23: Binary Search Trees](https://docs.google.com/document/d/1YUYAn-6t1TLIE_pNS94MvAU7InyuF6E6N-iDuRoYk1Y)
 - **Outside of class**
-    - Work on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0), **Milestone 2 is due Wednesday!** Final Milestone is due Friday. 
+    - Work on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0), **Milestone 2 is due Friday!** Final Milestone is due next Monday. 
     - Complete [A10: Review and Reflection](https://docs.google.com/document/d/1zS8jEGIKEUvBC1kr84Cs3AoqYIKnnklGyB4EowCDw2w) by Friday. Due to the nature of the assignment, **It will not be accepted late.**
     - Complete [FP1: Initial Planning for Final Project](https://docs.google.com/document/d/1byMsKfTPPEGO4eGSdHohAxkCYRKO1tHqb0Bd7eghFlg) by Thursday, depending on how the topics are selected. 
 
@@ -52,7 +59,7 @@
       - Start and submit [T22: Exploring Trees](https://docs.google.com/document/d/1t0mL8FmPE1f4IfV03tyQcT1FPfdepX37KHRBftUxSh0)
 - **Outside of class**
     - Read [Chapter 9: on Graphs and Graph Algorithms](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107541) for a quiz for next time.
-    - Work on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0), the first milestone is due Nov 28. **Milestone 2 and 3 are due Wednesday and Friday, so make sure you are working on the implementation!** 
+    - Work on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0), the first milestone is due Next Monday. **Milestone 2 is due Friday, so make sure you are working on the implementation!** 
 - **Announcement**
     - The second exam for this class is planned for Wednesday, December 7th.
 
