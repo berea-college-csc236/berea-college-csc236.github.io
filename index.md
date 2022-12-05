@@ -17,6 +17,7 @@
     - Work on [FP2: Planning and Preliminary Video Script](https://docs.google.com/document/d/16lsG7uJKPY1XXHka3-KP-7GiviBg2ePTxUKma_bg7lk) if you are done with T24.
 - **Outside of class**
     - Study for Exam E2.
+    - Complete and submit [FP2: Planning and Preliminary Video Script](https://docs.google.com/document/d/16lsG7uJKPY1XXHka3-KP-7GiviBg2ePTxUKma_bg7lk)
 
 ## Day 41: Friday, December 2, 2022
   - **In class**:
