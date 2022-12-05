@@ -12,12 +12,12 @@
 
 ## Day 42: Monday, December 5, 2022
   - **In class**:
-    - Questions on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0), the **last Lab**, **Final Lab is due today!** 
+    - Questions on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0), the **last Lab**, **Final Lab is due Friday!** 
     - Complete and submit [T24: Exploring Graphs](https://docs.google.com/document/d/1lq4QQeKIZg7rA1KItCHP8jRKkDQsMkVGZdTr1DlDBHY), the **last teamwork**
-    - Work on [FP2: Planning and Preliminary Video Script](https://docs.google.com/document/d/16lsG7uJKPY1XXHka3-KP-7GiviBg2ePTxUKma_bg7lk) if you are done with T24.
+    - Work on [FP2: Planning and Preliminary Video Script](https://docs.google.com/document/d/16lsG7uJKPY1XXHka3-KP-7GiviBg2ePTxUKma_bg7lk) if you are done with T24. This ubmission is a **preliminary script**. You will submit a final version the day before the final period for your section.
 - **Outside of class**
     - Study for Exam E2.
-    - Complete and submit [FP2: Planning and Preliminary Video Script](https://docs.google.com/document/d/16lsG7uJKPY1XXHka3-KP-7GiviBg2ePTxUKma_bg7lk)
+    - Complete and submit [FP2: Planning and Preliminary Video Script](https://docs.google.com/document/d/16lsG7uJKPY1XXHka3-KP-7GiviBg2ePTxUKma_bg7lk) by tonight.
 
 ## Day 41: Friday, December 2, 2022
   - **In class**:
