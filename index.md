@@ -4,6 +4,20 @@
 #### Berea College Fall 2022 Offering
 
 ---
+## Day 44: Friday, December 9, 2022
+  - **In class**:
+    - Demo of [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0) 
+    - E2 Redo
+    - Fill out IEQs for this class!
+    - Work on [FP3: Final Project Big O Analysis](https://docs.google.com/document/d/1RWkZEl1XNMVA-PfnAdD9Teip1oirXtkDnU_vtboWloA), once everyone has completed IEQs.
+  - **Outside of class**
+    - Work on [FP3: Final Project Big O Analysis](https://docs.google.com/document/d/1RWkZEl1XNMVA-PfnAdD9Teip1oirXtkDnU_vtboWloA), which is due tonight.
+    - Complete and submit [FP4: Final Project Link to Video and Final Transcript](https://docs.google.com/document/d/17YmTJYWzVriYggUipkHsSzqzFxamCTT3BZWiE0dA2s0) which is due by 8 am on the day of your final exam period.
+    - Complete and submit **FPE: Team Evaluation** due by 11:55pm on the day of your final exam period.
+    - Reminder: The final exam period will be used for presenting final projects: 
+      - Section A (13:20-14:30) has the final exam period on Thursday, December 15 at 11:45 am.
+      - Section B (14:40-15:50) has the final exam period on Tuesday, December 13 at 3 pm.
+
 ## Day 43: Wednesday, December 7, 2022
   - **In class**:
     - **Exam E2**
