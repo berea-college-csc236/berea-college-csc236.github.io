@@ -12,7 +12,7 @@
     - Work on [FP3: Final Project Big O Analysis](https://docs.google.com/document/d/1RWkZEl1XNMVA-PfnAdD9Teip1oirXtkDnU_vtboWloA), once everyone has completed IEQs.
   - **Outside of class**
     - Work on [FP3: Final Project Big O Analysis](https://docs.google.com/document/d/1RWkZEl1XNMVA-PfnAdD9Teip1oirXtkDnU_vtboWloA), which is due tonight.
-    - Complete and submit [FP4: Final Project Link to Video and Final Transcript](https://docs.google.com/document/d/17YmTJYWzVriYggUipkHsSzqzFxamCTT3BZWiE0dA2s0) which is due by 8 am on the day of your final exam period.
+    - Complete and submit [FP4: Final Project Link to Video and Final Transcript](https://docs.google.com/document/d/17YmTJYWzVriYggUipkHsSzqzFxamCTT3BZWiE0dA2s0) which is due 11:55pm on the day BEFORE your final exam period.
     - Complete and submit **FPE: Team Evaluation** due by 11:55pm on the day of your final exam period.
     - Reminder: The final exam period will be used for presenting final projects: 
       - Section A (13:20-14:30) has the final exam period on Thursday, December 15 at 11:45 am.
