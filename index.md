@@ -5,13 +5,23 @@
 
 ---
 
+## Day 4: Friday, January 20, 2023
+  - **In class**:
+    - [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8) Show!
+    - Quiz on [Chapters 4 and 5 of C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=124793)
+    - Complete and submit [Teamwork T02](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ).
+    - Start [Teamwork T03: Debugging Techniques](https://docs.google.com/document/d/1T0BS2SzKxoOXg_EpfDCpFd8UG219_Jbqzl8W1kogtcc).
+  - **Outside of class**
+    - Read [Chapters 6, 7 and 8 in C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=124791) for a reading quiz next class. Be sure you are logged in and do all activities to get credit!
+    - Start [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c). This is an individual lab that has Milestone 1 due on Monday, Milestone 2 on Wednesday, and the full lab due on Friday of next week.
+
 ## Day 3: Wednesday, January 18, 2023
   - **In class**:
     - Quiz on [Chapters 2 and 3 of C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=124792)
     - Begin and hopefully complete [Teamwork T02](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ).
   - **Outside of class**:
-    - Read [Chapters 4 and 5 in C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107632). Be sure you are logged in and do all activities to get credit!
-    - Continue [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). This is an individual Lab. The first milestone is due on Wednesday and the final submission is due on Friday.
+    - Read [Chapters 4 and 5 in C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=124793) for a reading quiz next class. Be sure you are logged in and do all activities to get credit!
+    - Continue [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). This is an individual Lab. The first milestone was due today and the final submission is due on Friday.
 
 ## Monday, January 16, 2023 - MLK Day
   - No Class
@@ -23,7 +33,7 @@
     - Complete, download, and submit [Teamwork T01](https://docs.google.com/document/d/1Bz1sbwxid1ydkSHaO5nDMpMgzwa29Py6zzTlWGUvBzM)
   - **Outside of class** (due before class on Monday):
     - Begin [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). This is an individual Lab. The first milestone is due Wednesday, January 18, 2023. The final completion milestone of the  lab is due Friday, January 20, 2023.
-    - Read [Chapters 2 and 3 in C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=124792). Be sure you are logged in and do all activities to get credit!
+    - Read [Chapters 2 and 3 in C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=124792) for a reading quiz next class. Be sure you are logged in and do all activities to get credit!
 
 ## Day 1: Wednesday, January 11, 2023
   - **In class**:
