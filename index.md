@@ -1,7 +1,6 @@
-## Website for the Berea College
-## CSC 236: Data Structures
-### Dr. Mario Nakazawa
-#### Berea College Fall 2022 Offering
+# CSC 236: Data Structures Website, Berea College
+## Dr. Mario Nakazawa
+### Berea College Spring 2023 Offering
 
 ---
 
