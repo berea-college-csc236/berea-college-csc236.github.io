@@ -40,7 +40,7 @@
 ## Day 4: Friday, January 20, 2023
   - **In class**:
     - [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8) Show!
-    - Quiz on [Chapters 4 and 5 of C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=124793)
+    - Quiz on [Chapters 4 and 5 of C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126782)
     - Complete and submit [Teamwork T02](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ).
   - **Outside of class**
     - Read [Chapters 6, 7 and 8 in C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=124791) for a reading quiz next class. Be sure you are logged in and do all activities to get credit!
@@ -51,7 +51,7 @@
     - Quiz on [Chapters 2 and 3 of C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=124792)
     - Begin and hopefully complete [Teamwork T02](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ).
   - **Outside of class**:
-    - Read [Chapters 4 and 5 in C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=124793) for a reading quiz next class. Be sure you are logged in and do all activities to get credit!
+    - Read [Chapters 4 and 5 in C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126782) for a reading quiz next class. Be sure you are logged in and do all activities to get credit!
     - Continue [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). This is an individual Lab. The first milestone was due today and the final submission is due on Friday.
 
 ## Monday, January 16, 2023 - MLK Day
