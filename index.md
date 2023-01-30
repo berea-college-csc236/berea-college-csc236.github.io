@@ -84,7 +84,7 @@
 ## Day 8: Monday, January 30, 2023
   - **In class**:
     - Questions on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q)
-    - Start and complete [T05: Understanding OOD and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4)
+    - Start [T05: Understanding OOD and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4)
   - **Outside of class**
     - Read [Chapter 2 on Big O](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126097) in preparation for a reading quiz on Wednesday. **This is one of the most important topics in the entire course; you might try to find time to read it twice!** Be sure you are logged in and do all activities to get credit!
     - Continue [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q). This is an individual lab that has Milestone 1 due on Wednesday and the full lab due on Friday.
