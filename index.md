@@ -88,7 +88,6 @@
   - **Outside of class**
     - Continue reading [Chapter 2 on Big O](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126097) in preparation for a reading quiz on Wednesday. **This is one of the most important topics in the entire course; you might try to find time to read it twice!** Be sure you are logged in and do all activities to get credit!
     - Continue [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q). This is an individual lab that has Milestone 1 due on Wednesday and the full lab due on Friday.
---->
 
 ## Day 9: Wednesday, February 1, 2023
   - **In class**:
@@ -98,12 +97,13 @@
   - **Outside of class**
     - Continue [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q) - Does the deadline need to be extended to Monday?
     - Complete and submit [A02: Programmer Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU) by 8am on Monday
+--->
 
 ## Day 10: Friday, February 3, 2023
   - **In class**:
     - Quiz on Reading [Chapter 2 on Big O](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126097) 
     - Debrief  [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q)
-    - Complete and submit [T06: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag) - *your new team composition will be decided in class*
+    - Complete and submit [T06: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag) - *your new pair programming composition will be decided in class*
   - **Outside of class**
     - Complete and submit [A02: Programmer Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU) by 8am on Monday
     - Read [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) which has its first design document due this coming Monday.
@@ -122,7 +122,7 @@
     - Complete and submit [T08: When does Big O matter?](https://docs.google.com/document/d/15YCNbR98lwzy7A-fVnoK_Kp-6wn4krgqF-fKXsla_CM)
   - **Outside of class**
     - Read [Sections 3.1-3.9 in our Data Structures textbook](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126096) in preparation for  a reading quiz.
-    - Continue working on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) which is due on Monday, Sept 26.
+    - Continue working on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) which is due on Monday.
 
 ---
 ###### Copyright © 2022 | Licensed under a Creative Commons Attribution-Share Alike 3.0 United States License
