@@ -106,7 +106,8 @@
     - Complete and submit [T06: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag) - *your new pair programming composition will be decided in class*
   - **Outside of class**
     - Complete and submit [A02: Programmer Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU) by 8am on Monday
-    - Read [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) which has its first design document due this coming Monday.
+    - Submit [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q)
+    - Read [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) which has its first design document due this coming Wednesday.
 
 ## Day 11: Monday, February 6, 2023
   - **In class**:
@@ -114,7 +115,7 @@
     - Questions on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E)
     - Begin and submit [T07: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE)
   - **Outside of class**
-    - Complete the second milestone of [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) which is due this coming Wednesday.
+    - Complete the first milestone of [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) which is due this coming Wednesday.
 
 ## Day 12: Wednesday, February 8, 2023
   - **In class**:
@@ -122,7 +123,7 @@
     - Complete and submit [T08: When does Big O matter?](https://docs.google.com/document/d/15YCNbR98lwzy7A-fVnoK_Kp-6wn4krgqF-fKXsla_CM)
   - **Outside of class**
     - Read [Sections 3.1-3.9 in our Data Structures textbook](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126096) in preparation for  a reading quiz.
-    - Continue working on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) which is due on Monday.
+    - Complete the second milestone of [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) which is due on Friday.
 
 ---
 ###### Copyright © 2022 | Licensed under a Creative Commons Attribution-Share Alike 3.0 United States License
