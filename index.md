@@ -103,10 +103,11 @@
   - **In class**:
     - Quiz on Reading [Chapter 2 on Big O](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126097) 
     - Debrief  [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q)
-    - Complete and submit [T06: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag) - *your new pair programming composition will be decided in class*
+    - Complete if necessary [T05: Understanding OOD and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4)
+    - Start and (hopefully) complete [T06: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag) - *your new pair programming composition will be decided in class*
   - **Outside of class**
     - Complete and submit [A02: Programmer Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU) by 8am on Monday
-    - Submit [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q)
+    - Submit [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q) by Monday
     - Read [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) which has its first design document due this coming Wednesday.
 
 ## Day 11: Monday, February 6, 2023
