@@ -3,6 +3,8 @@
 ### Berea College Spring 2023 Offering
 
 ---
+Remember that you can right click and select the "View page source" to view the previous dates as comments
+
 <!---
 
 ## Day 1: Wednesday, January 11, 2023
