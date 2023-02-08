@@ -110,23 +110,24 @@ Remember that you can right click and select the "View page source" to view the 
     - Complete and submit [A02: Programmer Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU) by 8am on Monday
     - Submit [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q) by Monday
     - Read [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) which has its first design document due this coming Wednesday.
---->
 
 ## Day 11: Monday, February 6, 2023
   - **In class**:
     - Discussion on [A02: Programmer Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU)
     - Questions on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E)
     - Continue [T06: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag) 
-    - Begin and submit [T07: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE)
+    - Begin [T07: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE)
   - **Outside of class**
     - In preparation for resume and career building:
       - Read [Google Slides with succinct guidelines for students in preparing a technical resume](https://docs.google.com/presentation/d/1tNxWsuDm3TyXpTn6tB32aZyYeHENNR2sCYGjKpzfmiw) 
       - Look at [The Tech Resume Template](https://docs.google.com/document/d/11gQ1DUXhP37aenxu_AK7Oud6h7tvouYGbl3ZXnpTqGg)
     - Complete the first milestone of [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) which is due Wednesday.
+--->
 
 ## Day 12: Wednesday, February 8, 2023
   - **In class**:
     - Questions on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E)
+    - Begin and submit [T07: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE)
     - Complete and submit [T08: When does Big O matter?](https://docs.google.com/document/d/15YCNbR98lwzy7A-fVnoK_Kp-6wn4krgqF-fKXsla_CM)
   - **Outside of class**
     - Complete the second milestone of [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) which is due on Friday.
