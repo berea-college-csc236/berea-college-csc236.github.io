@@ -122,7 +122,6 @@ Remember that you can right click and select the "View page source" to view the 
       - Read [Google Slides with succinct guidelines for students in preparing a technical resume](https://docs.google.com/presentation/d/1tNxWsuDm3TyXpTn6tB32aZyYeHENNR2sCYGjKpzfmiw) 
       - Look at [The Tech Resume Template](https://docs.google.com/document/d/11gQ1DUXhP37aenxu_AK7Oud6h7tvouYGbl3ZXnpTqGg)
     - Complete the first milestone of [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) which is due Wednesday.
---->
 
 ## Day 12: Wednesday, February 8, 2023
   - **In class**:
@@ -134,6 +133,7 @@ Remember that you can right click and select the "View page source" to view the 
       - Read [Google Slides with succinct guidelines for students in preparing a technical resume](https://docs.google.com/presentation/d/1tNxWsuDm3TyXpTn6tB32aZyYeHENNR2sCYGjKpzfmiw) 
       -  Read [The Tech Resume Template](https://docs.google.com/document/d/11gQ1DUXhP37aenxu_AK7Oud6h7tvouYGbl3ZXnpTqGg)
     - Start on [A03: Resume and Career Reflection ](https://docs.google.com/document/d/1avfeQLvWTLkVHn7MhayzopEV31etJmGLZFsE8KE61dQ) due on Monday 
+--->
 
 ## Day 13: Friday, February 10, 2023
   - **In class**:
