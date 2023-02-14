@@ -162,12 +162,37 @@ Remember that you can right click and select the "View page source" to view the 
 ## Day 15: Wednesday, February 15, 2023
   - **In class**:
     - Virtual visit with alumni [Kevin Messer](https://www.linkedin.com/in/kevinmesser/).
-    - Quiz on [Sections 3.10-3.22 in our Data Structures textbook](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126095) 
-    - Demo of [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E)
     - Complete [T09: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8)
+  - **Outside of class**
+    - Work on the design document for [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) which is due Monday.
+
+## Day 16: Friday, February 17, 2023
+  - **In class**:
+    - Quiz on [Sections 3.10-3.22 in our Data Structures textbook](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126095) 
+    - Complete and submit [T10: How Long Will This Take?](https://docs.google.com/document/d/1_vzhbJdc5-bmYi1CLpMEgA7WM1c4wXH0EwFb_JOJPek)
   - **Outside of class**
     - Complete the design document for [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) which is due Monday.
 
+## Day 17: Monday, February 20, 2023
+  - **In class**:
+    - Demo of [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E)
+    - Complete and submit [TR1: E1 Review](https://docs.google.com/document/d/1AKBUi_i1XsbP6Aidb5rqQifVveU4rQSpBK-pKVGy8Yc). Remember that it is up to each of you and your teams to help each other make it excellent. **Note that due to the nature of this assignment, it will not be accepted late.** 
+  - **Outside of class**
+    - Continue to work on [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) for the second milestone that is due next Monday.
+
+## Day 18: Wednesday, February 22, 2023
+  - **In class**:
+    - Complete [T11: Queues, Stacks, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw)
+  - **Outside of class**
+    - **Study for E1**, which will be on Friday. Exam E1 will cover all of the material from the course thus far, but the major topics covered thus far are C++, OOP, Big O, and linear structures stacks, queues, and deques. i.e. the major topics are C++, and the first three chapters of the textbook.
+    - Continue to work on [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) for the second milestone that is due Monday.
+
+## Day 19: Friday, February 24, 2023
+  - **In class**:
+    - **Exam E1**: Remember that I will not be there. The TAs will proctor the exam.
+  - **Outside of class**
+    - Continue to work on [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) for the second milestone that is due Monday.
+    - Read [Chapter 4 in our Data Structures textbook](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126098) in preparation for a reading quiz on Monday
 
 ---
 ###### Copyright © 2022 | Licensed under a Creative Commons Attribution-Share Alike 3.0 United States License
