@@ -145,7 +145,6 @@ Remember that you can right click and select the "View page source" to view the 
     - Make sure to keep working on [A03: Resume and Career Reflection ](https://docs.google.com/document/d/1avfeQLvWTLkVHn7MhayzopEV31etJmGLZFsE8KE61dQ) due on Monday 
     - Use this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScfXGza-1SNIx-MqGY5oAXx2mIOhLGFNsEwsImkmN9165_Zlg/viewform) to add questions you may have for Kevin. This form will close on Monday.
     - Read team work [T09: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8) in preparation of working on it during next class.
---->
 
 ## Day 14: Monday, February 13, 2023
   - **In class**:
@@ -165,6 +164,7 @@ Remember that you can right click and select the "View page source" to view the 
     - Complete [T09: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8)
   - **Outside of class**
     - Work on the design document for [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) which is due Monday.
+--->
 
 ## Day 16: Friday, February 17, 2023
   - **In class**:
