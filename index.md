@@ -164,7 +164,6 @@ Remember that you can right click and select the "View page source" to view the 
     - Complete [T09: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8)
   - **Outside of class**
     - Work on the design document for [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) which is due Monday.
---->
 
 ## Day 16: Friday, February 17, 2023
   - **In class**:
@@ -172,6 +171,7 @@ Remember that you can right click and select the "View page source" to view the 
     - Complete and submit [T10: How Long Will This Take?](https://docs.google.com/document/d/1_vzhbJdc5-bmYi1CLpMEgA7WM1c4wXH0EwFb_JOJPek)
   - **Outside of class**
     - Complete the design document for [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) which is due Monday.
+--->
 
 ## Day 17: Monday, February 20, 2023
   - **In class**:
