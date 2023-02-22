@@ -171,7 +171,6 @@ Remember that you can right click and select the "View page source" to view the 
     - Complete and submit [T10: How Long Will This Take?](https://docs.google.com/document/d/1_vzhbJdc5-bmYi1CLpMEgA7WM1c4wXH0EwFb_JOJPek)
   - **Outside of class**
     - Complete the design document for [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) which is due Monday.
---->
 
 ## Day 17: Monday, February 20, 2023
   - **In class**:
@@ -180,6 +179,7 @@ Remember that you can right click and select the "View page source" to view the 
   - **Outside of class**
     - Complete and submit [A04: A Simple Introduction To Linked Lists](https://docs.google.com/document/d/1r5316kQR2qmtEWYqUaPVcXp_yrIuPQV61RUAy_sj5KU) by Wednesday.
     - Continue to work on [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) for the second milestone that is due next Monday.
+--->
 
 ## Day 18: Wednesday, February 22, 2023
   - **In class**:
