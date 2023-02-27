@@ -179,7 +179,6 @@ Remember that you can right click and select the "View page source" to view the 
   - **Outside of class**
     - Complete and submit [A04: A Simple Introduction To Linked Lists](https://docs.google.com/document/d/1r5316kQR2qmtEWYqUaPVcXp_yrIuPQV61RUAy_sj5KU) by Wednesday.
     - Continue to work on [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) for the second milestone that is due next Monday.
---->
 
 ## Day 18: Wednesday, February 22, 2023
   - **In class**:
@@ -188,6 +187,7 @@ Remember that you can right click and select the "View page source" to view the 
   - **Outside of class**
     - **Study for E1**, which will be on Friday. Exam E1 will cover all of the material from the course thus far, but the major topics covered thus far are C++, OOP, Big O, and linear structures stacks, queues, and deques. i.e. the major topics are C++, and the first three chapters of the textbook.
     - Continue to work on [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) for the second milestone that is due Monday.
+--->
 
 ## Day 19: Friday, February 24, 2023
   - **In class**:
@@ -202,6 +202,7 @@ Remember that you can right click and select the "View page source" to view the 
     - Quiz on [Chapter 4 in our Data Structures textbook](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126098)
     - Debrief on Exam E1
     - Discuss [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8)
+    - Complete [T11: Queues, Stacks, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw) if necessary.
     - Start [T12: Introduction to Circular Linked Lists](https://docs.google.com/document/d/1uvElflLI-S0S3spkfCkquwi3ZgIEgM49vF9NeTPmN30).
   - **Outside of class**
     - Continue to work on [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) which is due Friday.
