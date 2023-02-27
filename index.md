@@ -187,7 +187,6 @@ Remember that you can right click and select the "View page source" to view the 
   - **Outside of class**
     - **Study for E1**, which will be on Friday. Exam E1 will cover all of the material from the course thus far, but the major topics covered thus far are C++, OOP, Big O, and linear structures stacks, queues, and deques. i.e. the major topics are C++, and the first three chapters of the textbook.
     - Continue to work on [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) for the second milestone that is due Monday.
---->
 
 ## Day 19: Friday, February 24, 2023
   - **In class**:
@@ -196,23 +195,21 @@ Remember that you can right click and select the "View page source" to view the 
     - Continue to work on [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) for the second milestone that is due Monday.
     - Read [Chapter 4 in our Data Structures textbook](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126098) in preparation for a reading quiz on Monday
     - Complete and submit [A05: Professional Story and Profile](https://docs.google.com/document/d/1-WQKoOoxGn9jCZHx53KMDSTMsKHS9f7KRehmgA1hye8) which is due Wednesday.
+--->
 
 ## Day 20: Monday, February 27, 2023
   - **In class**:
-    - Quiz on [Chapter 4 in our Data Structures textbook](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126098)
     - Debrief on Exam E1
-    - Discuss [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8)
-    - Complete [T11: Queues, Stacks, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw) if necessary.
-    - Start [T12: Introduction to Circular Linked Lists](https://docs.google.com/document/d/1uvElflLI-S0S3spkfCkquwi3ZgIEgM49vF9NeTPmN30).
   - **Outside of class**
     - Continue to work on [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) which is due Friday.
     - Complete and submit [A05: Professional Story and Profile](https://docs.google.com/document/d/1-WQKoOoxGn9jCZHx53KMDSTMsKHS9f7KRehmgA1hye8) which is due Wednesday.
 
 ## Day 21: Wednesday, March 1, 2023
   - **In class**:
+    - Quiz on [Chapter 4 in our Data Structures textbook](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126098)
     - Discuss [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8)
-    - Submit [T12: Introduction to Circular Linked Lists](https://docs.google.com/document/d/1uvElflLI-S0S3spkfCkquwi3ZgIEgM49vF9NeTPmN30).
-    - Start [T13: Exploring Linked Lists](https://docs.google.com/document/d/1b4UHkIDdldDGyat5QdZ0FFzOFZKaubeOGuz-jsPR4I0).
+    - Complete [T11: Queues, Stacks, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw) if necessary.
+    - Start and submit [T12: Introduction to Circular Linked Lists](https://docs.google.com/document/d/1uvElflLI-S0S3spkfCkquwi3ZgIEgM49vF9NeTPmN30).
   - **Outside of class**
     - Continue to work on [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) which is due Friday.
 
