@@ -2,7 +2,7 @@
 ## Dr. Mario Nakazawa
 ### Berea College Spring 2023 Offering
 
-# See History of Previous Classes [using this link](S23-history.md)
+## See History of Previous Class Sessions [using this link](S23-history.md)
 
 ## Day 22: Friday, March 3, 2023
   - **In class**:
