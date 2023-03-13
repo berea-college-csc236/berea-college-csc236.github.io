@@ -2,6 +2,14 @@
 ## Dr. Mario Nakazawa
 ### Berea College Spring 2023 Offering - Schedule HISTORY in STACK Format
 
+## Day 22: Friday, March 3, 2023
+  - **In class**:
+    - Demo [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8)
+    - Submit [T12: Introduction to Circular Linked Lists](https://docs.google.com/document/d/1uvElflLI-S0S3spkfCkquwi3ZgIEgM49vF9NeTPmN30).
+  - **Outside of class**
+    - Read [Chapter 5 in our data structures textbook](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126099) in preparation for a reading quiz on ~~Monday~~ Wednesday after break.
+    - Start [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44), which has a design doc and explanations of the provided code base due Friday, March 17
+
 ## Day 21: Wednesday, March 1, 2023
   - **In class**:
     - Quiz on [Chapter 4 in our Data Structures textbook](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126098)
