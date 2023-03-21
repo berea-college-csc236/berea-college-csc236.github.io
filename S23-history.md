@@ -2,6 +2,16 @@
 ## Dr. Mario Nakazawa
 ### Berea College Spring 2023 Offering - Schedule HISTORY in STACK Format
 
+## Day 25: Friday, March 17, 2023
+  - **In class**:
+    - Discuss [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44) - Milestone 1 was due today.
+    - Start and hopefully complete  [T13: Exploring Linked Lists](https://docs.google.com/document/d/1b4UHkIDdldDGyat5QdZ0FFzOFZKaubeOGuz-jsPR4I0).
+  - **Outside of class**
+    - Complete and submit [A06: Thinking Recursively](https://docs.google.com/document/d/1rLwgk3XXBBZx-rXkoq20jws50gtztj24NBz_M8b42VQ) by Monday.
+    - If you are done with [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44), look at [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM).
+      - Second milestone due on Monday.
+      - Final Lab due on Wednesday.
+
 ## Day 24: Wednesday, March 15, 2023
   - **In class**:
     - Quiz on [Chapter 5 in our data structures textbook](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126099).
