@@ -4,21 +4,11 @@
 
 ## See History of Previous Class Sessions [using this link](S23-history.md)
 
-## Day 25: Friday, March 17, 2023
-  - **In class**:
-    - Discuss [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44) - Milestone 1 was due today.
-    - Start and hopefully complete  [T13: Exploring Linked Lists](https://docs.google.com/document/d/1b4UHkIDdldDGyat5QdZ0FFzOFZKaubeOGuz-jsPR4I0).
-  - **Outside of class**
-    - Complete and submit [A06: Thinking Recursively](https://docs.google.com/document/d/1rLwgk3XXBBZx-rXkoq20jws50gtztj24NBz_M8b42VQ) by Monday.
-    - If you are done with [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44), look at [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM).
-      - Second milestone due on Monday.
-      - Final Lab due on Wednesday.
-
 ## Day 26: Monday, March 20, 2023
   - **In class**:
     - Discuss [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44) - Milestone 2 was due today.
     - Complete  [T13: Exploring Linked Lists](https://docs.google.com/document/d/1b4UHkIDdldDGyat5QdZ0FFzOFZKaubeOGuz-jsPR4I0).
-    - Start and submit [T15: Exploring Recursion](https://docs.google.com/document/d/1Qido7yr3NSrx052G3kqQze7PIEIRp9mlPBH3l5BRj5s).
+    - Start [T15: Exploring Recursion](https://docs.google.com/document/d/1Qido7yr3NSrx052G3kqQze7PIEIRp9mlPBH3l5BRj5s).
   - **Outside of class**
     - If you are done with [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44), look at [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM).
       Otherwise, complete [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44) due on Wednesday.
@@ -26,6 +16,7 @@
 ## Day 27: Wednesday, March 22, 2023
   - **In class**:
     - Discuss [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44) - the lab is due today.
+    - Complete [T15: Exploring Recursion](https://docs.google.com/document/d/1Qido7yr3NSrx052G3kqQze7PIEIRp9mlPBH3l5BRj5s).
     - Begin [T16: Understanding Recursion](https://docs.google.com/document/d/1Bte8UbQq7NSjy4XMJoEcrs8mtUgnt7jVgMQ12Eb7cmw)
   - **Outside of class**
     - Start [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM), where the first milestone is due Monday.
@@ -33,7 +24,7 @@
 ## Day 28: Friday, March 24, 2023
   - **In class**: I will not be present; the TAs will run the class.
     - Discuss [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)
-    - Begin and maybe complete [T16: Understanding Recursion](https://docs.google.com/document/d/1Bte8UbQq7NSjy4XMJoEcrs8mtUgnt7jVgMQ12Eb7cmw)
+    - Work on [T16: Understanding Recursion](https://docs.google.com/document/d/1Bte8UbQq7NSjy4XMJoEcrs8mtUgnt7jVgMQ12Eb7cmw)
   - **Outside of class**
     - Start [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM), where the first milestone is due Monday.
     - Read [Chapter 6: Searching and Hashing](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126094) for Quiz on Wednesday.
@@ -43,8 +34,26 @@
     - Discuss [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM), the first milestone was due today.
     - Complete [T16: Understanding Recursion](https://docs.google.com/document/d/1Bte8UbQq7NSjy4XMJoEcrs8mtUgnt7jVgMQ12Eb7cmw)
   - **Outside of class**
-    - Continue [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM), where the second milestone is due next Monday.
+    - Continue [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM), where the second milestone is due Friday.
     - Read [Chapter 6: Searching and Hashing](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126094) for Quiz on Wednesday.
+
+## Day 30: Wednesday, March 29, 2023
+  - **In class**:
+    - Quiz on [Chapter 6: Searching and Hashing](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126094)
+    - Discuss [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)
+    - Start [T17: Searching](https://docs.google.com/document/d/1tYBkApVgtJaTdGhd1KCYprnOyZyP5FyKvSmw5gcCa84)
+  - **Outside of class**
+    - Continue [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). The second milesone is due Friday.
+    - Complete [A07: What is Hashing](https://docs.google.com/document/d/1ON_KiUoWUE_NKCpsuZMztgkK9dmJAMLXTa8DxhgI90U) for Friday. It is very short.
+
+## Day 31: Friday, March 31, 2023
+  - **In class**:
+    - Discuss [A07: What is Hashing](https://docs.google.com/document/d/1ON_KiUoWUE_NKCpsuZMztgkK9dmJAMLXTa8DxhgI90U) -- the second milestone was due.
+    - Discuss [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM).
+    - Complete and submit [T17: Searching](https://docs.google.com/document/d/1tYBkApVgtJaTdGhd1KCYprnOyZyP5FyKvSmw5gcCa84)
+  - **Outside of class**
+    - Continue [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM) -- the lab is due Monday.
+    - Read [Chapter 7: Sorting](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126101) for a quiz on Wednesday.
 
 ---
 ###### Copyright © 2023 | Licensed under a Creative Commons Attribution-Share Alike 3.0 United States License
