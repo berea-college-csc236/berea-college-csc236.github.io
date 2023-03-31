@@ -11,7 +11,8 @@
     - Complete and submit [T17: Searching](https://docs.google.com/document/d/1tYBkApVgtJaTdGhd1KCYprnOyZyP5FyKvSmw5gcCa84)
     - Start [T18: Exploring Hashing](https://docs.google.com/document/d/1Rphbo_GvKvKquZtxsSYY__cTF4ZGO4uwNEcA70dN5e0)
   - **Outside of class**
-    - Continue [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM) -- the lab is due Monday.
+    - Continue [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM) -- milestoe 2 is due Monday.
+    - Look at the [Final Project Requirements](https://docs.google.com/document/d/15JyajlDZ2-LW9KPa-DKm5LZSXBN10lFX6OzK4ryG4uA) in preparation
     - Read [Chapter 7: Sorting](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126101) for a quiz on Wednesday.
 
 ## Day 32: Monday, April 3, 2023
