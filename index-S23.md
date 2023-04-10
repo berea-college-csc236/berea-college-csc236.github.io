@@ -2,6 +2,17 @@
 ## Dr. Mario Nakazawa
 ### Berea College Spring 2023 Offering - Schedule HISTORY in STACK Format
 
+## Day 33: Wednesday, April 5, 2023
+  - **In class**:
+    - Quiz on [Chapter 7: Sorting](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126101).
+    - Demo of [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM).
+    - Complete and submit [T18: Exploring Hashing](https://docs.google.com/document/d/1Rphbo_GvKvKquZtxsSYY__cTF4ZGO4uwNEcA70dN5e0)
+    - Start [T19: Hashing Functions and Collisions](https://docs.google.com/document/d/1LAYpzVOzkV2rSydtPBIJ14aQczKQHbne-F_YmyWpEkA).
+  - **Outside of class**
+    - Complete and submit [A08: Considering Diversity here and in the Workplace](https://docs.google.com/document/d/1GgQ0yrnytucqukz-ypOvNld4sJ4c4UNH_IkJkh3046Y) by the due date set on Moodle.
+    - Read [Sections 8.1-8.9: on Trees](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126102) for a quiz on Monday
+    - Work on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw) which has only a single milestone. It is due Monday, April 10.
+
 ## Day 32: Monday, April 3, 2023
   - **In class**:
     - Questions on [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). The second milestone is due today.
