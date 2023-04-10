@@ -2,6 +2,16 @@
 ## Dr. Mario Nakazawa
 ### Berea College Spring 2023 Offering - Schedule HISTORY in STACK Format
 
+## Day 32: Monday, April 3, 2023
+  - **In class**:
+    - Questions on [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). The second milestone is due today.
+    - Complete and submit [T18: Exploring Hashing](https://docs.google.com/document/d/1Rphbo_GvKvKquZtxsSYY__cTF4ZGO4uwNEcA70dN5e0)
+    - Start [T19: Hashing Functions and Collisions](https://docs.google.com/document/d/1LAYpzVOzkV2rSydtPBIJ14aQczKQHbne-F_YmyWpEkA).
+  - **Outside of class**
+    - Remember to read [Chapter 7: Sorting](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126101) for a quiz on Wednesday.
+    - Complete [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). The final lab is due Wednesday.
+    - If done with L6, Work on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw) which has only a single milestone. It is due Monday, April 10.
+
 ## Day 31: Friday, March 31, 2023
   - **In class**:
     - Discuss [A07: What is Hashing](https://docs.google.com/document/d/1ON_KiUoWUE_NKCpsuZMztgkK9dmJAMLXTa8DxhgI90U)
