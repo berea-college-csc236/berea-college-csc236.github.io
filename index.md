@@ -16,7 +16,7 @@
   - **In class**:
     - Quiz on [Sections 8.10-8.23: on Tree Algorithms](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126103)
     - Questions on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0), the last Lab!
-    - Discussion on [Final Project Requirements](https://docs.google.com/document/d/15JyajlDZ2-LW9KPa-DKm5LZSXBN10lFX6OzK4ryG4uA)
+    - [Indicate team and topic preferences](https://docs.google.com/forms/d/e/1FAIpQLScQSUBahMO1JYDpRTVqUOE7UWu8JoITy1zO18AfroGyWLQb7g/viewform) for final project.
     - Complete and submit [T20: On Sorting](https://docs.google.com/document/d/1bUGZJNs8ARo3GyLqhumF-bL6slKTrzlZmAVF5RScjAI). You must be done today.
     - Start and submit [T21: Recursive Sorting](https://docs.google.com/document/d/1Zvcu_nvpkPZfn4wDhPEM7ub96dj7vb0LB9lIly3DjZs)
   - **Outside of class**
