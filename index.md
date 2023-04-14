@@ -17,9 +17,10 @@
     - Quiz on [Sections 8.10-8.23: on Tree Algorithms](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126103)
     - Questions on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0), the last Lab!
     - [Indicate team and topic preferences](https://docs.google.com/forms/d/e/1FAIpQLScQSUBahMO1JYDpRTVqUOE7UWu8JoITy1zO18AfroGyWLQb7g/viewform) for final project.
-    - Complete and submit [T20: On Sorting](https://docs.google.com/document/d/1bUGZJNs8ARo3GyLqhumF-bL6slKTrzlZmAVF5RScjAI). If you are not done today, you must meet with your team outside of class and complete by the beginning of class on Monday.
+    - Complete and submit [T20: On Sorting](https://docs.google.com/document/d/1bUGZJNs8ARo3GyLqhumF-bL6slKTrzlZmAVF5RScjAI). 
     - Start and submit [T21: Recursive Sorting](https://docs.google.com/document/d/1Zvcu_nvpkPZfn4wDhPEM7ub96dj7vb0LB9lIly3DjZs)
   - **Outside of class**
+    - Complete and submit [T20: On Sorting](https://docs.google.com/document/d/1bUGZJNs8ARo3GyLqhumF-bL6slKTrzlZmAVF5RScjAI). If you are not done today, you must meet with your team outside of class and complete by the beginning of class on Monday.
     - Complete and submit [A09: Codes and Teamwork](https://docs.google.com/document/d/1scfkIjI15XaE1W9O_lWpPv6ow0RdXd6Ue8UGGNuwULI) for Monday.
     - Read [Chapter 9: on Graphs and Graph Algorithms](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126104) for a quiz on Wednesday.
     - Work on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0), the first milestone is due Apr 19
