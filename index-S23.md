@@ -2,6 +2,18 @@
 ## Dr. Mario Nakazawa
 ### Berea College Spring 2023 Offering - Schedule HISTORY in STACK Format
 
+## Day 37: Monday, April 17, 2023
+  - **In class**:
+    - Questions on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0), the last Lab!
+    - Indicate team and topic preferences for [Final Project](https://docs.google.com/document/d/15JyajlDZ2-LW9KPa-DKm5LZSXBN10lFX6OzK4ryG4uA)
+    - Start and submit [T22: Exploring Trees](https://docs.google.com/document/d/1t0mL8FmPE1f4IfV03tyQcT1FPfdepX37KHRBftUxSh0)
+- **Outside of class**
+    - Complete and submit [T21: Recursive Sorting](https://docs.google.com/document/d/1Zvcu_nvpkPZfn4wDhPEM7ub96dj7vb0LB9lIly3DjZs) by Wednesday for extra credit
+    - Work on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0), the first milestone is due Wednesday. 
+    - Complete [FP1: Initial Planning for Final Project](https://docs.google.com/document/d/1byMsKfTPPEGO4eGSdHohAxkCYRKO1tHqb0Bd7eghFlg) by Thursday, depending on how the topics are selected. 
+- **Announcement**
+  - The second exam for this class is planned for Friday, April 28th.
+
 ## Day 36: Friday, April 14, 2023
   - **In class**:
     - Quiz on [Sections 8.10-8.23: on Tree Algorithms](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126103)
