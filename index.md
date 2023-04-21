@@ -18,7 +18,7 @@
   - **In class**:
     - Quiz [Chapter 9: on Graphs and Graph Algorithms](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=107541) - The **last reading!**
     - Questions on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0), the **last Lab**, **Final Lab is due Friday!** 
-    - Complete and submit [T24: Exploring Graphs](https://docs.google.com/document/d/1lq4QQeKIZg7rA1KItCHP8jRKkDQsMkVGZdTr1DlDBHY), the **last teamwork**
+    - Complete [T23: Binary Search Trees](https://docs.google.com/document/d/1YUYAn-6t1TLIE_pNS94MvAU7InyuF6E6N-iDuRoYk1Y)
     - Work on [FP2: Planning and Preliminary Video Script](https://docs.google.com/document/d/16lsG7uJKPY1XXHka3-KP-7GiviBg2ePTxUKma_bg7lk) if you are done with T24. This submission is a **preliminary script**. You will submit a final version the day before the final period for your section.
 
 ---
