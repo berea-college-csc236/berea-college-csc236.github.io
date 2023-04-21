@@ -26,7 +26,7 @@
 ## Day 40: Monday, April 24, 2023
   - **In class**:
     - Questions on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0), the **last Lab**, **Final Lab is due Wednesday!** 
-     - Complete [TR2 Peerwise Review for E2](https://docs.google.com/document/d/1tY3QpKNjqW3PR1YcbAGsV6HSbUT47bTv1EUx-sv6RwQ/edit?usp=sharing) which is due by Friday at 8 am and will not be accepted late. Be sure that all questions are reviewed and improved. Wrong or poor questions count against the entire team, not just the author because you are expected to have reviewed and approved them.
+     - Complete [TR2 Peerwise Review for E2](https://docs.google.com/document/d/1tY3QpKNjqW3PR1YcbAGsV6HSbUT47bTv1EUx-sv6RwQ) which is due by Tuesday at 8 am and will not be accepted late. Be sure that all questions are reviewed and improved. Wrong or poor questions count against the entire team, not just the author because you are expected to have reviewed and approved them.
   - **Outside of class**
     - Work on [FP2: Planning and Preliminary Video Script](https://docs.google.com/document/d/16lsG7uJKPY1XXHka3-KP-7GiviBg2ePTxUKma_bg7lk) if you are done with TR2. This submission is due Wednesday and is a **preliminary script**. You will submit a final version the day before the final period for your section.
 
