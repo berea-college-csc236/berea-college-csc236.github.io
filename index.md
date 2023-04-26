@@ -20,6 +20,7 @@
     - Complete [FP2: Planning and Preliminary Video Script](https://docs.google.com/document/d/16lsG7uJKPY1XXHka3-KP-7GiviBg2ePTxUKma_bg7lk)
   - **Outside of class**
     - Study For Exam 2
+    - Complete the IEQs for this course (deadline, May 1, 2023)
     - Reminder: The second exam will take place on Friday, April 28
     - Reminder: The final exam period will be used for presenting final projects: 
       - Section A (9:20-10:30) has the final exam period on Thursday, May 4 at 8:30 am. 
