@@ -4,16 +4,6 @@
 
 ## See History of Previous Class Sessions [using this link](index-S23.md)
 
-## Day 40: Monday, April 24, 2023
-  - **In class**:
-    - Questions on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0), the **last Lab**, **Final Lab is due Wednesday!** 
-     - Complete [TR2 Peerwise Review for E2](https://docs.google.com/document/d/1tY3QpKNjqW3PR1YcbAGsV6HSbUT47bTv1EUx-sv6RwQ) which is due by Tuesday at 8 am and will not be accepted late. Be sure that all questions are reviewed and improved. Wrong or poor questions count against the entire team, not just the author because you are expected to have reviewed and approved them.
-  - **Outside of class**
-    - Complete [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0), **Final Milestone is due Wednesday**. 
-    - Complete and submit [FP3 Project Big O Analysis](https://docs.google.com/document/d/1RWkZEl1XNMVA-PfnAdD9Teip1oirXtkDnU_vtboWloA) which is due on Monday, May 1 by 8 am.
-    - Complete and submit [FP4: Final Project Link to Video and Final Transcript](https://docs.google.com/document/d/17YmTJYWzVriYggUipkHsSzqzFxamCTT3BZWiE0dA2s0) which is due by 8 am on the day of your final exam period.
-    - Complete the IEQs for this course (deadline, May 1, 2023)
-
 ## Day 41: Wednesday, April 26, 2023
   - **In class**:
     - Questions on [L8: Animal Guessing Game](https://docs.google.com/document/d/1XPW8xzA_NR4tOI7GwU6qY4QsbbjM3-om-dzReqiLHR0/edit?usp=sharing)
