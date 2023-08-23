@@ -15,15 +15,15 @@
     - ![old style car radio tuner](radiotuner.jpg "old style car radio tuner")
     - ![TV remote](remote.jpg "TV remoter")
     - Discussion of course: content, texts, syllabus, flow, other ideas
-    - Sign up for our first text: [C++ for Python Programmers](https://runestone.academy). Be sure to use (or make) the login from your Berea email and Berea username and then sign-up for the book *Berea-csc236-f22-1*. (Note that the account you used in CSC 226 should be fine.)
+    - Sign up for our first text: [C++ for Python Programmers](https://runestone.academy). Be sure to use (or make) the login from your Berea email and Berea username and then sign-up for the book *bc_cpp4python_f23*. (Note that the account you used in CSC 226 should be fine.)
     - Data structures game
-  - **Outside of class** (all due by the midnight before class):
+  - **Outside of class** (all due by 8 am of our next class day):
     - Complete [A00:Getting Started](https://docs.google.com/document/d/12iJBToSMk2A1n2mSdAmwKnFEpFVlnLz73ulsyt0htNM/edit?usp=sharing) and submit to Moodle. Note that there are 6 tasks, some of which will take some time:
       1. Help us get to know you better
       2. Connect Data Structures to your career
       3. Set-up your Required IDE (this will take some time!)
       4. Read the syllabus to understand the course structure
-      5. Sign up for our text *C++ for Python Programmers* using your Berea email and Berea Username, and read [Chapter 1 of C++ for Python Programmers](https://moodle.berea.edu/mod/assign/view.php?id=501132) in preparation for a reading quiz.
+      5. Be sure you are signed into *bc_cpp4python_f23*, read [Chapter 1 of C++ for Python Programmers](https://moodle.berea.edu/mod/assign/view.php?id=501132) in preparation for a reading quiz.
       6. Introduce yourself to the class and the TAs on Slack
 
 ---
