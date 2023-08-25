@@ -5,7 +5,7 @@
 ### Berea College Fall 2023 Offering
 
 ---
-## Day 2: Friday, January 13, 2023
+## Day 2: Friday, August 25, 2023
   - **In class**:
     - Debrief of word game, algorithns/data structures, and installations
     - Sign up for Github Student Developer pack
