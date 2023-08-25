@@ -8,6 +8,7 @@
 ## Day 2: Friday, August 25, 2023
   - **In class**:
     - Debrief on word game, algorithns/data structures, installations, C++, the syllabus, and the AI policy in particular
+    - Watch [Github Copilot in Visual Studio Community](https://youtu.be/kc_A12G4Elk)
     - Sign up for Github Student Developer pack
     - Install Github Copilot and request access to Github Copilot chat
     - Complete, download, and submit [Teamwork T01: Visual Studio, Github, and ASCII Art](https://docs.google.com/document/d/1Bz1sbwxid1ydkSHaO5nDMpMgzwa29Py6zzTlWGUvBzM)
