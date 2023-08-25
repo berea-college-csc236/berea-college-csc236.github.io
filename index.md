@@ -12,7 +12,7 @@
     - Install Github Copilot and request access to Github Copilot chat
     - Complete, download, and submit [Teamwork T01: Visual Studio, Github, and ASCII Art](https://docs.google.com/document/d/1Bz1sbwxid1ydkSHaO5nDMpMgzwa29Py6zzTlWGUvBzM)
   - **Outside of class** (due before class on Monday):
-    - Begin [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). This is an individual Lab. The first milestone is due Wednesday, January 18, 2023. The final completion milestone of the  lab is due Friday, September 1, 2023.
+    - Begin [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). This is an individual Lab. The first milestone is due Wednesday, August 30, 2023. The final completion milestone of the  lab is due Friday, September 1, 2023.
     - Read [Chapters 2 and 3 in C++ for Python Programmers]([https://runestone.academy/runestone/assignments/doAssignment?assignment_id=124792](https://moodle.berea.edu/mod/assign/view.php?id=636029)) for a potential reading quiz next class. Be sure you are logged in and do all activities to get credit!
 
 ## Day 1: Wednesday, August 23, 2023
