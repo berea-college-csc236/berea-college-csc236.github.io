@@ -11,7 +11,7 @@
 **In class**:
 
 - Possible quiz
-- Complete [Teamwork T02: Collaboration and VS LiveShare](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ).
+- Begin [Teamwork T02: Collaboration and VS LiveShare](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ) which we will complete in class next time.
 
 **Outside of class**:
 
