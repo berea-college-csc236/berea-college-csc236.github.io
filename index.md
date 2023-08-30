@@ -6,22 +6,34 @@
 
 ---
 
+## Day 4: Wednesday, August 30, 2023
+
+### Day 4: In class
+
+- Possible quiz
+- Questions on [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8) which is due Friday. (Hints on escaping backslashes and quotes.)
+- Complete and submit [Teamwork T02: Collaboration and VS LiveShare](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ).
+
+### Day 4: Outside of class
+
+- Read [Chapters 6, 7 and 8 in C++ for Python Programmers](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=124791) for a possible reading quiz next class. Be sure you are logged in and do all activities to get credit!
+- Complete [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8) in preparation for an art show next time!
+
 ## Day 3: Monday, August 28, 2023
 
-**In class**:
+### Day 3: In class
 
 - Possible quiz
 - Begin [Teamwork T02: Collaboration and VS LiveShare](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ) which we will complete in class next time.
 
-**Outside of class**:
+### Day 3: Outside of class
 
 - Read [Chapters 4 and 5 in C++ for Python Programmers](https://moodle.berea.edu/mod/assign/view.php?id=636030) for a possible reading quiz next class. Be sure you are logged in and do all activities to get credit!
 - Continue [L0: ASCII-Art](https://classroom.github.com/a/7wAVfLbn). This is an individual Lab. The first milestone is due Wednesday and the final submission is due on Friday.
 
-
 ## Day 2: Friday, August 25, 2023
 
-**In class**:
+### Day 2: In class
 
 - Possible quiz
 - Debrief on word game, algorithms and data structures, installations, C++, the syllabus, and the AI policy in particular
@@ -30,14 +42,14 @@
 - Install Github Copilot and request access to Github Copilot chat
 - Complete, download, and submit [Teamwork T01: Visual Studio, Github, and ASCII Art](https://docs.google.com/document/d/1Bz1sbwxid1ydkSHaO5nDMpMgzwa29Py6zzTlWGUvBzM)
 
-**Outside of class** (due before class on Monday):
+### Day 2: Outside of class (due before class on Monday)
 
 - Begin [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). This is an individual Lab. The first milestone is due Wednesday, August 30, 2023. The final completion milestone of the  lab is due Friday, September 1, 2023.
 - Read [Chapters 2 and 3 in C++ for Python Programmers]([https://runestone.academy/runestone/assignments/doAssignment?assignment_id=124792](https://moodle.berea.edu/mod/assign/view.php?id=636029)) for a potential reading quiz next class. Be sure you are logged in and do all activities to get credit!
 
 ## Day 1: Wednesday, August 23, 2023
 
-**In class**:
+### Day 1: In class
 
 - Welcome!
 - List all of the data structures you used in Python
