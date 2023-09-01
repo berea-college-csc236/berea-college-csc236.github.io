@@ -6,6 +6,21 @@
 
 ---
 
+## Day 5: Friday, September 1, 2023
+
+### Day 5: In class
+
+- Art show!
+- Possible quiz
+- Begin and try to complete [Teamwork T03: Drawing with C-Turtle](https://docs.google.com/document/d/19PSMP2Mwxs5qKD3p54ebrk3Dnb4n7x6KgjU02vLdlJI).
+
+### Day 5: Outside of class
+
+- Read [Chapter 1 on OOP](https://moodle.berea.edu/mod/lti/view.php?id=639011) in preparation for a potential reading quiz. Read 1.1-1.6 and 1.12-1.16 with special attention to 1.12. I am trying something different, be sure to go through Moodle to get credit.
+- Continue [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c). This is an individual lab that has a milestone due on Wednesday. The full lab is due on Friday.
+
+## No class: Monday, September 4, 2023 - Enjoy the Labor Day Holiday!
+
 ## Day 4: Wednesday, August 30, 2023
 
 ### Day 4: In class
