@@ -6,8 +6,20 @@
 
 ---
 
+## Day 6: Wedesday, September 6, 2023
+
+### Day 6: In class
+
+- Possible quiz
+- Complete [Teamwork T03: Drawing with C-Turtle](https://docs.google.com/document/d/19PSMP2Mwxs5qKD3p54ebrk3Dnb4n7x6KgjU02vLdlJI) with your current partner(s). You may not add new partners at this point. Those who missed class will either need to join together or work with a TA. **This teamwork cannot be completed alone!**
+
+### Day 6: Outside of class
+
+- Complete the first milestone of [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c). The full lab is due on Friday.
+- Complete [A01: OOP Principles](https://docs.google.com/document/d/1uH5vpyvL1rCLsmI14D3LIgUo2Q-0fCCdclOz2ZAk1Eg) which is due by Friday.
+
 ## No class: Monday, September 4, 2023
- 
+
 ### Enjoy the Labor Day Holiday!
 
 ## Day 5: Friday, September 1, 2023
@@ -16,6 +28,7 @@
 
 - Art show!
 - Possible quiz
+- Join new book via Moodle
 - Begin and try to complete [Teamwork T03: Drawing with C-Turtle](https://docs.google.com/document/d/19PSMP2Mwxs5qKD3p54ebrk3Dnb4n7x6KgjU02vLdlJI).
 
 ### Day 5: Outside of class
