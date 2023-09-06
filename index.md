@@ -15,7 +15,7 @@
 
 ### Day 6: Outside of class
 
-- Complete the first milestone of [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c). The full lab is due on Friday.
+- Complete [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c). The full lab is due on Friday.
 - Complete [A01: OOP Principles](https://docs.google.com/document/d/1uH5vpyvL1rCLsmI14D3LIgUo2Q-0fCCdclOz2ZAk1Eg) which is due by Monday.
 
 ## No class: Monday, September 4, 2023
