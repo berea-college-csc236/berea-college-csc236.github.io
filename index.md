@@ -6,17 +6,24 @@
 
 ---
 
-## Day 6: Wedesday, September 6, 2023
+## Day 7: Friday, September 6, 2023
 
-### Day 6: In class
+### Day 7: In class
 
-- Possible quiz
-- Complete [Teamwork T03: Drawing with C-Turtle](https://docs.google.com/document/d/19PSMP2Mwxs5qKD3p54ebrk3Dnb4n7x6KgjU02vLdlJI) with your current partner(s). You may not add new partners at this point. Those who missed class will either need to join together or work with a TA. **This teamwork cannot be completed alone!**
+- Art show!
+- Demo of debugging in Visual Studio
+- Complete [Teamwork T04:  Debugging in Visual Studio and Beyond](https://docs.google.com/document/d/1T0BS2SzKxoOXg_EpfDCpFd8UG219_Jbqzl8W1kogtcc/edit?usp=sharing) with your current partner(s). 
+
+### Day 7: Outside of class
+
+- Complete [A01: OOP Principles](https://docs.google.com/document/d/1uH5vpyvL1rCLsmI14D3LIgUo2Q-0fCCdclOz2ZAk1Eg) which is due by Monday.
+
+## Day 6: Wednesday, September 6, 2023
 
 ### Day 6: Outside of class
 
-- Complete [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c). The full lab is due on Friday.
-- Complete [A01: OOP Principles](https://docs.google.com/document/d/1uH5vpyvL1rCLsmI14D3LIgUo2Q-0fCCdclOz2ZAk1Eg) which is due by Monday.
+- Complete [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c) since the full lab is due.
+- Begin [A01: OOP Principles](https://docs.google.com/document/d/1uH5vpyvL1rCLsmI14D3LIgUo2Q-0fCCdclOz2ZAk1Eg) which is due by Monday.
 
 ## No class: Monday, September 4, 2023
 
