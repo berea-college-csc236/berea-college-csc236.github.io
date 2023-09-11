@@ -15,7 +15,7 @@
 
 ### Day 8: Outside of class
 
-- Continue reading [Chapter 2 on Big O](https://moodle.berea.edu/mod/lti/view.php?id=640138) in preparation for a potential reading quiz on Wednesday. **This is one of the most important topics in the entire course; you might try to find time to read it twice!** Be sure you click the link from Moodle and do all activities to get full credit!
+- Read [Chapter 2 on Big O](https://moodle.berea.edu/mod/lti/view.php?id=640138) and do all activities in preparation for a potential reading quiz on Wednesday. **This is one of the most important topics in the entire course; you might try to find time to read it twice!** Be sure you click the link from Moodle and do all activities to get full credit!
 - Continue [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q). This is an individual lab that has Milestone 1 due on Wednesday and the full lab due on Friday.
 
 ## Day 7: Friday, September 6, 2023
