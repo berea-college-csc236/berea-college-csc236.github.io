@@ -6,13 +6,25 @@
 
 ---
 
+## Day 8: Monday, September 11, 2023
+
+### Day 8: In class
+
+- Questions on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q)
+- Start [T05: Understanding OOD and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4)
+
+### Day 8: Outside of class
+
+- Continue reading [Chapter 2 on Big O](https://runestone.academy/runestone/assignments/doAssignment?assignment_id=126097) in preparation for a potential reading quiz on Wednesday. **This is one of the most important topics in the entire course; you might try to find time to read it twice!** Be sure you click the link from Moodle and do all activities to get full credit!
+- Continue [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q). This is an individual lab that has Milestone 1 due on Wednesday and the full lab due on Friday.
+
 ## Day 7: Friday, September 6, 2023
 
 ### Day 7: In class
 
 - Art show!
 - Demo of debugging in Visual Studio
-- Complete [Teamwork T04:  Debugging in Visual Studio and Beyond](https://docs.google.com/document/d/1T0BS2SzKxoOXg_EpfDCpFd8UG219_Jbqzl8W1kogtcc/edit?usp=sharing) with your current partner(s). 
+- Complete [Teamwork T04:  Debugging in Visual Studio and Beyond](https://docs.google.com/document/d/1T0BS2SzKxoOXg_EpfDCpFd8UG219_Jbqzl8W1kogtcc/edit?usp=sharing) with your current partner(s).
 
 ### Day 7: Outside of class
 
