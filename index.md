@@ -6,6 +6,19 @@
 
 ---
 
+## Day 9: Wednesday, September 14, 2023
+  
+### In class:
+
+- Possible quiz
+- Questions on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q)
+- Complete [T05: Understanding OOD and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4)
+
+### Outside of class
+
+- Continue [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q) - I am adding a Milestone to this lab and extending the final due date. Milestone 2 will be due Friday. Milestone 2 will be done when you have committed code for every part, but the code might not yet be correct or working. Full completion is herby extended to Monday, September 18! :partying_face:
+- Complete and submit [A02: Programmer Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU) by 8am on Friday
+
 ## Day 8: Monday, September 11, 2023
 
 ### Day 8: In class
