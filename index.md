@@ -6,9 +6,21 @@
 
 ---
 
+## Day 10: Friday, September 15, 2023
+
+### In class
+
+- Discuss  [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q)
+- Complete [T06: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag) - *your new pair programming composition will be decided in class*
+
+### Outside of class
+
+- Complete and submit [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q) by Monday
+- Read [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) 
+
 ## Day 9: Wednesday, September 14, 2023
   
-### In class:
+### In class
 
 - Possible quiz
 - Questions on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q)
@@ -16,7 +28,7 @@
 
 ### Outside of class
 
-- Continue [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q) - I am replacing the Friday duedate by a second Milestone for this lab and extending the final due date. Milestone 2 will be due Friday. Milestone 2 will be done when you have committed code for every part, but the code might not yet be correct or working. Full completion is hearby extended to Monday, September 18!
+- Continue [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q) - I am replacing the Friday due date by a second Milestone for this lab and extending the final due date. Milestone 2 will be due Friday. Milestone 2 will be done when you have committed code for every part, but the code might not yet be correct or working. Full completion is hearby extended to Monday, September 18!
 - Complete and submit [A02: Programmer Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU) by 8am on Friday
 
 ## Day 8: Monday, September 11, 2023
