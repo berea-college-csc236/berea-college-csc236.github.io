@@ -6,6 +6,24 @@
 
 ---
 
+
+## Day 12: Wednesday, September 20, 2023
+
+### Day 12: In class
+
+- Questions on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E)
+- Complete [T07: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE)
+
+### Day 12: Outside of class
+
+- Complete the second milestone of [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) which is due on Friday.
+- In preparation for resume and career building:
+  - Read [Google Slides with succinct guidelines for students in preparing a technical resume](https://docs.google.com/presentation/d/1tNxWsuDm3TyXpTn6tB32aZyYeHENNR2sCYGjKpzfmiw) 
+  - Read the [Tech Resume Template](https://docs.google.com/document/d/1wnwtq2Z8CcfjvFu2xJh5dEoEseLhhONw5GMGYu4hXig/edit?usp=sharing)
+  - Other resources linked from A03.
+- Complete [A03: Resume and Career Reflection ](https://docs.google.com/document/d/1avfeQLvWTLkVHn7MhayzopEV31etJmGLZFsE8KE61dQ) due on Friday.
+- To meet the second milestone, try to fully complete [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E), commit and push. It is fine if it is not fully working.
+
 ## Day 11: Monday, September 18, 2023
 
 ### Day 11: In class
