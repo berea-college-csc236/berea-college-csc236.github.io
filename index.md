@@ -6,13 +6,25 @@
 
 ---
 
+## Day 13: Friday, September 22, 2023
+
+### Day 13: In class
+
+- Discuss [A03: Resume and Career Reflection](https://docs.google.com/document/d/1avfeQLvWTLkVHn7MhayzopEV31etJmGLZFsE8KE61dQ) which was due today.
+- Debrief on [T07: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE)
+- Questions on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E)?
+- Complete and submit [T08: When does Big O matter?](https://docs.google.com/document/d/15YCNbR98lwzy7A-fVnoK_Kp-6wn4krgqF-fKXsla_CM)
+  
+### Day 13: Outside of class
+
+- Complete lab [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E), which is due Monday before class
 
 ## Day 12: Wednesday, September 20, 2023
 
 ### Day 12: In class
 
 - Questions on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E)
-- Introduce [A03: Resume and Career Reflection](https://docs.google.com/document/d/1avfeQLvWTLkVHn7MhayzopEV31etJmGLZFsE8KE61dQ) 
+- Introduce [A03: Resume and Career Reflection](https://docs.google.com/document/d/1avfeQLvWTLkVHn7MhayzopEV31etJmGLZFsE8KE61dQ)
 - Complete [T07: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE)
 - Discuss Big O and what was learned in T07
 
