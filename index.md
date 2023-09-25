@@ -6,6 +6,17 @@
 
 ---
 
+## Day 14: Monday, September 25, 2023
+
+### Day 14: In class
+
+- Begin [T09: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8)
+
+### Day 14: Outside of class
+
+- Read [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) so that you can ask questions on Wednesday.
+- Read [Sections 3.1-3.9 in our Data Structures textbook](https://moodle.berea.edu/mod/lti/view.php?id=641507) in preparation for a possible reading quiz.
+
 ## Day 13: Friday, September 22, 2023
 
 ### Day 13: In class
