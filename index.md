@@ -6,12 +6,27 @@
 
 ---
 
+## Day 16: Friday, September 29, 2023
+
+### Day 16: In class
+
+- Answering questions from Slack
+- Possible reading quiz
+- Complete and submit [T10: How Long Will This Take?](https://docs.google.com/document/d/1_vzhbJdc5-bmYi1CLpMEgA7WM1c4wXH0EwFb_JOJPek)
+- If time permits, work on the design document or even the code for [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) since the first milestone is due Monday. Note that in past years students have found this lab to be challenging to debug, so it is best to start coding early--maybe this weekend?
+
+### Day 16: Outside of class
+
+- Complete and submit the design document for [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) which is due Monday.
+
 ## Day 15: Wednesday, September 27, 2023
 
 ### Day 15: In class
+
 - Answering questions from Slack
 - Possible reading quiz
 - Complete [T09: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8)
+- Debrief on [T09: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8)
 - Begin [T10: How Long Will This Take?](https://docs.google.com/document/d/1_vzhbJdc5-bmYi1CLpMEgA7WM1c4wXH0EwFb_JOJPek) if time permits.
 
 ### Day 15: Outside of class
