@@ -6,6 +6,18 @@
 
 ---
 
+## Day 15: Wednesday, September 27, 2023
+
+### Day 15: In class
+- Answering questions from Slack
+- Possible reading quiz
+- Complete [T09: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8)
+- Begin [T10: How Long Will This Take?](https://docs.google.com/document/d/1_vzhbJdc5-bmYi1CLpMEgA7WM1c4wXH0EwFb_JOJPek) if time permits.
+
+### Day 15: Outside of class
+
+- Read [Sections 3.10-3.22 in our Data Structures textbook](https://moodle.berea.edu/mod/lti/view.php?id=641691) in preparation for a possible reading quiz.
+
 ## Day 14: Monday, September 25, 2023
 
 ### Day 14: In class
