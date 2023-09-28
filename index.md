@@ -12,6 +12,7 @@
 
 - Answering questions from Slack
 - Possible reading quiz
+- Discuss midterm exam
 - Complete and submit [T10: How Long Will This Take?](https://docs.google.com/document/d/1_vzhbJdc5-bmYi1CLpMEgA7WM1c4wXH0EwFb_JOJPek)
 - If time permits, work on the design document or even the code for [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) since the first milestone is due Monday. Note that in past years students have found this lab to be challenging to debug, so it is best to start coding early--maybe this weekend?
 
