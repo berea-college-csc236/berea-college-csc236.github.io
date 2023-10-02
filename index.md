@@ -6,6 +6,19 @@
 
 ---
 
+## Announcement: Exam E1 will be Wednesday, October 11, 2023
+
+## Day 17: Monday, October 2, 2023
+
+### Day 17: In class
+
+- Questions on [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8)?
+- Complete [T11: Queues, Stacks, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw)
+
+### Day 17: Outside of class
+
+- Complete milestone two on [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) to meet the second milestone that is due Wednesday.
+
 ## Day 16: Friday, September 29, 2023
 
 ### Day 16: In class
