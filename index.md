@@ -8,12 +8,12 @@
 
 ## Announcement: Exam E1 will be Wednesday, October 11, 2023
 
-## Day 18: Monday, October 4, 2023
+## Day 18: Wednesday, October 4, 2023
 
 ### Day 18: In class
 
 - Questions on [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8)?
-- Begin [T11: Queues, Stacks, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw)
+- Complete [T11: Queues, Stacks, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw)
 
 ### Day 18: Outside of class
 - Note that the final milestone for [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) has been changed to Monday,October 9, 2023. (Yes, this is during Fall Reading Period.)
