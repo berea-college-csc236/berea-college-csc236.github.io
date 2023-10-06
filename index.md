@@ -22,6 +22,7 @@
 - For Friday read [Chapter 4 in our Data Structures textbook]
   - The E1 exam will ALL be on paper. It will be a mixture of multiple choice and short answer, and will have one full program that you have to write on paper, likely using OOP.
   - Exam E1 will cover all of the material from the course thus far, but the major topics covered thus far are C++, OOP, Big O, and linear structures stacks, queues, and deques. i.e. the major topics are C++, and the first three chapters of the textbook. Peerwise is very unlikely to suffice for your study unless you make the questions excellent.
+- Read [Chapter 4 in our Data Structures textbook]
 (https://moodle.berea.edu/mod/lti/view.php?id=641943) in preparation for a possible reading quiz on Friday
 
 ## Day 18: Wednesday, October 4, 2023
