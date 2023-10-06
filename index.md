@@ -12,14 +12,16 @@
 
 ### Day 19: In class
 
-- - Questions on [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8)?
+- Questions on [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8)?
 - Complete and submit [TR1: E1 Review](https://docs.google.com/document/d/1AKBUi_i1XsbP6Aidb5rqQifVveU4rQSpBK-pKVGy8Yc). Remember that it is up to each of you and your teams to help each other make it excellent. **Note that due to the nature of this assignment, it will not be accepted late.**
 
 ### Day 19: Outside of class
 
 - For Monday (during Reading Period), complete and submit [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8)
 - For Wednesday study for exam E1 which is in class on Wednesday.
-- For Friday read [Chapter 4 in our Data Structures textbook](https://moodle.berea.edu/mod/lti/view.php?id=641943) in preparation for a possible reading quiz on Friday
+- For Friday read [Chapter 4 in our Data Structures textbook]
+  - The exam will all be on paper. It will be a mixture of multiple choice and short answer, and will have one full program that you have to write on paper, likely using OOP.
+(https://moodle.berea.edu/mod/lti/view.php?id=641943) in preparation for a possible reading quiz on Friday
 
 ## Day 18: Wednesday, October 4, 2023
 
