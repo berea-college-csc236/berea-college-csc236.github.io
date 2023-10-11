@@ -6,6 +6,16 @@
 
 ---
 
+## Day 20: Wednesday, October 11, 2023
+
+### Day 20: In class
+
+- Exam E1
+
+### Day 20: Outside of class
+
+- Read [Chapter 4 in our Data Structures textbook](https://moodle.berea.edu/mod/lti/view.php?id=641943) in preparation for a possible reading quiz on Friday
+
 ## Reminder: Exam E1 will be Wednesday, October 11, 2023
 
 ## Day 19: Friday, October 6, 2023
