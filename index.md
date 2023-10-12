@@ -5,6 +5,18 @@
 ### Berea College Fall 2023 Offering
 
 ---
+## Day 21: Friday, October 13, 2023
+
+### Day 21: In class
+
+- Reactions to the exam
+- Discussion of L4
+- Begin and submit [T12: Introduction to Circular Linked Lists](https://docs.google.com/document/d/1uvElflLI-S0S3spkfCkquwi3ZgIEgM49vF9NeTPmN30).
+
+### Day 21: Outside of class
+
+- Read [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44) by Monday, so you know what is expected. Do not pull the codebase unless you know if you are working with a partner and who that is going to be.
+- Complete and submit [A05: Professional Story and Profile](https://docs.google.com/document/d/1-WQKoOoxGn9jCZHx53KMDSTMsKHS9f7KRehmgA1hye8) which is due Monday.
 
 ## Day 20: Wednesday, October 11, 2023
 
