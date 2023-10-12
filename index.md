@@ -5,6 +5,7 @@
 ### Berea College Fall 2023 Offering
 
 ---
+
 ## Day 21: Friday, October 13, 2023
 
 ### Day 21: In class
