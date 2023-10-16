@@ -12,6 +12,7 @@
 
 ### Day 22: In class
 
+- Example pitches
 - Discuss the binary in [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44)
 - Complete and submit [T13: Circular Linked Lists](https://docs.google.com/document/d/1uvElflLI-S0S3spkfCkquwi3ZgIEgM49vF9NeTPmN30)
 
