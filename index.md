@@ -6,13 +6,26 @@
 
 ---
 
+## No class: Wednesday, October 18; enjoy Mountain Day!
+
+## Day 22: Monday, October 16, 2023
+
+### Day 22: In class
+
+- Discuss the binary in [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44)
+- Complete and submit [T13: Circular Linked Lists](https://docs.google.com/document/d/1uvElflLI-S0S3spkfCkquwi3ZgIEgM49vF9NeTPmN30)
+
+### Day 22: Outside of class
+
+- Submit the design doc of [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44) by Friday, October 20, 2023.
+
 ## Day 21: Friday, October 13, 2023
 
 ### Day 21: In class
 
 - Reactions to the exam
 - Discussion of L4
-- Begin and submit [T12: Introduction to Circular Linked Lists](https://docs.google.com/document/d/1uvElflLI-S0S3spkfCkquwi3ZgIEgM49vF9NeTPmN30).
+- Begin [T12: Introduction to Circular Linked Lists](https://docs.google.com/document/d/1uvElflLI-S0S3spkfCkquwi3ZgIEgM49vF9NeTPmN30).
 
 ### Day 21: Outside of class
 
@@ -30,6 +43,8 @@
 - Read [Chapter 4 in our Data Structures textbook](https://moodle.berea.edu/mod/lti/view.php?id=641943) in preparation for a possible reading quiz on Friday
 
 ## Reminder: Exam E1 will be Wednesday, October 11, 2023
+
+## No class: Monday, October 9; have a productive Reading Day!
 
 ## Day 19: Friday, October 6, 2023
 
