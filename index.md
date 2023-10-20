@@ -6,6 +6,17 @@
 
 ---
 
+## Day 23: Friday, October 20, 2023
+
+### Day 23: In class
+
+- Start and hopefully complete [T13: Exploring Linked Lists](https://docs.google.com/document/d/1b4UHkIDdldDGyat5QdZ0FFzOFZKaubeOGuz-jsPR4I0).
+
+### Day 23: Outside of class
+
+- Continue working on [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44) to meet the second milestone which is due on Wednesday, October 25, 2023.
+- Complete and submit [A06: Thinking Recursively](https://docs.google.com/document/d/1rLwgk3XXBBZx-rXkoq20jws50gtztj24NBz_M8b42VQ/edit?usp=sharing) by Monday.
+
 ## No class: Wednesday, October 18; enjoy Mountain Day!
 
 ## Day 22: Monday, October 16, 2023
