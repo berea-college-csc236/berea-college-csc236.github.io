@@ -6,6 +6,17 @@
 
 ---
 
+## Day 24: Monday, October 23, 2023
+
+### Day 24: In class
+
+- Discuss and answer questions on E1
+- Begin [T14: Circling Back to Circular Linked Lists](https://docs.google.com/document/d/18y3Y_DldzoHN8KqVbODXm2ojXxet3Xc1pAm9StJlt5k).
+
+### Day 24: Outside of class
+
+- Continue working on [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44) to meet the second milestone which is due on Wednesday, October 25, 2023.
+
 ## Day 23: Friday, October 20, 2023
 
 ### Day 23: In class
