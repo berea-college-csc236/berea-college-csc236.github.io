@@ -6,6 +6,18 @@
 
 ---
 
+## Day 25: Wednesday, October 25, 2023
+
+### Day 25: In class
+
+- Complete [T14: Circling Back to Circular Linked Lists](https://docs.google.com/document/d/18y3Y_DldzoHN8KqVbODXm2ojXxet3Xc1pAm9StJlt5k) and submit withing the first 15 minutes of class.
+- Complete and submit [T15: Exploring Recursion](https://docs.google.com/document/d/1Qido7yr3NSrx052G3kqQze7PIEIRp9mlPBH3l5BRj5s).
+
+### Day 25: Outside of class
+
+- Complete [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44) by Friday, October 27, 2023.
+- Read [Chapter 5 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=644335) in preparation for a possible reading quiz on Friday.
+
 ## Day 24: Monday, October 23, 2023
 
 ### Day 24: In class
