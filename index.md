@@ -11,11 +11,11 @@
 ### Day 27: In class
 
 - Discuss [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)
-- Begin [T16: Understanding Recursion](https://docs.google.com/document/d/1Bte8UbQq7NSjy4XMJoEcrs8mtUgnt7jVgMQ12Eb7cmw)
+- Begin and complete [T16: Understanding Recursion](https://docs.google.com/document/d/1Bte8UbQq7NSjy4XMJoEcrs8mtUgnt7jVgMQ12Eb7cmw)
 
 ### Day 27: Outside of class
 
-- Complete[A07: Considering Diversity here and in the Workplace](https://docs.google.com/document/d/1GgQ0yrnytucqukz-ypOvNld4sJ4c4UNH_IkJkh3046Y)
+- Complete [A07: Considering Diversity here and in the Workplace](https://docs.google.com/document/d/1GgQ0yrnytucqukz-ypOvNld4sJ4c4UNH_IkJkh3046Y)
 - Continue [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). The second milestone is due Friday, November 3, 2023.
 
 ## Day 26: Friday, October 27, 2023
