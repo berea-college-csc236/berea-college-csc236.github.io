@@ -11,12 +11,14 @@
 ### Day 28: In class
 
 - Discuss Teamwork
+- We will discuss the [A07: Considering Diversity here and in the Workplace](https://docs.google.com/document/d/1GgQ0yrnytucqukz-ypOvNld4sJ4c4UNH_IkJkh3046Y) assignment on Monday after the students have returned from AfroTech
 - Q & A, and any demos/code review of [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)
 - Complete [T17: Searching](https://docs.google.com/document/d/1tYBkApVgtJaTdGhd1KCYprnOyZyP5FyKvSmw5gcCa84)
 
 ### Day 28: Outside of class
 
 - Continue [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). The second milestone is due Friday, November 3, 2023.
+- Note that we will be reading the next chapter for Monday.
 
 ## Day 27: Monday, October 30, 2023
 
