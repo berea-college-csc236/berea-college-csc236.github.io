@@ -5,6 +5,15 @@
 ### Berea College Fall 2023 Offering
 
 ---
+## Day 29: Friday, November 3, 2023
+
+### Day 29: In class
+
+- Complete [T18: Exploring Hashing](https://docs.google.com/document/d/1Rphbo_GvKvKquZtxsSYY__cTF4ZGO4uwNEcA70dN5e0)
+
+### Day 29: Outside of class
+
+- Read the next chapter on Searching and Hashing for Monday.
 
 ## Day 28: Wednesday, November 1, 2023
 
