@@ -9,11 +9,13 @@
 
 ### Day 29: In class
 
+- Discuss [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)
 - Complete [T18: Exploring Hashing](https://docs.google.com/document/d/1Rphbo_GvKvKquZtxsSYY__cTF4ZGO4uwNEcA70dN5e0)
 
 ### Day 29: Outside of class
 
-- Read the next chapter on Searching and Hashing for Monday.
+- Read [Chapter 6 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=644335) in preparation for a possible reading quiz on Friday.
+- Continue [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM) which is due Wednesday.
 
 ## Day 28: Wednesday, November 1, 2023
 
