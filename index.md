@@ -5,6 +5,18 @@
 ### Berea College Fall 2023 Offering
 
 ---
+
+## Day 30: Monday, November 6, 2023
+
+### Day 30: In class
+
+- Begin [T19: Hashing Functions and Collisions](https://docs.google.com/document/d/1LAYpzVOzkV2rSydtPBIJ14aQczKQHbne-F_YmyWpEkA).
+
+### Day 30: Outside of class
+
+- Read [Chapter 7 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=646112) in preparation for a possible reading quiz on Monday.
+- Continue [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM) which is due ~~Wednesday~~ Friday.
+
 ## Day 29: Friday, November 3, 2023
 
 ### Day 29: In class
