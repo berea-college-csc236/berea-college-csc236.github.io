@@ -6,17 +6,28 @@
 
 ---
 
+## Day 32: Friday, November 10, 2023
+
+### Day 32: In class
+
+- TBA
+
+### Day 32: Outside of class
+
+- Complete and submit [A08: Considering Diversity here and in the Workplace](https://docs.google.com/document/d/1GgQ0yrnytucqukz-ypOvNld4sJ4c4UNH_IkJkh3046Y) which is due Monday.
+
 ## Day 31: Wednesday, November 8, 2023
 
 ### Day 31: In class
 
-- Possible quiz
+- Answers on questions submitted in Slack and possible quiz
 - Discuss sorting and [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)
 - Complete [T19: Hashing Functions and Collisions](https://docs.google.com/document/d/1LAYpzVOzkV2rSydtPBIJ14aQczKQHbne-F_YmyWpEkA).
 
 ### Day 31: Outside of class
 
--  and submit [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)
+-  Submit [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM) which is due Friday.
+- Begin [A08: Considering Diversity here and in the Workplace](https://docs.google.com/document/d/1GgQ0yrnytucqukz-ypOvNld4sJ4c4UNH_IkJkh3046Y) which is due Monday.
 
 ## Day 30: Monday, November 6, 2023
 
