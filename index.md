@@ -6,6 +6,18 @@
 
 ---
 
+## Day 31: Wednesday, November 8, 2023
+
+### Day 31: In class
+
+- Possible quiz
+- Discuss sorting and [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)
+- Complete [T19: Hashing Functions and Collisions](https://docs.google.com/document/d/1LAYpzVOzkV2rSydtPBIJ14aQczKQHbne-F_YmyWpEkA).
+
+### Day 31: Outside of class
+
+-  and submit [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)
+
 ## Day 30: Monday, November 6, 2023
 
 ### Day 30: In class
