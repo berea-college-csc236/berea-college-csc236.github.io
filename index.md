@@ -10,11 +10,12 @@
 
 ### Day 32: In class
 
-- TBA
+- Complete and submit [T20: On Sorting](https://docs.google.com/document/d/1bUGZJNs8ARo3GyLqhumF-bL6slKTrzlZmAVF5RScjAI). 
 
 ### Day 32: Outside of class
 
-- Complete and submit [A08: Considering Diversity here and in the Workplace](https://docs.google.com/document/d/1GgQ0yrnytucqukz-ypOvNld4sJ4c4UNH_IkJkh3046Y) which is due Monday.
+- Complete [A08: What is Hashing](https://docs.google.com/document/d/1ON_KiUoWUE_NKCpsuZMztgkK9dmJAMLXTa8DxhgI90U)
+- Begin [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw), our last lab! It is due Monday, November 20.
 
 ## Day 31: Wednesday, November 8, 2023
 
@@ -22,7 +23,7 @@
 
 - Answers on questions submitted in Slack and possible quiz
 - Discuss sorting and [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)
-- Complete [T19: Hashing Functions and Collisions](https://docs.google.com/document/d/1LAYpzVOzkV2rSydtPBIJ14aQczKQHbne-F_YmyWpEkA).
+- Complete and submit [T19: Hashing Functions and Collisions](https://docs.google.com/document/d/1LAYpzVOzkV2rSydtPBIJ14aQczKQHbne-F_YmyWpEkA).
 
 ### Day 31: Outside of class
 
