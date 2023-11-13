@@ -6,16 +6,31 @@
 
 ---
 
+## Day 33: Monday, November 13, 2023
+
+### Day 33: In class
+
+- Discuss [A08: What is Hashing](https://docs.google.com/document/d/1ON_KiUoWUE_NKCpsuZMztgkK9dmJAMLXTa8DxhgI90U)
+- Discuss [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw).
+- Complete [T20: On Sorting](https://docs.google.com/document/d/1bUGZJNs8ARo3GyLqhumF-bL6slKTrzlZmAVF5RScjAI) which we will finish on Monday.
+
+### Day 33: Outside of class
+
+- Continue [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw), which is our last lab! It is due Monday, November 20.
+- Read [Sections 8.1-8.9 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=646831) in preparation for a possible reading quiz on Wednesday.
+
 ## Day 32: Friday, November 10, 2023
 
 ### Day 32: In class
 
-- Complete and submit [T20: On Sorting](https://docs.google.com/document/d/1bUGZJNs8ARo3GyLqhumF-bL6slKTrzlZmAVF5RScjAI). 
+- Art show of those who wish with [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)
+- Complete and submit [T19: Hashing Functions and Collisions](https://docs.google.com/document/d/1LAYpzVOzkV2rSydtPBIJ14aQczKQHbne-F_YmyWpEkA).
+- Begin [T20: On Sorting](https://docs.google.com/document/d/1bUGZJNs8ARo3GyLqhumF-bL6slKTrzlZmAVF5RScjAI) which we will finish on Monday.
 
 ### Day 32: Outside of class
 
 - Complete [A08: What is Hashing](https://docs.google.com/document/d/1ON_KiUoWUE_NKCpsuZMztgkK9dmJAMLXTa8DxhgI90U)
-- Begin [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw), our last lab! It is due Monday, November 20.
+- Read and potentially try a bit of [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw), which is our last lab! It is due Monday, November 20.
 
 ## Day 31: Wednesday, November 8, 2023
 
@@ -23,7 +38,7 @@
 
 - Answers on questions submitted in Slack and possible quiz
 - Discuss sorting and [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)
-- Complete and submit [T19: Hashing Functions and Collisions](https://docs.google.com/document/d/1LAYpzVOzkV2rSydtPBIJ14aQczKQHbne-F_YmyWpEkA).
+- Begin [T19: Hashing Functions and Collisions](https://docs.google.com/document/d/1LAYpzVOzkV2rSydtPBIJ14aQczKQHbne-F_YmyWpEkA).
 
 ### Day 31: Outside of class
 
