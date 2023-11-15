@@ -6,6 +6,18 @@
 
 ---
 
+## Day 34: Wednesday, November 15, 2023
+
+### Day 34: In class
+
+- possible quiz
+- Discuss [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw).
+- Start and submit [T21: Recursive Sorting](https://docs.google.com/document/d/1Zvcu_nvpkPZfn4wDhPEM7ub96dj7vb0LB9lIly3DjZs)
+
+### Day 34: Outside of class
+
+- Read [Sections 8.10-8.19 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=647555) in preparation for a possible reading quiz on Friday.
+
 ## Day 33: Monday, November 13, 2023
 
 ### Day 33: In class
