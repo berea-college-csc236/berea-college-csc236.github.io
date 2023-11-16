@@ -6,13 +6,23 @@
 
 ---
 
+## Day 35: Friday, November 17, 2023
+
+### Day 35: In class
+
+- Complete and submit [T21: Recursive Sorting](https://docs.google.com/document/d/1Zvcu_nvpkPZfn4wDhPEM7ub96dj7vb0LB9lIly3DjZs)
+
+### Day 35: Outside of class
+
+- TBA
+
 ## Day 34: Wednesday, November 15, 2023
 
 ### Day 34: In class
 
 - possible quiz
 - Discuss [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw).
-- Start and submit [T21: Recursive Sorting](https://docs.google.com/document/d/1Zvcu_nvpkPZfn4wDhPEM7ub96dj7vb0LB9lIly3DjZs)
+- Begin [T21: Recursive Sorting](https://docs.google.com/document/d/1Zvcu_nvpkPZfn4wDhPEM7ub96dj7vb0LB9lIly3DjZs)
 
 ### Day 34: Outside of class
 
