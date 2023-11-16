@@ -10,6 +10,7 @@
 
 ### Day 35: In class
 
+- possible quiz
 - Complete and submit [T21: Recursive Sorting](https://docs.google.com/document/d/1Zvcu_nvpkPZfn4wDhPEM7ub96dj7vb0LB9lIly3DjZs)
 
 ### Day 35: Outside of class
