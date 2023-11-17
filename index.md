@@ -17,7 +17,7 @@
 
 - Read the [Final Project Requirements](https://docs.google.com/document/d/15JyajlDZ2-LW9KPa-DKm5LZSXBN10lFX6OzK4ryG4uA/edit?usp=sharing) by Monday.
 - The due date for Lab [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw) has been extended one full week to Monday, November 27, 2023.
-- You will have a reading on the first part of chapter 9 for Monday, November 20, 2023. I will try to post it soon.
+- Reading due on Monday on [Sections 9.1-9.10 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=648396).
 
 ## Day 34: Wednesday, November 15, 2023
 
