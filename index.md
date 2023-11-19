@@ -10,8 +10,10 @@
 
 ### Day 36: In class
 
+- Discuss [Final Project Requirements](https://docs.google.com/document/d/15JyajlDZ2-LW9KPa-DKm5LZSXBN10lFX6OzK4ryG4uA/edit?usp=sharing)
 - possible quiz
 - Start and submit [T22: Exploring Trees](https://docs.google.com/document/d/1t0mL8FmPE1f4IfV03tyQcT1FPfdepX37KHRBftUxSh0)
+- Discuss project
 
 ### Day 36: Outside of class
 
