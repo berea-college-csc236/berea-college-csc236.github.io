@@ -20,9 +20,6 @@
 - The due date for Lab [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw) is due Monday, November 27, 2023.
 - Our last textbook reading is also due on Monday. See [Sections 9.11-9.23 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=648515).
 
-- possible quiz
-- Complete and submit [T21: Recursive Sorting](https://docs.google.com/document/d/1Zvcu_nvpkPZfn4wDhPEM7ub96dj7vb0LB9lIly3DjZs)
-
 ## Day 35: Friday, November 17, 2023
 
 ### Day 35: In class
