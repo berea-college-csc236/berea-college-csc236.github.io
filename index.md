@@ -12,13 +12,13 @@
 
 - Discuss [Final Project Requirements](https://docs.google.com/document/d/15JyajlDZ2-LW9KPa-DKm5LZSXBN10lFX6OzK4ryG4uA/edit?usp=sharing)
 - possible quiz
-- Start and submit [T22: Exploring Trees](https://docs.google.com/document/d/1t0mL8FmPE1f4IfV03tyQcT1FPfdepX37KHRBftUxSh0)
+- Start [T22: Exploring Trees](https://docs.google.com/document/d/1t0mL8FmPE1f4IfV03tyQcT1FPfdepX37KHRBftUxSh0) - we will finish this next Monday.
 - Discuss project
 
 ### Day 36: Outside of class
 
-- The due date for Lab [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw) is due Monday, November 27, 2023.
-- Our last textbook reading is also due on Monday. See [Sections 9.11-9.23 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=648515).
+- Our last textbook reading is due on Monday. See [Sections 9.11-9.23 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=648515).
+- The due date for Lab [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw) is due Wednesday, November 29, 2023.
 
 ## Day 35: Friday, November 17, 2023
 
