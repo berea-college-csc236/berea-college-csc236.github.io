@@ -6,6 +6,18 @@
 
 ---
 
+## Day 37: Monday, November 27, 2023
+
+### Day 37: In class
+
+- possible quiz
+- Discuss [Final Project Requirements](https://docs.google.com/document/d/15JyajlDZ2-LW9KPa-DKm5LZSXBN10lFX6OzK4ryG4uA/edit?usp=sharing)
+- Complete and submit [T22: Exploring Trees](https://docs.google.com/document/d/1t0mL8FmPE1f4IfV03tyQcT1FPfdepX37KHRBftUxSh0).
+
+### Day 37: Outside of class
+
+- Submit Lab [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw) which is due Wednesday, November 29, 2023.
+
 ## Day 36: Monday, November 20, 2023
 
 ### Day 36: In class
