@@ -14,6 +14,7 @@
 
 ### Day 38: Outside of class
 
+- Complete [FP1: Initial Planning for Final Project](https://docs.google.com/document/d/1byMsKfTPPEGO4eGSdHohAxkCYRKO1tHqb0Bd7eghFlg) by Friday.
 - Complete [A10: Review and Reflection](https://docs.google.com/document/d/1zS8jEGIKEUvBC1kr84Cs3AoqYIKnnklGyB4EowCDw2w) by Friday. Due to the nature of the assignment, **It will not be accepted late.**
 
 ## Day 37: Monday, November 27, 2023
