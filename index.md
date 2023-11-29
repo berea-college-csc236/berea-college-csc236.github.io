@@ -6,6 +6,16 @@
 
 ---
 
+## Day 38: Wednesday, November 29, 2023
+
+### Day 38: In class
+
+- Complete and submit [T24: Exploring Graphs](https://docs.google.com/document/d/1lq4QQeKIZg7rA1KItCHP8jRKkDQsMkVGZdTr1DlDBHY)
+
+### Day 38: Outside of class
+
+- Complete [A10: Review and Reflection](https://docs.google.com/document/d/1zS8jEGIKEUvBC1kr84Cs3AoqYIKnnklGyB4EowCDw2w) by Friday. Due to the nature of the assignment, **It will not be accepted late.**
+
 ## Day 37: Monday, November 27, 2023
 
 ### Day 37: In class
