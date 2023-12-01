@@ -6,6 +6,18 @@
 
 ---
 
+## Day 39: Friday, December 1, 2023
+
+### Day 39: In class
+
+ - Begin [TR2 Peerwise Review for E2](https://docs.google.com/document/d/1tY3QpKNjqW3PR1YcbAGsV6HSbUT47bTv1EUx-sv6RwQ) which is due by tomorrow (yes, Saturday) at 12 Noon and will not be accepted late. Be sure that all questions are reviewed and improved. Wrong or poor questions count against the entire team, not just the author because you are expected to have reviewed and approved them.
+
+### Day 39: Outside of class
+
+ - Complete [TR2 Peerwise Review for E2](https://docs.google.com/document/d/1tY3QpKNjqW3PR1YcbAGsV6HSbUT47bTv1EUx-sv6RwQ) which is due by tomorrow (yes, Saturday) at 12 Noon and will not be accepted late. Be sure that all questions are reviewed and improved. Wrong or poor questions count against the entire team, not just the author because you are expected to have reviewed and approved them. Only once approved, submit to Peerwise.
+ - Begin studying for Exam E2
+- Work on [FP2: Planning and Preliminary Video Script](https://docs.google.com/document/d/16lsG7uJKPY1XXHka3-KP-7GiviBg2ePTxUKma_bg7lk). This submission is a **preliminary script**.
+
 ## Day 38: Wednesday, November 29, 2023
 
 ### Day 38: In class
