@@ -10,6 +10,7 @@
 
 ### Day 40: In class
 
+- questions in preparation for exam?
 - Work on [FP2: Planning and Preliminary Video Script](https://docs.google.com/document/d/16lsG7uJKPY1XXHka3-KP-7GiviBg2ePTxUKma_bg7lk). This submission is a **preliminary script**.
 
 ### Day 40: Outside of class
