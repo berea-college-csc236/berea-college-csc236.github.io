@@ -6,6 +6,17 @@
 
 ---
 
+## Day 40: Monday, December 4, 2023
+
+### Day 40: In class
+
+- Work on [FP2: Planning and Preliminary Video Script](https://docs.google.com/document/d/16lsG7uJKPY1XXHka3-KP-7GiviBg2ePTxUKma_bg7lk). This submission is a **preliminary script**.
+
+### Day 40: Outside of class
+
+- Study for exam E2
+- Submit [FP2: Planning and Preliminary Video Script](https://docs.google.com/document/d/16lsG7uJKPY1XXHka3-KP-7GiviBg2ePTxUKma_bg7lk). This submission is a **preliminary script**. It is due on Wednesday.
+
 ## Day 39: Friday, December 1, 2023
 
 ### Day 39: In class
@@ -14,8 +25,8 @@
 
 ### Day 39: Outside of class
 
- - Complete and submit [TR2 Peerwise Review for E2](https://docs.google.com/document/d/1tY3QpKNjqW3PR1YcbAGsV6HSbUT47bTv1EUx-sv6RwQ) which is due by tomorrow at Noon. Only once approved, submit questions to Peerwise.
- - Begin studying for Exam E2
+- Complete and submit [TR2 Peerwise Review for E2](https://docs.google.com/document/d/1tY3QpKNjqW3PR1YcbAGsV6HSbUT47bTv1EUx-sv6RwQ) which is due by tomorrow at Noon. Only once approved, submit questions to Peerwise.
+- Begin studying for Exam E2
 - Work on [FP2: Planning and Preliminary Video Script](https://docs.google.com/document/d/16lsG7uJKPY1XXHka3-KP-7GiviBg2ePTxUKma_bg7lk). This submission is a **preliminary script**.
 
 ## Day 38: Wednesday, November 29, 2023
