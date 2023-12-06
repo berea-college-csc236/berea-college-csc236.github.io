@@ -6,6 +6,17 @@
 
 ---
 
+## Day 41: Wednesday, December 6, 2023
+
+### Day 41: In class
+
+- questions in preparation for exam?
+- Work on project. The big 0 analysis is due on Monday.
+
+### Day 41: Outside of class
+
+- Study for exam E2, which will be in class on Friday.
+
 ## Day 40: Monday, December 4, 2023
 
 ### Day 40: In class
