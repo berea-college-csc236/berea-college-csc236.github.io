@@ -6,6 +6,16 @@
 
 ---
 
+## Day 42: Friday, December 8, 2023
+
+### Day 42: In class
+
+- Exam E2
+
+### Day 42: Outside of class
+
+- Work on project including [FP3: Big O Analysis](https://docs.google.com/document/d/1RWkZEl1XNMVA-PfnAdD9Teip1oirXtkDnU_vtboWloA/edit?usp=drive_link), which is due on Monday, December 11, 2023.
+
 ## Day 41: Wednesday, December 6, 2023
 
 ### Day 41: In class
