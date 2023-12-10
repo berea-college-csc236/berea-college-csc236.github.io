@@ -12,6 +12,10 @@
 - Section B: Thursday, December 14, 2023, 8:30 AM - 10:30 AM
 - [FP4: Link to Video and Final Transcript](https://docs.google.com/document/d/17YmTJYWzVriYggUipkHsSzqzFxamCTT3BZWiE0dA2s0/edit?usp=sharing) is due by **8 AM** on the day of your final exam period. During class you will informally present your project to your classmates.
 
+## Reading Day, Monday, December 11, 2023
+
+- [FP3: Big O Analysis](https://docs.google.com/document/d/1RWkZEl1XNMVA-PfnAdD9Teip1oirXtkDnU_vtboWloA/edit?usp=drive_link) is due by 8 AM
+
 ## Day 42: Friday, December 8, 2023
 
 ### Day 42: In class
