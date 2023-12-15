@@ -6,6 +6,11 @@
 
 ---
 
+## Team evaluation
+
+- Complete and submit [Final Team Evaluation](https://forms.gle/zgbkUFmydTJzpGAC9) which is due anytime today or tomorrow.
+- Have a great break!
+
 ## Final Exam Periods
 
 - Section A: Wednesday, December 13, 2023, 8:30 AM - 10:30 AM
