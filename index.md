@@ -6,6 +6,22 @@
 
 ---
 
+## Day 2: Friday, January 12, 2024
+
+### Day 2: In class
+
+- Possible quiz
+- Debrief on installations, C++, the syllabus, and the AI policy in particular
+- Watch [Github Copilot in Visual Studio Community](https://youtu.be/kc_A12G4Elk)
+- Sign up for [Github Student Developer Pack](https://education.github.com/pack). Note that it might take three or more days to get this, so don't fret since we do not need it and you are likely better off not using it for the first lab.
+- Install Github Copilot and request access to Github Copilot chat
+- Complete, download, and submit [Teamwork T01: Visual Studio, Github, and ASCII Art](https://docs.google.com/document/d/1Bz1sbwxid1ydkSHaO5nDMpMgzwa29Py6zzTlWGUvBzM)
+
+### Day 2: Outside of class (due before class on Monday)
+
+- Begin [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). This is an individual Lab. The first milestone is due Wednesday, January 17, 2024. The final completion milestone of the  lab is due Friday, January 19, 2024.
+- Read [Chapters 2 and 3 in C++ for Python Programmers](https://moodle.berea.edu/mod/lti/view.php?id=670833) for a potential reading quiz next class. Be sure you are logged in and do all activities to get credit!
+
 ## Day 1: Wednesday, January 10, 2024
 
 ### Day 1: In class
