@@ -6,6 +6,8 @@
 
 ---
 
+## No class: Monday, January 15, 2024 - Enjoy MLK Day!
+
 ## Day 2: Friday, January 12, 2024
 
 ### Day 2: In class
@@ -17,7 +19,7 @@
 - Install Github Copilot and request access to Github Copilot chat
 - Complete, download, and submit [Teamwork T01: Visual Studio, Github, and ASCII Art](https://docs.google.com/document/d/1Bz1sbwxid1ydkSHaO5nDMpMgzwa29Py6zzTlWGUvBzM)
 
-### Day 2: Outside of class (due before class on Monday)
+### Day 2: Outside of class (due before class on Wednesday, January 17, 2024)
 
 - Begin [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). This is an individual Lab. The first milestone is due Wednesday, January 17, 2024. The final completion milestone of the  lab is due Friday, January 19, 2024.
 - Read [Chapters 2 and 3 in C++ for Python Programmers](https://moodle.berea.edu/mod/lti/view.php?id=670833) for a potential reading quiz next class. Be sure you are logged in and do all activities to get credit!
