@@ -11,7 +11,7 @@
 ### Day 3: In class
 
 - Possible quiz
-- Begin [Teamwork T02: Collaboration](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ) which we will complete in class next time.
+- Complete [Teamwork T02: Collaboration with Branches](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ) with a partner in class.
 
 ### Day 3: Outside of class
 
