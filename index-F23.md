@@ -522,7 +522,7 @@
 ### Day 3: Outside of class
 
 - Read [Chapters 4 and 5 in C++ for Python Programmers](https://moodle.berea.edu/mod/assign/view.php?id=636030) for a possible reading quiz next class. Be sure you are logged in and do all activities to get credit!
-- Continue [L0: ASCII-Art](https://classroom.github.com/a/7wAVfLbn). This is an individual Lab. The first milestone is due Wednesday and the final submission is due on Friday.
+- Continue [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). This is an individual Lab. The first milestone is due Wednesday and the final submission is due on Friday.
 
 ## Day 2: Friday, August 25, 2023
 

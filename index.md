@@ -6,6 +6,18 @@
 
 ---
 
+## Day 3: Wednesday, January 17, 2024
+
+### Day 3: In class
+
+- Possible quiz
+- Begin [Teamwork T02: Collaboration](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ) which we will complete in class next time.
+
+### Day 3: Outside of class
+
+- Read [Chapters 4 and 5 in C++ for Python Programmers](https://moodle.berea.edu/mod/lti/view.php?id=671027) for a possible reading quiz next class. Be sure you are logged in and do all activities to get credit!
+- Complete [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). The final submission is due on Friday.
+
 ## No class: Monday, January 15, 2024 - Enjoy MLK Day!
 
 ## Day 2: Friday, January 12, 2024
