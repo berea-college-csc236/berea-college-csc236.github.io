@@ -11,7 +11,9 @@
 ### Day 3: In class
 
 - Possible quiz
-- Complete [Teamwork T02: Collaboration with Branches](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ) with a partner in class.
+- Questions on lab
+- show primer on branches in Github
+- Complete [Teamwork T02: Collaboration via Branches](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ) with a partner in class.
 
 ### Day 3: Outside of class
 
