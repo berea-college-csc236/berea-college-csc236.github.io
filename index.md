@@ -6,18 +6,19 @@
 
 ---
 
-## Day 4: Friday, January 19, 2024
+## Day 4: Friday, January 19, 2024 - delayed start
 
-### Day 4: In class
+### Day 4: In class - (9:20 -> 10:00) & (10:40 -> 11:00)
 
 - Art show!
 - Possible quiz
 - Demo of debugging in Visual Studio
-- Complete [Teamwork T03:  Debugging in Visual Studio and Beyond](https://docs.google.com/document/d/1T0BS2SzKxoOXg_EpfDCpFd8UG219_Jbqzl8W1kogtcc/edit?usp=sharing).
+- Complete [Teamwork T03:  Debugging Techniques](https://docs.google.com/document/d/1T0BS2SzKxoOXg_EpfDCpFd8UG219_Jbqzl8W1kogtcc/edit?usp=sharing).
 
 ### Day 4: Outside of class
 
 - Read [Chapters 6, 7 and 8 in C++ for Python Programmers](https://moodle.berea.edu/mod/lti/view.php?id=671028) for a possible reading quiz next class.
+- Read [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c)
 
 ## Day 3: Wednesday, January 17, 2024
 
