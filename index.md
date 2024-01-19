@@ -6,12 +6,25 @@
 
 ---
 
+## Day 4: Friday, January 19, 2024
+
+### Day 4: In class
+
+- Art show!
+- Possible quiz
+- Demo of debugging in Visual Studio
+- Complete [Teamwork T03:  Debugging in Visual Studio and Beyond](https://docs.google.com/document/d/1T0BS2SzKxoOXg_EpfDCpFd8UG219_Jbqzl8W1kogtcc/edit?usp=sharing).
+
+### Day 4: Outside of class
+
+- Read [Chapters 6, 7 and 8 in C++ for Python Programmers](https://moodle.berea.edu/mod/lti/view.php?id=671028) for a possible reading quiz next class.
+
 ## Day 3: Wednesday, January 17, 2024
 
 ### Day 3: In class
 
 - Possible quiz
-- Questions on lab
+- Questions on [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8) which is due Friday. (Hints on escaping backslashes and quotes.)
 - show primer on branches in Github
 - Complete [Teamwork T02: Collaboration via Branches](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ) with a partner in class.
 
