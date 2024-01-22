@@ -6,6 +6,20 @@
 
 ---
 
+## Day 5: Monday, January 22, 2024
+
+### Day 5: In class
+
+- Possible quiz
+- Discuss requirements in [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c)
+- Complete [Teamwork T04: Drawing with C-Turtle](https://docs.google.com/document/d/19PSMP2Mwxs5qKD3p54ebrk3Dnb4n7x6KgjU02vLdlJI).
+- Sign up for main data structures textbook bc_cppds_s24
+
+### Day 5: Outside of class
+
+- Complete [A01: OOP Principles](https://docs.google.com/document/d/1uH5vpyvL1rCLsmI14D3LIgUo2Q-0fCCdclOz2ZAk1Eg).
+- Begin [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c). This is an individual lab that has the first milestone due on Wednesday. The full lab is due on Friday.
+
 ## Day 4: Friday, January 19, 2024 - delayed start
 
 ### Day 4: In class - (9:20 -> 10:00) & (10:40 -> 11:00)
