@@ -6,12 +6,25 @@
 
 ---
 
+## Day 7: Friday, January 26, 2024
+
+### Day 7: In class
+
+- Art show!
+- Possible quiz on [Chapter 1 on OOP](https://moodle.berea.edu/mod/lti/view.php?id=669042)
+- Complete [T05: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag)
+
+### Day 7: Outside of class
+
+- Complete [A02: Resume and Career Reflection](https://docs.google.com/document/d/1avfeQLvWTLkVHn7MhayzopEV31etJmGLZFsE8KE61dQ) due on Monday.
+- Start [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q). This is an individual lab that has Milestone 1 due on Wednesday and the full lab due on Friday, February 2.
+
 ## Day 6: Wednesday, January 24, 2024
 
 ### Day 6: In class
 
 - Briefly discuss [A01: OOP Principles](https://docs.google.com/document/d/1uH5vpyvL1rCLsmI14D3LIgUo2Q-0fCCdclOz2ZAk1Eg).
-- Complete [T05: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag)
+- Begin [T05: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag)
 
 ### Day 6: Outside of class
 
