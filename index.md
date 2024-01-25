@@ -17,7 +17,7 @@
 ### Day 7: Outside of class
 
 - Complete [A02: Resume and Career Reflection](https://docs.google.com/document/d/1avfeQLvWTLkVHn7MhayzopEV31etJmGLZFsE8KE61dQ) due on Monday.
-- Start [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q). This is an individual lab that has Milestone 1 due on Wednesday and the full lab due on Friday, February 2.
+- Start [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q). This is an individual lab that has Milestone 1 due on Wednesday, the second milestone is due Friday, and the full lab due on Monday, February 5.
 
 ## Day 6: Wednesday, January 24, 2024
 
