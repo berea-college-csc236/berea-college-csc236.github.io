@@ -16,7 +16,7 @@
 ### Day 6: Outside of class
 
 - Read [Chapter 1 on OOP](https://moodle.berea.edu/mod/lti/view.php?id=669042) in preparation for a potential reading quiz. Be sure to go through Moodle to get credit.
-- Complete first milestone of [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c)
+- Complete [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c)
 
 ## Day 5: Monday, January 22, 2024
 
