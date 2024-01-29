@@ -6,6 +6,17 @@
 
 ---
 
+## Day 8: Monday, January 29, 2024
+
+### Day 8: In class
+
+- Questions on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q). 
+- Complete [T06: Understanding OOD and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4)
+
+### Day 8: Outside of class
+
+- Complete and submit [A03: Videos and Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU) by 8am 
+
 ## Day 7: Friday, January 26, 2024
 
 ### Day 7: In class
