@@ -6,6 +6,19 @@
 
 ---
 
+## Day 9: Wednesday, January 31, 2024
+
+### Day 9: In class
+
+- Discuss [A03: Videos and Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU)
+- Questions on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q).
+- Complete [T06: Understanding OOP and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4).
+
+### Day 9: Outside of class
+
+- Read [Chapter 2 Reading on Big O](https://moodle.berea.edu/mod/lti/view.php?id=673989) and do all activities in preparation for a potential reading quiz. **This is one of the most important topics in the entire course; you might try to find time to read it twice!**
+- Complete Milestone 2 of [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q). The full lab due on Monday, February 5.
+
 ## Day 8: Monday, January 29, 2024
 
 ### Day 8: In class
