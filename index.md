@@ -12,8 +12,7 @@
 
 - Possible quiz on [Chapter 2 Reading on Big O](https://moodle.berea.edu/mod/lti/view.php?id=673989)
 - Answer questions on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q) which is due Monday.
-- Complete [T07: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE)
-- Discuss Big O and what was learned in T07
+- Begin [T07: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE). We will complete and discuss this next time.
 
 ### Day 10: Outside of class
 
