@@ -11,12 +11,13 @@
 ### Day 10: In class
 
 - Possible quiz on [Chapter 2 Reading on Big O](https://moodle.berea.edu/mod/lti/view.php?id=673989)
+- Answer questions on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q) which is due Monday.
 - Complete [T07: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE)
 - Discuss Big O and what was learned in T07
 
 ### Day 10: Outside of class
 
-- Complete Milestone 2 of [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q). 
+- Complete and submit the link for [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q).
 - Read [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E), possibly find a partner and bring questions to class on Monday.
 
 ## Day 9: Wednesday, January 31, 2024
@@ -68,7 +69,7 @@
 ### Day 6: Outside of class
 
 - Read [Chapter 1 on OOP](https://moodle.berea.edu/mod/lti/view.php?id=669042) in preparation for a potential reading quiz. Be sure to go through Moodle to get credit.
-- Complete [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c)
+- Complete and submit the link for [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c)
 
 ## Day 5: Monday, January 22, 2024
 
@@ -105,7 +106,7 @@
 - Possible quiz
 - Questions on [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8) which is due Friday. (Hints on escaping backslashes and quotes.)
 - show primer on branches in Github
-- Complete [Teamwork T02: Collaboration via Branches](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ) with a partner in class.
+- Complete and submit the link for [Teamwork T02: Collaboration via Branches](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ) with a partner in class.
 
 ### Day 3: Outside of class
 
