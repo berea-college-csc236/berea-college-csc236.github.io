@@ -6,6 +6,19 @@
 
 ---
 
+## Day 10: Friday, February 2, 2024
+
+### Day 10: In class
+
+- Possible quiz on [Chapter 2 Reading on Big O](https://moodle.berea.edu/mod/lti/view.php?id=673989)
+- Complete [T07: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE)
+- Discuss Big O and what was learned in T07
+
+### Day 10: Outside of class
+
+- Complete Milestone 2 of [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q). 
+- Read [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E), possibly find a partner and bring questions to class on Monday.
+
 ## Day 9: Wednesday, January 31, 2024
 
 ### Day 9: In class
