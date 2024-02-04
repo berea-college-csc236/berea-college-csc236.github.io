@@ -12,7 +12,7 @@
 
 - Debrief on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q).
 - Discussion of [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) which is due in one week with the first milestone due on Wednesday. Hence, by Wednesday, you should have decided if you will have a partner or alone and your team will have a plan.
-- Math presentation focused on summations, logarithms, and the growth of functions. 
+- Math presentation focused on summations, logarithms, and the growth of functions as the size of the input grows. This is a critical topic for understanding the efficiency of algorithms.
 - Complete and debrief on [T07: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE)
 
 ### Day 11: Outside of class
