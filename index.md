@@ -6,6 +6,19 @@
 
 ---
 
+## Day 11: Monday, February 5, 2024
+
+### Day 11: In class
+
+- Debrief on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q).
+- Discussion of [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) which is due in one week with the first milestone due on Wednesday. Hence, by Wednesday, you should have decided if you will have a partner or alone and your team will have a plan.
+- Math presentation focused on summations, logarithms, and the growth of functions. 
+- Complete and debrief on [T07: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE)
+
+### Day 11: Outside of class
+
+- Find a partner (if desired) and complete the first milestone of [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) which is due Wednesday.
+
 ## Day 10: Friday, February 2, 2024
 
 ### Day 10: In class
