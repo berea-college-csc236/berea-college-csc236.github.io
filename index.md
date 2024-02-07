@@ -6,6 +6,19 @@
 
 ---
 
+## Day 12: Wednesday, February 7, 2024
+
+### Day 12: In class
+
+- Questions on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E)
+- Debrief on [T07: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE)
+- Complete [T08: How Long will this Take?](https://docs.google.com/document/d/1_vzhbJdc5-bmYi1CLpMEgA7WM1c4wXH0EwFb_JOJPek/edit?usp=sharing).
+
+### Day 12: Outside of class
+
+- Complete the second milestone of [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) which is due Friday. For this milestone, you should try to complete all of the implementation, but it might not yet be fully functional. The full lab is due Monday, February 12.
+
+
 ## Day 11: Monday, February 5, 2024
 
 ### Day 11: In class
