@@ -14,12 +14,12 @@
 
 - Questions on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E)
 - Brief introduction to Stacks and Queues
-- Complete [T09: Queues, Stacks, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw)
+- Begin [T09: Queues, Stacks, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw)
 
 ### Day 13: Outside of class
 
 - Complete and submit [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) The full lab is due Monday, February 12. Do not forget to submit the link to the Github repository.
-- Read [Sections 3.10-3.22 in our Data Structures textbook](https://moodle.berea.edu/mod/lti/view.php?id=675297) in preparation for a possible reading quiz.
+- Read [Sections 3.1-3.09 in our Data Structures textbook](https://moodle.berea.edu/mod/lti/view.php?id=675297) in preparation for a possible reading quiz.
 
 ## Day 12: Wednesday, February 7, 2024
 
