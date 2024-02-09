@@ -6,6 +6,22 @@
 
 ---
 
+## Possible Midterm Exam Dates: Wednesday, February 21, 2024
+
+## Day 13: Friday, February 9, 2024
+
+### Day 13: In class
+
+- Questions on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E)
+- Brief introduction to Stacks and Queues
+- Complete [T09: Queues, Stacks, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw)
+- Read [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8)
+
+### Day 13: Outside of class
+
+- Complete and submit [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) The full lab is due Monday, February 12. Do not forget to submit the link to the Github repository.
+- Two more textbook readings are open. They are on Stacks, Queues, and Deques. These will be on the midterm, so you can get started reading them if you'd like.
+
 ## Day 12: Wednesday, February 7, 2024
 
 ### Day 12: In class
@@ -17,7 +33,6 @@
 ### Day 12: Outside of class
 
 - Complete the second milestone of [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) which is due Friday. For this milestone, you should try to complete all of the implementation, but it might not yet be fully functional. The full lab is due Monday, February 12.
-
 
 ## Day 11: Monday, February 5, 2024
 
