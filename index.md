@@ -15,12 +15,11 @@
 - Questions on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E)
 - Brief introduction to Stacks and Queues
 - Complete [T09: Queues, Stacks, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw)
-- Read [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8)
 
 ### Day 13: Outside of class
 
 - Complete and submit [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) The full lab is due Monday, February 12. Do not forget to submit the link to the Github repository.
-- Two more textbook readings are open. They are on Stacks, Queues, and Deques. These will be on the midterm, so you can get started reading them if you'd like.
+- Read [Sections 3.10-3.22 in our Data Structures textbook](https://moodle.berea.edu/mod/lti/view.php?id=675297) in preparation for a possible reading quiz.
 
 ## Day 12: Wednesday, February 7, 2024
 
