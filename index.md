@@ -6,9 +6,20 @@
 
 ---
 
-## Possible Midterm Exam Dates: Wednesday, February 21, 2024
+## Midterm Exam Date: Friday, February 23, 2024
 
-## Day 13: Friday, February 9, 2024
+## Day 14: Friday, February 9, 2024
+
+### Day 14: In class
+
+- Possible quiz
+- Demos of [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E)
+- Complete [T09: Queues, Stacks, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw)
+- Begin [T10: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8)
+
+### Day 14: Outside of class
+
+- Read [Sections 3.10-3.21 in our Data Structures textbook](https://moodle.berea.edu/mod/lti/view.php?id=675298) in preparation for a possible reading quiz.
 
 ### Day 13: In class
 
