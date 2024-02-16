@@ -17,7 +17,7 @@
 
 ### Day 16: Outside of class
 
-- Complete and submit [A04: A Simple Introduction To Linked Lists](https://docs.google.com/document/d/1r5316kQR2qmtEWYqUaPVcXp_yrIuPQV61RUAy_sj5KU) by Friday.
+- Complete and submit [A04: A Simple Introduction To Linked Lists](https://docs.google.com/document/d/1r5316kQR2qmtEWYqUaPVcXp_yrIuPQV61RUAy_sj5KU).
 - Complete Milestone 1 including the design document submission for [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) Note that in past years students have found debugging this lab to be challenging, but completing the design document and meeting the first milestone is not difficult.
 
 ## Day 15: Wednesday, February 14, 2024
