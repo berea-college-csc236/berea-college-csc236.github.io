@@ -8,6 +8,19 @@
 
 ## Midterm Exam Date: Friday, February 23, 2024
 
+## Day 17: Monday, February 19, 2024
+
+### Day 17: In class
+
+- Discuss [A04: A Simple Introduction To Linked Lists](https://docs.google.com/document/d/1r5316kQR2qmtEWYqUaPVcXp_yrIuPQV61RUAy_sj5KU).
+- Discuss [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8)
+- Complete and submit [T10: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8)
+
+### Day 17: Outside of class
+
+- Complete Milestone 1 including the design document submission for [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8). Note that in past years students have found debugging this lab to be challenging, but completing the design document and meeting the first milestone is not difficult.
+- Note that the next textbook reading has been posted early at [Chapter 4 in our Data Structures textbook](https://moodle.berea.edu/mod/lti/view.php?id=676710) which is due the Monday after the midterm.
+
 ## Day 16: Friday, February 16, 2024
 
 ### Day 16: In class
@@ -18,7 +31,7 @@
 ### Day 16: Outside of class
 
 - Complete and submit [A04: A Simple Introduction To Linked Lists](https://docs.google.com/document/d/1r5316kQR2qmtEWYqUaPVcXp_yrIuPQV61RUAy_sj5KU).
-- Complete Milestone 1 including the design document submission for [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) Note that in past years students have found debugging this lab to be challenging, but completing the design document and meeting the first milestone is not difficult.
+- Complete Milestone 1 including the design document submission for [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8). Note that in past years students have found debugging this lab to be challenging, but completing the design document and meeting the first milestone is not difficult.
 
 ## Day 15: Wednesday, February 14, 2024
 
