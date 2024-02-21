@@ -13,11 +13,14 @@
 ### Day 18: In class
 
 - Discuss exam
+- Questions on [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8)
 - Complete and submit [T11: Introduction to Circular Linked Lists](https://docs.google.com/document/d/1uvElflLI-S0S3spkfCkquwi3ZgIEgM49vF9NeTPmN30/edit?usp=sharing)
 
 ### Day 18: Outside of class
 
-- Study for the paper exam which is Friday, February 23, 2024. The exam will cover all material up to and including the reading due on Monday, February 19, 2024. This includes all labs, teamwork, and textbook readings. The exam will be a mix of multiple choice, short answer, and one coding problem. The coding problem. 
+- **For Friday**: Study for the all-paper exam which is Friday, February 23, 2024. The exam will cover all material up to and including the first three chapters of the data structures textbook. This includes all labs, teamwork, and textbook readings. The exam will be a mix of multiple choice, short answer, and one coding problem.
+- **By Monday**: Complete and submit link to [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8). 
+- **By Monday**: the next textbook reading has been posted early at [Chapter 4 in our Data Structures textbook](https://moodle.berea.edu/mod/lti/view.php?id=676710) which is due the Monday after the midterm.
 
 ## Day 17: Monday, February 19, 2024
 
@@ -29,7 +32,7 @@
 
 ### Day 17: Outside of class
 
-- Complete Milestone 1 including the design document submission for [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8). Note that in past years students have found debugging this lab to be challenging, but completing the design document and meeting the first milestone is not difficult.
+- Complete Milestone 2 [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8). This includes trying to complete all of the implementation, but it might not yet be fully functional. The full lab is due Monday, February 26.
 - Note that the next textbook reading has been posted early at [Chapter 4 in our Data Structures textbook](https://moodle.berea.edu/mod/lti/view.php?id=676710) which is due the Monday after the midterm.
 
 ## Day 16: Friday, February 16, 2024
