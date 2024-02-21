@@ -8,6 +8,17 @@
 
 ## Midterm Exam Date: Friday, February 23, 2024
 
+## Day 18: Wednesday, February 21, 2024
+
+### Day 18: In class
+
+- Discuss exam
+- Complete and submit [T11: Introduction to Circular Linked Lists](https://docs.google.com/document/d/1uvElflLI-S0S3spkfCkquwi3ZgIEgM49vF9NeTPmN30/edit?usp=sharing)
+
+### Day 18: Outside of class
+
+- Study for the paper exam which is Friday, February 23, 2024. The exam will cover all material up to and including the reading due on Monday, February 19, 2024. This includes all labs, teamwork, and textbook readings. The exam will be a mix of multiple choice, short answer, and one coding problem. The coding problem. 
+
 ## Day 17: Monday, February 19, 2024
 
 ### Day 17: In class
