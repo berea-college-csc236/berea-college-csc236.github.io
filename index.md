@@ -6,6 +6,32 @@
 
 ---
 
+## Day 20: Monday, February 26, 2024
+
+### Day 20: In class
+
+- Debriefing on the exam
+- Possible quiz
+- Questions on [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) which has had its deadline extended to Wednesday.
+- Complete and submit [T11: Introduction to Circular Linked Lists](https://docs.google.com/document/d/1uvElflLI-S0S3spkfCkquwi3ZgIEgM49vF9NeTPmN30/edit?usp=sharing)
+
+### Day 20: Outside of class
+
+- **By ~~Monday~~**: Complete and submit link to [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8). **Extended to Wednesday.**
+- Complete and submit [A05: Professional Story and Profile](https://docs.google.com/document/d/1-WQKoOoxGn9jCZHx53KMDSTMsKHS9f7KRehmgA1hye8) which is due Wednesday.
+- If you have time, read [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44), so you know what is expected. Do not pull the codebase unless you know if you are working with a partner and who that is going to be. The first milestone is due on Friday.
+
+## Day 19: Friday, February 23, 2024
+
+### Day 19: In class
+
+- Exam E1
+
+### Day 19: Outside of class
+
+- **By ~~Monday~~**: Complete and submit link to [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8). **Extended to Wednesday.**
+- **By Monday**: the next textbook reading has been posted early at [Chapter 4 in our Data Structures textbook](https://moodle.berea.edu/mod/lti/view.php?id=676710) which is due the Monday after the midterm.
+
 ## Midterm Exam Date: Friday, February 23, 2024
 
 ## Day 18: Wednesday, February 21, 2024
