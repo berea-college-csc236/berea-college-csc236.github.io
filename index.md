@@ -6,6 +6,19 @@
 
 ---
 
+## Day 21: Wednesday, February 28, 2024
+
+### Day 21: In class
+
+- Debrief on [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8).
+- Sharing of professional stories and profiles from [A05: Professional Story and Profile](https://docs.google.com/document/d/1-WQKoOoxGn9jCZHx53KMDSTMsKHS9f7KRehmgA1hye8) was due today.
+- Start and hopefully complete [T12: Exploring Linked Lists](https://docs.google.com/document/d/1b4UHkIDdldDGyat5QdZ0FFzOFZKaubeOGuz-jsPR4I0).
+- Introduction to [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44). The first milestone is due on Friday.
+
+### Day 21: Outside of class
+
+- Complete the first milestone of [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44), which is due Friday. The second milestone is due the Monday after break.
+
 ## Day 20: Monday, February 26, 2024
 
 ### Day 20: In class
