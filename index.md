@@ -6,13 +6,26 @@
 
 ---
 
+## Day 22: Friday, March 1, 2024
+
+### Day 22: In class
+
+_ Questions on the exam?
+- Questions and discussion on [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44). The second milestone is due on Monday, March 11, 2024, which is the Monday immediately after Break.
+- Begin [T13: Circling Back to Circular Linked Lists](https://docs.google.com/document/d/18y3Y_DldzoHN8KqVbODXm2ojXxet3Xc1pAm9StJlt5k). We will complete this after break, so be sure to leave it in an understandable state.
+
+### Day 22: Outside of class
+
+- Complete the second milestone of [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44). The second milestone is due on Monday, March 11, 2024, the Monday immediately after Break.
+- If you wish you can read [Chapter 5 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=677615). This reading will be due on Wednesday, March 13, 2024.
+
 ## Day 21: Wednesday, February 28, 2024
 
 ### Day 21: In class
 
 - Debrief on [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8).
 - Sharing of professional stories and profiles from [A05: Professional Story and Profile](https://docs.google.com/document/d/1-WQKoOoxGn9jCZHx53KMDSTMsKHS9f7KRehmgA1hye8) was due today.
-- Start and hopefully complete [T12: Exploring Linked Lists](https://docs.google.com/document/d/1b4UHkIDdldDGyat5QdZ0FFzOFZKaubeOGuz-jsPR4I0).
+- Complete [T12: Exploring Linked Lists](https://docs.google.com/document/d/1b4UHkIDdldDGyat5QdZ0FFzOFZKaubeOGuz-jsPR4I0).
 - Introduction to [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44). The first milestone is due on Friday.
 
 ### Day 21: Outside of class
