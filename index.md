@@ -5,6 +5,18 @@
 ### Berea College Spring 2024 Offering
 
 ---
+## Day 23: Monday, March 11, 2024
+
+### Day 23: In class
+
+- Questions and discussion on [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44). The second milestone is due today.
+- Complete and submit [T13: Circling Back to Circular Linked Lists](https://docs.google.com/document/d/18y3Y_DldzoHN8KqVbODXm2ojXxet3Xc1pAm9StJlt5k).
+
+### Day 23: Outside of class
+
+- Read [Chapter 5 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=677615) which is due Wednesday, March 13, 2024.
+
+## Have a wonderful Spring Break!
 
 ## Day 22: Friday, March 1, 2024
 
