@@ -5,6 +5,20 @@
 ### Berea College Spring 2024 Offering
 
 ---
+
+## Day 24: Wednesday, March 13, 2024
+
+### Day 24: In class
+
+- Possible quiz
+- Final hints on [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44).
+- Complete and submit [T15: Exploring Recursion](https://docs.google.com/document/d/1Qido7yr3NSrx052G3kqQze7PIEIRp9mlPBH3l5BRj5s).
+
+### Day 24: Outside of class
+
+- Complete [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44).
+- If you have completed L5, read the next lab, [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM).
+
 ## Day 23: Monday, March 11, 2024
 
 ### Day 23: In class
