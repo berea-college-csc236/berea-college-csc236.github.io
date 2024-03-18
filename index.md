@@ -6,6 +6,17 @@
 
 ---
 
+## Day 26: Monday, March 18, 2024
+
+### Day 26: In class
+
+- Questions on [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM).
+- Complete [T15: Understanding Recursion](https://docs.google.com/document/d/1Bte8UbQq7NSjy4XMJoEcrs8mtUgnt7jVgMQ12Eb7cmw)
+
+### Day 26: Outside of class
+
+- Complete and submit [A07: Thinking Recursively](https://docs.google.com/document/d/1rLwgk3XXBBZx-rXkoq20jws50gtztj24NBz_M8b42VQ/edit?usp=sharing).
+
 ## Day 25: Friday, March 15, 2024
 
 ### Day 25: In class
