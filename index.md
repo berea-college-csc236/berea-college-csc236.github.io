@@ -6,12 +6,25 @@
 
 ---
 
+## Day 27: Wednesday, March 20, 2024
+
+### Day 27: In class
+
+- Comments on [A07: Thinking Recursively](https://docs.google.com/document/d/1rLwgk3XXBBZx-rXkoq20jws50gtztj24NBz_M8b42VQ/edit?usp=sharing)
+- Complete [T15: Understanding Recursion](https://docs.google.com/document/d/1Bte8UbQq7NSjy4XMJoEcrs8mtUgnt7jVgMQ12Eb7cmw)
+- Complete [T16: Searching](https://docs.google.com/document/d/1tYBkApVgtJaTdGhd1KCYprnOyZyP5FyKvSmw5gcCa84)
+
+### Day 27: Outside of class
+
+- Read [Chapter 6 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=677615) which is due Friday, March 22, 2024.
+- Work on [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM) the due date of the second milestone is Monday, March 25, 2024.
+
 ## Day 26: Monday, March 18, 2024
 
 ### Day 26: In class
 
 - Questions on [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). Because of the challenging nature of this lab, the due date of the second milestone has been changed to Monday, March 25, 2024.
-- Complete [T15: Understanding Recursion](https://docs.google.com/document/d/1Bte8UbQq7NSjy4XMJoEcrs8mtUgnt7jVgMQ12Eb7cmw)
+- Begin [T15: Understanding Recursion](https://docs.google.com/document/d/1Bte8UbQq7NSjy4XMJoEcrs8mtUgnt7jVgMQ12Eb7cmw)
 
 ### Day 26: Outside of class
 
