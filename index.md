@@ -11,7 +11,7 @@
 ### Day 28: In class
 
 - Possible quiz
-- Complete [T17: Exploring Hashing](https://docs.google.com/document/d/1Rphbo_GvKvKquZtxsSYY__cTF4ZGO4uwNEcA70dN5e0)
+- Begin [T17: Exploring Hashing](https://docs.google.com/document/d/1Rphbo_GvKvKquZtxsSYY__cTF4ZGO4uwNEcA70dN5e0)
 
 ### Day 28: Outside of class
 
