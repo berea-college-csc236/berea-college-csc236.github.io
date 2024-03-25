@@ -6,6 +6,20 @@
 
 ---
 
+## Day 29: Monday, March 25, 2024
+
+### Day 29: In class
+
+- Any questions on [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)?
+- Complete [T17: Exploring Hashing](https://docs.google.com/document/d/1Rphbo_GvKvKquZtxsSYY__cTF4ZGO4uwNEcA70dN5e0).
+- Begin [T18: Hashing Functions and Collisions](https://docs.google.com/document/d/1LAYpzVOzkV2rSydtPBIJ14aQczKQHbne-F_YmyWpEkA).
+
+### Day 29: Outside of class
+
+- Continue [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM) which is due ~~Wednesday~~ Friday, March 29, 2024.
+- Read [Chapter 7 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=646112) in preparation for a possible reading quiz on Wednesday.
+
+
 ## Day 28: Friday, March 22, 2024
 
 ### Day 28: In class
