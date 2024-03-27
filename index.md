@@ -6,6 +6,19 @@
 
 ---
 
+## Day 30: Wednesday, March 27, 2024
+
+### Day 30: In class
+
+- Possible quiz
+- Any questions on [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)?
+- Complete [T17: Exploring Hashing](https://docs.google.com/
+- Complete [T18: Hashing Functions and Collisions](https://docs.google.com/document/d/1LAYpzVOzkV2rSydtPBIJ14aQczKQHbne-F_YmyWpEkA).
+
+### Day 30: Outside of class
+
+- Continue [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM) which is due ~~Wednesday~~ Friday, March 29, 2024.
+
 ## Day 29: Monday, March 25, 2024
 
 ### Day 29: In class
