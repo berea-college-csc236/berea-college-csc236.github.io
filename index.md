@@ -6,6 +6,18 @@
 
 ---
 
+## Day 31: Monday, April 1, 2024
+
+### Day 31: In class
+
+- Art Show of [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)
+- Begin [T19: On Sorting](https://docs.google.com/document/d/1bUGZJNs8ARo3GyLqhumF-bL6slKTrzlZmAVF5RScjAI).
+
+### Day 31: Outside of class
+- Complete [A08: What is Hashing](https://docs.google.com/document/d/1ON_KiUoWUE_NKCpsuZMztgkK9dmJAMLXTa8DxhgI90U)
+
+### Friday, March 29, 2024 is Good Friday. Enjoy the long weekend!
+
 ## Day 30: Wednesday, March 27, 2024
 
 ### Day 30: In class
