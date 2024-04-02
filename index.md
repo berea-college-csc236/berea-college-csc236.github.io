@@ -15,6 +15,7 @@
 
 ### Day 31: Outside of class
 - Complete [A08: What is Hashing](https://docs.google.com/document/d/1ON_KiUoWUE_NKCpsuZMztgkK9dmJAMLXTa8DxhgI90U)
+- Read and potentially try a bit of [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw), which is our last lab! It is due Monday, April 15. To be successful on this lab, it is best to get started early and work on it a little bit each day. Some of the runs take a long time.
 
 ### Friday, March 29, 2024 is Good Friday. Enjoy the long weekend!
 
