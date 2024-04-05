@@ -6,6 +6,17 @@
 
 ---
 
+## Day 33: Friday, April 5, 2024
+
+### Day 33: In class
+
+- Questions on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)?
+- Complete [T21: Recursive Sorting](https://docs.google.com/document/d/1Zvcu_nvpkPZfn4wDhPEM7ub96dj7vb0LB9lIly3DjZs)
+
+### Day 33: Outside of class
+
+- Read [Sections 8.10-8.19 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=680182) in preparation for a possible reading quiz on Friday.
+
 ## Day 32: Wednesday, April 3, 2024
 
 ### Day 32: In class
@@ -17,7 +28,7 @@
 
 ### Day 32: Outside of class
 
-- Read [Sections 8.10-8.19 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=677777) in preparation for a possible reading quiz on Friday.
+- Read [Sections 8.1-8.10 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=677777) in preparation for a possible reading quiz on Friday.
 
 ## Day 31: Monday, April 1, 2024
 
