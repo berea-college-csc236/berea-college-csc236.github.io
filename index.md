@@ -16,7 +16,7 @@
 
 ### Day 33: Outside of class
 
-- Read [Sections 8.10-8.19 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=680182) in preparation for a possible reading quiz on Friday.
+- Read [Sections 8.10-8.19 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=680182) in preparation for a possible reading quiz on Monday.
 
 ## Day 32: Wednesday, April 3, 2024
 
