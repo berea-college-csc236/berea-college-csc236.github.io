@@ -6,6 +6,19 @@
 
 ---
 
+## Day 34: Monday, April 8, 2024
+
+### Day 34: In class
+
+- Possible quiz
+- Questions on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)?
+- Really complete [T20: Recursive Sorting](https://docs.google.com/document/d/1Zvcu_nvpkPZfn4wDhPEM7ub96dj7vb0LB9lIly3DjZs) in no more than 10 minutes.
+- Start [T22: Exploring Trees](https://docs.google.com/document/d/1t0mL8FmPE1f4IfV03tyQcT1FPfdepX37KHRBftUxSh0), which we will complete next time.
+
+### Day 34: Outside of class
+
+- Reading on [Sections 9.1-9.10 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=652758).
+
 ## Day 33: Friday, April 5, 2024
 
 ### Day 33: In class
