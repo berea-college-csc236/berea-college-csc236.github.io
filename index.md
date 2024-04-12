@@ -6,6 +6,19 @@
 
 ---
 
+## Day 36: Wednesday, April 12, 2024
+
+### Day 36: In class
+
+- Possible quiz
+- Questions on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw). It is due Monday!
+- Complete [T22: Binary Search Trees](https://docs.google.com/document/d/1YUYAn-6t1TLIE_pNS94MvAU7InyuF6E6N-iDuRoYk1Y/edit?usp=drive_link).
+- Complete [FP1: Initial Planning for Final Project](https://docs.google.com/document/d/1byMsKfTPPEGO4eGSdHohAxkCYRKO1tHqb0Bd7eghFlg).
+
+### Day 36: Outside of class
+
+- Complete [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw) which is due Monday.
+
 ## Day 35: Wednesday, April 10, 2024
 
 ### Day 35: In class
