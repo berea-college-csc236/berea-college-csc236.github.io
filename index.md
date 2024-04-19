@@ -6,6 +6,18 @@
 
 ---
 
+## Day 39: Friday, April 19, 2024
+
+### Day 39: In class
+
+- Discussion of exam E2
+- Complete [T24: Graphs and Games](https://docs.google.com/document/d/1XV7nx3k16_YQZ36QYTbUgnfSfyMm15ry-8KIOGAz_K0/edit?usp=sharing)
+- Continue working on [FP2: Planning and Preliminary Video Script](https://docs.google.com/document/d/16lsG7uJKPY1XXHka3-KP-7GiviBg2ePTxUKma_bg7lk). This **preliminary script** is due on Wednesday, April 24, 2024
+
+### Day 39: Outside of class
+
+- Study for exam E2. Be sure to study from all materials. Use Peerwise, but don't use it exclusively because it will not suffice.
+
 ## Day 38: Wednesday, April 17, 2024
 
 ### Day 38: In class
