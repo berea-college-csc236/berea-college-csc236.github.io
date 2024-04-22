@@ -6,6 +6,17 @@
 
 ---
 
+## Day 40: Monday, April 22, 2024
+
+### Day 40: In class
+
+- Exam E2 is moved to Friday.
+- Work on Peerwise and project
+
+### Day 40: Outside of class
+
+- Continue working on [FP2: Planning and Preliminary Video Script](https://docs.google.com/document/d/16lsG7uJKPY1XXHka3-KP-7GiviBg2ePTxUKma_bg7lk). This **preliminary script** is due on Wednesday, April 24, 2024
+
 ## Day 39: Friday, April 19, 2024
 
 ### Day 39: In class
