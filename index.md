@@ -13,7 +13,7 @@
 - Questions on Exam E2?
 - Work on project
   - [FP3: Project Big O Analysis](https://docs.google.com/document/d/1RWkZEl1XNMVA-PfnAdD9Teip1oirXtkDnU_vtboWloA) is due on Monday, Reading Day at 8 am.
-  - [FP4: Final Project Link to Video and Final Transcript](https://docs.google.com/document/d/17YmTJYWzVriYggUipkHsSzqzFxamCTT3BZWiE0dA2s0) is due at 8 am on the day of the final exam period.
+  - [FP4: Final Project Link to Video and Final Transcript](https://docs.google.com/document/d/17YmTJYWzVriYggUipkHsSzqzFxamCTT3BZWiE0dA2s0) is due at 8 am on the day of the final exam period. The final exam period is when the presentation will be. (Wednesday at 8:30 for section A and Thursday at 8:30 for section B)
   - [FPE: Team Evaluation](https://moodle.berea.edu/mod/assign/view.php?id=652837) is due on Friday, May 3, 2024, at 8 am.
 
 ### Day 41: Outside of class
