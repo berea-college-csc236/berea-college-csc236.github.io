@@ -6,6 +6,20 @@
 
 ---
 
+## Day 41: Wednesday, April 24, 2024
+
+### Day 41: In class
+
+- Questions on Exam E2?
+- Work on project
+  - [FP3: Project Big O Analysis](https://docs.google.com/document/d/1RWkZEl1XNMVA-PfnAdD9Teip1oirXtkDnU_vtboWloA) is due on Monday, Reading Day at 8 am.
+  - [FP4: Final Project Link to Video and Final Transcript](https://docs.google.com/document/d/17YmTJYWzVriYggUipkHsSzqzFxamCTT3BZWiE0dA2s0) is due at 8 am on the day of the final exam period.
+  - [FPE: Team Evaluation](https://moodle.berea.edu/mod/assign/view.php?id=652837) is due on Friday, May 3, 2024, at 8 am.
+
+### Day 41: Outside of class
+
+- Study for exam E2, which is Friday. Be sure to study from all materials. Use Peerwise, but don't use it exclusively because it will not suffice.
+
 ## Day 40: Monday, April 22, 2024
 
 ### Day 40: In class
