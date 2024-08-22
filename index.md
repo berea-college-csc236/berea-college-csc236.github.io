@@ -27,7 +27,7 @@
   3. Set-up your Required IDE (this will take some time!)
   4. Read the syllabus to understand the course structure
   5. Read both [Chapters 1 and 2 of C++ for Python Programmers and the course syllabus](https://moodle.berea.edu/mod/lti/view.php?id=6949479) in preparation for a potential reading quiz.
-  6. Introduce yourself to the class and the TAs on Slack
+  6. Introduce yourself to https://moodle.berea.edu/mod/lti/view.php?id=694947the class and the TAs on Slack
 
 ---
 
