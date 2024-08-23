@@ -6,6 +6,23 @@
 
 ---
 
+
+## Day 2: Friday, January 12, 2024
+
+### Day 2: In class
+
+- Possible quiz
+- Debrief on installations, C++, the syllabus, and the AI policy in particular
+- Watch [Github Copilot in Visual Studio Community](https://youtu.be/kc_A12G4Elk)
+- Read [The Impact of AI on Computer Science Education](https://cacm.acm.org/news/the-impact-of-ai-on-computer-science-education/)
+- Discuss the implications for you as a student and as a future professional
+- Sign up for [Github Student Developer Pack](https://education.github.com/pack). Note that it might take three or more days to get this, so don't fret since we do not need it and you are likely better off not using it for the first lab.
+- Complete, download, and submit [Teamwork T01: Visual Studio, Github, and ASCII Art](https://docs.google.com/document/d/1Bz1sbwxid1ydkSHaO5nDMpMgzwa29Py6zzTlWGUvBzM)
+
+### Day 2: Outside of class (due before class on Wednesday, January 17, 2024)
+
+- Read [Chapters 3, 4,and 5 in C++ for Python Programmers](TBA) for a potential reading quiz next class. Be sure you are logged in and do all activities to get credit!
+
 ## Day 1: Wednesday, August 21, 2024
 
 ### Day 1: In class
