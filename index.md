@@ -22,6 +22,7 @@
 ### Day 2: Outside of class (due before class on Wednesday, January 17, 2024)
 
 - Read [Chapters 3, 4,and 5 in C++ for Python Programmers](TBA) for a potential reading quiz next class. Be sure you are logged in and do all activities to get credit!
+- Begin [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). This is an individual Lab. The first milestone is due Wednesday, August 28, 2024. The final completion milestone of the  lab is due Friday, August 30, 2024.
 
 ## Day 1: Wednesday, August 21, 2024
 
