@@ -17,10 +17,11 @@
 - Read [The Impact of AI on Computer Science Education](https://cacm.acm.org/news/the-impact-of-ai-on-computer-science-education/)
 - Discuss the implications for you as a student and as a future professional
 - Sign up for [Github Student Developer Pack](https://education.github.com/pack). Note that it might take three or more days to get this, so don't fret since we do not need it and you are likely better off not using it for the first lab.
-- Complete, download, and submit [Teamwork T01: Visual Studio, Github, and ASCII Art](https://docs.google.com/document/d/1Bz1sbwxid1ydkSHaO5nDMpMgzwa29Py6zzTlWGUvBzM)
+- Try to complete, then download, and submit [Teamwork T01: Visual Studio, Github, and ASCII Art](https://docs.google.com/document/d/1Bz1sbwxid1ydkSHaO5nDMpMgzwa29Py6zzTlWGUvBzM)
 
 ### Day 2: Outside of class (due before class on Wednesday, January 17, 2024)
 
+- Finish up and submit [Teamwork T01: Visual Studio, Github, and ASCII Art](https://docs.google.com/document/d/1Bz1sbwxid1ydkSHaO5nDMpMgzwa29Py6zzTlWGUvBzM)
 - Read [Chapters 3, 4,and 5 in C++ for Python Programmers](https://moodle.berea.edu/mod/lti/view.php?id=710151) for a potential reading quiz next class. Be sure you are logged in and do all activities to get credit!
 - Begin [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). This is an individual Lab. The first milestone is due Wednesday, August 28, 2024. The final completion milestone of the  lab is due Friday, August 30, 2024.
 
