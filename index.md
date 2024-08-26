@@ -18,7 +18,7 @@
 
 ### Day 3: Outside of class
 
-- Read [Chapters 6, 7, and 8 in C++ for Python Programmers]() for a possible reading quiz next class. Be sure you are logged in and do all activities to get credit!
+- Read [Chapters 6, 7, and 8 in C++ for Python Programmers](https://moodle.berea.edu/mod/lti/view.php?id=710672) for a possible reading quiz next class. Be sure you are logged in and do all activities to get credit!
 - Complete the first milestone for [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). The final submission is due on Friday.
 
 ## Day 2: Friday, January 12, 2024
