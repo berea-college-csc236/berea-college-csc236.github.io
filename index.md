@@ -12,14 +12,15 @@
 
 - Possible quiz
 - Discussion of [Teamwork T01: Visual Studio, Github, and ASCII Art](https://docs.google.com/document/d/1Bz1sbwxid1ydkSHaO5nDMpMgzwa29Py6zzTlWGUvBzM)
-- Questions on [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8) which is due Friday. (Hints on escaping backslashes and quotes.)
+- Discuss [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8) which is due Friday, but the first milestone is due Wednesday. (Read the hints in the lab on escaping backslashes and quotes!)
 - show primer on branches in Github
-- Complete and submit the link for [Teamwork T02: Collaboration via Branches](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ) with a partner in class.
+- Begin [Teamwork T02: Collaboration via Branches](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ) with a partner in class. We will complete this next time.
 
 ### Day 3: Outside of class
 
 - Read [Chapters 6, 7, and 8 in C++ for Python Programmers](https://moodle.berea.edu/mod/lti/view.php?id=710672) for a possible reading quiz next class. Be sure you are logged in and do all activities to get credit!
 - Complete the first milestone for [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). The final submission is due on Friday.
+- Fix any challenges you have had with the first two readings by going through Moodle NOT Runestone Academy. See your grades for [Chapters 1 and 2 of C++ for Python Programmers and the course syllabus](https://moodle.berea.edu/mod/lti/view.php?id=694947) and [Chapters 3, 4,and 5 in C++ for Python Programmers](https://moodle.berea.edu/mod/lti/view.php?id=710347) and make them perfect by doing everything!
 
 ## Day 2: Friday, January 12, 2024
 
