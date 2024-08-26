@@ -6,6 +6,19 @@
 
 ---
 
+## Day 3: Monday, August 28, 2024
+
+### Day 3: In class
+
+- Possible quiz
+- Questions on [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8) which is due Friday. (Hints on escaping backslashes and quotes.)
+- show primer on branches in Github
+- Complete and submit the link for [Teamwork T02: Collaboration via Branches](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ) with a partner in class.
+
+### Day 3: Outside of class
+
+- Read [Chapters 6, 7, and 8 in C++ for Python Programmers]() for a possible reading quiz next class. Be sure you are logged in and do all activities to get credit!
+- Complete the first milestone for [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). The final submission is due on Friday.
 
 ## Day 2: Friday, January 12, 2024
 
@@ -22,7 +35,7 @@
 ### Day 2: Outside of class (due before class on Wednesday, January 17, 2024)
 
 - Finish up and submit [Teamwork T01: Visual Studio, Github, and ASCII Art](https://docs.google.com/document/d/1Bz1sbwxid1ydkSHaO5nDMpMgzwa29Py6zzTlWGUvBzM)
-- Read [Chapters 3, 4,and 5 in C++ for Python Programmers](https://moodle.berea.edu/mod/lti/view.php?id=710151) for a potential reading quiz next class. Be sure you are logged in and do all activities to get credit!
+- Read [Chapters 3, 4,and 5 in C++ for Python Programmers](https://moodle.berea.edu/mod/lti/view.php?id=710347) for a potential reading quiz next class. Be sure you are logged in and do all activities to get credit!
 - Begin [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). This is an individual Lab. The first milestone is due Wednesday, August 28, 2024. The final completion milestone of the  lab is due Friday, August 30, 2024.
 
 ## Day 1: Wednesday, August 21, 2024
