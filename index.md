@@ -11,7 +11,7 @@
 ### Day 3: In class
 
 - Possible quiz
-- Discussion of[Teamwork T01: Visual Studio, Github, and ASCII Art](https://docs.google.com/document/d/1Bz1sbwxid1ydkSHaO5nDMpMgzwa29Py6zzTlWGUvBzM)
+- Discussion of [Teamwork T01: Visual Studio, Github, and ASCII Art](https://docs.google.com/document/d/1Bz1sbwxid1ydkSHaO5nDMpMgzwa29Py6zzTlWGUvBzM)
 - Questions on [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8) which is due Friday. (Hints on escaping backslashes and quotes.)
 - show primer on branches in Github
 - Complete and submit the link for [Teamwork T02: Collaboration via Branches](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ) with a partner in class.
