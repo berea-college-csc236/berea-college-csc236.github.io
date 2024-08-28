@@ -6,6 +6,19 @@
 
 ---
 
+## Day 4: Wednesday, August 30, 2024
+
+### Day 4: In class
+
+- Possible quiz
+- Questions on [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8) which is due Friday. (Reminders about escaping backslashes and quotes.)
+- Complete and submit [Teamwork T02: Collaboration via Branches](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ) with a partner in class.
+- Finished with the teamwork? Work on [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8).
+
+### Day 4: Outside of class
+
+- Complete [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). The final submission is due on Friday.
+
 ## Day 3: Monday, August 28, 2024
 
 ### Day 3: In class
