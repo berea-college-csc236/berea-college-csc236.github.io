@@ -11,6 +11,7 @@
 ### Day 4: In class
 
 - Possible quiz
+- Add our main Runestone book, by clicking (this link)[https://moodle.berea.edu/mod/lti/view.php?id=711327]. You will end up on the main assignment page for the current textbook. You need to change courses to **bc_cppds_f24**.
 - Questions on [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8) which is due Friday. (Reminders about escaping backslashes and quotes.)
 - Complete and submit [Teamwork T02: Collaboration via Branches](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ) with a partner in class.
 - Finished with the teamwork? Work on [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8).
@@ -18,6 +19,7 @@
 ### Day 4: Outside of class
 
 - Complete [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). The final submission is due on Friday.
+- The next textbook reading is on object-oriented programming in C++ in the main textbook for the course. It is not due until Monday, but it is a bit longer than the readings in the transition book, and you may find it more conceptually challenging. You can get to it from [this link](https://moodle.berea.edu/mod/lti/view.php?id=711328) or from Moodle, but not just from Runestone. Be sure you are logged in and do all activities to get credit!
 
 ## Day 3: Monday, August 28, 2024
 
