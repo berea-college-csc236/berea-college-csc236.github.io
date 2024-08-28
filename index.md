@@ -11,7 +11,7 @@
 ### Day 4: In class
 
 - Possible quiz
-- Add our main Runestone book, by clicking (this link)[https://moodle.berea.edu/mod/lti/view.php?id=711327]. You will end up on the main assignment page for the current textbook. You need to change courses to **bc_cppds_f24**.
+- Add our main Runestone book, by clicking [this link](https://moodle.berea.edu/mod/lti/view.php?id=711327). You will end up on the main assignment page for the current textbook. You need to change courses to **bc_cppds_f24**.
 - Questions on [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8) which is due Friday. (Reminders about escaping backslashes and quotes.)
 - Complete and submit [Teamwork T02: Collaboration via Branches](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ) with a partner in class.
 - Finished with the teamwork? Work on [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8).
