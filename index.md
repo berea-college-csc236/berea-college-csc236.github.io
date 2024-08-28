@@ -19,7 +19,7 @@
 ### Day 4: Outside of class
 
 - Complete [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). The final submission is due on Friday.
-- The next textbook reading is on object-oriented programming in C++ in the main textbook for the course. It is not due until Monday, but it is a bit longer than the readings in the transition book, and you may find it more conceptually challenging. You can get to it from [this link](https://moodle.berea.edu/mod/lti/view.php?id=711328) or from Moodle, but not just from Runestone. Be sure you are logged in and do all activities to get credit!
+- The next textbook reading is on object-oriented programming in C++ in the main textbook for the course. It is not due until Wednesday because there is no class on Monday, but it is a bit longer than the readings in the transition book, and you may find it more conceptually challenging. You can get to it from [this link](https://moodle.berea.edu/mod/lti/view.php?id=711328) or from Moodle, but not just from Runestone. Be sure you are logged in and do all activities to get credit!
 
 ## Day 3: Monday, August 28, 2024
 
