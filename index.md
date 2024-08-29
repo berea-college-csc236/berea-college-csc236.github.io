@@ -6,7 +6,7 @@
 
 ---
 
-## Day 5: Friday, August 29, 2024
+## Day 5: Friday, August 30, 2024
 
 ### Day 5: In class
 
@@ -19,7 +19,7 @@
 - Read [Chapter 1 on OOP](https://moodle.berea.edu/mod/lti/view.php?id=711328) in preparation for a potential reading quiz. Be sure to go through Moodle to get credit.
 - Read [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c)
 
-## Day 4: Wednesday, August 30, 2024
+## Day 4: Wednesday, August 28, 2024
 
 ### Day 4: In class
 
@@ -34,7 +34,7 @@
 - Complete [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). The final submission is due on Friday.
 - The next textbook reading is on object-oriented programming in C++ in the main textbook for the course. It is not due until Wednesday because there is no class on Monday, but it is a bit longer than the readings in the transition book, and you may find it more conceptually challenging. You can get to it from [this link](https://moodle.berea.edu/mod/lti/view.php?id=711328) or from Moodle, but not just from Runestone. Be sure you are logged in and do all activities to get credit!
 
-## Day 3: Monday, August 28, 2024
+## Day 3: Monday, August 26, 2024
 
 ### Day 3: In class
 
