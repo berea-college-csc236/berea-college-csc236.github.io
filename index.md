@@ -12,12 +12,12 @@
 
 - Art show! Share your ASCII art with the class.
 - Demo of debugging in Visual Studio
-- Complete [Teamwork T03:  Debugging Techniques](https://docs.google.com/document/d/1T0BS2SzKxoOXg_EpfDCpFd8UG219_Jbqzl8W1kogtcc/edit?usp=sharing).
+- Complete [Teamwork T03:  Debugging Techniques](https://moodle.berea.edu/mod/assign/view.php?id=694977).
 
-### Day 5: Outside of class (There is no class on Monday, so these aredue before class on Wednesday, August 30, 2024)
+### Day 5: Outside of class (There is no class on Monday, so these are due before class on Wednesday, August 30, 2024)
 
 - Read [Chapter 1 on OOP](https://moodle.berea.edu/mod/lti/view.php?id=711328) in preparation for a potential reading quiz. Be sure to go through Moodle to get credit.
-- Read [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c)
+- Read [L1: Loopy Graphics with C-Turtle](https://moodle.berea.edu/mod/assign/view.php?id=695003)
 
 ## Day 4: Wednesday, August 28, 2024
 
