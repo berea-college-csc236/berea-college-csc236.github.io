@@ -11,8 +11,8 @@
 ### Day 6: In class
 
 - Discuss all questions posted on Slack in advance about [Chapter 1 on OOP](https://moodle.berea.edu/mod/lti/view.php?id=711328)
-- Quiz on the Chapter 1 reading
-- Discuss [L1: Loopy Graphics with C-Turtle](https://moodle.berea.edu/mod/assign/view.php?id=695003) and do the first milestone (due Wednesday).
+- Quiz on the Chapter 1 reading - postponed until Friday
+- Discuss [L1: Loopy Graphics with C-Turtle](https://moodle.berea.edu/mod/assign/view.php?id=695003) and do the first milestone (due Wednesday). Note that due to the internet problems, the final submission is due Monday, but a second milestone has been added for Friday.
 - Begin [T04: Fraction Class Understanding and Enhancement](https://moodle.berea.edu/mod/assign/view.php?id=711836)
 
 ### Day 6: Outside of class
