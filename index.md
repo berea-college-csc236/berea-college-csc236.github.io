@@ -6,6 +6,21 @@
 
 ---
 
+## Day 6: Wednesday, September 4, 2024
+
+### Day 6: In class
+
+- Discuss all questions posted on Slack in advance about [Chapter 1 on OOP](https://moodle.berea.edu/mod/lti/view.php?id=711328)
+- Quiz on the Chapter 1 reading
+- Discuss [L1: Loopy Graphics with C-Turtle](https://moodle.berea.edu/mod/assign/view.php?id=695003) and do the first milestone (due Wednesday).
+- Begin [T04: Fraction Class Understanding and Enhancement](https://moodle.berea.edu/mod/assign/view.php?id=711836)
+
+### Day 6: Outside of class
+
+- Complete [Chapter 1 on OOP](https://moodle.berea.edu/mod/lti/view.php?id=711328) in preparation for a potential reading quiz. Note that this has been extended to Tuesday, September 4, 2024 at 8 am due to internet issues.
+- Read, complete, and submit [A01: OOP Principles](https://docs.google.com/document/d/1uH5vpyvL1rCLsmI14D3LIgUo2Q-0fCCdclOz2ZAk1Eg)
+- Do your best to complete [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c). The final submission is actually due Monday due to the internet problems, so Friday will be your last chance to ask questions.
+
 ## Day 5: Friday, August 30, 2024
 
 ### Day 5: In class
@@ -17,7 +32,8 @@
 ### Day 5: Outside of class (There is no class on Monday, so these are due before class on Wednesday, August 30, 2024)
 
 - Read [Chapter 1 on OOP](https://moodle.berea.edu/mod/lti/view.php?id=711328) in preparation for a potential reading quiz. Be sure to go through Moodle to get credit.
-- Read [L1: Loopy Graphics with C-Turtle](https://moodle.berea.edu/mod/assign/view.php?id=695003)
+- Read [L1: Loopy Graphics with C-Turtle](https://moodle.berea.edu/mod/assign/view.php?id=695003) and do the first milestone (due Wednesday). The final submission is due Friday.
+- If you haven't already done so, complete [Teamwork T03:  Debugging Techniques](https://moodle.berea.edu/mod/assign/view.php?id=694977).
 
 ## Day 4: Wednesday, August 28, 2024
 
