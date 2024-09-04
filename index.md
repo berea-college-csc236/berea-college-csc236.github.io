@@ -17,8 +17,8 @@
 
 ### Day 6: Outside of class
 
-- Complete [Chapter 1 on OOP](https://moodle.berea.edu/mod/lti/view.php?id=711328) in preparation for a potential reading quiz. Note that this has been extended to Tuesday, September 4, 2024 at 8 am due to internet issues.
-- Read, complete, and submit [A01: OOP Principles](https://docs.google.com/document/d/1uH5vpyvL1rCLsmI14D3LIgUo2Q-0fCCdclOz2ZAk1Eg)
+- Complete [Chapter 1 on OOP](https://moodle.berea.edu/mod/lti/view.php?id=711328) in preparation for a potential reading quiz. Note that this has been extended to Thursday, September 5, 2024 at 8 am due to internet issues.
+- Read, complete, and submit [A01: OOP Principles](https://docs.google.com/document/d/1uH5vpyvL1rCLsmI14D3LIgUo2Q-0fCCdclOz2ZAk1Eg) for Friday.
 - Do your best to complete [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c). The final submission is actually due Monday due to the internet problems, so Friday will be your last chance to ask questions.
 
 ## Day 5: Friday, August 30, 2024
