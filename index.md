@@ -6,6 +6,19 @@
 
 ---
 
+## Day 7: Friday, September 6, 2024
+
+### Day 7: In class
+
+- Quiz on [Chapter 1 on OOP](https://moodle.berea.edu/mod/lti/view.php?id=669042)
+- Discuss Discuss [L1: Loopy Graphics with C-Turtle](https://moodle.berea.edu/mod/assign/view.php?id=695003) which is due Monday.
+- Complete [T04: Fraction Class Understanding and Enhancement](https://moodle.berea.edu/mod/assign/view.php?id=711836)
+
+### Day 7: Outside of class
+
+- Complete [L1: Loopy Graphics with C-Turtle](https://moodle.berea.edu/mod/assign/view.php?id=695003) 
+- Begin [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q). This is an individual lab that has Milestone 1 due this coming Monday, the second milestone due Friday, and the full lab due on Monday, September 16.
+
 ## Day 6: Wednesday, September 4, 2024
 
 ### Day 6: In class
