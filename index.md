@@ -10,12 +10,13 @@
 
 ### Day 8: In class
 
+- Peer Instruction questions on T04
 - Questions on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q).
 - Complete [T05: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag)
 
 ### Day 8: Outside of class
 
-- Read [The Impact of AI on Computer Science Education](csc236-readings/impact-of-AI-on-CSEd.pdf)
+- TBA - Coming later today
 
 ## Day 7: Friday, September 6, 2024
 
