@@ -6,6 +6,17 @@
 
 ---
 
+## Day 8: Monday, September 9, 2024
+
+### Day 8: In class
+
+- Questions on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q).
+- Complete [T05: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag)
+
+### Day 8: Outside of class
+
+- Read [The Impact of AI on Computer Science Education](csc236-readings/impact-of-AI-on-CSEd.pdf)
+
 ## Day 7: Friday, September 6, 2024
 
 ### Day 7: In class
