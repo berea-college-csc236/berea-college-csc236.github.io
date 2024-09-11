@@ -6,6 +6,20 @@
 
 ---
 
+## Day 9: Wednesday, September 11, 2024
+
+### Day 9: In class
+
+- Discuss [The Impact of AI on Computer Science Education](csc236-readings/impact-of-AI-on-CSEd.pdf)
+- Questions on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q). The second milestone is due Friday, and the full lab is due Monday.
+- PI questions as a learning check
+- Complete and submit [T05: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag)
+
+### Day 9: Outside of class
+
+- Complete [A03: Videos and Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU). Note that this is an introduction to the most and most conceptually difficult concept in the course. It is due Friday.
+- Complete milestone 2 of [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q) by Friday.
+
 ## Day 8: Monday, September 9, 2024
 
 ### Day 8: In class
