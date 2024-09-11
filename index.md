@@ -10,7 +10,7 @@
 
 ### Day 9: In class
 
-- Discuss [The Impact of AI on Computer Science Education](csc236-readings/impact-of-AI-on-CSEd.pdf)
+- Discuss [A02: AI and Learning](https://berea-college-csc236.github.io/readings/impact-of-AI-on-CSEd.pdf)
 - Questions on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q). The second milestone is due Friday, and the full lab is due Monday.
 - PI questions as a learning check
 - Complete and submit [T05: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag)
