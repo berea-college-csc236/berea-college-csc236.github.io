@@ -6,6 +6,20 @@
 
 ---
 
+## Day 10: Friday, September 13, 2024
+
+### Day 10: In class
+
+- Discuss [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q) which is due Monday.
+- Discuss [T05: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag)
+- Change partners
+- Complete [T06: Understanding OOP and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4).
+
+### Day 10: Outside of class
+
+- Complete [A03: Videos and Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU). Note that this is an introduction to the most and most conceptually difficult concept in the course. It is due Monday, and so is the lab completion.
+- Complete [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q) by Monday.
+
 ## Day 9: Wednesday, September 11, 2024
 
 ### Day 9: In class
