@@ -6,6 +6,18 @@
 
 ---
 
+## Day 11: Monday, September 16, 2024
+
+### Day 11: In class
+
+- Discuss [A03: Videos and Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU).
+- Complete [T06: Understanding OOP and ADTs](https://moodle.berea.edu/mod/assign/view.php?id=694980).
+
+### Day 11: Outside of class
+
+- Read [L3: Virtual Pets](https://moodle.berea.edu/mod/assign/view.php?id=695005), possibly find a partner and bring questions to class on Wednesday. The first milestone is due Friday.
+- Read [Chapter 2 Reading on Big O](https://moodle.berea.edu/mod/lti/view.php?id=711851) and do all activities in preparation for a potential reading quiz. **This is one of the most important topics in the entire course; you might try to find time to read it twice!**
+
 ## Day 10: Friday, September 13, 2024
 
 ### Day 10: In class
@@ -13,7 +25,7 @@
 - Discuss [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q) which is due Monday.
 - Discuss [T05: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag)
 - Change partners
-- Complete [T06: Understanding OOP and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4).
+- Begin [T06: Understanding OOP and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4).
 
 ### Day 10: Outside of class
 
