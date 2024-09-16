@@ -10,7 +10,10 @@
 
 ### Day 11: In class
 
+- Peer Instruction question on A03.
 - Discuss [A03: Videos and Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU).
+- Debrief on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q)
+- Introduction of [L3: Virtual Pets](https://moodle.berea.edu/mod/assign/view.php?id=695005), possibly find a partner and bring questions to class on Wednesday. The first milestone is due Friday.
 - Complete [T06: Understanding OOP and ADTs](https://moodle.berea.edu/mod/assign/view.php?id=694980).
 
 ### Day 11: Outside of class
