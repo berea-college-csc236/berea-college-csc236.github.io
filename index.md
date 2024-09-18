@@ -6,6 +6,18 @@
 
 ---
 
+## Day 12: Wednesday, September 18, 2024
+
+### Day 12: In class
+
+- Quiz on [Chapter 2 on Big O](https://moodle.berea.edu/mod/lti/view.php?id=711851)
+- Discuss [L3: Virtual Pets](https://moodle.berea.edu/mod/assign/view.php?id=695005).
+- Begin and try to complete [T07: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE).
+
+### Day 12: Outside of class
+
+- Complete at least Milestone 1 of [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E). Note that this Milestone is larger than previous first milestones, so you be sure to start early.
+
 ## Day 11: Monday, September 16, 2024
 
 ### Day 11: In class
