@@ -10,6 +10,18 @@
 
 ### Day 12: In class
 
+- Peer Instruction question
+- Questions on [L3: Virtual Pets](https://moodle.berea.edu/mod/assign/view.php?id=695005).
+- Explanation of Loagrithms
+- Complete [T07: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE).
+
+### Day 12: Outside of class
+- TBA
+
+## Day 12: Wednesday, September 18, 2024
+
+### Day 12: In class
+
 - Quiz on [Chapter 2 on Big O](https://moodle.berea.edu/mod/lti/view.php?id=711851)
 - Discuss [L3: Virtual Pets](https://moodle.berea.edu/mod/assign/view.php?id=695005).
 - Begin and try to complete [T07: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE).
