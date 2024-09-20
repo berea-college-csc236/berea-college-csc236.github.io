@@ -6,16 +6,16 @@
 
 ---
 
-## Day 12: Wednesday, September 18, 2024
+## Day 13: Friday, September 20, 2024
 
-### Day 12: In class
+### Day 13: In class
 
 - Peer Instruction question
 - Questions on [L3: Virtual Pets](https://moodle.berea.edu/mod/assign/view.php?id=695005).
 - Explanation of Exponentials and Logarithms
 - Complete [T07: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE).
 
-### Day 12: Outside of class
+### Day 13: Outside of class
 - Complete Milestone 2 of [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E).
 
 ## Day 12: Wednesday, September 18, 2024
