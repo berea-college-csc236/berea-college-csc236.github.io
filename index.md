@@ -6,6 +6,17 @@
 
 ---
 
+## Day 14: Monday, September 23, 2024
+
+### Day 14: In class
+
+- Questions on [L3: Virtual Pets](https://moodle.berea.edu/mod/assign/view.php?id=695005).
+- Complete [T08: How Long will this Take?](https://docs.google.com/document/d/1_vzhbJdc5-bmYi1CLpMEgA7WM1c4wXH0EwFb_JOJPek/edit?usp=sharing).
+
+### Day 14: Outside of class
+
+- Read [Sections 3.1-3.9 in our Data Structures textbook](https://moodle.berea.edu/mod/lti/view.php?id=711852) in preparation for a possible reading quiz.
+
 ## Day 13: Friday, September 20, 2024
 
 ### Day 13: In class
@@ -16,6 +27,7 @@
 - Complete [T07: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE).
 
 ### Day 13: Outside of class
+
 - Complete Milestone 2 of [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E).
 
 ## Day 12: Wednesday, September 18, 2024
