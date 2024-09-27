@@ -6,6 +6,18 @@
 
 ---
 
+## Day 16: Friday, September 27, 2024
+
+### Day 16: In class
+
+- Possible quiz on chapter 3
+- Final questions on [L3: Virtual Pets](https://moodle.berea.edu/mod/assign/view.php?id=695005)?
+- Complete and submit [T09: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8)
+
+### Day 15: Outside of class
+
+- Final completion of [L3: Virtual Pets](https://moodle.berea.edu/mod/assign/view.php?id=695005) is due Monday (extended due to networking issues.)
+
 ## Day 15: Wednesday, September 25, 2024
 
 ### Day 15: In class
