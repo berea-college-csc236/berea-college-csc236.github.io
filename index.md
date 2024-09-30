@@ -6,6 +6,19 @@
 
 ---
 
+## Day 17: Monday, September 30, 2024
+
+### Day 17: In class
+
+- Peer Instruction question
+- Debrief on [L3: Virtual Pets](https://moodle.berea.edu/mod/assign/view.php?id=695005).
+- Introduction to [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8)
+- Begin [T10: Queues, Stacks, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw)
+
+### Day 17: Outside of class
+
+- Read the lab and complete Milestone 1 including the design document submission for [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8). Note that in past years students have found debugging this lab to be challenging, but completing the design document and meeting the first milestone is not difficult.
+
 ## Day 16: Friday, September 27, 2024
 
 ### Day 16: In class
