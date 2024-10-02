@@ -6,6 +6,17 @@
 
 ---
 
+## Day 18: Wednesday, October 2, 2024
+
+### Day 18: In class
+
+- Discuss upcoming midterm exam which will be on Wednesday, October 9, 2024, immediately following reading days.
+- Discuss and complete [T10: Queues, Stacks, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw)
+
+### Day 17: Outside of class
+
+- For Friday, complete Milestone 2 of [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8). Note that the full completion is not until after the midterm exam.
+
 ## Day 17: Monday, September 30, 2024
 
 ### Day 17: In class
