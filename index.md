@@ -6,6 +6,19 @@
 
 ---
 
+## Day 19: Friday, October 4, 2024
+
+### Day 19: In class
+
+- Discuss upcoming midterm exam which will be on Wednesday, October 9, 2024, immediately following reading days.
+- Complete and submit [TR1: E1 Review](https://docs.google.com/document/d/1AKBUi_i1XsbP6Aidb5rqQifVveU4rQSpBK-pKVGy8Yc). Remember that it is up to each of you and your teams to help each other make it excellent. **Note that due to the nature of this assignment, it will not be accepted late.**
+- Discuss and complete [T10: Queues, Stacks, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw)
+
+### Day 19: Outside of class
+
+- Study for the midterm exam which will be on Wednesday, October 9, 2024, immediately following reading days.
+- Lab [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) is not until Friday, October 11, 2024.
+
 ## Day 18: Wednesday, October 2, 2024
 
 ### Day 18: In class
@@ -13,7 +26,7 @@
 - Discuss upcoming midterm exam which will be on Wednesday, October 9, 2024, immediately following reading days.
 - Discuss and complete [T10: Queues, Stacks, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw)
 
-### Day 17: Outside of class
+### Day 18: Outside of class
 
 - For Friday, complete Milestone 2 of [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8). Note that the full completion is not until after the midterm exam.
 
