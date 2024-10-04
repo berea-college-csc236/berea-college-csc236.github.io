@@ -12,7 +12,7 @@
 
 - Discuss upcoming midterm exam which will be on Wednesday, October 9, 2024, immediately following reading days.
 - Complete and submit [TR1: E1 Review](https://docs.google.com/document/d/1AKBUi_i1XsbP6Aidb5rqQifVveU4rQSpBK-pKVGy8Yc). Remember that it is up to each of you and your teams to help each other make it excellent. **Note that due to the nature of this assignment, it will not be accepted late.**
-- Discuss and complete [T10: Queues, Stacks, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw)
+- Discuss and complete [T10: Queues, Stacks, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw). It is due by Monday if you do not complete it in class.
 
 ### Day 19: Outside of class
 
@@ -24,7 +24,7 @@
 ### Day 18: In class
 
 - Discuss upcoming midterm exam which will be on Wednesday, October 9, 2024, immediately following reading days.
-- Discuss and complete [T10: Queues, Stacks, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw)
+- Discuss and try to complete [T10: Queues, Stacks, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw)
 
 ### Day 18: Outside of class
 
