@@ -10,13 +10,13 @@
 
 ### Day 21: In class
 
-- Watch [Linked Lists Explained in 60 Seconds!](https://youtu.be/558b4XAg23Y?feature=shared) and [Linked lists in 4 minutes ](https://youtu.be/F8AbOfQwl1c?si=bqV8mKTEfsVohGhQ)
-- Complete and submit [T11: Introduction to Circular Linked Lists](https://docs.google.com/document/d/1uvElflLI-S0S3spkfCkquwi3ZgIEgM49vF9NeTPmN30/edit?usp=sharing)
+- Watch [Linked Lists Explained in 60 Seconds!](https://youtu.be/558b4XAg23Y?feature=shared) and [Linked lists in 4 minutes](https://youtu.be/F8AbOfQwl1c?si=bqV8mKTEfsVohGhQ)
+- Try to complete [T11: Introduction to Circular Linked Lists](https://docs.google.com/document/d/1uvElflLI-S0S3spkfCkquwi3ZgIEgM49vF9NeTPmN30/edit?usp=sharing)
 
 ### Day 21: Outside of class
 
 - Complete [A04: A Simple Introduction To Linked Lists](https://docs.google.com/document/d/1r5316kQR2qmtEWYqUaPVcXp_yrIuPQV61RUAy_sj5KU).
-- Complete the first milestone of [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44).
+- Try to complete the first milestone of [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44), so you can come to class with questions.
 
 ## Day 20: Wednesday, October 9, 2024
 
