@@ -6,6 +6,30 @@
 
 ---
 
+## Day 21: Friday, October 11, 2024
+
+### Day 21: In class
+
+- Complete and submit [T11: Introduction to Circular Linked Lists](https://docs.google.com/document/d/1uvElflLI-S0S3spkfCkquwi3ZgIEgM49vF9NeTPmN30/edit?usp=sharing)
+
+### Day 21: Outside of class
+
+- Complete [A04: A Simple Introduction To Linked Lists](https://docs.google.com/document/d/1r5316kQR2qmtEWYqUaPVcXp_yrIuPQV61RUAy_sj5KU).
+- Complete the first milestone of [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44).
+
+## Day 20: Wednesday, October 9, 2024
+
+### Day 20: In class
+
+- Exam E1
+
+### Day 20: Outside of class
+
+- Begin [A04: A Simple Introduction To Linked Lists](https://docs.google.com/document/d/1r5316kQR2qmtEWYqUaPVcXp_yrIuPQV61RUAy_sj5KU), which is due Monday.
+- Begin the first milestone of [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44), which is due Monday.
+
+## No class on Monday, October 7, 2024 due to Reading Day
+
 ## Day 19: Friday, October 4, 2024
 
 ### Day 19: In class
