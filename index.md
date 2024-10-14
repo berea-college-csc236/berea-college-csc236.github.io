@@ -16,7 +16,7 @@
 
 - ### Day 21: Outside of class
 
-- **By Wednesday**: Read [Chapter 4 in our Data Structures textbook](https://moodle.berea.edu/mod/lti/view.php?id=711902)
+- **By Wednesday**: Read [Chapter 4 in our Data Structures textbook](https://moodle.berea.edu/mod/lti/view.php?id=676710)
 - Complete the second milestone of [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44), which is due Friday.
 
 ## Day 21: Friday, October 11, 2024
@@ -29,7 +29,7 @@
 ### Day 21: Outside of class
 
 - Complete [A04: A Simple Introduction To Linked Lists](https://docs.google.com/document/d/1r5316kQR2qmtEWYqUaPVcXp_yrIuPQV61RUAy_sj5KU).
-- Try to complete the first milestone of [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44), so you can come to class with questions.
+- Try to complete the first milestone of [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44), so you can come to class with questions. I set the first milestone in Moodle for Monday, but I will be giving an extension to Wednesday.
 
 ## Day 20: Wednesday, October 9, 2024
 
