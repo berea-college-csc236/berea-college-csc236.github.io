@@ -6,6 +6,19 @@
 
 ---
 
+## Day 22: Monday, October 14, 2024
+
+### Day 22: In class
+
+- Discuss [A04: A Simple Introduction To Linked Lists](https://docs.google.com/document/d/1r5316kQR2qmtEWYqUaPVcXp_yrIuPQV61RUAy_sj5KU).
+- Discuss [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44).
+- Complete [T11: Introduction to Circular Linked Lists](https://docs.google.com/document/d/1uvElflLI-S0S3spkfCkquwi3ZgIEgM49vF9NeTPmN30/edit?usp=sharing)
+
+- ### Day 21: Outside of class
+
+- **By Wednesday**: Read [Chapter 4 in our Data Structures textbook](https://moodle.berea.edu/mod/lti/view.php?id=711902)
+- Complete the second milestone of [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44), which is due Friday.
+
 ## Day 21: Friday, October 11, 2024
 
 ### Day 21: In class
