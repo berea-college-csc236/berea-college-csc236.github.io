@@ -6,7 +6,7 @@
 
 ---
 
-## Day 23: Wednesday, October 18, 2024
+## Day 23: Friday, October 18, 2024
 
 ### Day 23: In class
 
@@ -17,6 +17,8 @@
 ### Day 22: Outside of class
 
 - Complete the final milestone of [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44).
+
+## Wednesday, October 16, 2024 - Enjoy Mountain Day! (No class)
 
 ## Day 22: Monday, October 14, 2024
 
