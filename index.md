@@ -6,6 +6,18 @@
 
 ---
 
+## Day 23: Wednesday, October 18, 2024
+
+### Day 23: In class
+
+- Potential quiz on Chapter 4
+- Discuss [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44).
+- Complete [T12: Exploring Linked Lists](https://docs.google.com/document/d/1b4UHkIDdldDGyat5QdZ0FFzOFZKaubeOGuz-jsPR4I0).
+
+### Day 22: Outside of class
+
+- Complete the final milestone of [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44).
+
 ## Day 22: Monday, October 14, 2024
 
 ### Day 22: In class
