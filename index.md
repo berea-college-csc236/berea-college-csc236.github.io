@@ -6,15 +6,26 @@
 
 ---
 
+## Day 24: Monday, October 21, 2024
+
+### Day 24: In class
+
+- Complete [T12: Exploring Linked Lists](https://docs.google.com/document/d/1b4UHkIDdldDGyat5QdZ0FFzOFZKaubeOGuz-jsPR4I0).
+- Begin [T13: Circling Back to Circular Linked Lists](https://docs.google.com/document/d/18y3Y_DldzoHN8KqVbODXm2ojXxet3Xc1pAm9StJlt5k).
+
+### Day 24: Outside of class
+
+- Read [Chapter 5 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=694956) to learn about recursion, the topic of our next lab.
+
 ## Day 23: Friday, October 18, 2024
 
 ### Day 23: In class
 
 - Potential quiz on Chapter 4
 - Discuss [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44).
-- Complete [T12: Exploring Linked Lists](https://docs.google.com/document/d/1b4UHkIDdldDGyat5QdZ0FFzOFZKaubeOGuz-jsPR4I0).
+- Begin [T12: Exploring Linked Lists](https://docs.google.com/document/d/1b4UHkIDdldDGyat5QdZ0FFzOFZKaubeOGuz-jsPR4I0).
 
-### Day 22: Outside of class
+### Day 23: Outside of class
 
 - Complete the final milestone of [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44).
 
@@ -28,7 +39,7 @@
 - Discuss [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44).
 - Complete [T11: Introduction to Circular Linked Lists](https://docs.google.com/document/d/1uvElflLI-S0S3spkfCkquwi3ZgIEgM49vF9NeTPmN30/edit?usp=sharing)
 
-- ### Day 21: Outside of class
+- ### Day 22: Outside of class
 
 - **By Wednesday**: Read [Chapter 4 in our Data Structures textbook](https://moodle.berea.edu/mod/lti/view.php?id=676710)
 - Complete the second milestone of [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44), which is due Friday.
