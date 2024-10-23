@@ -10,12 +10,14 @@
 
 ### Day 25: In class
 
+- Explanations of Slack Questions
 - possible quiz on Chapter 5
+- Introduction of the next lab, [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM).
 - Complete [T13: Circling Back to Circular Linked Lists](https://docs.google.com/document/d/18y3Y_DldzoHN8KqVbODXm2ojXxet3Xc1pAm9StJlt5k).
 
 ### Day 25: Outside of class
 
-- TBA
+- Complete and submit [A07: Thinking Recursively](https://docs.google.com/document/d/1rLwgk3XXBBZx-rXkoq20jws50gtztj24NBz_M8b42VQ/edit?usp=sharing)
 
 ## Day 24: Monday, October 21, 2024
 
