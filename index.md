@@ -17,7 +17,7 @@
 
 ### Day 25: Outside of class
 
-- Complete and submit [A07: Thinking Recursively](https://docs.google.com/document/d/1rLwgk3XXBBZx-rXkoq20jws50gtztj24NBz_M8b42VQ/edit?usp=sharing)
+- Complete and submit [A05: Thinking Recursively](https://docs.google.com/document/d/1rLwgk3XXBBZx-rXkoq20jws50gtztj24NBz_M8b42VQ/edit?usp=sharing)
 
 ## Day 24: Monday, October 21, 2024
 
