@@ -18,6 +18,7 @@
 ### Day 25: Outside of class
 
 - Complete and submit [A05: Thinking Recursively](https://docs.google.com/document/d/1rLwgk3XXBBZx-rXkoq20jws50gtztj24NBz_M8b42VQ/edit?usp=sharing)
+- Read [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). The first milestone is due Monday.
 
 ## Day 24: Monday, October 21, 2024
 
