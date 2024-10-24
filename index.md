@@ -6,6 +6,17 @@
 
 ---
 
+## Day 26: Friday, October 25, 2024
+
+### Day 26: In class
+
+- Questions on the next lab, [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM).
+- Complete [T14: Exploring Recursion](https://docs.google.com/document/d/1Qido7yr3NSrx052G3kqQze7PIEIRp9mlPBH3l5BRj5s).
+
+### Day 26: Outside of class
+
+- Complete Milestone 1 of [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM).
+
 ## Day 25: Wednesday, October 23, 2024
 
 ### Day 25: In class
