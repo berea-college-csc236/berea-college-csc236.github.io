@@ -6,6 +6,18 @@
 
 ---
 
+## Day 27: Monday, October 28, 2024
+
+### Day 27: In class
+
+- Discussion on the lab [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). The next milestone is due Friday.
+- Complete [T14: Exploring Recursion](https://docs.google.com/document/d/1Qido7yr3NSrx052G3kqQze7PIEIRp9mlPBH3l5BRj5s).
+- Begin [T15: Understanding Recursion](https://docs.google.com/document/d/1Bte8UbQq7NSjy4XMJoEcrs8mtUgnt7jVgMQ12Eb7cmw)
+
+### Day 27: Outside of class
+
+- Complete [A06: What is Hashing](https://docs.google.com/document/d/1m8a7SQ8TqOgRj7KzthJCtAPVAFr9EO0j1ACYUnTj6gE/edit?usp=sharing)
+
 ## Day 26: Friday, October 25, 2024
 
 ### Day 26: In class
