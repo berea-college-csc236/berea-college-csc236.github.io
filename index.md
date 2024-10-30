@@ -6,6 +6,18 @@
 
 ---
 
+## Day 28: Wednesday, October 30, 2024
+
+### Day 28: In class
+
+- Discussion on the lab [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). The next milestone is due Friday.
+- Complete [T14: Exploring Recursion](https://docs.google.com/document/d/1Qido7yr3NSrx052G3kqQze7PIEIRp9mlPBH3l5BRj5s).
+- Begin [T15: Understanding Recursion](https://docs.google.com/document/d/1Bte8UbQq7NSjy4XMJoEcrs8mtUgnt7jVgMQ12Eb7cmw)
+
+### Day 28: Outside of class
+
+- Complete milestone 2 of [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). The next milestone is due Friday.
+
 ## Day 27: Monday, October 28, 2024
 
 ### Day 27: In class
