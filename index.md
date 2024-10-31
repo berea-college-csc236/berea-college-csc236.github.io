@@ -6,6 +6,18 @@
 
 ---
 
+## Day 29: Friday, November 1, 2024
+
+### Day 29: In class
+
+- Peer Instruction question
+- Questions on the lab [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). The final milestone is due next Friday.
+- complete [T15: Understanding Recursion](https://docs.google.com/document/d/1Bte8UbQq7NSjy4XMJoEcrs8mtUgnt7jVgMQ12Eb7cmw)
+
+### Day 29: Outside of class
+
+- Read [Chapter 6 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=694957) in preparation for a potential reading quiz.
+
 ## Day 28: Wednesday, October 30, 2024
 
 ### Day 28: In class
