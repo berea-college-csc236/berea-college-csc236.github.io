@@ -13,6 +13,7 @@
 - Possible quiz on Chapter 6
 - Questions on the lab [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). The final milestone is due next Friday.
 - Complete [T16: Searching](https://docs.google.com/document/d/1tYBkApVgtJaTdGhd1KCYprnOyZyP5FyKvSmw5gcCa84)
+- Please complete [Peer Instruction Consent Form](https://forms.gle/qTV49iJsni2XXsWr9)
 
 ### Day 30: Outside of class
 
