@@ -13,12 +13,13 @@
 - Possible quiz on Chapter 6
 - Questions on the lab [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). The final milestone is due next Friday.
 - Complete [T16: Searching](https://docs.google.com/document/d/1tYBkApVgtJaTdGhd1KCYprnOyZyP5FyKvSmw5gcCa84)
-- Please complete [Peer Instruction Consent Form](https://forms.gle/qTV49iJsni2XXsWr9)
+- Please complete [A08: Peer Instruction Consent Form](https://forms.gle/qTV49iJsni2XXsWr9). Be sure to take a screenshot after you have completed it, and upload that screenshot to Moodle for free credit!
 
 ### Day 30: Outside of class
 
 - Complete [T15: Understanding Recursion](https://docs.google.com/document/d/1Bte8UbQq7NSjy4XMJoEcrs8mtUgnt7jVgMQ12Eb7cmw) **outside of class**.
 - Complete [A07: Considering Diversity here and in the Workplace](https://docs.google.com/document/d/1GgQ0yrnytucqukz-ypOvNld4sJ4c4UNH_IkJkh3046Y).
+- Please complete [A08: Peer Instruction Consent Form](https://forms.gle/qTV49iJsni2XXsWr9). Be sure to take a screenshot after you have completed it, and upload that screenshot to Moodle for free credit!
 
 ## Day 29: Friday, November 1, 2024
 
