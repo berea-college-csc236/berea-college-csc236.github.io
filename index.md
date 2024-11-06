@@ -14,7 +14,7 @@
 
 ### Day 31: Outside of class
 
-- Questions on the lab [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). The final milestone is due Friday.
+- Complete [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). The final milestone is due Friday.
 
 ## Day 30: Monday, November 4, 2024
 
