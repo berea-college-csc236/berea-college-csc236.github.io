@@ -6,6 +6,17 @@
 
 ---
 
+## Day 32: Friday, November 8, 2024
+
+### Day 32: In class
+
+- Art show on [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM).
+- Begin [T18: Hashing Functions and Collisions](https://docs.google.com/document/d/1LAYpzVOzkV2rSydtPBIJ14aQczKQHbne-F_YmyWpEkA).
+
+### Day 31: Outside of class
+
+- Read [Chapter 7 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=694958) in preparation for a potential reading quiz.
+
 ## Day 31: Wednesday, November 6, 2024
 
 ### Day 31: In class
