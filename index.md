@@ -6,6 +6,17 @@
 
 ---
 
+## Day 33: Monday, November 10, 2024
+
+### Day 33: In class
+
+- Potential quiz on chapter reading
+- Complete [T18: Hashing Functions and Collisions](https://docs.google.com/document/d/1LAYpzVOzkV2rSydtPBIJ14aQczKQHbne-F_YmyWpEkA).
+
+### Day 33: Outside of class
+
+- Read [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw), which is our last lab! It is due Monday, November 25. To be successful on this lab, it is best to get started early and work on it a little bit each day. Some of the runs take a **long time**.
+
 ## Day 32: Friday, November 8, 2024
 
 ### Day 32: In class
@@ -13,9 +24,10 @@
 - Art show on [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM).
 - Begin [T18: Hashing Functions and Collisions](https://docs.google.com/document/d/1LAYpzVOzkV2rSydtPBIJ14aQczKQHbne-F_YmyWpEkA).
 
-### Day 31: Outside of class
+### Day 32: Outside of class
 
 - Read [Chapter 7 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=694958) in preparation for a potential reading quiz.
+- Read [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw), which is our last lab! It is due Monday, November 25. To be successful on this lab, it is best to get started early and work on it a little bit each day. Some of the runs take a **long time**.
 
 ## Day 31: Wednesday, November 6, 2024
 
