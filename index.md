@@ -10,6 +10,7 @@
 
 ### Day 34: In class
 
+- Touch base on lab
 - Discuss next couple of weeks of work
 - Begin [T19: On Sorting](https://docs.google.com/document/d/1bUGZJNs8ARo3GyLqhumF-bL6slKTrzlZmAVF5RScjAI).
 
