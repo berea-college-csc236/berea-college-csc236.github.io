@@ -15,7 +15,7 @@
 
 ### Day 35: Outside of class
 
-- Read [Sections 8.11-8.19 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=694960) in preparation for a possible reading quiz on Friday.
+- Read [Sections 8.11-8.19 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=694960) in preparation for a possible reading quiz on Monday.
 
 ## Day 34: Wednesday, November 13, 2024
 
