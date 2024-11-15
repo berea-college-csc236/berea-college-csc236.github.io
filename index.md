@@ -10,7 +10,9 @@
 
 ### Day 35: In class
 
+- Discuss homecoming opportunties for perfect quiz replacement
 - Possible quiz on reading
+- Discuss Lab
 - Complete [T19: On Sorting](https://docs.google.com/document/d/1bUGZJNs8ARo3GyLqhumF-bL6slKTrzlZmAVF5RScjAI).
 
 ### Day 35: Outside of class
