@@ -6,6 +6,18 @@
 
 ---
 
+## Day 36: Monday, November 18, 2024
+
+### Day 36: In class
+
+- Possible quiz on reading
+- Discuss Lab
+- Complete [T20: Recursive Sorting](https://docs.google.com/document/d/1Zvcu_nvpkPZfn4wDhPEM7ub96dj7vb0LB9lIly3DjZs)
+
+### Day 36: Outside of class
+
+- Reading on [Sections 9.1-9.10 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=694961).
+
 ## Day 35: Friday, November 15, 2024
 
 ### Day 35: In class
