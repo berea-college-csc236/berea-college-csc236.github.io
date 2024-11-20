@@ -6,6 +6,18 @@
 
 ---
 
+## Day 37: Wednesday, November 20, 2024
+
+### Day 37: In class
+
+- Possible quiz on reading
+- Discuss Lab
+- Complete [T21: Exploring Trees](https://docs.google.com/document/d/1t0mL8FmPE1f4IfV03tyQcT1FPfdepX37KHRBftUxSh0).
+
+### Day 37: Outside of class
+
+- Complete **our last textbook reading** on [Sections 9.11-9.23 in our main textbook](https://moodle.berea.edu/mod/lti/view.php?id=694962).
+
 ## Day 36: Monday, November 18, 2024
 
 ### Day 36: In class
