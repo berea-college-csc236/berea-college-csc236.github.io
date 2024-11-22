@@ -14,9 +14,9 @@
 - Discuss Lab
 - Complete [T22: Exploring Graphs](https://docs.google.com/document/d/1lq4QQeKIZg7rA1KItCHP8jRKkDQsMkVGZdTr1DlDBHY/edit?usp=sharing)
 
-### Day 37: Outside of class
+### Day 38: Outside of class
 
-- TBA
+- Complete [A09: Individual Review and Reflection](https://docs.google.com/document/d/1zS8jEGIKEUvBC1kr84Cs3AoqYIKnnklGyB4EowCDw2w/edit?usp=sharing)
 
 ## Day 37: Wednesday, November 20, 2024
 
