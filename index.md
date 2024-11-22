@@ -6,6 +6,18 @@
 
 ---
 
+## Day 38: Friday, November 22, 2024
+
+### Day 38: In class
+
+- Possible quiz on reading
+- Discuss Lab
+- Complete [T22: Exploring Graphs](https://docs.google.com/document/d/1lq4QQeKIZg7rA1KItCHP8jRKkDQsMkVGZdTr1DlDBHY/edit?usp=sharing)
+
+### Day 37: Outside of class
+
+- TBA
+
 ## Day 37: Wednesday, November 20, 2024
 
 ### Day 37: In class
