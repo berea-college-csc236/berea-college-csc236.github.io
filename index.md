@@ -6,6 +6,21 @@
 
 ---
 
+## Day 39: Monday, November 25, 2024
+
+### Day 39: In class
+
+- Choose project topics
+- Complete and submit [TR2 Peerwise Review for E2](https://docs.google.com/document/d/1tY3QpKNjqW3PR1YcbAGsV6HSbUT47bTv1EUx-sv6RwQ) all portions of which are due by tomorrow at 8 am
+  - Discuss, and revise all questions
+  - Only once approved, submit the Google Doc to Moodle and your questions to Peerwise.
+- Complete [FP1: Initial Planning for Final Project](https://docs.google.com/document/d/1SKoy_GxywkkKpBXhE0h_0qdG9pj-GutZoktd3-2T5xY/edit?usp=sharing).
+
+### Day 39: Outside of class
+
+- Complete homework assigned in [FP1: Initial Planning for Final Project](https://docs.google.com/document/d/1SKoy_GxywkkKpBXhE0h_0qdG9pj-GutZoktd3-2T5xY/edit?usp=sharing).
+- Study for upcoming exam E2 which will be Friday, December 6.
+
 ## Day 38: Friday, November 22, 2024
 
 ### Day 38: In class
