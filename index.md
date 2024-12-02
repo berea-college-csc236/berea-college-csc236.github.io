@@ -6,6 +6,17 @@
 
 ---
 
+## Day 40: Monday, December 2, 2024
+
+### Day 40: In class
+
+- Complete [FP2: Planning and Preliminary Video Script](https://docs.google.com/document/d/16lsG7uJKPY1XXHka3-KP-7GiviBg2ePTxUKma_bg7lk). This **preliminary script** is due on Wednesday, but it is only preliminary and can be changed.
+
+### Day 40: Outside of class
+
+- Complete homework assigned in [FP2: Planning and Preliminary Video Script](https://docs.google.com/document/d/16lsG7uJKPY1XXHka3-KP-7GiviBg2ePTxUKma_bg7lk).
+- Complete [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)
+
 ## Day 39: Monday, November 25, 2024
 
 ### Day 39: In class
