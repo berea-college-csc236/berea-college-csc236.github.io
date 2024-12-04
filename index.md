@@ -6,6 +6,19 @@
 
 ---
 
+# Day 41: Wednesday, December 4, 2024
+
+### Day 41: In class
+
+- Work on Final Project:
+  - [FP3: Project Big O Analysis](https://docs.google.com/document/d/1RWkZEl1XNMVA-PfnAdD9Teip1oirXtkDnU_vtboWloA) is due on Monday, Reading Day at 8 am.
+  - [FP4: Final Project Link to Video and Final Transcript](https://docs.google.com/document/d/17YmTJYWzVriYggUipkHsSzqzFxamCTT3BZWiE0dA2s0) is due at 8:00 am on date of the final exam period. The final exam period is when the presentation will be. (Friday at 8:30 for section A and Thursday at 11:45 for section B)
+  - [FPE: Team Evaluation](https://moodle.berea.edu/mod/assign/view.php?id=695035) will open at 8 am on Friday, December 13, 2024, It due by 5 pm the same day.
+
+### Day 41: Outside of class
+
+- Study for Exam E2 which is Friday, December 6.
+
 ## Day 40: Monday, December 2, 2024
 
 ### Day 40: In class
