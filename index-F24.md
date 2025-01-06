@@ -2,7 +2,7 @@
 
 ## Dr. Jan Pearce
 
-### Berea College Spring 2024 Offering
+### Berea College Fall 2024 Offering
 
 ---
 
