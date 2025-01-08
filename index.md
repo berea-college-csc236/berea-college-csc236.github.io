@@ -31,4 +31,4 @@
 
 ---
 
-###### Copyright © 2024 | Licensed under a Creative Commons Attribution-Share Alike 3.0 United States License
+###### Copyright © 2025 | Licensed under a Creative Commons Attribution-Share Alike 3.0 United States License
