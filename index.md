@@ -2,7 +2,7 @@
 
 ## Dr. Jan Pearce
 
-### Berea College Spring 2025 Offering
+### Berea College Spring 2025 Offering 
 
 ---
 
