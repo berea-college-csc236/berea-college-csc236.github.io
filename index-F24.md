@@ -507,7 +507,7 @@
 - Complete the first milestone for [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). The final submission is due on Friday.
 - Fix any challenges you have had with the first two readings by going through Moodle NOT Runestone Academy. See your grades for [Chapters 1 and 2 of C++ for Python Programmers and the course syllabus](https://moodle.berea.edu/mod/lti/view.php?id=694947) and [Chapters 3, 4,and 5 in C++ for Python Programmers](https://moodle.berea.edu/mod/lti/view.php?id=710347) and make them perfect by doing everything!
 
-## Day 2: Friday, January 12, 2024
+## Day 2: Friday, August 25, 2024
 
 ### Day 2: In class
 
