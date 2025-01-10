@@ -17,7 +17,7 @@
 - Did you sign up for [Github Student Developer Pack](https://education.github.com/pack)? Note that it might take three or more days to get this, so don't fret since we do not need it and you are likely better off not using it for the first lab.
 - Try to complete, then download, and submit [Teamwork T01: Visual Studio, Github, and ASCII Art](https://docs.google.com/document/d/1Bz1sbwxid1ydkSHaO5nDMpMgzwa29Py6zzTlWGUvBzM)
 
-### Day 2: Outside of class (due before class on Wednesday, January 17, 2024)
+### Day 2: Outside of class (due before class on Monday, January 13, 2025)
 
 - Finish up and submit [Teamwork T01: Visual Studio, Github, and ASCII Art](https://docs.google.com/document/d/1Bz1sbwxid1ydkSHaO5nDMpMgzwa29Py6zzTlWGUvBzM)
 - Read [Chapters 3, 4,and 5 in C++ for Python Programmers](https://moodle.berea.edu/mod/lti/view.php?id=722852) for a potential reading quiz next class. Be sure you are logged in and do all activities to get credit!
