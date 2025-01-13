@@ -6,6 +6,22 @@
 
 ---
 
+## Day 3: January 13, 2025
+
+### Day 3: In class
+
+- Possible quiz
+- Discussion of [Teamwork T01: Visual Studio, Github, and ASCII Art](https://docs.google.com/document/d/1Bz1sbwxid1ydkSHaO5nDMpMgzwa29Py6zzTlWGUvBzM)
+- Discuss [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8) which is due Friday, but the first milestone is due Wednesday. (Read the hints in the lab on escaping backslashes and quotes!)
+- show primer on branches in Github
+- Begin [Teamwork T02: Collaboration via Branches](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ) with a partner in class.
+
+### Day 3: Outside of class
+
+- Read [Chapters 6, 7, and 8 in C++ for Python Programmers](https://moodle.berea.edu/mod/lti/view.php?id=722853) for a possible reading quiz next class. Be sure you are logged in and do all activities to get credit!
+- Complete the first milestone for [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). The final submission is due on Friday.
+- Fix any challenges you have had with the first two readings by going through Moodle NOT Runestone Academy. See your grades in Moodle and make them perfect by doing everything!
+
 ## Day 2: Friday, January 10, 2025
 
 ### Day 2: In class
