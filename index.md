@@ -6,6 +6,21 @@
 
 ---
 
+# Day 4: Wednesday, January 15, 2025
+
+### Day 4: In class
+
+- Possible quiz or peer instruction question
+- In Runestone change courses to **BC_cppds_S25**. We will have a reading out of this book for Monday.
+- Questions on [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8) which is due Friday. (Reminders about escaping backslashes and quotes.)
+- Complete and submit [Teamwork T02: Collaboration via Branches](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ) with a partner in class.
+- Finished with the teamwork? Work on [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8).
+
+### Day 4: Outside of class
+
+- Complete [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). The final submission is due on Friday.
+- The next textbook reading is on object-oriented programming in C++ in the main textbook for the course. It is a bit longer than the readings in the transition book, and you may find it more conceptually challenging. Again, you will need to be logged in to Moodle to get credit for the reading. The reading is not yet done, but it will be on the latter part of Chapter 1 in the Runestone book **BC_cppds_S25** and is due Monday, January 20, 2025.
+
 ## Day 3: January 13, 2025
 
 ### Day 3: In class
