@@ -6,6 +6,20 @@
 
 ---
 
+## Day 5: Friday, January 17, 2025
+
+### Day 5: In class
+
+- Art show! Share your ASCII art with the class.
+- Demo of debugging in Visual Studio
+- Complete [Teamwork T03:  Debugging Techniques](https://docs.google.com/document/d/1T0BS2SzKxoOXg_EpfDCpFd8UG219_Jbqzl8W1kogtcc/edit?usp=sharing).
+
+### Day 5: Outside of class (There is no class on Monday, so these are due before class on Wednesday, January 22, 2025)
+
+- Read [Chapter 1 on OOP]() in preparation for a potential reading quiz. Be sure to go through Moodle to get credit.
+- Read [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c/edit?usp=sharing) and do the first milestone (due Wednesday). The final submission is due Friday.
+- If you haven't already done so, complete [Teamwork T03:  Debugging Techniques](https://docs.google.com/document/d/1T0BS2SzKxoOXg_EpfDCpFd8UG219_Jbqzl8W1kogtcc/edit?usp=sharing).
+
 # Day 4: Wednesday, January 15, 2025
 
 ### Day 4: In class
@@ -19,7 +33,7 @@
 ### Day 4: Outside of class
 
 - Complete [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). The final submission is due on Friday.
-- The next textbook reading is on object-oriented programming in C++ in the main textbook for the course. It is a bit longer than the readings in the transition book, and you may find it more conceptually challenging. Again, you will need to be logged in to Moodle to get credit for the reading. The reading is not yet done, but it will be on the latter part of Chapter 1 in the Runestone book **BC_cppds_S25** and is due Monday, January 20, 2025.
+- The next textbook reading is on object-oriented programming in C++ in the main textbook for the course. It is a bit longer than the readings in the transition book, and you may find it more conceptually challenging. Again, you will need to be logged in to Moodle to get credit for the reading. The reading is not yet done, but it will be on the latter part of Chapter 1 in the Runestone book **BC_cppds_S25** and is due Wednesday, January 22, 2025.
 
 ## Day 3: January 13, 2025
 
