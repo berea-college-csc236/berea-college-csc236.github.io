@@ -6,6 +6,20 @@
 
 ---
 
+## Day 6: Wednesday, September 4, 2024
+
+### Day 6: In class
+
+- Discuss all questions posted on Slack in advance about [Chapter 1 on OOP](https://moodle.berea.edu/mod/lti/view.php?id=722855)
+- Possible quiz on the Chapter 1 reading
+- Discuss [L1: Loopy Graphics with C-Turtle](https://moodle.berea.edu/mod/assign/view.php?id=695003)
+- Begin [T04: Fraction Class Understanding and Enhancement](https://moodle.berea.edu/mod/assign/view.php?id=711836)
+
+### Day 6: Outside of class
+
+- Read, complete, and submit [A01: OOP Principles](https://docs.google.com/document/d/1uH5vpyvL1rCLsmI14D3LIgUo2Q-0fCCdclOz2ZAk1Eg) for Friday.
+- Complete [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c).
+
 ## Day 5: Friday, January 17, 2025
 
 ### Day 5: In class
