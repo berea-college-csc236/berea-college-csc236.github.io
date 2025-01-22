@@ -6,7 +6,7 @@
 
 ---
 
-## Day 6: Wednesday, September 4, 2024
+## Day 6: Wednesday, January 22, 2025
 
 ### Day 6: In class
 
