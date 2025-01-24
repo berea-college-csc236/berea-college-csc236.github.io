@@ -16,7 +16,6 @@
 
 ### Day 7: Outside of class
 
-- Complete [L1: Loopy Graphics with C-Turtle](https://moodle.berea.edu/mod/assign/view.php?id=695003) 
 - Begin [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q). This is an individual lab that has Milestone 1 due this coming Monday, the second milestone due Friday, and the full lab due on Monday, February 3.
 
 ## Day 6: Wednesday, January 22, 2025
