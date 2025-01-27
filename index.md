@@ -6,7 +6,20 @@
 
 ---
 
-## Day 7: Friday, September 6, 2024
+## Day 8: Monday, January 27, 2025
+
+### Day 8: In class
+
+- Peer Instruction question
+- Questions on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q).
+- Begin [T05: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag), which we will likely need to complete next time.
+
+### Day 8: Outside of class
+
+- Complete [A02: AI and Learning](https://docs.google.com/document/d/1SdnNB_qRGWaYCHKx__J5lhBfhisxNhgVlY2qa0oCr34/edit?usp=sharing)
+- Try to complete some of the methods in [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q).
+
+## Day 7: Friday, January 25, 2025
 
 ### Day 7: In class
 
