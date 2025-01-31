@@ -17,7 +17,7 @@
 
 ### Day 10: Outside of class
 
-- Complete [A03: Videos and Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU). Note that this is an introduction to the most and most conceptually difficult concept in the course. It IS due Monday, and so is the lab completion.
+- Complete [A03: Videos and Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU). Note that this is an introduction to the most and most conceptually difficult concept in the course. It IS due Monday, but the lab completion is extended to Wednesday.
 - Keep debugging [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q) which I have extended to Wednesday.
 
 ## Day 9: Wednesday, January 29, 2025
@@ -135,7 +135,7 @@
 
 - Finish up and submit [Teamwork T01: Visual Studio, Github, and ASCII Art](https://docs.google.com/document/d/1Bz1sbwxid1ydkSHaO5nDMpMgzwa29Py6zzTlWGUvBzM)
 - Read [Chapters 3, 4,and 5 in C++ for Python Programmers](https://moodle.berea.edu/mod/lti/view.php?id=722852) for a potential reading quiz next class. Be sure you are logged in and do all activities to get credit!
-- Begin [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). This is an individual Lab. The first milestone is due Wednesday, January 15, 2024. The final completion milestone of the  lab is due Friday, January 17, 2024.
+- Begin [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). This is an individual Lab. The first milestone is due Wednesday, January 15, 2024. The final completion milestone of the lab is due Friday, January 17, 2024.
 
 ## Day 1: Wednesday, January 8, 2025
 
