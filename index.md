@@ -6,11 +6,26 @@
 
 ---
 
+## Day 10: Friday, January 31, 2025
+
+### Day 10: In class
+
+- possible quiz or PI question
+- Discuss [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q) which is due Monday.
+- Discuss [T05: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag)
+- Begin [T06: Understanding OOP and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4).
+
+### Day 10: Outside of class
+
+- Complete [A03: Videos and Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU). Note that this is an introduction to the most and most conceptually difficult concept in the course. It IS due Monday, and so is the lab completion.
+- Complete [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q) by Monday.
+
 ## Day 9: Wednesday, January 29, 2025
 
 ### Day 9: In class
 
 - PI question as a learning check
+- Change partners
 - Discuss [A02: AI and Learning](https://docs.google.com/document/d/1SdnNB_qRGWaYCHKx__J5lhBfhisxNhgVlY2qa0oCr34/edit?usp=sharing)
 - Questions on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q). The second milestone is due Friday, and the full lab is due Monday.
 - Complete and submit [T05: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag)
