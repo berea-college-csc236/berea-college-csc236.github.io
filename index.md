@@ -6,6 +6,23 @@
 
 ---
 
+## Day 11: Monday, February 3, 2023
+
+### Day 11: In class
+
+- Peer Instruction question on A03.
+- Discuss [A03: Videos and Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU).
+- Questions on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q)
+- Introduction of [L3: Virtual Pets](https://moodle.berea.edu/mod/assign/view.php?id=695005), possibly find a partner. The first milestone is due Friday.
+- Complete [T06: Understanding OOP and ADTs](https://moodle.berea.edu/mod/assign/view.php?id=694980).
+
+### Day 11: Outside of class
+
+- Read [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E/edit?usp=sharing), possibly find a partner and bring questions to class on Wednesday. The first milestone is due Friday.
+- Complete [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q)
+- Read [Chapter 2 Reading on Big O](https://moodle.berea.edu/mod/lti/view.php?id=722856) and do all activities in preparation for a potential reading quiz. **This is one of the most important topics in the entire course; you might try to find time to read it twice!**
+
+
 ## Day 10: Friday, January 31, 2025
 
 ### Day 10: In class
