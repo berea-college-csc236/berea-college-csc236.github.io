@@ -13,8 +13,8 @@
 - Peer Instruction question on A03.
 - Discuss [A03: Videos and Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU).
 - Questions on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q)
-- Introduction of [L3: Virtual Pets](https://moodle.berea.edu/mod/assign/view.php?id=695005), possibly find a partner. The first milestone is due Friday.
-- Complete [T06: Understanding OOP and ADTs](https://moodle.berea.edu/mod/assign/view.php?id=694980).
+- Introduction of [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E/edit?usp=sharing), possibly find a partner. The first milestone is due Friday.
+- Complete [T06: Understanding OOP and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4/edit?usp=sharing).
 
 ### Day 11: Outside of class
 
