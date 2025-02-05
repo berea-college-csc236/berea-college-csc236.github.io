@@ -6,6 +6,19 @@
 
 ---
 
+## Day 12: Wednesday, February 5, 2025
+
+### Day 12: In class
+
+- PI or Quiz on Chapter 2 on Big O
+- Discuss [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E).
+- Begin and try to complete [T07: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE).
+
+### Day 12: Outside of class
+
+- Complete at least Milestone 1 of [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E). Note that this Milestone is larger than previous first milestones, so you be sure to start early.
+- If necessary, complete all of the individual runs of [T07: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE) so you can come to class Friday ready to discuss each one.
+
 ## Day 11: Monday, February 3, 2025
 
 ### Day 11: In class
