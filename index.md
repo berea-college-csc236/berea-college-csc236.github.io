@@ -6,12 +6,25 @@
 
 ---
 
+## Day 13: Friday, February 7, 2025
+
+### Day 13: In class
+
+- Peer Instruction question or Quiz
+- Questions on [L3: Virtual Pets](https://moodle.berea.edu/mod/assign/view.php?id=695005).
+- Complete [T07: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE).
+
+### Day 13: Outside of class
+
+- Complete Milestone 2 of [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E). This means to try to complete all of the coding. (It might not yet be fully working.)
+
 ## Day 12: Wednesday, February 5, 2025
 
 ### Day 12: In class
 
 - PI or Quiz on Chapter 2 on Big O
 - Discuss [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E).
+- Explanation of Exponentials and Logarithms
 - Begin and try to complete [T07: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE).
 
 ### Day 12: Outside of class
