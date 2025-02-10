@@ -6,12 +6,24 @@
 
 ---
 
+## Day 14: Monday, February 10, 2025
+
+### Day 14: In class
+
+- PI Question
+- Questions on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E)
+- Complete [T08: How Long will this Take?](https://docs.google.com/document/d/1_vzhbJdc5-bmYi1CLpMEgA7WM1c4wXH0EwFb_JOJPek/edit?usp=sharing).
+
+### Day 14: Outside of class
+
+- Read [Sections 3.1-3.9 in our Data Structures textbook](https://moodle.berea.edu/mod/lti/view.php?id=722857) in preparation for a possible reading quiz.
+
 ## Day 13: Friday, February 7, 2025
 
 ### Day 13: In class
 
 - Peer Instruction question or Quiz
-- Questions on [L3: Virtual Pets](https://moodle.berea.edu/mod/assign/view.php?id=695005).
+- Questions on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E).
 - Complete [T07: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE).
 
 ### Day 13: Outside of class
