@@ -6,6 +6,8 @@
 
 ---
 
+## Announcement: Exam E1 will be Friday, February 21, 2025.
+
 ## Day 15: Wednesday, February 12, 2025
 
 ### Day 15: In class
