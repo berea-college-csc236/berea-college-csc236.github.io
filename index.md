@@ -20,6 +20,7 @@
 
 ### Day 16: Outside of class
 
+- Complete [A04: Individual Review and Reflection](https://docs.google.com/document/d/13yIHXsGh3g-TfJSZ3VYjkG3f_UVnmZIJKIHkepHgEe0/edit?usp=sharing) **Note that due to the nature of this assignment, it will not be accepted late under any circumstances.**
 - Final completion of [L3: Virtual Pets](https://moodle.berea.edu/mod/assign/view.php?id=695005) is due Monday.
 
 ## Day 15: Wednesday, February 12, 2025
