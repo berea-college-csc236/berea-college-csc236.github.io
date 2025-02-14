@@ -17,6 +17,7 @@
 - Possible PI question or quiz on chapter 3
 - Final questions on [L3: Virtual Pets](https://moodle.berea.edu/mod/assign/view.php?id=695005)?
 - Complete and submit [T09: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8)
+- Note that the next lab is posted. Milestone 1 including the design document submission for [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) is due on Wednesday, February 19, 2025.
 
 ### Day 16: Outside of class
 
