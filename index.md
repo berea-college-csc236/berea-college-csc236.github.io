@@ -6,7 +6,21 @@
 
 ---
 
-## Announcement: Exam E1 will be Friday, February 21, 2025.
+### Announcement: Exam E1 will be Friday, February 21, 2025
+
+## Day 16: Friday, February 14, 2025
+
+### Happy Valentine's Day!
+
+### Day 16: In class
+
+- Possible PI question or quiz on chapter 3
+- Final questions on [L3: Virtual Pets](https://moodle.berea.edu/mod/assign/view.php?id=695005)?
+- Complete and submit [T09: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8)
+
+### Day 16: Outside of class
+
+- Final completion of [L3: Virtual Pets](https://moodle.berea.edu/mod/assign/view.php?id=695005) is due Monday.
 
 ## Day 15: Wednesday, February 12, 2025
 
