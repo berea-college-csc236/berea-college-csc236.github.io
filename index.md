@@ -14,7 +14,7 @@
 
 - Debrief on [L3: Virtual Pets](https://moodle.berea.edu/mod/assign/view.php?id=695005).
 - Introduction to [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8)
-- Complete [T10: Queues, Stacks, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw)
+- Complete [TR1: E1 Review](https://docs.google.com/document/d/1AKBUi_i1XsbP6Aidb5rqQifVveU4rQSpBK-pKVGy8Yc)
 
 ### Day 17: Outside of class
 
