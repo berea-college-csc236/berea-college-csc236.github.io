@@ -16,7 +16,7 @@
 - Introduction to [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8)
 - Complete structured review [TR1: E1 Review](https://docs.google.com/document/d/1AKBUi_i1XsbP6Aidb5rqQifVveU4rQSpBK-pKVGy8Yc)
   - Submit your pdf to Moodle
-  - Submit your questions to Peerwise asap but for certain by 5 pm today
+  - Submit your questions to Peerwise asap but for certain by 8 am tomorrow (Tuesday, February 18, 2025)
   - **Note that due to the nature of this teamwork, it cannot be completed late or alone.**
 - Announce homework
 
