@@ -8,14 +8,16 @@
 
 ### Announcement: Exam E1 will be Friday, February 21, 2025
 
-## Day 18: Wednesday, February 19, 2025
+## Wednesday, February 19, 2025
 
-### Day 18: In class
+### No class - Classes CANCELLED
 
-- Discuss upcoming midterm exam which is next time.
-- Complete [T10: Queues, Stacks, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw)
+- If we had class, I would have discussed the upcoming midterm exam which is Friday.
+  - The exam will be all on paper and a mixture of question types (True/False, Multiple choice, and short answer)
+  - Peerwise is a good resource for studying because I try to draw questions from there, but it is not sufficient. The other best things to study are the textbook and the teamworks. 
+  - The exam will primarily focus on data structures, but be prepared to write and use a small C++ class that is written as an ADT. I recommend you study the Fraction Class, the Dog class, the Byte class for examples. This will be on paper with no access to the internet.
 
-### Day 18: Outside of class
+### Outside of class
 
 - For Friday, study for the exam.
 - For Monday, complete Milestone 2 of [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8).
