@@ -8,6 +8,18 @@
 
 ### Announcement: Exam E1 will be Friday, February 21, 2025
 
+## Day 18: Wednesday, February 19, 2025
+
+### Day 18: In class
+
+- Discuss upcoming midterm exam which is next time.
+- Complete [T10: Queues, Stacks, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw)
+
+### Day 18: Outside of class
+
+- For Friday, study for the exam.
+- For Monday, complete Milestone 2 of [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8).
+
 ## Day 17: Monday, January 19, 2025
 
 ### Day 17: In class
