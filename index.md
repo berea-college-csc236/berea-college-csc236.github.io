@@ -18,7 +18,7 @@
 
 - **For Wednesday**: Read [Chapter 4 in our Data Structures textbook](https://moodle.berea.edu/mod/lti/view.php?id=676710)
 - **For Friday**: Complete [A05: A Simple Introduction To Linked Lists](https://docs.google.com/document/d/1r5316kQR2qmtEWYqUaPVcXp_yrIuPQV61RUAy_sj5KU).
-- **Also, for Friday** [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8).
+- **Also, for Friday** Complete final milestone of [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8).
 
 ### Announcement: Exam E1 will be Friday, February 21, 2025
 
