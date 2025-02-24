@@ -12,7 +12,7 @@
 
 - Discuss [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8).
 - Watch [Linked Lists Explained in 60 Seconds!](https://youtu.be/558b4XAg23Y?feature=shared) and [Linked lists in 4 minutes](https://youtu.be/F8AbOfQwl1c?si=bqV8mKTEfsVohGhQ)
-- Complete [T11: Introduction to Circular Linked Lists](https://docs.google.com/document/d/1uvElflLI-S0S3spkfCkquwi3ZgIEgM49vF9NeTPmN30/edit?usp=sharing)
+- Begin [T11: Introduction to Circular Linked Lists](https://docs.google.com/document/d/1uvElflLI-S0S3spkfCkquwi3ZgIEgM49vF9NeTPmN30/edit?usp=sharing)
 
 ### Day 19: Outside of class
 
