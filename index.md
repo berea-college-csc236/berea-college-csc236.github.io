@@ -6,6 +6,20 @@
 
 ---
 
+## Day 20: Wednesday, February 26, 2025
+
+### Day 20: In class
+
+- PI or quiz on reading
+- Discuss [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8).
+- Complete [T11: Introduction to Circular Linked Lists](https://docs.google.com/document/d/1uvElflLI-S0S3spkfCkquwi3ZgIEgM49vF9NeTPmN30/edit?usp=sharing)
+
+### Day 20: Outside of class
+
+- **For Friday**: Complete [A05: A Simple Introduction To Linked Lists](https://docs.google.com/document/d/1r5316kQR2qmtEWYqUaPVcXp_yrIuPQV61RUAy_sj5KU).
+- **Also, for Friday** Complete final milestone of [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8).
+
+
 ## Day 19: Monday, February 24, 2025
 
 ### Day 19: In class
