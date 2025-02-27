@@ -6,6 +6,18 @@
 
 ---
 
+## Day 21: Friday, February 28, 2025
+
+### Day 21: In class
+
+- Possible Peer Instruction question
+- Discuss [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44).
+- Complete [T12: Exploring Linked Lists](https://docs.google.com/document/d/1b4UHkIDdldDGyat5QdZ0FFzOFZKaubeOGuz-jsPR4I0).
+
+### Day 21: Outside of class
+
+- Complete the first milestone of [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44).
+
 ## Day 20: Wednesday, February 26, 2025
 
 ### Day 20: In class
