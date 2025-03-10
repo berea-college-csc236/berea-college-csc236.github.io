@@ -6,6 +6,21 @@
 
 ---
 
+## Day 22: Monday, March 10, 2025
+
+### Day 22: In class
+
+- Post-Spring break check-in
+- Discuss [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44). Reminder that the final milestone is due Friday.
+- Begin [T13: Circling Back to Circular Linked Lists](https://docs.google.com/document/d/18y3Y_DldzoHN8KqVbODXm2ojXxet3Xc1pAm9StJlt5k).
+
+### Day 22: Outside of class
+
+- Complete [A06: Considering Diversity in Tech](https://docs.google.com/document/d/1GgQ0yrnytucqukz-ypOvNld4sJ4c4UNH_IkJkh3046Y/edit?usp=sharing)
+- Continue to debub [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44) in order to meet the final milestone on Friday.
+
+## Enjoy your Spring Break!
+
 ## Day 21: Friday, February 28, 2025
 
 ### Day 21: In class
