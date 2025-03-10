@@ -11,6 +11,7 @@
 ### Day 22: In class
 
 - Post-Spring break check-in
+- Possible peer instruction question
 - Discuss [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44). Reminder that the second milestone is due Friday.
 - Begin [T13: Circling Back to Circular Linked Lists](https://docs.google.com/document/d/18y3Y_DldzoHN8KqVbODXm2ojXxet3Xc1pAm9StJlt5k).
 
