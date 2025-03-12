@@ -6,6 +6,20 @@
 
 ---
 
+## Day 23: Wednesday, March 12, 2025
+
+### Day 23: In class
+
+- Possible Peer Instruction question
+- Discuss [A06: Considering Diversity in Tech](https://docs.google.com/document/d/1GgQ0yrnytucqukz-ypOvNld4sJ4c4UNH_IkJkh3046Y/edit?usp=sharing)
+- Questions on [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44).
+- Complete [T13: Circling Back to Circular Linked Lists](https://docs.google.com/document/d/18y3Y_DldzoHN8KqVbODXm2ojXxet3Xc1pAm9StJlt5k).
+
+### Day 23: Outside of class
+
+- Complete second milestone of [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44) which is due on Friday.
+- Complete and submit [A07: Thinking Recursively](https://docs.google.com/document/d/1rLwgk3XXBBZx-rXkoq20jws50gtztj24NBz_M8b42VQ/edit?usp=sharing) which also is due on Friday.
+
 ## Day 22: Monday, March 10, 2025
 
 ### Day 22: In class
