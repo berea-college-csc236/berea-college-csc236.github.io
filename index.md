@@ -6,6 +6,19 @@
 
 ---
 
+## Day 24: Friday, March 14, 2025
+
+### Day 24: In class
+
+- Possible Peer Instruction question
+- Questions on [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44).
+- Begin [T14: Exploring Recursion](https://docs.google.com/document/d/1Qido7yr3NSrx052G3kqQze7PIEIRp9mlPBH3l5BRj5s).
+
+### Day 24: Outside of class
+
+- Complete [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44).
+- Read [Chapter 5 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=722860) to learn about recursion, the topic of our next lab.
+
 ## Day 23: Wednesday, March 12, 2025
 
 ### Day 23: In class
