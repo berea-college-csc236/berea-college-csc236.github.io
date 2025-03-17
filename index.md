@@ -6,6 +6,19 @@
 
 ---
 
+## Day 25: Monday, March 17, 2025
+
+### Day 25: In class
+
+- Possible Peer Instruction question or quiz
+- Debrief on [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44).
+- Introduction of the next lab, [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM).
+- Complete [T14: Exploring Recursion](https://docs.google.com/document/d/1Qido7yr3NSrx052G3kqQze7PIEIRp9mlPBH3l5BRj5s).
+
+### Day 25: Outside of class
+
+- Complete planning doc and M 1 of [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM).
+
 ## Day 24: Friday, March 14, 2025
 
 ### Day 24: In class
