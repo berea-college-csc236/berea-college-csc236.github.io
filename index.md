@@ -16,7 +16,8 @@
 
 ### Day 28: Outside of class
 
-- Read [Chapter 7 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=722862) on sorting in preparation for a potential reading quiz or PI question.
+- Complete [A08: What is Hashing?](https://docs.google.com/document/d/1m8a7SQ8TqOgRj7KzthJCtAPVAFr9EO0j1ACYUnTj6gE/edit?usp=sharing) which is due on Wednesday.
+- For Friday, read [Chapter 7 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=722862) on sorting in preparation for a potential reading quiz or PI question on Friday.
 
 ## Day 27: Friday, March 21, 2025
 
