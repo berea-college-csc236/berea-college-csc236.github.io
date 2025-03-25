@@ -169,7 +169,7 @@ Exam E1 - in class:
 - For Friday, study for the exam.
 - For Monday, complete Milestone 2 of [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8).
 
-## Day 17: Monday, January 19, 2025
+## Day 17: Monday, February 17, 2025
 
 ### Day 17: In class
 
