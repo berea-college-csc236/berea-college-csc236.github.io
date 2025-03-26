@@ -6,6 +6,18 @@
 
 ---
 
+## Day 29: Wednesday,  March 26, 2025
+
+### Day 29: In class
+
+- Possible quiz or PI
+- Questions on the lab [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). The final milestone is due on Monday, March 31.
+- Complete [T17: Exploring Hashing](https://docs.google.com/document/d/1Rphbo_GvKvKquZtxsSYY__cTF4ZGO4uwNEcA70dN5e0).
+
+### Day 29: Outside of class
+
+- For Friday, read [Chapter 7 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=722862) on sorting in preparation for a potential reading quiz or PI question on Friday.
+
 ## Day 28: Monday,  March 24, 2025
 
 ### Day 28: In class
