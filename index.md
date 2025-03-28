@@ -12,7 +12,7 @@
 
 - Possible quiz or PI
 - Final questions on the lab [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). Lab completion is due on Monday, March 31.
-- Begin [T18: Hashing Functions and Collisions](https://docs.google.com/document/d/1LAYpzVOzkV2rSydtPBIJ14aQczKQHbne-F_YmyWpEkA).
+- Begin [T18: Hash Functions and Collisions](https://docs.google.com/document/d/1LAYpzVOzkV2rSydtPBIJ14aQczKQHbne-F_YmyWpEkA).
 
 ### Day 30: Outside of class
 
