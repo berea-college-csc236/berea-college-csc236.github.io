@@ -11,6 +11,7 @@
 ### Day 31: In class
 
 - Art Show!
+- Peer Instruction question
 - Complete [T18: Hash Functions and Collisions](https://docs.google.com/document/d/1LAYpzVOzkV2rSydtPBIJ14aQczKQHbne-F_YmyWpEkA).
 
 ### Day 30: Outside of class
