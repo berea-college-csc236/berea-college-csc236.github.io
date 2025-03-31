@@ -16,7 +16,7 @@
 
 ### Day 30: Outside of class
 
-- Read [Sections 8.1-8.10 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=722863) in preparation for a possible reading quiz on Friday.
+- For Wednesday, read [Sections 8.1-8.10 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=722863) in preparation for a possible reading quiz.
 
 ## Day 30: Friday, March 28, 2025
 
