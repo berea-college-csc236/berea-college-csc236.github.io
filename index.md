@@ -18,7 +18,7 @@
 - Read and get started on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw), which is our last lab! It is due Friday, April 18. To be successful on this lab, it is best to get started early and work on it a little bit each day. Some of the runs take a **long time**.
 - Assuming Runestone is up soon, do the following as well:
   - Read [Sections 8.1-8.10 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=722863) if you haven't already.
-  - Read [Sections 8.11-8.19 in the main textbook](TBA) in preparation for a possible reading quiz.
+  - Read [Sections 8.11-8.19 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=722864) in preparation for a possible reading quiz.
 
 ## Day 31: Monday, March 31, 2025
 
