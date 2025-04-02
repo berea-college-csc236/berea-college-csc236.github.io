@@ -6,6 +6,20 @@
 
 ---
 
+## Day 32: Wednesday, April 2, 2025
+
+### Day 32: In class
+
+ - Introduction to [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)
+- Begin [T19: On Sorting](https://docs.google.com/document/d/1bUGZJNs8ARo3GyLqhumF-bL6slKTrzlZmAVF5RScjAI).
+
+### Day 32: Outside of class
+
+- Read and get started on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw), which is our last lab! It is due Friday, April 18. To be successful on this lab, it is best to get started early and work on it a little bit each day. Some of the runs take a **long time**.
+- Assuming Runestone is up soon, do the following as well:
+  - Read [Sections 8.1-8.10 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=722863) if you haven't already.
+  - Read [Sections 8.11-8.19 in the main textbook](TBA) in preparation for a possible reading quiz.
+
 ## Day 31: Monday, March 31, 2025
 
 ### Day 31: In class
@@ -14,7 +28,7 @@
 - Peer Instruction question
 - Complete [T18: Hash Functions and Collisions](https://docs.google.com/document/d/1LAYpzVOzkV2rSydtPBIJ14aQczKQHbne-F_YmyWpEkA).
 
-### Day 30: Outside of class
+### Day 31: Outside of class
 
 - For Wednesday, read [Sections 8.1-8.10 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=722863) in preparation for a possible reading quiz.
 
