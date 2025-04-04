@@ -6,7 +6,7 @@
 
 ---
 
-## Day 33: Wednesday, April 2, 2025
+## Day 33: Friday, April 4, 2025
 
 ### Day 33: In class
 
