@@ -6,12 +6,25 @@
 
 ---
 
+## Day 34: Monday, April 7, 2025
+
+### Day 34: In class
+
+- Possible PI question or quiz
+- Questions on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)
+- Tru to complete [T20: Recursive Sorting](https://docs.google.com/document/d/1Zvcu_nvpkPZfn4wDhPEM7ub96dj7vb0LB9lIly3DjZs)
+
+### Day 34: Outside of class
+
+- Reading on [Sections 9.1-9.10 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=722865).
+- Keep working on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)
+
 ## Day 33: Friday, April 4, 2025
 
 ### Day 33: In class
 
- - Possible quiz or PI on chapter reading
- - Discussion of [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)
+- Possible quiz or PI on chapter reading
+- Discussion of [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)
 - Complete [T19: On Sorting](https://docs.google.com/document/d/1bUGZJNs8ARo3GyLqhumF-bL6slKTrzlZmAVF5RScjAI).
 
 ### Day 33: Outside of class
