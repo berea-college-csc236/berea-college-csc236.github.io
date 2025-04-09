@@ -6,7 +6,7 @@
 
 ---
 
-## Day 35: Wednesday, November 20, 2024
+## Day 35: Wednesday, April 9, 2025
 
 ### Day 35: In class
 
