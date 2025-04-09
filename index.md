@@ -6,6 +6,18 @@
 
 ---
 
+## Day 35: Wednesday, November 20, 2024
+
+### Day 35: In class
+
+- Possible quiz or PI on reading
+- Questions on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)
+- Complete [T20: Recursive Sorting](https://docs.google.com/document/d/1Zvcu_nvpkPZfn4wDhPEM7ub96dj7vb0LB9lIly3DjZs)
+
+### Day 35: Outside of class
+
+- Complete **our last textbook reading** on [Sections 9.11-9.23 in our main textbook](https://moodle.berea.edu/mod/lti/view.php?id=722866).
+
 ## Day 34: Monday, April 7, 2025
 
 ### Day 34: In class
