@@ -6,6 +6,18 @@
 
 ---
 
+## Day 36: Friday, April 11, 2025
+
+### Day 36: In class
+
+- Possible quiz on reading
+- Questions on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)
+- Complete [T21: Exploring Trees](https://docs.google.com/document/d/1t0mL8FmPE1f4IfV03tyQcT1FPfdepX37KHRBftUxSh0).
+
+### Day 36: Outside of class
+
+- Complete [A09: Individual Review and Reflection](https://docs.google.com/document/d/1KZuZyPmaG4q6Co6lNoMJgXi8JJR9iswlpKSM-l5iV9A/edit?usp=sharing)
+
 ## Day 35: Wednesday, April 9, 2025
 
 ### Day 35: In class
