@@ -6,13 +6,27 @@
 
 ---
 
+## Day 37: Monday, November 25, 2024
+
+### Day 37: In class
+
+- Questions on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)
+- Discuss final project and [Final Project Requirements](https://docs.google.com/document/d/15JyajlDZ2-LW9KPa-DKm5LZSXBN10lFX6OzK4ryG4uA/edit?tab=t.0#heading=h.c1x99npetnfu)
+- Complete and submit [TR2 Peerwise Review for E2](https://docs.google.com/document/d/1SKoy_GxywkkKpBXhE0h_0qdG9pj-GutZoktd3-2T5xY/edit?usp=sharing) all portions of which are due by tomorrow at 8 am
+  - Discuss, and revise all questions
+  - Only once approved, submit the Google Doc to Moodle and your questions to Peerwise.
+
+### Day 37: Outside of class
+
+- Continue working on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw) which is due Friday.
+- Study for upcoming exam E2 which will be Monday, April 21.
+
 ## Day 36: Friday, April 11, 2025
 
 ### Day 36: In class
 
 - Possible quiz on reading
 - Questions on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)
-- Complete [T21: Exploring Trees](https://docs.google.com/document/d/1t0mL8FmPE1f4IfV03tyQcT1FPfdepX37KHRBftUxSh0).
 
 ### Day 36: Outside of class
 
