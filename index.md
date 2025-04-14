@@ -12,7 +12,7 @@
 
 - Questions on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)
 - Discuss final project and [Final Project Requirements](https://docs.google.com/document/d/15JyajlDZ2-LW9KPa-DKm5LZSXBN10lFX6OzK4ryG4uA/edit?tab=t.0#heading=h.c1x99npetnfu)
-- Complete and submit [TR2 Peerwise Review for E2](https://docs.google.com/document/d/1SKoy_GxywkkKpBXhE0h_0qdG9pj-GutZoktd3-2T5xY/edit?usp=sharing) all portions of which are due by tomorrow at 8 am
+- Complete and submit [TR2 Peerwise Review for E2](https://docs.google.com/document/d/1tY3QpKNjqW3PR1YcbAGsV6HSbUT47bTv1EUx-sv6RwQ/edit?usp=sharing) all portions of which are due by tomorrow at 8 am
   - Discuss, and revise all questions
   - Only once approved, submit the Google Doc to Moodle and your questions to Peerwise.
 
