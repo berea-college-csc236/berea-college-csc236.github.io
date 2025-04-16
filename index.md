@@ -6,8 +6,9 @@
 
 ---
 
+## No class this Friday, due to observance of the Christian holiday, Good Friday
 
-## Day 38: Monday, April 16, 2025
+## Day 38: Wednesday, April 16, 2025
 
 ### Day 38: In class
 
