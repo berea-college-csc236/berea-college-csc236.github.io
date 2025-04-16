@@ -6,7 +6,22 @@
 
 ---
 
-## Day 37: Monday, November 25, 2024
+
+## Day 38: Monday, April 16, 2025
+
+### Day 38: In class
+
+- Questions on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw). Note that the deadline has been changed to Wednesday, April 23.
+- Discuss final project and [Final Project Requirements](https://docs.google.com/document/d/15JyajlDZ2-LW9KPa-DKm5LZSXBN10lFX6OzK4ryG4uA/edit?tab=t.0#heading=h.c1x99npetnfu)
+- Choose project topics and complete and submit [FP1: Initial Planning and Preliminary Video Script](https://docs.google.com/document/d/19AV9PxfdqBvBxsBTA1kcftHv5ptQS8bL_skejQpDZhE/edit?usp=sharing)
+
+### Day 38: Outside of class
+
+- Study for upcoming exam E2 which will be Monday, April 21.
+- Continue working on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw) which is due ~~Friday~~, Wednesday, April 23.
+- Complete assigned homework from [Initial Planning and Preliminary Video Script](https://docs.google.com/document/d/19AV9PxfdqBvBxsBTA1kcftHv5ptQS8bL_skejQpDZhE/edit?usp=sharing) by Wednesday.
+
+## Day 37: Monday, April 14, 2025
 
 ### Day 37: In class
 
