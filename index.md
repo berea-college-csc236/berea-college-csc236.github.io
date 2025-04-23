@@ -6,6 +6,16 @@
 
 ---
 
+## Day 40: Wednesday, April 23, 2025
+
+### Day 40: In class
+
+- Complete [FP3: Project Complexity Analysis](https://docs.google.com/document/d/1RWkZEl1XNMVA-PfnAdD9Teip1oirXtkDnU_vtboWloA).
+
+### Day 40: Outside of class
+
+- Complete homework assigned in [FP3: Project Complexity Analysis](https://docs.google.com/document/d/1RWkZEl1XNMVA-PfnAdD9Teip1oirXtkDnU_vtboWloA).
+
 ## Day 39: Monday, April 21, 2025
 
 ### Day 39: In class
@@ -15,7 +25,7 @@
 ### Day 39: Outside of class
 
 - Continue working on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw) which is due ~~Friday~~, Wednesday, April 23.
-- Complete assigned homework from [Initial Planning and Preliminary Video Script](https://docs.google.com/document/d/19AV9PxfdqBvBxsBTA1kcftHv5ptQS8bL_skejQpDZhE/edit?usp=sharing) by Wednesday.
+- Complete assigned homework from [FP1: Initial Planning and Preliminary Video Script](https://docs.google.com/document/d/19AV9PxfdqBvBxsBTA1kcftHv5ptQS8bL_skejQpDZhE/edit?usp=sharing) by Wednesday.
 
 ## No class this Friday, due to observance of the Christian holiday, Good Friday
 
