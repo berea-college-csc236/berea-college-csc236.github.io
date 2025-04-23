@@ -10,11 +10,11 @@
 
 ### Day 40: In class
 
-- Complete [FP3: Project Complexity Analysis](https://docs.google.com/document/d/1RWkZEl1XNMVA-PfnAdD9Teip1oirXtkDnU_vtboWloA).
+- Complete [FP2: Project Complexity Analysis](https://docs.google.com/document/d/1RWkZEl1XNMVA-PfnAdD9Teip1oirXtkDnU_vtboWloA). Note that this complexity analysis contributes to your final project grade.
 
 ### Day 40: Outside of class
 
-- Complete homework assigned in [FP3: Project Complexity Analysis](https://docs.google.com/document/d/1RWkZEl1XNMVA-PfnAdD9Teip1oirXtkDnU_vtboWloA).
+- Complete homework assigned in [FP2: Project Complexity Analysis](https://docs.google.com/document/d/1RWkZEl1XNMVA-PfnAdD9Teip1oirXtkDnU_vtboWloA).
 
 ## Day 39: Monday, April 21, 2025
 
