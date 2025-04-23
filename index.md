@@ -6,6 +6,11 @@
 
 ---
 
+### Final Exam Schedule
+
+- Section A 9:20-10:30 AM: Final Exam 8:30 am on Tuesday, April 29, Project components due by 8 am on Tuesday, April 29
+- Section B 10:30-11:40 AM: Final Exam 8:30 am on Thursday, May 1, Project components due by 8 am on Thursday, May 1
+
 ## Day 40: Wednesday, April 23, 2025
 
 ### Day 40: In class
