@@ -11,6 +11,17 @@
 - Section A 9:20-10:30 AM: Final Exam 8:30 am on Tuesday, April 29, the video components of the final project are due by 8 am on Tuesday, April 29
 - Section B 10:30-11:40 AM: Final Exam 8:30 am on Thursday, May 1, the video components of the final project are due by 8 am on Thursday, May 1
 
+## Day 41: Friday, April 25, 2025
+
+### Day 41: In class
+
+- Complete [FP3: Polishing the Video](https://docs.google.com/document/d/1L2axw33YzWMGzPS1zUv1WoqepfmFIhdndG9zveKL-PY/edit?usp=sharing). Note that this complexity analysis contributes to your final project grade.
+
+### Day 41: Outside of class
+
+- Complete homework assigned in [FP3: Polishing the Video](https://docs.google.com/document/d/1L2axw33YzWMGzPS1zUv1WoqepfmFIhdndG9zveKL-PY/edit?usp=sharing).
+- Consider coming to the CMIT Dedication today at 4:30 pm and the open house afterwards. It is a great opportunity to meet alumni and donors.
+
 ## Day 40: Wednesday, April 23, 2025
 
 ### Day 40: In class
