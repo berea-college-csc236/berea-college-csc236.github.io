@@ -10,13 +10,15 @@
 
 - Section A 9:20-10:30 AM: Final Exam 8:30 am on Tuesday, April 29, the video components of the final project are due by 8 am on Tuesday, April 29
 - Section B 10:30-11:40 AM: Final Exam 8:30 am on Thursday, May 1, the video components of the final project are due by 8 am on Thursday, May 1
+- Don't forget to do the team evaluation - linked in Moodle!
 
 ## Day 41: Friday, April 25, 2025
 
 ### Day 41: In class
 
 - Complete [FP3: Polishing the Video](https://docs.google.com/document/d/1L2axw33YzWMGzPS1zUv1WoqepfmFIhdndG9zveKL-PY/edit?usp=sharing). Note that this complexity analysis contributes to your final project grade.
-- Complete [A09: Peer Instruction Consent Form](https://forms.gle/qTV49iJsni2XXsWr9) which is due by 8 am on Monday, April 28. This is a free 10 points on your homework!
+- Complete [A10: Peer Instruction Consent Form](https://forms.gle/qTV49iJsni2XXsWr9) which is due by 8 am on Monday, April 28. This is a free 10 points on your homework!
+- Complete [A11: More Free Points Peer Instruction Feedback](https://forms.gle/RbSPYNKM3Pw5x4Lv5) which is due by 8 am on Thursday, May 1 at noon This is another free 10 points on your homework!
 
 ### Day 41: Outside of class
 
