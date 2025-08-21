@@ -26,7 +26,7 @@
   1. Help us get to know you better
   2. Connect Data Structures to your career
   3. Set-up your Required IDE (this will take some time!)
-  4. Read the syllabus to understand the course structure
+  4. Read the [syllabus](https://docs.google.com/document/d/11yEERg09nUcVji8k9yzUr6asPgpxqpVKSeccP5p4wOQ/edit?usp=sharing) to understand the course structure
   5. Read both [Chapters 1 and 2 of C++ for Python Programmers and the course syllabus](https://moodle.berea.edu/mod/lti/view.php?id=772214) in preparation for a potential reading quiz.
   6. Introduce yourself to the class and the TAs on Slack
 
