@@ -12,7 +12,7 @@
 
 - Debrief on data structures game
 - Possible quiz or peer instruction question
-- Debrief on data structures game, installations, C++, the syllabus, and the AI policy in particular
+- Debrief on installations, C++, the syllabus, and the AI policy in particular
 - Watch [Github Copilot in Visual Studio Community](https://youtu.be/kc_A12G4Elk)
 - Discuss the implications for you as a student and as a future professional
 - How did the sign-up for [Github Student Developer Pack](https://education.github.com/pack) go? Note that it might take more time to get this, so don't fret since we do not need Github Copilot and you are likely better off not using it for the first lab. You will need it for Lab L7, but there is plenty of time to get it before then.
