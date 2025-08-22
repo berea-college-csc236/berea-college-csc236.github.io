@@ -6,6 +6,26 @@
 
 ---
 
+## Day 2: Friday, August 22, 2025
+
+### Day 2: In class
+
+- Debrief on data structures game
+- Possible quiz or peer instruction question
+- Debrief on data structures game, installations, C++, the syllabus, and the AI policy in particular
+- Watch [Github Copilot in Visual Studio Community](https://youtu.be/kc_A12G4Elk)
+- Discuss the implications for you as a student and as a future professional
+- How did the sign-up for [Github Student Developer Pack](https://education.github.com/pack) go? Note that it might take more time to get this, so don't fret since we do not need Github Copilot and you are likely better off not using it for the first lab. You will need it for Lab L7, but there is plenty of time to get it before then.
+- Discuss the first lab, [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8/edit?usp=sharing)
+- Try to complete, then download, and submit [Teamwork T01: Visual Studio, Github, and ASCII Art](https://docs.google.com/document/d/1Bz1sbwxid1ydkSHaO5nDMpMgzwa29Py6zzTlWGUvBzM)
+
+### Day 2: Outside of class (all due 8 am)
+
+- Finish up and submit [Teamwork T01: Visual Studio, Github, and ASCII Art](https://docs.google.com/document/d/1Bz1sbwxid1ydkSHaO5nDMpMgzwa29Py6zzTlWGUvBzM) which is due by 8 am on Monday, August 25, 2025. 
+- Read [Chapters 3, 4,and 5 in C++ for Python Programmers](https://moodle.berea.edu/mod/lti/view.php?id=772215) for a potential reading quiz on Monday, August 25, 2025. Be sure you are logged in and do all activities to get credit!
+- Begin [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). This is an individual Lab. The first milestone is due Wednesday, August 27, 2025. The final completion milestone of the lab is due Friday, August 29, 2025.
+- At your convenience, do [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing), which is due Friday, September 5 at 8 am. The TAs are eager to meet you.
+
 ## Day 1: Wednesday, August 20, 2025
 
 ### Day 1: In class
@@ -30,7 +50,7 @@
   5. Read both [Chapters 1 and 2 of C++ for Python Programmers and the course syllabus](https://moodle.berea.edu/mod/lti/view.php?id=772214) in preparation for a potential reading quiz.
   6. Introduce yourself to the class and the TAs on Slack
 
-  - An additional assignment has been posted with a much longer deadline. See [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing), which is due Friday, September 5 at 8 am. You can do this at any time before then. The TAs are eager to meet you.
+- An additional assignment has been posted with a much longer deadline. See [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing), which is due Friday, September 5 at 8 am. You can do this at any time before then. The TAs are eager to meet you.
 
 ---
 
