@@ -1,4 +1,4 @@
-# CSC 236: Data Structures Website, Berea College
+day 2# CSC 236: Data Structures Website, Berea College
 
 ## Dr. Jan Pearce
 

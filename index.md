@@ -6,6 +6,22 @@
 
 ---
 
+# Day 4: Wednesday, August 27, 2025
+
+### Day 4: In class
+
+- Possible quiz or peer instruction question
+- In Runestone change courses to **BC_cppds2_F25**. We  have a reading out of this book for Friday.
+- Questions on [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8) which is due Friday. (Reminders about escaping backslashes and quotes.)
+- Demo of debugging in Visual Studio
+- Complete [Teamwork T03:  Debugging Techniques](https://docs.google.com/document/d/1T0BS2SzKxoOXg_EpfDCpFd8UG219_Jbqzl8W1kogtcc/edit?usp=sharing).
+- Finished with the teamwork? Work on [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8).
+
+### Day 4: Outside of class
+
+- Complete [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). The final submission is due on Friday.
+- The next textbook reading is on object-oriented programming in C++ in the main textbook for the course. It is a bit longer than the readings in the transition book, and you may find it more conceptually challenging. Again, you will need to be logged in to Moodle to get credit for the reading. The reading is on the latter part of Chapter 1 in the Runestone book **BC_cppds_F25** and is due Friday, August 29 2025. See [R04: Read 1.5, 1.6, and 1.12-1.15 plus questions](https://moodle.berea.edu/mod/lti/view.php?id=772217). Note that the reading is only part of the first chapter plus questions.
+
 ## Day 3: August 25, 2025
 
 ### Day 3: In class
@@ -14,7 +30,7 @@
 - Discuss [Teamwork T01: Visual Studio, Github, and ASCII Art](https://docs.google.com/document/d/1Bz1sbwxid1ydkSHaO5nDMpMgzwa29Py6zzTlWGUvBzM)
 - Discuss [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8) which is due Friday, but the first milestone is due Wednesday. (Read the hints in the lab on escaping backslashes and quotes!)
 - show primer on branches in Github
-- Begin [Teamwork T02: Collaboration via Branches](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ) with a partner in class.
+- Complete [Teamwork T02: Collaboration via Branches](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ) with a partner in class.
 
 ### Day 3: Outside of class
 
