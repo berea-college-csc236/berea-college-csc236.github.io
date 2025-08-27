@@ -14,8 +14,8 @@
 - In Runestone change courses to **BC_cppds2_F25**. We have a reading out of this book for Friday.
 - Questions on [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8) which is due Friday. (Reminders about escaping backslashes and quotes.)
 - Demo of debugging in Visual Studio
-- Complete [Teamwork T03:  Debugging Techniques](https://docs.google.com/document/d/1T0BS2SzKxoOXg_EpfDCpFd8UG219_Jbqzl8W1kogtcc/edit?usp=sharing).
-- Finished with the teamwork? Work on [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8).
+- Begin [Teamwork T03:  Debugging Techniques](https://docs.google.com/document/d/1T0BS2SzKxoOXg_EpfDCpFd8UG219_Jbqzl8W1kogtcc/edit?usp=sharing). We will complete this on Friday.
+- Work on [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8).
 
 ### Day 4: Outside of class
 
