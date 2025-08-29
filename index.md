@@ -6,6 +6,21 @@
 
 ---
 
+## Day 5: Friday, August 29, 2025
+
+### Day 5: In class
+
+- Possible quiz or peer instruction questions
+- Discussion of reading on OOP principles and C-Turtle
+- Art show! Share your ASCII art with the class.
+- Introduction of [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c/edit?usp=sharing)
+- Complete [Teamwork T03:  Debugging Techniques](https://docs.google.com/document/d/1T0BS2SzKxoOXg_EpfDCpFd8UG219_Jbqzl8W1kogtcc/edit?usp=sharing).
+
+### Day 5: Outside of class (There is no class on Monday, so these are due before class on Wednesday, September 5, 2025)
+
+- Read [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c/edit?usp=sharing) and do the first milestone (due Wednesday). The final submission is due Friday.
+- Read, complete, and submit [A02: OOP Principles](https://docs.google.com/document/d/1uH5vpyvL1rCLsmI14D3LIgUo2Q-0fCCdclOz2ZAk1Eg) for Wednesday.
+
 # Day 4: Wednesday, August 27, 2025
 
 ### Day 4: In class
