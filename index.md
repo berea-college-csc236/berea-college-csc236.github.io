@@ -21,7 +21,7 @@
 - Read [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c/edit?usp=sharing) and do the first milestone (due Wednesday). The final submission is due Friday.
 - Read, complete, and submit [A02: OOP Principles](https://docs.google.com/document/d/1uH5vpyvL1rCLsmI14D3LIgUo2Q-0fCCdclOz2ZAk1Eg) for Wednesday.
 
-# Day 4: Wednesday, August 27, 2025
+## Day 4: Wednesday, August 27, 2025
 
 ### Day 4: In class
 
