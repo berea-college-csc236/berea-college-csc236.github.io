@@ -17,7 +17,7 @@
 
 ### Day 6: Outside of class
 
-- Complete Milestone 1 of [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c).
+- Complete [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c) by Friday at 8 AM, being sure to submit a link to your repository in Moodle.
 - At your very earliest convenience this week, complete [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing) if you have not already done so. It has been posted a long time now. It is due Friday, September 5 at 8 am. PLEASE do NOT wait until the night before it is due because the assignment requires individual time with the TA, and there are only two TAs in the lab each night. They may not be able to accommodate everyone who waits until the last minute, and they have been instructed to give each student their full attention, so they will not be able to be rushed.
 
 ## Day 5: Friday, August 29, 2025
