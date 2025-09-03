@@ -11,8 +11,9 @@
 ### Day 6: In class
 
 - Possible peer instruction or quiz on OOP
-- Discuss any quetions on [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c)
-- Complete [T04: Fraction Class Understanding and Enhancement](https://moodle.berea.edu/mod/assign/view.php?id=711836)
+- Discuss  [A02: OOP Principles](https://docs.google.com/document/d/1uH5vpyvL1rCLsmI14D3LIgUo2Q-0fCCdclOz2ZAk1Eg).
+- Discuss any questions on [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c)
+- Complete [T04: Fraction Class Understanding and Enhancement](https://docs.google.com/document/d/1NtnYd2AoMkVUivbEXej9DhO9SI1gJOD3z4ar9KneXbM/edit?tab=t.0#heading=h.c1x99npetnfu)
 
 ### Day 6: Outside of class
 
