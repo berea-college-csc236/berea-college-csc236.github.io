@@ -6,10 +6,24 @@
 
 ---
 
+## Day 6: Wednesday, September 3, 2025
+
+### Day 6: In class
+
+- Possible peer instruction or quiz on OOP
+- Discuss any quetions on [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c)
+- Complete [T04: Fraction Class Understanding and Enhancement](https://moodle.berea.edu/mod/assign/view.php?id=711836)
+
+### Day 6: Outside of class
+
+- Complete Milestone 1 of [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c).
+- At your very earliest convenience this week, complete [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing) if you have not already done so. It has been posted a long time now. It is due Friday, September 5 at 8 am. PLEASE do NOT wait until the night before it is due because the assignment requires individual time with the TA, and there are only two TAs in the lab each night. They may not be able to accommodate everyone who waits until the last minute, and they have been instructed to give each student their full attention, so they will not be able to be rushed.
+
 ## Day 5: Friday, August 29, 2025
 
 ### Day 5: In class
 
+- Discuss all questions posted on Slack in advance about Chapter 1 on OOP
 - Possible quiz or peer instruction questions
 - Discussion of reading on OOP principles and C-Turtle
 - Art show! Share your ASCII art with the class.
@@ -20,6 +34,7 @@
 
 - Read [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c/edit?usp=sharing) and do the first milestone (due Wednesday). The final submission is due Friday.
 - Read, complete, and submit [A02: OOP Principles](https://docs.google.com/document/d/1uH5vpyvL1rCLsmI14D3LIgUo2Q-0fCCdclOz2ZAk1Eg) for Wednesday.
+- At your earliest convenience, do [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing) sooner rather than later. It is due Friday, September 5 at 8 am. Do not wait until the night before.
 
 ## Day 4: Wednesday, August 27, 2025
 
@@ -36,6 +51,7 @@
 
 - Complete [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). The final submission is due on Friday.
 - The next textbook reading is on object-oriented programming in C++ in the main textbook for the course. It is a bit longer than the readings in the transition book, and you may find it more conceptually challenging. Again, you will need to be logged in to Moodle to get credit for the reading. The reading is on the latter part of Chapter 1 in the Runestone book **BC_cppds2_F25** and is due Friday, August 29 2025. See [R04: Read 1.5, 1.6, and 1.12-1.15 plus questions](https://moodle.berea.edu/mod/lti/view.php?id=772217). Note that the reading is only six sections of the first chapter plus questions.
+- At your convenience, do [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing), which is due Friday, September 5 at 8 am. The TAs are eager to meet you.
 
 ## Day 3: Monday, August 25, 2025
 
@@ -52,6 +68,7 @@
 - Read [Chapters 6, 7, and 8 in C++ for Python Programmers](https://moodle.berea.edu/mod/lti/view.php?id=772216) for a possible reading quiz next class. Be sure you are logged in and do all activities to get credit!
 - Complete the first milestone for [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). The final submission is due on Friday.
 - Fix any challenges you have had with the first two readings by going through Moodle. See your grades in Moodle and make them perfect by doing everything!
+- At your convenience, do [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing), which is due Friday, September 5 at 8 am. The TAs are eager to meet you.
 
 ## Day 2: Friday, August 22, 2025
 
@@ -97,7 +114,7 @@
   5. Read both [Chapters 1 and 2 of C++ for Python Programmers and the course syllabus](https://moodle.berea.edu/mod/lti/view.php?id=772214) in preparation for a potential reading quiz.
   6. Introduce yourself to the class and the TAs on Slack
 
-- An additional assignment has been posted with a much longer deadline. See [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing), which is due Friday, September 5 at 8 am. You can do this at any time before then. The TAs are eager to meet you.
+- An additional assignment has been posted with a much longer deadline. See [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing), which is due Friday, September 5 at 8 am. You can do this at any time before then. The TAs are eager to meet you. art of becoming a professional is learning to manage your time both effectively and efficiently. Assignments with longer deadlines like this are best to do at your earliest convenience, and part of becoming a professional is to learn to manage your own calendar. Mark your calendar for your best evening to go that is well before the deadline, so you are not held up by any procrastinators who have not yet learned to manage their calendars, so do everything at the very last minute.
 
 ---
 
