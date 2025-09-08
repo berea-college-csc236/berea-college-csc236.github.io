@@ -6,6 +6,20 @@
 
 ---
 
+## Day 8: Monday, September 7, 2025
+
+### Day 8: In class
+
+- Meme viewing! Followed by a discusion of [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing)
+- Questions on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q). The second milestone is due Friday, and the full lab is due Monday.
+- Complete and submit [T05: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag)
+
+### Day 8: Outside of class
+
+- Complete [A03: AI and Learning](https://docs.google.com/document/d/1SdnNB_qRGWaYCHKx__J5lhBfhisxNhgVlY2qa0oCr34/edit?usp=sharing)
+- If you have time, begin [A03: Videos and Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU). Note that this is an introduction to the most and most conceptually difficult concept in the course. It is due Friday, but so is the second lab milesstone.
+- Try to complete a few of the methods in [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q).
+
 ## Day 7: Friday, September 5, 2025
 
 ### Day 7: In class
