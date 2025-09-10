@@ -18,7 +18,7 @@
 ### Day 9: Outside of class
 
 - Complete milestone 2 of [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q) by Friday, but the lab itself is not due until Monday.
-- If you have time, begin [A04: Videos and Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU). Note that this is an introduction to the most and most conceptually difficult concept in the course. It is also due Friday.
+- Complete [A04: Videos and Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU). Note that this is an introduction to the most and most conceptually difficult concept in the course. It is also due Friday.
 
 ## Day 8: Monday, September 7, 2025
 
