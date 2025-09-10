@@ -6,6 +6,21 @@
 
 ---
 
+## Day 9: Wednesday, September 10, 2025
+
+### Day 9: In class
+
+- PI question as a learning check
+- Change partners
+- Discuss [A03: AI and Learning](https://docs.google.com/document/d/1SdnNB_qRGWaYCHKx__J5lhBfhisxNhgVlY2qa0oCr34/edit?usp=sharing)
+- Final questions on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q). The second milestone is due Friday, and the full lab is due Monday.
+- Begin [T06: Understanding OOP and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4), which we will finish on Friday.
+
+### Day 9: Outside of class
+
+- Complete milestone 2 of [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q) by Friday, but the lab itself is not due until Monday.
+- If you have time, begin [A04: Videos and Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU). Note that this is an introduction to the most and most conceptually difficult concept in the course. It is also due Friday.
+
 ## Day 8: Monday, September 7, 2025
 
 ### Day 8: In class
