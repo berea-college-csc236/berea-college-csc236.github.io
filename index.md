@@ -10,10 +10,9 @@
 
 ### Day 9: In class
 
-- PI question as a learning check
 - Change partners
 - Discuss [A03: AI and Learning](https://docs.google.com/document/d/1SdnNB_qRGWaYCHKx__J5lhBfhisxNhgVlY2qa0oCr34/edit?usp=sharing)
-- Final questions on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q). The second milestone is due Friday, and the full lab is due Monday.
+- Questions on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q). The second milestone is due Friday, and the full lab is due Monday.
 - Begin [T06: Understanding OOP and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4), which we will finish on Friday.
 
 ### Day 9: Outside of class
