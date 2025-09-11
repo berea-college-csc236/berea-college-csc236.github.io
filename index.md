@@ -6,6 +6,19 @@
 
 ---
 
+## Day 10: Friday, September 12, 2025
+
+### Day 10: In class
+
+- Discuss [A04: Videos and Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU).
+- Discuss [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q) which is due Monday.
+- Complete [T06: Understanding OOP and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4).
+
+### Day 10: Outside of class
+
+- Complete [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q).
+- Read [Chapter 2 Reading on Big O](https://moodle.berea.edu/mod/lti/view.php?id=772218) and do all activities in preparation for a potential reading quiz. **This is one of the most important topics in the entire course; you might try to find time to read it twice!**
+
 ## Day 9: Wednesday, September 10, 2025
 
 ### Day 9: In class
