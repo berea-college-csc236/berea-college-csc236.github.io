@@ -16,7 +16,7 @@
 
 ### Day 10: Outside of class
 
-- Complete [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q).
+- Complete [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q). Don't forget to submit the link to your repository in Moodle!
 - Read [Chapter 2 Reading on Big O](https://moodle.berea.edu/mod/lti/view.php?id=772218) and do all activities in preparation for a potential reading quiz. **This is one of the most important topics in the entire course; you might try to find time to read it twice!**
 
 ## Day 9: Wednesday, September 10, 2025
