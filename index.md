@@ -6,6 +6,20 @@
 
 ---
 
+## Day 11: Monday, September 15, 2025
+
+### Day 11: In class
+
+- Possible quiz on reading.
+- Explanation of Exponentials and Logarithms
+- Introduction of [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E/edit?usp=sharing), possibly with a partner. The first milestone is due Friday.
+- Begin [T07: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE).
+
+### Day 11: Outside of class
+
+- Complete [A06: Considering Diversity in Tech](https://docs.google.com/document/d/1GgQ0yrnytucqukz-ypOvNld4sJ4c4UNH_IkJkh3046Y/edit?usp=sharing) for Wednesday.
+- Read [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E/edit?usp=sharing), possibly find a partner and bring questions to class on Wednesday. The first milestone is due Friday. 
+
 ## Day 10: Friday, September 12, 2025
 
 ### Day 10: In class
