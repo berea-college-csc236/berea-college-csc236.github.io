@@ -6,6 +6,19 @@
 
 ---
 
+## Day 12: Wednesday, September 17, 2025
+
+### Day 12: In class
+
+- Possible peer-instruction question(s)
+- Discussion of [A06: Considering Diversity in Tech](https://docs.google.com/document/d/1GgQ0yrnytucqukz-ypOvNld4sJ4c4UNH_IkJkh3046Y/edit?usp=sharing)
+- Questions on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E/edit?usp=sharing). The first milestone is due Friday.
+- Complete and discuss [T07: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE).
+
+### Day 12: Outside of class
+
+- Complete the first milestone of [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E/edit?usp=sharing). Note that this requires a Google Doc submission into Moodle, so that is different from the other labs. The second milestone is due Monday.
+
 ## Day 11: Monday, September 15, 2025
 
 ### Day 11: In class
