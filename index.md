@@ -6,6 +6,18 @@
 
 ---
 
+## Day 14: Monday, September 22, 2025
+
+### Day 14: In class
+
+- PI Question
+- Questions on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E)
+- Begin [T09: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8)
+
+### Day 14: Outside of class
+
+- Read [Sections 3.1-3.9 in our Data Structures textbook](https://moodle.berea.edu/mod/lti/view.php?id=772219) in preparation for a possible reading quiz.
+
 ## Day 13: Friday, September 19, 2025
 
 ### Day 13: In class
