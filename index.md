@@ -16,7 +16,7 @@
 
 ### Day 14: Outside of class
 
-- Read [Sections 3.1-3.9 in our Data Structures textbook](https://moodle.berea.edu/mod/lti/view.php?id=772219) in preparation for a possible reading quiz.
+- Read [Sections 3.1-3.9 in our Data Structures textbook](https://moodle.berea.edu/mod/lti/view.php?id=772219) and do the extra questions in preparation for a possible reading quiz.
 
 ## Day 13: Friday, September 19, 2025
 
@@ -36,7 +36,7 @@
 ### Day 12: In class
 
 - Possible peer-instruction question(s)
-- Discussion of [A06: Considering Diversity in Tech](https://docs.google.com/document/d/1GgQ0yrnytucqukz-ypOvNld4sJ4c4UNH_IkJkh3046Y/edit?usp=sharing)
+- Discussion of [A05: Considering Diversity in Tech](https://docs.google.com/document/d/1GgQ0yrnytucqukz-ypOvNld4sJ4c4UNH_IkJkh3046Y/edit?usp=sharing)
 - Questions on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E/edit?usp=sharing). The first milestone is due Friday.
 - Complete and discuss [T07: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE).
 
