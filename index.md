@@ -6,6 +6,18 @@
 
 ---
 
+## Day 16: Friday, September 26, 2025
+
+### Day 16: In class
+
+- Possible PI question or quiz on textbook readings
+- Final questions on  [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E)?
+- Complete and submit [T09: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8)
+
+### Day 16: Outside of class
+
+- Final completion of [L3: Virtual Pets](https://moodle.berea.edu/mod/assign/view.php?id=695005) is due Monday by 8 am
+
 ## Day 15: Wednesday, September 24, 2025
 
 ### Day 15: In class
