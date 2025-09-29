@@ -20,7 +20,7 @@
 ### Day 17: Outside of class
 
 - Complete [A06: Individual Review and Reflection](https://docs.google.com/document/d/13yIHXsGh3g-TfJSZ3VYjkG3f_UVnmZIJKIHkepHgEe0/edit?usp=sharing) **Note that due to the nature of this assignment, it will not be accepted late under any circumstances.**
-- Read the lab and complework on the first Milestone 1 in the design document submission for [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8). Note that in past years students have found debugging this lab to be challenging, but completing the design document and meeting the first milestone is not difficult. Nevertheless, it has a softdeadline, which is during the Reading Period.
+- Read the lab and complete some work on the first Milestone 1 in the design document submission for [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8). Note that in past years students have found debugging this lab to be challenging, but completing the design document and meeting the first milestone is not difficult. Nevertheless, it has a softdeadline, which is during the Reading Period.
 
 ## Day 16: Friday, September 26, 2025
 
