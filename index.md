@@ -8,6 +8,21 @@
 
 ## Announcement: The first exam will be on Wednesday, October 8, 2025
 
+## Day 18: Wednesday, October 1, 2025
+
+### Day 18: In class
+
+- Questions on [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8)
+- Complete structured review [TR1: E1 Review](https://docs.google.com/document/d/1AKBUi_i1XsbP6Aidb5rqQifVveU4rQSpBK-pKVGy8Yc)
+  - Submit your pdf to Moodle
+  - Submit your questions to Peerwise asap but for certain by 8 am tomorrow (Thursday, October 2, 2025.) Note that if this is not done by then, you will not get full credit for the teamwork.
+  - **Note that due to the nature of this teamwork, it cannot be completed late or alone.**
+
+### Day 18: Outside of class
+
+- Complete [A07: A Simple Introduction To Linked Lists](https://docs.google.com/document/d/1r5316kQR2qmtEWYqUaPVcXp_yrIuPQV61RUAy_sj5KU).
+- Complete Milestone 1 including the design document submission for [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8). Note that in past years students have found debugging this lab to be challenging, but completing the design document and meeting the first milestone is not difficult. The second and final milestones are due after the first exam.
+
 ## Day 17: Monday, September 29, 2025
 
 ### Day 17: In class
@@ -19,7 +34,6 @@
 
 ### Day 17: Outside of class
 
-- Complete [A06: Individual Review and Reflection](https://docs.google.com/document/d/13yIHXsGh3g-TfJSZ3VYjkG3f_UVnmZIJKIHkepHgEe0/edit?usp=sharing) **Note that due to the nature of this assignment, it will not be accepted late under any circumstances.**
 - Read the lab and complete some work on the first Milestone 1 in the design document submission for [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8). Note that in past years students have found debugging this lab to be challenging, but completing the design document and meeting the first milestone is not difficult. Nevertheless, it has a softdeadline, which is during the Reading Period.
 
 ## Day 16: Friday, September 26, 2025
