@@ -12,6 +12,7 @@
 
 ### Day 18: In class
 
+- Peer-instruction question(s)
 - Questions on [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8)
 - Complete structured review [TR1: E1 Review](https://docs.google.com/document/d/1AKBUi_i1XsbP6Aidb5rqQifVveU4rQSpBK-pKVGy8Yc)
   - Submit your pdf to Moodle
