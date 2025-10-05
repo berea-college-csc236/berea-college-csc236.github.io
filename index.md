@@ -7,6 +7,25 @@
 ---
 
 ## Announcement: The first exam will be on Wednesday, October 8, 2025
+## No class on Friday, October 3, 2025 during Reading Period
+
+---
+
+## Day 19: Monday, February 24, 2025
+
+### Day 19: In class
+
+- Discuss [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8).
+- Begin [T11: Introduction to Circular Linked Lists](https://docs.google.com/document/d/1uvElflLI-S0S3spkfCkquwi3ZgIEgM49vF9NeTPmN30/edit?usp=sharing)
+
+### Day 19: Outside of class
+
+- Study for the first exam on Wednesday, October 8, 2025
+
+## Readings due outside of class
+
+- Complete [A07: A Simple Introduction To Linked Lists](https://docs.google.com/document/d/1r5316kQR2qmtEWYqUaPVcXp_yrIuPQV61RUAy_sj5KU) due by Monday, October 6, 2025 at 8 am.
+- Complete Milestone 1 including the design document submission for [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) is due by Monday, October 6, 2025 at 8 am. Note that in past years students have found debugging this lab to be challenging, but completing the design document and meeting the first milestone is not difficult. The second and final milestones are due after the first exam.
 
 ## Day 18: Wednesday, October 1, 2025
 
