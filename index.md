@@ -6,11 +6,6 @@
 
 ---
 
-## Announcement: The first exam will be on Wednesday, October 8, 2025
-## No class on Friday, October 3, 2025 during Reading Period
-
----
-
 ## Day 21: Monday, October 10, 2025
 
 ### Day 21: In class
@@ -45,6 +40,9 @@
 ### Day 19: Outside of class
 
 - Study for the first exam which will be held on Wednesday, October 8, 2025
+
+## Announcement: The first exam will be on Wednesday, October 8, 2025
+## No class on Friday, October 3, 2025 during Reading Period
 
 ## Day 18: Wednesday, October 1, 2025
 
