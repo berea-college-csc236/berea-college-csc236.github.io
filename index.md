@@ -11,7 +11,29 @@
 
 ---
 
-## Day 19: Monday, February 24, 2025
+## Day 21: Monday, October 10, 2025
+
+### Day 21: In class
+
+- Questions on [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) which is due Wednesday
+- Complete [T11: Introduction to Circular Linked Lists](https://docs.google.com/document/d/1uvElflLI-S0S3spkfCkquwi3ZgIEgM49vF9NeTPmN30/edit?usp=sharing)
+
+### Day 21: Outside of class
+
+- **For Monday**: Read [Chapter 4 in our Data Structures textbook](https://moodle.berea.edu/mod/lti/view.php?id=772221) plus do questions by 8 am.
+- The completion of [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) is due on Wednesday, October 15, 2025. Be aware that Tuesday, October 14 is Mountain Day, so the evening lab will be cancelled. You might want to try to finish it before then.
+
+## Day 20: Wednesday, October 8, 2025
+
+### Day 20: In class
+
+- Exam E1
+
+### Day 20: Outside of class
+
+- Complete Milestone 2 of [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) for Friday
+
+## Day 19: Monday, October 6, 2025
 
 ### Day 19: In class
 
