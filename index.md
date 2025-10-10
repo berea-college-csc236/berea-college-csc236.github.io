@@ -6,7 +6,7 @@
 
 ---
 
-## Day 21: Monday, October 10, 2025
+## Day 21: Friday, October 10, 2025
 
 ### Day 21: In class
 
