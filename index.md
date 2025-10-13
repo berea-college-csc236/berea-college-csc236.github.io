@@ -6,6 +6,18 @@
 
 ---
 
+## Day 22: Monday, October 13, 2025
+
+### Day 22: In class
+
+- Possible quiz or Peer Instruction question
+- Complete [T12: Exploring Linked Lists](https://docs.google.com/document/d/1b4UHkIDdldDGyat5QdZ0FFzOFZKaubeOGuz-jsPR4I0).
+
+### Day 22: Outside of class
+
+- The completion of [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) is due on Wednesday, October 15, 2025. Be aware that tomorrow is Tuesday, October 14, Mountain Day, so the evening lab will be cancelled. You might want to seek help tonight if you need it.
+- You will complete the first milestone of [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44) for Friday.
+
 ## Day 21: Friday, October 10, 2025
 
 ### Day 21: In class
