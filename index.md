@@ -20,7 +20,7 @@
 
 ### Day 23: Outside of class
 
-- Complete the first milestone in [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44) on Friday.
+- Complete the first milestone in [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44) for Friday.
 
 ## Day 22: Monday, October 13, 2025
 
