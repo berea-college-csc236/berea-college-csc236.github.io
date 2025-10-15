@@ -21,7 +21,7 @@
 ### Day 23: Outside of class
 
 - Read [Chapter 5 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=772222) to learn about recursion for **Friday**.
-- Complete the first milestone in [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44) for ~Friday~ **Monday**.
+- Complete the first milestone in [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44) for ~~Friday~~ **Monday**.
 
 ## Day 22: Monday, October 13, 2025
 
