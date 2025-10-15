@@ -14,6 +14,9 @@
 - How did [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) go?
 - Discuss [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44).
 - My plan was to begin [T13: Circling Back to Circular Linked Lists](https://docs.google.com/document/d/18y3Y_DldzoHN8KqVbODXm2ojXxet3Xc1pAm9StJlt5k), but it won't work if PythonTutor is down, so we may have to do something else instead... 
+- If PythonTutor is still down, let's jump to thinking about recursion. 
+  - Watch [Algorithms: Recursion](https://youtu.be/KEEKn7Me-ms?si=upD9MrVdNH_5qDWK) by HackerRank
+  - Begin [T14: Exploring Recursion](https://docs.google.com/document/d/1Qido7yr3NSrx052G3kqQze7PIEIRp9mlPBH3l5BRj5s)
 
 ### Day 23: Outside of class
 
