@@ -12,7 +12,7 @@
 
 - Possible peer instruction question or quiz
 - Discuss [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44).
-- Complete [T14: Exploring Recursion](https://docs.google.com/document/d/1Qido7yr3NSrx052G3kqQze7PIEIRp9mlPBH3l5BRj5s)
+- Try to complete [T14: Exploring Recursion](https://docs.google.com/document/d/1Qido7yr3NSrx052G3kqQze7PIEIRp9mlPBH3l5BRj5s). We will still have 20 more minutes to finish this next time, so I reset the deadline to NOON on Monday, October 20, 2025.
 
 ### Day 24: Outside of class
 
