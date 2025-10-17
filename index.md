@@ -6,6 +6,19 @@
 
 ---
 
+## Day 24: Friday, October 17, 2025
+
+### Day 24: In class
+
+- Possible peer instruction question or quiz
+- Discuss [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44).
+  - Complete [T14: Exploring Recursion](https://docs.google.com/document/d/1Qido7yr3NSrx052G3kqQze7PIEIRp9mlPBH3l5BRj5s)
+
+### Day 24: Outside of class
+
+- Complete the first milestone in [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44) for ~~Friday~~ **Monday**.
+- Complete [A08: Thinking Recursively](https://docs.google.com/document/d/1rLwgk3XXBBZx-rXkoq20jws50gtztj24NBz_M8b42VQ/edit?usp=sharing) for Wednesday.
+
 ## Day 23: Wednesday, October 15, 2025
 
 ### Day 23: In class
