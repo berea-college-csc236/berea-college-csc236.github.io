@@ -6,6 +6,19 @@
 
 ---
 
+## Day 25: Monday, October 20, 2025
+### Day 25: In class
+
+- Possible peer instruction question
+- Discuss [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44). The second milestone is due Friday.
+- You have 20 minutes to complete [T14: Exploring Recursion](https://docs.google.com/document/d/1Qido7yr3NSrx052G3kqQze7PIEIRp9mlPBH3l5BRj5s). I reset the deadline to NOON.
+- Begin [T13: Circling Back to Circular Linked Lists](https://docs.google.com/document/d/18y3Y_DldzoHN8KqVbODXm2ojXxet3Xc1pAm9StJlt5k), which we could not do earlier due to PythonTutor being down. 
+
+## Day 25: Outside of class
+
+- Complete [A08: Thinking Recursively](https://docs.google.com/document/d/1rLwgk3XXBBZx-rXkoq20jws50gtztj24NBz_M8b42VQ/edit?usp=sharing).
+- Complete [A09: Peer Instruction Consent Form](https://forms.gle/qTV49iJsni2XXsWr9) also for Wednesday. This is basically a free 5 points on your homework because it will not take very long.
+
 ## Day 24: Friday, October 17, 2025
 
 ### Day 24: In class
