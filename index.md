@@ -6,6 +6,19 @@
 
 ---
 
+## Day 27: Friday October 24, 2025
+
+### Day 27: In class
+
+- Possible Peer Instruction question or quiz
+- Discussion of [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). 
+- Begin [T15: Understanding Recursion](https://docs.google.com/document/d/1Bte8UbQq7NSjy4XMJoEcrs8mtUgnt7jVgMQ12Eb7cmw)
+
+### Day 27: Outside of class
+
+- Complete and submit [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44).
+- Read and submit questions to Slack on [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM).
+
 ## Day 26: Wednesday, October 22, 2025
 ### Day 26: In class
 
@@ -14,7 +27,7 @@
 - Discuss [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44). The second milestone is due Friday.
 - Complete [T13: Circling Back to Circular Linked Lists](https://docs.google.com/document/d/18y3Y_DldzoHN8KqVbODXm2ojXxet3Xc1pAm9StJlt5k).
 
-## Day 26: Outside of class
+### Day 26: Outside of class
 
 - Complete milestone 2 of [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44).
 
