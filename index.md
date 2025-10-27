@@ -6,6 +6,18 @@
 
 ---
 
+## Day 28: Monday, October 27, 2025
+### Day 28: In class
+
+- Possible Peer Instruction question
+- Debrief on [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44).
+- Questions on [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). The first milestone is due Wednesday.
+- Complete [T15: Understanding Recursion](https://docs.google.com/document/d/1Bte8UbQq7NSjy4XMJoEcrs8mtUgnt7jVgMQ12Eb7cmw)
+
+### Day 28: Outside of class
+
+- Complete Milestone 1 of [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM).
+
 ## Day 27: Friday October 24, 2025
 ### Day 27: In class
 
