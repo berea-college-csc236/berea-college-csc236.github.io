@@ -6,6 +6,18 @@
 
 ---
 
+## Day 29: Wednesday,  October 29, 2025
+
+### Day 29: In class
+
+- Possible PI questions
+- Questions on the lab [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)? The second milestone is due next week.
+- Complete [T16: Searching](https://docs.google.com/document/d/1tYBkApVgtJaTdGhd1KCYprnOyZyP5FyKvSmw5gcCa84)
+
+### Day 29: Outside of class
+
+- Read [Chapter 7 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=772223) on sorting in preparation for a potential reading quiz next time.
+
 ## Day 28: Monday, October 27, 2025
 ### Day 28: In class
 
