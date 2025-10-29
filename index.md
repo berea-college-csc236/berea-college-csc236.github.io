@@ -16,7 +16,7 @@
 
 ### Day 29: Outside of class
 
-- Read [Chapter 7 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=772223) on sorting in preparation for a potential reading quiz next time.
+- Read [Chapter 6 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=772223) on sorting in preparation for a potential reading quiz next time.
 
 ## Day 28: Monday, October 27, 2025
 ### Day 28: In class
