@@ -6,6 +6,19 @@
 
 ---
 
+## Day 30: Friday,  October 31, 2025, Happy Halloween!
+
+### Day 30: In class
+
+- Possible quiz or Peer Instruction question(s)
+- Questions on the lab [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)? The second milestone is due Wednesday.
+- Complete [T17: Exploring Hashing](https://docs.google.com/document/d/1Rphbo_GvKvKquZtxsSYY__cTF4ZGO4uwNEcA70dN5e0).
+
+### Day 30: Outside of class
+
+- Complete [A09: What is Hashing?](https://docs.google.com/document/d/1m8a7SQ8TqOgRj7KzthJCtAPVAFr9EO0j1ACYUnTj6gE/edit?usp=sharing) which is due on Monday.
+- Keep working on lab [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)? The second milestone is due Wednesday.
+
 ## Day 29: Wednesday,  October 29, 2025
 
 ### Day 29: In class
