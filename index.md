@@ -12,7 +12,7 @@
 
 - Possible quiz or Peer Instruction question(s)
 - Questions on the lab [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)? The second milestone is due Wednesday.
-- Complete [T17: Exploring Hashing](https://docs.google.com/document/d/1Rphbo_GvKvKquZtxsSYY__cTF4ZGO4uwNEcA70dN5e0).
+- Try to complete [T17: Exploring Hashing](https://docs.google.com/document/d/1Rphbo_GvKvKquZtxsSYY__cTF4ZGO4uwNEcA70dN5e0). I will give you about 10 minutes on Monday to finish it if you don't complete it today.
 
 ### Day 30: Outside of class
 
