@@ -17,7 +17,7 @@
 ### Day 30: Outside of class
 
 - Complete [A10: What is Hashing?](https://docs.google.com/document/d/1m8a7SQ8TqOgRj7KzthJCtAPVAFr9EO0j1ACYUnTj6gE/edit?usp=sharing) which is due on Monday.
-- WARNING: I may give a quiz on Monday on the chapter reading and A09.
+- WARNING: I may give a quiz on Monday on the chapter reading and A10.
 - Keep working on lab [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)? The second milestone is due Wednesday.
 
 ## Day 29: Wednesday,  October 29, 2025
