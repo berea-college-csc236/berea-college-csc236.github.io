@@ -11,6 +11,7 @@
 ### Day 31: In class
 
 - Likely Quiz on readings
+- Discuss [A10: What is Hashing?](https://docs.google.com/document/d/1m8a7SQ8TqOgRj7KzthJCtAPVAFr9EO0j1ACYUnTj6gE/edit?usp=sharing)
 - Questions on the lab [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)? The second milestone is due Wednesday.
 - Complete [T17: Exploring Hashing](https://docs.google.com/document/d/1Rphbo_GvKvKquZtxsSYY__cTF4ZGO4uwNEcA70dN5e0) in about 15 minutes. 
 - Begin [T18: Hash Functions and Collisions](https://docs.google.com/document/d/1LAYpzVOzkV2rSydtPBIJ14aQczKQHbne-F_YmyWpEkA).
@@ -25,7 +26,6 @@
 ### Day 30: In class
 
 - Possible quiz or Peer Instruction question(s)
-- Discuss [A10: What is Hashing?](https://docs.google.com/document/d/1m8a7SQ8TqOgRj7KzthJCtAPVAFr9EO0j1ACYUnTj6gE/edit?usp=sharing)
 - Questions on the lab [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)? The second milestone is due Wednesday.
 - Try to complete [T17: Exploring Hashing](https://docs.google.com/document/d/1Rphbo_GvKvKquZtxsSYY__cTF4ZGO4uwNEcA70dN5e0). I will give you about 10 minutes on Monday to finish it if you don't complete it today.
 
