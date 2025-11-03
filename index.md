@@ -18,13 +18,14 @@
 ### Day 31: Outside of class
 
 - Complete Milestone 2 [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM).
-- **Warning**: There are a choices of two different environments for L7, but you must choose environment and stick to it. For the faster environment to be an option, you need the Github Student Developer pack, whose set-up was very carefully described in [A00: Getting Started](https://docs.google.com/document/d/12iJBToSMk2A1n2mSdAmwKnFEpFVlnLz73ulsyt0htNM/edit?tab=t.0#bookmark=id.cjh2laqa175g). If you got rejected before and then forgot about it, go back and very, very slowly and carefully follow the directions that I gave there, paying very close attention to each of the details. Rushing through will likely make you miss something important.
+- **Warning**: There is a choice of two different environments for L7, but you must choose environment and stick to it. For the faster environment to be an option, you need the Github Student Developer pack, whose set-up was very carefully described in [A00: Getting Started](https://docs.google.com/document/d/12iJBToSMk2A1n2mSdAmwKnFEpFVlnLz73ulsyt0htNM/edit?tab=t.0#bookmark=id.cjh2laqa175g). If you got rejected before and then forgot about it, go back and very, very slowly and carefully follow the directions that I gave there, paying very close attention to each of the details. Rushing through will likely make you miss something important.
 
 ## Day 30: Friday,  October 31, 2025, Happy Halloween!
 
 ### Day 30: In class
 
 - Possible quiz or Peer Instruction question(s)
+- Discuss [A10: What is Hashing?](https://docs.google.com/document/d/1m8a7SQ8TqOgRj7KzthJCtAPVAFr9EO0j1ACYUnTj6gE/edit?usp=sharing)
 - Questions on the lab [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)? The second milestone is due Wednesday.
 - Try to complete [T17: Exploring Hashing](https://docs.google.com/document/d/1Rphbo_GvKvKquZtxsSYY__cTF4ZGO4uwNEcA70dN5e0). I will give you about 10 minutes on Monday to finish it if you don't complete it today.
 
