@@ -6,6 +6,19 @@
 
 ---
 
+## Day 32: Wednesday,  November 5, 2025
+
+### Day 32: In class
+
+- Likely Peer Instruction question(s)
+- Discussion on the lab [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)? The second milestone is due Wednesday.
+- Complete [T18: Hash Functions and Collisions](https://docs.google.com/document/d/1LAYpzVOzkV2rSydtPBIJ14aQczKQHbne-F_YmyWpEkA).
+
+### Day 32: Outside of class
+
+- For Friday, read [Chapter 7 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=772224) on sorting in preparation for a potential reading quiz or PI question(s) on Friday.
+- Debug the basic algorithm or if done with basic algorithm, work on customizations of [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)? Full completeion is due Monday.
+
 ## Day 31: Monday,  November 3, 2025
 
 ### Day 31: In class
