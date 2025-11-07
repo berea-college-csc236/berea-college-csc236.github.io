@@ -16,7 +16,7 @@
 
 ### Day 33: Outside of class
 
-- Achieve the basic algorithm followed by customizations of [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)? Full completeion is due Monday.
+- Achieve the basic algorithm followed by customizations of [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)? Full completion is due Monday.
 
 ## Day 32: Wednesday,  November 5, 2025
 
