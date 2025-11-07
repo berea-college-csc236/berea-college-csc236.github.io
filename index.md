@@ -6,6 +6,18 @@
 
 ---
 
+## Day 33: Friday,  November 7, 2025
+
+### Day 33: In class
+
+- Likely quiz on the chapter reading.
+- Questions on the lab [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)?
+- Begin [T19: On Sorting](https://docs.google.com/document/d/1bUGZJNs8ARo3GyLqhumF-bL6slKTrzlZmAVF5RScjAI).
+
+### Day 33: Outside of class
+
+- Achieve the basic algorithm followed by customizations of [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)? Full completeion is due Monday.
+
 ## Day 32: Wednesday,  November 5, 2025
 
 ### Day 32: In class
