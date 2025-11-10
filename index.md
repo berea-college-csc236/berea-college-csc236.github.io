@@ -6,6 +6,17 @@
 
 ---
 
+## Day 34: Monday,  November 10, 2025
+
+### Day 34: In class
+
+- Introducing [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)
+- Compklete [T19: On Sorting](https://docs.google.com/document/d/1bUGZJNs8ARo3GyLqhumF-bL6slKTrzlZmAVF5RScjAI).
+
+### Day 34: Outside of class
+
+- Read [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw) and bring questions. The environment submission is due by next time and will not be accepted late.
+
 ## Day 33: Friday,  November 7, 2025
 
 ### Day 33: In class
