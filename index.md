@@ -10,8 +10,9 @@
 
 ### Day 34: In class
 
+- Possible PI question
 - Introducing [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)
-- Compklete [T19: On Sorting](https://docs.google.com/document/d/1bUGZJNs8ARo3GyLqhumF-bL6slKTrzlZmAVF5RScjAI).
+- Complete [T19: On Sorting](https://docs.google.com/document/d/1bUGZJNs8ARo3GyLqhumF-bL6slKTrzlZmAVF5RScjAI).
 
 ### Day 34: Outside of class
 
