@@ -15,7 +15,7 @@
 
 ### Day 34: Outside of class
 
-- Read [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw) and bring questions. The environment submission is due by next time and will not be accepted late.
+- Read [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw) and bring questions. The environment submission is due by next time and may not be changed.
 
 ## Day 33: Friday,  November 7, 2025
 
