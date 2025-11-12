@@ -6,6 +6,18 @@
 
 ---
 
+## Day 35: Wednesday,  November 12, 2025
+
+### Day 35: In class
+
+- Possible PI question
+- More details on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)
+- Begin [T20: Recursive Sorting](https://docs.google.com/document/d/1Zvcu_nvpkPZfn4wDhPEM7ub96dj7vb0LB9lIly3DjZs)
+
+### Day 35: Outside of class
+
+- Make progress on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw) and bring questions to class next time. Do NOT skip this! This lab needs you to work on it a little bit each day.
+
 ## Day 34: Monday,  November 10, 2025
 
 ### Day 34: In class
