@@ -21,6 +21,7 @@
   - How can AI, particularly large language models (LLMs), help or harm us when they answer our health questions?
   - How do LLMs actually work? 
   - How do we balance making health information accessible through AI while preventing risks & harms?
+  - [A11: PROMPT for Today's talk](https://docs.google.com/document/d/1TaYmrE3xj6-4GhcTB9GEXxKiAInhE6XPAf-f8vAjRrw/edit?usp=sharing)
 - Make progress on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw) and bring questions to class next time. Do NOT skip this! This lab needs you to work on it a little bit each day.
 
 ## Day 34: Monday,  November 10, 2025
