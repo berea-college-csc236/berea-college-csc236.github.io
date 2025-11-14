@@ -6,6 +6,19 @@
 
 ---
 
+## Day 36: Friday,  November 1214, 2025
+
+### Day 36: In class
+
+- Possible PI question
+- Any questions on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)?
+- Complete [T20: Recursive Sorting](https://docs.google.com/document/d/1Zvcu_nvpkPZfn4wDhPEM7ub96dj7vb0LB9lIly3DjZs)
+
+### Day 36: Outside of class
+
+- Complete [A12: Don't Get Lost in the Trees!](https://docs.google.com/document/d/1ctDtE3cBGo0VSDclWYmlDtyT9RAR812m1yV2UHS0Ow0/edit?usp=sharing). Note that we may have a quiz on this material next time.
+- Make progress on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw) and bring questions to class next time. Do NOT skip this! This lab needs you to work on it a little bit each day.
+
 ## Day 35: Wednesday,  November 12, 2025
 
 ### Day 35: In class
