@@ -6,7 +6,21 @@
 
 ---
 
-## Day 36: Friday,  November 1214, 2025
+## Day 37: Monday,  November 17, 2025
+
+### Day 37: In class
+
+- Possible PI question
+- Any questions on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)?
+- Discussion on Trees and their naturally recursive structure
+- Complete [T21: Exploring Trees](https://docs.google.com/document/d/1t0mL8FmPE1f4IfV03tyQcT1FPfdepX37KHRBftUxSh0/edit?usp=sharing)
+
+### Day 37: Outside of class
+
+- Complete [A13: How Graphic!](https://docs.google.com/document/d/1fNFM1cSfXSV8sgLINnaA7YMzIN8GEvq1aFQ-EzmW3lk/edit?usp=sharing). Note that we may have a quiz on this material next time.
+- Make progress on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw) and bring questions to class next time. Do NOT skip this! Keep making progress on this lab a little bit each day.
+
+## Day 36: Friday,  November 14, 2025
 
 ### Day 36: In class
 
