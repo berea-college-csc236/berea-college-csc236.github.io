@@ -6,7 +6,9 @@
 
 ---
 
-## Announcement: Exam E2 will be held on Monday, December 1, 2025. We will build the Peerwise review questions on Friday, November 21, 2025. 
+## Announcement: Exam E2 will be held on Monday, December 1, 2025. 
+
+### We will build the Peerwise review questions on Friday, November 21, 2025. 
 
 ## Day 38: Wednesday,  November 19, 2025
 
