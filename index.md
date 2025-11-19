@@ -6,6 +6,22 @@
 
 ---
 
+## Announcement: Exam E2 will be held on Monday, December 1, 2025. We will build the Peerwise review questions on Friday, November 21, 2025. 
+
+## Day 38: Wednesday,  November 19, 2025
+
+### Day 38: In class
+
+- Possible PI question(s)
+- Discussion of final project
+- Any questions on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)?
+- Complete [T23: Exploring Graphs](https://docs.google.com/document/d/1lq4QQeKIZg7rA1KItCHP8jRKkDQsMkVGZdTr1DlDBHY/edit?usp=sharing)
+
+### Day 38: Outside of class
+
+- Complete [A14: Individual Review and Reflection II](https://docs.google.com/document/d/1KZuZyPmaG4q6Co6lNoMJgXi8JJR9iswlpKSM-l5iV9A/edit?usp=sharing). **Note that due to the nature of this assignment, it will not be completed late because it is needed for Friday's class.**
+- Make progress on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw) and bring questions to class next time. Do NOT skip this! Keep making progress on this lab a little bit each day.
+
 ## Day 37: Monday,  November 17, 2025
 
 ### Day 37: In class
