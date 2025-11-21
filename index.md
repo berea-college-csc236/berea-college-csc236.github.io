@@ -17,7 +17,7 @@
 - Complete and submit [TR2 Peerwise Review for E2](https://docs.google.com/document/d/1tY3QpKNjqW3PR1YcbAGsV6HSbUT47bTv1EUx-sv6RwQ/edit?usp=sharing) BOTH portions of which are due by tomorrow, Saturday, November 21, 2025 at 12 Noon.
  - **Note that due to the nature of this teamwork, it may NOT be completed late or alone.**
 
-  ### Day 39: Outside of class
+### Day 39: Outside of class
 
  - Consider attending the CS Alumni Panel talk tonight at 5 pm in CMIT 316 and/or the CS Alumni Q&A Panel tomorrow at 11 am in CMIT 216 as a way to complete [A11: Feedback on External Speakers](https://moodle.berea.edu/mod/assign/view.php?id=791220).
   - Complete and submit [TR2 Peerwise Review for E2](https://docs.google.com/document/d/1tY3QpKNjqW3PR1YcbAGsV6HSbUT47bTv1EUx-sv6RwQ/edit?usp=sharing) BOTH portions of which are due by tomorrow, Saturday, November 21, 2025  at 12 Noon
