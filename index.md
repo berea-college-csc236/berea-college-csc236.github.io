@@ -8,7 +8,21 @@
 
 ## Announcement: Exam E2 will be held on Monday, December 1, 2025. 
 
-### We will build the Peerwise review questions on Friday, November 21, 2025. 
+## Day 39: Friday,  November 21, 2025
+
+### Day 39: In class
+
+- Possible PI question
+- Last questions on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw) - this is due Monday!
+- Complete and submit [TR2 Peerwise Review for E2](https://docs.google.com/document/d/1tY3QpKNjqW3PR1YcbAGsV6HSbUT47bTv1EUx-sv6RwQ/edit?usp=sharing) BOTH portions of which are due by tomorrow, Saturday, November 21, 2025 at 12 Noon.
+ - **Note that due to the nature of this teamwork, it may NOT be completed late or alone.**
+
+  ### Day 39: Outside of class
+
+  - Complete and submit [TR2 Peerwise Review for E2](https://docs.google.com/document/d/1tY3QpKNjqW3PR1YcbAGsV6HSbUT47bTv1EUx-sv6RwQ/edit?usp=sharing) BOTH portions of which are due by tomorrow, Saturday, November 21, 2025  at 12 Noon
+  - submit your pdf to Moodle
+  - submit your questions to Peerwise asap but for certain by 12 Noon tomorrow (Saturday, November 22, 2025.) Note that if this is not done by then, you will not get full credit for the teamwork.
+ - By Monday, November 24, 2025, complete and submit [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw).
 
 ## Day 38: Wednesday,  November 19, 2025
 
