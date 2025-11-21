@@ -20,9 +20,9 @@
 ### Day 39: Outside of class
 
  - Consider attending the CS Alumni Panel talk tonight at 5 pm in CMIT 316 and/or the CS Alumni Q&A Panel tomorrow at 11 am in CMIT 216 as a way to complete [A11: Feedback on External Speakers](https://moodle.berea.edu/mod/assign/view.php?id=791220).
-  - Complete and submit [TR2 Peerwise Review for E2](https://docs.google.com/document/d/1tY3QpKNjqW3PR1YcbAGsV6HSbUT47bTv1EUx-sv6RwQ/edit?usp=sharing) BOTH portions of which are due by tomorrow, Saturday, November 21, 2025  at 12 Noon
-  - submit your pdf to Moodle
-  - submit your questions to Peerwise asap but for certain by 12 Noon tomorrow (Saturday, November 22, 2025.) Note that if this is not done by then, you will not get full credit for the teamwork.
+  - Complete and submit [TR2 Peerwise Review for E2](https://docs.google.com/document/d/1tY3QpKNjqW3PR1YcbAGsV6HSbUT47bTv1EUx-sv6RwQ/edit?usp=sharing) BOTH portions of which are due by tomorrow, Saturday, November 21, 2025  at 12 Noon:
+    - submit your pdf to Moodle, AND
+    - submit your questions to Peerwise asap but for certain by 12 Noon tomorrow (Saturday, November 22, 2025.) Note that if this is not done by then, you will not get full credit for the teamwork.
  - By Monday, November 24, 2025, complete and submit [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw).
 
 ## Day 38: Wednesday,  November 19, 2025
