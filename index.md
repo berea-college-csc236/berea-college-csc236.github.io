@@ -6,7 +6,24 @@
 
 ---
 
-## Announcement: Exam E2 will be held on Monday, December 1, 2025. 
+## Reminder: Exam E2 will be held on Monday, December 1, 2025. 
+
+## Day 40: Monday, November 24, 2025
+
+### Day 40: In class
+
+- Possible PI question
+- Debrief on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw).
+- Discuss upcoming exam E2 which will be Monday, December 1.
+- Discuss final project and [Final Project Requirements](https://docs.google.com/document/d/15JyajlDZ2-LW9KPa-DKm5LZSXBN10lFX6OzK4ryG4uA/edit?tab=t.0#heading=h.c1x99npetnfu)
+- Complete and submit [FP1: Initial Planning and Preliminary Video Script](https://docs.google.com/document/d/19AV9PxfdqBvBxsBTA1kcftHv5ptQS8bL_skejQpDZhE/edit?usp=sharing) in the [Project Partners and Topics](https://moodle.berea.edu/mod/url/view.php?id=772292) teams. Note that you are strongly encourged to complete this in class today, submit it and focus on studying for Exam E2 outside of class.
+
+### Day 40: Outside of class
+
+- If you attended either of the CS Alumni Panel talks last Friday or Saturday, complete and submit [A11: Feedback on External Speakers](https://moodle.berea.edu/mod/assign/view.php?id=791220) if you have not already done so. This is due by NOON TODAY.
+- Study for upcoming exam E2 which will be Monday, December 1.
+- Complete all assigned homework from [FP1:Initial Planning and Preliminary Video Script](https://docs.google.com/document/d/19AV9PxfdqBvBxsBTA1kcftHv5ptQS8bL_skejQpDZhE/edit?usp=sharing) by Wednesday, December 3, 2025.
+
 
 ## Day 39: Friday,  November 21, 2025
 
