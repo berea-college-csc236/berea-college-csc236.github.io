@@ -7,6 +7,7 @@
 ---
 
 ## Reminder: Exam E2 will be held on Monday, December 1, 2025. 
+### Be sure to find time to study for it over the Thanksgiving Break!
 
 ## Day 40: Monday, November 24, 2025
 
