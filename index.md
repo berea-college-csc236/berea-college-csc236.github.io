@@ -22,7 +22,9 @@
 ### Day 40: Outside of class
 
 - If you attended either of the CS Alumni Panel talks last Friday or Saturday, complete and submit [A11: Feedback on External Speakers](https://moodle.berea.edu/mod/assign/view.php?id=791220) if you have not already done so. This is due by NOON TODAY.
-- Study for upcoming exam E2 which will be Monday, December 1.
+- Consider attending the second and last teaching talk tonight at 5 pm in CMIT 316 as a way to complete [A11: Feedback on External Speakers](https://moodle.berea.edu/mod/assign/view.php?id=791220). Note that this is the first of four opportunities to complete this assignment.
+  - TOPIC: "Reading Charts Together: Chart Visualization Literacy in Humans and AI" The short refection is due by 8 am Wednesday, November 26, 2025.
+- **Study for upcoming exam E2 which will be Monday, December 1.**
 - Complete all assigned homework from [FP1:Initial Planning and Preliminary Video Script](https://docs.google.com/document/d/19AV9PxfdqBvBxsBTA1kcftHv5ptQS8bL_skejQpDZhE/edit?usp=sharing) by Wednesday, December 3, 2025.
 
 
