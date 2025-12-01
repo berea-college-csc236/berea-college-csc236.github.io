@@ -6,6 +6,18 @@
 
 ---
 
+## Day 41: Monday, December 1, 2025
+
+### Day 41: In class
+
+- Exam E2
+
+### Day 41: Outside of class
+
+- Complete all assigned homework from [FP1:Initial Planning and Preliminary Video Script](https://docs.google.com/document/d/19AV9PxfdqBvBxsBTA1kcftHv5ptQS8bL_skejQpDZhE/edit?usp=sharing) by Wednesday, December 3, 2025.
+
+
+
 ## Reminder: Exam E2 will be held on Monday, December 1, 2025. 
 ### Be sure to find time to study for it over the Thanksgiving Break!
 
