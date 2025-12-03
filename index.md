@@ -19,9 +19,8 @@
 - Complete homework assigned in [FP2: Making Progress on the Project](https://docs.google.com/document/d/1L2axw33YzWMGzPS1zUv1WoqepfmFIhdndG9zveKL-PY/edit?usp=sharing) by Friday, December 5, 2025 at 8 am. This contributes to your teamwork grade.
 - Complete homework assigned in [FP3: Project Complexity Analysis](https://docs.google.com/document/d/1RWkZEl1XNMVA-PfnAdD9Teip1oirXtkDnU_vtboWloA) by Monday, December 8, 2025 at 5 pm. Note that this complexity analysis contributes to your final project grade.
 - Complete [FPV: Final Project Video and Final Transcript](https://docs.google.com/document/d/17YmTJYWzVriYggUipkHsSzqzFxamCTT3BZWiE0dA2s0) by 8 am on the date of our final exam period. The videos will be presented during our final exam period. We will also do a project evaluation in class during the final exam period. 
-  - Section A 9:20-10:30 AM: Final Exam 8:30 am on Tuesday, December 10, the video components of the final project are due by 8 am on Tuesday, December 10
+  - Section A 9:20-10:30 AM: Final Exam 8:30 am on Wednesday, December 10, the video components of the final project are due by 8 am on Wednesday, December 10
   - Section B 10:30-11:40 AM: Final Exam 11:45 am on Friday, December 13, the video components of the final project are due by 8 am on Friday, December 13
-
 
 ## Day 41: Monday, December 1, 2025
 
