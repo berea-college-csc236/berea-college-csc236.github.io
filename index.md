@@ -6,6 +6,21 @@
 
 ---
 
+## Day 2: Friday, January 16, 2026
+
+### Day 2: In class
+
+- Possible short quiz on reading R01.
+- Debrief on installations, C++, the syllabus, and the AI policy in particular
+- How did the sign-up for [Github Student Developer Pack](https://education.github.com/pack) go? Note that it might take more time to get this, so don't fret since we do not need Github Copilot and you are likely better off not using it for the first lab. You will need it for Lab L7, but there is plenty of time to get it before then - just be sure to work on it soon.
+- Discuss the first lab, [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8/edit?usp=sharing)
+- Work to complete, then download, and submit [Teamwork T01: Visual Studio, Github, and ASCII Art](https://docs.google.com/document/d/1Bz1sbwxid1ydkSHaO5nDMpMgzwa29Py6zzTlWGUvBzM). It is due by 8 am on Wednesday, January 21.
+
+### Day 2: Outside of class (all due 8 am)
+
+- Read [Chapters 3, 4,and 5 in C++ for Python Programmers](https://moodle.berea.edu/mod/lti/view.php?id=799811) for a potential reading quiz on Wednesday. Be sure to go through the Moodle link to get full credit.
+- Begin [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). This is an individual Lab. The first milestone is due Friday, January 23. The final completion milestone of the lab is due Monday, January 26.
+- Don't procrastinate on [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing), which is due Wednesday, January 28 at 8 am. You can do this at any time before then, but it is best to schedule it at your convenience rather than waiting until the last minute.
 
 ## Day 1: Wednesday, January 14, 2026
 
