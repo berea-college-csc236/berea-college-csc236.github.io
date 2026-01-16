@@ -6,20 +6,25 @@
 
 ---
 
+## Reminder: No class on Monday, January 19, 2026 - Martin Luther King, Jr. Day!
+
 ## Day 2: Friday, January 16, 2026
 
 ### Day 2: In class
 
+- Debrief on homework and reading. Remember that I give participation points for doing the reading on-time in preparation for class, and the additional questions by 8 am. (If you do not currently have full credit, be sure to redo it by next time. If the future, I will not give participation credit for students are do not complete it by 8 am because I need to see where there were challenges. Late participation credit is not awarded.)
 - Possible short quiz on reading R01.
 - Debrief on installations, C++, the syllabus, and the AI policy in particular
 - How did the sign-up for [Github Student Developer Pack](https://education.github.com/pack) go? Note that it might take more time to get this, so don't fret since we do not need Github Copilot and you are likely better off not using it for the first lab. You will need it for Lab L7, but there is plenty of time to get it before then - just be sure to work on it soon.
 - Discuss the first lab, [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8/edit?usp=sharing)
 - Work to complete, then download, and submit [Teamwork T01: Visual Studio, Github, and ASCII Art](https://docs.google.com/document/d/1Bz1sbwxid1ydkSHaO5nDMpMgzwa29Py6zzTlWGUvBzM). It is due by 8 am on Wednesday, January 21.
 
-### Day 2: Outside of class (all due 8 am)
+### Day 2: Outside of class
 
-- Read [Chapters 3, 4,and 5 in C++ for Python Programmers](https://moodle.berea.edu/mod/lti/view.php?id=799811) for a potential reading quiz on Wednesday. Be sure to go through the Moodle link to get full credit.
-- Begin [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). This is an individual Lab. The first milestone is due Friday, January 23. The final completion milestone of the lab is due Monday, January 26.
+- Extra credit opportunity on Tuesday, January 20! Help us to choose a new professor! Come on-time and stay fully engaged with a potential faculty talk, give a bit of feedback to help us, and you will earn a replacement quiz with full credit. (This is a great way to replace a low quiz grade!) 
+Pizza at 5:20. Talk begins at 5:30. Do not be late if you want the extra credit!
+- Read [Chapters 3, 4,and 5 in C++ for Python Programmers](https://moodle.berea.edu/mod/lti/view.php?id=799811) for a potential reading quiz on Wednesday. Be sure to go through the Moodle link to get full credit. Due at 8 am on Wednesday, January 21.
+- Read [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). This is an individual Lab. The first milestone is due Friday, January 23 at 8 am. The final completion milestone of the lab is due Monday, January 26 at 8 am.
 - Don't procrastinate on [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing), which is due Wednesday, January 28 at 8 am. You can do this at any time before then, but it is best to schedule it at your convenience rather than waiting until the last minute.
 
 ## Day 1: Wednesday, January 14, 2026
