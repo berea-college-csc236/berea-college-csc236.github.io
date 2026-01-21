@@ -22,6 +22,7 @@
 - Complete the first milestone for [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). The final submission is due on Monday.
 - Fix any challenges you have had with the first two readings by going through Moodle. See your grades in Moodle and make them perfect by doing everything!
 - At your convenience, do [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing), which is due Friday, September 5 at 8 am. The TAs are eager to meet you.
+- If you went to the extra credit talk on Tuesday, be sure to complete [EC-1: Form for Feedback on External Speakers](https://docs.google.com/document/d/1fDicpT72DS3dJYffn5sIwedCcvOejTxWVIgovc_qDu4/edit?usp=sharing) and upload to the Quiz area in Moodle by 8 am Friday.(https://docs.google.com/document/d/1fDicpT72DS3dJYffn5sIwedCcvOejTxWVIgovc_qDu4/edit?usp=sharing) and upload to the Quiz area in Moodle by 8 am Friday.
 
 ## Reminder: No class on Monday, January 19, 2026 - Martin Luther King, Jr. Day!
 
@@ -39,7 +40,7 @@
 ### Day 2: Outside of class
 
 - Extra credit opportunity on Tuesday, January 20! Help us to choose a new professor! Come on-time and stay fully engaged with a potential faculty talk, give a bit of feedback to help us, and you will earn a replacement quiz with full credit. (This is a great way to replace a low quiz grade!) 
-Pizza at 5:20. Talk begins at 5:30. Do not be late if you want the extra credit!
+Pizza at 5:20. Talk begins at 5:30. Do not be late if you want the extra credit! Also, be sure to complete [EC-1: Form for Feedback on External Speakers](https://docs.google.com/document/d/1fDicpT72DS3dJYffn5sIwedCcvOejTxWVIgovc_qDu4/edit?usp=sharing) and upload to the Quiz area in Moodle by 8 am Friday.
 - Read [Chapters 3, 4,and 5 in C++ for Python Programmers](https://moodle.berea.edu/mod/lti/view.php?id=799811) for a potential reading quiz on Wednesday. Be sure to go through the Moodle link to get full credit. Due at 8 am on Wednesday, January 21.
 - Read [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). This is an individual Lab. The first milestone is due Friday, January 23 at 8 am. The final completion milestone of the lab is due Monday, January 26 at 8 am.
 - Don't procrastinate on [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing), which is due Wednesday, January 28 at 8 am. You can do this at any time before then, but it is best to schedule it at your convenience rather than waiting until the last minute.
