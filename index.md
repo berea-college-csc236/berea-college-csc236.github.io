@@ -6,6 +6,23 @@
 
 ---
 
+## Day 4: Friday, Jauary 23, 2026
+
+### Day 4: In class
+
+- Possible quiz or peer instruction question
+- In Runestone change courses to **bc_cppds_s26**. We have a reading out of this book for Monday.
+- Questions on [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8) which is due Monday. (Reminders about escaping backslashes and quotes.)
+- Demo of debugging in Visual Studio
+- Complete [Teamwork T03:  Debugging Techniques](https://docs.google.com/document/d/1T0BS2SzKxoOXg_EpfDCpFd8UG219_Jbqzl8W1kogtcc/edit?usp=sharing). 
+- Work on [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8).
+
+### Day 4: Outside of class
+
+- Complete [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). The final submission is due on Monday.
+- The next textbook reading is on object-oriented programming in C++ in the main textbook for the course. It is a bit longer than the readings in the transition book, and you may find it more conceptually challenging. Again, you will need to be logged in to Moodle to get credit for the reading. The reading is on the latter part of Chapter 1 in the Runestone book **bc_cppds_s26** and is due Monday. See [R04: Read 1.5, 1.6, and 1.12-1.15 plus questions](https://moodle.berea.edu/mod/lti/view.php?id=814019). Note that the reading is only six sections of the first chapter plus questions.
+- At your convenience, do [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing), which is due Friday, September 5 at 8 am. The TAs are eager to meet you.
+
 ## Day 3: Wednesday, January 21, 2026
 
 ### Day 3: In class
@@ -22,7 +39,7 @@
 - Complete the first milestone for [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). The final submission is due on Monday.
 - Fix any challenges you have had with the first two readings by going through Moodle. See your grades in Moodle and make them perfect by doing everything!
 - At your convenience, do [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing), which is due Friday, September 5 at 8 am. The TAs are eager to meet you.
-- If you went to the extra credit talk on Tuesday, be sure to complete [EC-1: Form for Feedback on External Speakers](https://docs.google.com/document/d/1fDicpT72DS3dJYffn5sIwedCcvOejTxWVIgovc_qDu4/edit?usp=sharing) and upload to the Quiz area in Moodle by 8 am Friday.(https://docs.google.com/document/d/1fDicpT72DS3dJYffn5sIwedCcvOejTxWVIgovc_qDu4/edit?usp=sharing) and upload to the Quiz area in Moodle by 8 am Friday.
+- If you went to the extra credit talk on Tuesday, be sure to complete [EC-1: Form for Feedback on External Speakers](https://docs.google.com/document/d/1fDicpT72DS3dJYffn5sIwedCcvOejTxWVIgovc_qDu4/edit?usp=sharing) and upload to the Quiz area in Moodle by 8 am Friday.
 
 ## Reminder: No class on Monday, January 19, 2026 - Martin Luther King, Jr. Day!
 
