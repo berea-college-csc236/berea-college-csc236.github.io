@@ -6,6 +6,23 @@
 
 ---
 
+## Day 5: Monday, January 26, 2026 (if we have class.)
+
+### Day 5: In class
+
+- Discuss all questions posted on Slack in advance about Chapter 1 on OOP
+- Possible quiz or peer instruction questions
+- Discussion of reading on OOP principles and C-Turtle
+- Art show! Share your ASCII art with the class.
+- Introduction of [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c/edit?usp=sharing)
+- Complete [T04: Fraction Class Understanding and Enhancement](https://docs.google.com/document/d/1NtnYd2AoMkVUivbEXej9DhO9SI1gJOD3z4ar9KneXbM/edit?tab=t.0#heading=h.c1x99npetnfu).
+
+### Day 5: Outside of class
+
+- Read [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c/edit?usp=sharing) and do the first milestone (due Wednesday). The final submission is due Friday.
+- Read, complete, and submit [A02: OOP Principles](https://docs.google.com/document/d/1uH5vpyvL1rCLsmI14D3LIgUo2Q-0fCCdclOz2ZAk1Eg) for Wednesday.
+- Don't forget to do [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing) sooner rather than later. ~~It is due Wednesday, January 28 at 8 am.~~ The duedate is extended to Friday, January 30 at 8 am due to weather challenges over the weekend. 
+
 ## Day 4: Friday, Jauary 23, 2026
 
 ### Day 4: In class
