@@ -6,6 +6,22 @@
 
 ---
 
+## Day 6: Friday, January 30, 2026 
+
+### Day 6: In class
+
+- Possible peer instruction or quiz on OOP
+- Discuss previous quizzes.
+- Discuss  [A02: OOP Principles](https://docs.google.com/document/d/1uH5vpyvL1rCLsmI14D3LIgUo2Q-0fCCdclOz2ZAk1Eg).
+- Discuss any questions on [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c)
+- Complete [T04: Fraction Class Understanding and Enhancement](https://docs.google.com/document/d/1NtnYd2AoMkVUivbEXej9DhO9SI1gJOD3z4ar9KneXbM/edit?tab=t.0#heading=h.c1x99npetnfu) if you did not complete it in class on Wednesday.
+
+### Day 6: Outside of class
+
+- Complete [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c) by Monday at 8 AM, **being sure to submit a link to your repository in Moodle**.
+- Complete [T04: Fraction Class Understanding and Enhancement](https://docs.google.com/document/d/1NtnYd2AoMkVUivbEXej9DhO9SI1gJOD3z4ar9KneXbM/edit?tab=t.0#heading=h.c1x99npetnfu) if you did not complete it in class.
+- At next very earliest convenience, complete [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing) if you have not already done so. It has been posted a long time now. It is **now due Friday, February 6**. PLEASE do NOT wait until the night before it is due because the assignment requires individual time with the TA, and there are only two TAs in the lab each night. They may not be able to accommodate everyone who waits until the last minute, and they have been instructed to give each student their full attention, so they will not be able to be rushed.
+
 ## Day 5: Wednesday, January 28, 2026 
 
 ### Day 5: In class
