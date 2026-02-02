@@ -6,6 +6,19 @@
 
 ---
 
+## Day 7: February 2, 2026
+
+### Day 7: In class
+
+- Art Show! Share your loopy graphics with the class.
+- Introduction to [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q).
+- Begin [T05: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag), which we will likely need to complete next time.
+
+### Day 7: Outside of class
+
+- Begin [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q). This is an individual lab that has Milestone 1 due Wednesday, the second milestone due Friday, and the full lab due on Monday, February 9.
+- Complete [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing) if you have not already done so. It is **now due Friday, February 6**. 
+
 ## Day 6: Friday, January 30, 2026 
 
 ### Day 6: In class
