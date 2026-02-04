@@ -6,6 +6,19 @@
 
 ---
 
+## Day 8: Wednesday, February 4, 2026
+
+### Day 8: In class
+
+- Possible peer instruction or quiz on OOP
+- Questions on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q). The second milestone is due Friday, and the full lab is due Monday.
+- Complete and submit [T05: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag)
+
+### Day 8: Outside of class
+
+- Milestone 2: Try to complete [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q) by next time. The second milestone is due Friday, and the full lab is due Monday. Be to commit and push and also submit your link to Moodle.
+- If you have time, begin - Complete [A03: AI and Learning](https://docs.google.com/document/d/1SdnNB_qRGWaYCHKx__J5lhBfhisxNhgVlY2qa0oCr34/edit?usp=sharing). It is due next week.
+
 ## Day 7: February 2, 2026
 
 ### Day 7: In class
