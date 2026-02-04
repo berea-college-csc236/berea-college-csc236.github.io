@@ -17,6 +17,7 @@
 ### Day 8: Outside of class
 
 - Milestone 2: Try to complete [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q) by next time. The second milestone is due Friday, and the full lab is due Monday. Be to commit and push and also submit your link to Moodle.
+- Complete [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing) if you have not already done so. It is **now due Friday, February 6**. 
 - If you have time, begin - Complete [A03: AI and Learning](https://docs.google.com/document/d/1SdnNB_qRGWaYCHKx__J5lhBfhisxNhgVlY2qa0oCr34/edit?usp=sharing). It is due next week.
 
 ## Day 7: February 2, 2026
