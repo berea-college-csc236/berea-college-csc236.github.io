@@ -6,6 +6,21 @@
 
 ---
 
+## Day 9: Friday, February 6, 2026
+
+### Day 9: In class
+
+- Meme show!
+- Possible peer instruction question
+- Discuss [T05: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag)
+- Questions on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q). The full lab is due Monday.
+- Begin [T06: Understanding OOP and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4), which we will finish on Monday.
+
+### Day 9: Outside of class
+
+- Complete [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q) which is due Monday.
+- Complete [A03: AI and Learning](https://docs.google.com/document/d/1SdnNB_qRGWaYCHKx__J5lhBfhisxNhgVlY2qa0oCr34/edit?usp=sharing) It is also due Monday.
+
 ## Day 8: Wednesday, February 4, 2026
 
 ### Day 8: In class
