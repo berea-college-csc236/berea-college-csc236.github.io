@@ -6,6 +6,21 @@
 
 ---
 
+## Day 10: Monday, February 9, 2026
+
+### Day 10: In class
+
+- Possible quiz or peer instruction question
+- Debrief on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q).
+- Discuss [A03: AI and Learning](https://docs.google.com/document/d/1SdnNB_qRGWaYCHKx__J5lhBfhisxNhgVlY2qa0oCr34/edit?usp=sharing)
+- Complete [T06: Understanding OOP and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4).
+
+### Day 10: Outside of class
+
+- Complete [A04: Videos and Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU). Note that this is an introduction to the most and most conceptually difficult concept in the course. 
+- Read [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E/edit?usp=sharing), possibly find a partner and bring questions to class on Wednesday. The first milestone is due Friday. 
+- By Friday [Chapter 2 Reading on Big O](https://moodle.berea.edu/mod/lti/view.php?id=772218) and do all activities in preparation for a potential reading quiz. **This is one of the most important topics in the entire course; you might try to find time to read it twice!**
+
 ## Day 9: Friday, February 6, 2026
 
 ### Day 9: In class
