@@ -6,6 +6,20 @@
 
 ---
 
+## Day 11: Wednesday, February 11, 2026
+
+### Day 11: In class
+
+- Possible quiz or peer instruction question(s) on reading/videos.
+- Explanation of Exponentials and Logarithms
+- Questions on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E/edit?usp=sharing)? The first milestone is due Friday.
+- Complete [T07: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE).
+
+### Day 11: Outside of class
+
+- Read [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E/edit?usp=sharing), possibly find a partner and bring questions to class on Wednesday. The first milestone is due Friday. 
+- By Friday [Chapter 2 Reading on Big O](https://moodle.berea.edu/mod/lti/view.php?id=799814) and do all activities in preparation for a potential reading quiz. **This is one of the most important topics in the entire course; you might try to find time to read it twice!**
+
 ## Day 10: Monday, February 9, 2026
 
 ### Day 10: In class
