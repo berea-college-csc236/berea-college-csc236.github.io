@@ -10,7 +10,7 @@
 
 ### Day 12: In class
 
-- Possible peer-instruction question(s)
+- Possible peer-instruction question(s) or quiz
 - Questions on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E/edit?usp=sharing). DiscussT07: Measuring Algorithmic Efficiency (https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE).
 - Complete [T08: How Long will this Take?](https://docs.google.com/document/d/1_vzhbJdc5-bmYi1CLpMEgA7WM1c4wXH0EwFb_JOJPek/edit?usp=sharing).
 
