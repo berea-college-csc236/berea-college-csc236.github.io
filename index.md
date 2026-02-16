@@ -6,6 +6,20 @@
 
 ---
 
+### Announcement: The first exam will be on Friday, February 27, 2026. Do not plan to leave early for spring break.
+
+## Day 13: Monday, February 16, 2026
+
+### Day 13: In class
+
+- Possible peer-instruction question(s)
+- Questions on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E/edit?usp=sharing)? The fully completed lab's due date has been extended to Monday.
+- Begin [T09: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8)
+
+### Day 13: Outside of class
+
+- Read [Sections 3.1-3.9 in our Data Structures textbook](https://moodle.berea.edu/mod/lti/view.php?id=799815) and do the extra questions in preparation for a possible reading quiz.
+
 ## Day 12: Friday, February 13, 2026
 
 ### Day 12: In class
