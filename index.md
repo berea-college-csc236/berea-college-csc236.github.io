@@ -19,6 +19,12 @@
 ### Day 13: Outside of class
 
 - Read [Sections 3.1-3.9 in our Data Structures textbook](https://moodle.berea.edu/mod/lti/view.php?id=799815) and do the extra questions in preparation for a possible reading quiz.
+- Extra credit opportunity: Another talk is TODAY, Monday, February 16, 5:15-6:15 pm, in CMIT 316
+Title: "Modularity and the Hidden Environmental Impacts of Computing"
+Potential faculty candidate - we need your feedback!
+Pizza will be provided, but if you want pizza, please come by 5:10.
+EC-2: The Prompt for Teaching Talk #2  isdue by Wednesday at 8 am
+Please note that for full credit, you must submit an exemplary reflection and also come ON TIME and stay engaged for the entire time. (You will not get exemplary if you come late, leave early, are on your phone or laptop, etc.)
 
 ## Day 12: Friday, February 13, 2026
 
