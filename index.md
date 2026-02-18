@@ -8,6 +8,20 @@
 
 ### Announcement: The first exam will be on Friday, February 27, 2026. Do not plan to leave early for spring break.
 
+## Day 14: Wednesday, September 24, 2025
+
+### Day 14: In class
+
+- Possible quiz or peer-instruction question(s)
+- Questions on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E)
+- Complete [T09: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8)
+- Begin [T10: Stacks, Queues, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw/edit?usp=sharing) which we will finish on Friday.
+
+### Day 14: Outside of class
+
+- Read [Sections 3.10-3.22 in our Data Structures textbook](https://moodle.berea.edu/mod/lti/view.php?id=772220) plus do questions by 8 am Friday. 
+- The final completion of [L3: Virtual Pets](https://moodle.berea.edu/mod/assign/view.php?id=695005) has been extended to Monday, so keep working on it!
+
 ## Day 13: Monday, February 16, 2026
 
 ### Day 13: In class
