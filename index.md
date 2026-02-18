@@ -8,7 +8,7 @@
 
 ### Announcement: The first exam will be on Friday, February 27, 2026. Do not plan to leave early for spring break.
 
-## Day 14: Wednesday, September 24, 2025
+## Day 14: Wednesday, February 18, 2026
 
 ### Day 14: In class
 
