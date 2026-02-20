@@ -8,6 +8,18 @@
 
 ### Announcement: The first exam will be on Friday, February 27, 2026. Do not plan to leave early for spring break.
 
+## Day 15: Friday, February 20, 2026
+
+### Day 15: In class
+
+- Final questons on [L3: Virtual Pets](https://moodle.berea.edu/mod/assign/view.php?id=695005).
+- Complete and submit [T10: Stacks, Queues, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw/edit?usp=sharing)
+
+### Day 15: Outside of class
+
+- Complete [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) which is due Monday, February 23 at 8 am.
+
+
 ## Day 14: Wednesday, February 18, 2026
 
 ### Day 14: In class
