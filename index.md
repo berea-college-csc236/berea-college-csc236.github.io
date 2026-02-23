@@ -21,6 +21,9 @@
 
 ### Day 18: Outside of class
 
+- Complete structured review [TR1: E1 Review](https://docs.google.com/document/d/1AKBUi_i1XsbP6Aidb5rqQifVveU4rQSpBK-pKVGy8Yc) including improvement of questions.
+  - Submit your pdf to Moodle
+  - Submit your questions to Peerwise asap but for certain by 8 am tomorrow (Tuesday, February 24, 2026)
 - Complete Milestone 1 including the design document submission for [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8). Note that in past years students have found debugging this lab to be challenging, but completing the design document and meeting the first milestone is not difficult. The second milestone is soft and the final milestones is due after Spring Break.
 - Complete [A05: Peer Instruction Consent Form](https://forms.gle/qTV49iJsni2XXsWr9) also for Wednesday. As long as you do it, this is basically a free 5 points on your homework because it will not take very long.
 
