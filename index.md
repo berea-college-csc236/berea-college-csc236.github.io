@@ -17,6 +17,7 @@
 
 ### Day 19: Outside of class
 
+- If you have not already done so, complete  [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) by ~~Monday, March 9, 2026~~ Wednesday, March 11, 2026.
 - Read [Chapter 4 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=799817) to learn more deeply about linked lists.
 - Begin [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44) by reading the Google Doc and the codebase. Bring questions to class on Wednesday. 
 
