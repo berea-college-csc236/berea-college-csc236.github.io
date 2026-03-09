@@ -8,6 +8,17 @@
 
 ### Announcement: The first exam will be on Friday, February 27, 2026. Do not plan to leave early for spring break.
 
+## Day 18: Friday, February 27, 2026
+
+### Day 18: In class
+
+- Exam E1
+
+### Day 18: Outside of class
+
+- Complete milestones and submission for [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) by Monday, March 9, 2026. The second milestone has a soft deadline, but it should be at least two days before the final submission, and the final submission. Note that in past years students have found debugging this lab to be challenging.
+- Complete [A07: A Simple Introduction To Linked Lists](https://docs.google.com/document/d/1r5316kQR2qmtEWYqUaPVcXp_yrIuPQV61RUAy_sj5KU). This is also due by 8 am on Monday, March 9, 2026. This is a simple introduction to linked lists, the topic of the next chapter. The chapter reading is open, but not due until Wednesday, March 11, 2026.
+
 
 ## Day 17: Wednesday, February 25, 2026
 
