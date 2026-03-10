@@ -6,6 +6,18 @@
 
 ---
 
+## Day 20: Wednesday, March 11, 2026
+
+### Day 20: In class
+
+- Potential quiz or peer-instruction question(s) on reading/videos
+- Discuss [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44)/ The first milesone is due on Friday.
+- Complete [T11: Introduction to Circular Linked Lists](https://docs.google.com/document/d/1uvElflLI-S0S3spkfCkquwi3ZgIEgM49vF9NeTPmN30/edit?usp=sharing) with your current team. This is due by 8 am on Friday, March 13, 2026.
+
+### Day 20: Outside of class
+
+- Complete Milestone one of [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44)
+
 ## Day 19: Monday, March 9, 2026
 
 ### Day 19: In class
