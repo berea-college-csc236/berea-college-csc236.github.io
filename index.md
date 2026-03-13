@@ -6,6 +6,18 @@
 
 ---
 
+## Day 21: Friday, March 13, 2026
+
+### Day 21: In class
+
+- Possible quiz or Peer Instruction question
+- Complete [T12: Exploring Linked Lists](https://docs.google.com/document/d/1b4UHkIDdldDGyat5QdZ0FFzOFZKaubeOGuz-jsPR4I0).
+
+### Day 21: Outside of class
+
+- Complete [A07: Considering Diversity in Tech](https://docs.google.com/document/d/1GgQ0yrnytucqukz-ypOvNld4sJ4c4UNH_IkJkh3046Y/edit?usp=sharing)
+- Keep working on [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44). The second milestone is due on Friday, March 20, 2026, and the final submission is due on Monday, March 23, 2026.
+
 ## Day 20: Wednesday, March 11, 2026
 
 ### Day 20: In class
