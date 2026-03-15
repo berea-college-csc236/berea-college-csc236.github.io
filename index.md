@@ -6,6 +6,18 @@
 
 ---
 
+## Day 22: Monday, March 16, 2026
+### Day 22: In class
+
+- Possible peer instruction question
+- Discuss [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44). The second milestone is due Friday.
+- Begin [T13: Circling Back to Circular Linked Lists](https://docs.google.com/document/d/18y3Y_DldzoHN8KqVbODXm2ojXxet3Xc1pAm9StJlt5k).
+
+### Day 22: Outside of class
+
+- Complete [A08: Thinking Recursively](https://docs.google.com/document/d/1rLwgk3XXBBZx-rXkoq20jws50gtztj24NBz_M8b42VQ/edit?usp=sharing).
+- Keep working on [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44). The second milestone is due on Friday, March 20, 2026, and the final submission is due on Monday, March 23, 2026.
+
 ## Day 21: Friday, March 13, 2026
 
 ### Day 21: In class
