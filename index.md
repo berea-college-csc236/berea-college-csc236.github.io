@@ -9,6 +9,7 @@
 ## Day 23: Wednesday, March 18, 2026
 ### Day 23: In class
 
+- TA position in CS?
 - Discuss homework
 - Possible peer instruction question
 - Discuss [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44). The second milestone is due Friday.
@@ -16,6 +17,7 @@
 
 ### Day 23: Outside of class
 
+- Optional for extra quiz credit: Attend Dr. Karl Schmitt's talk on Thursday, March 19, 2026, from 5:20-6:30 pm in CMIT 316. This is an external speaker - do not be late. If you attend, be sure to complete [EC-3: Form for Feedback on External Speakers](https://docs.google.com/document/d/1fDicpT72DS3dJYffn5sIwedCcvOejTxWVIgovc_qDu4/edit?usp=sharing) and upload it to the Quiz area in Moodle by 8 am on Friday, March 20, 2026.
 - Read [Chapter 5 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=799818) to learn about recursion for **Friday**.
 - Complete milestone 2 of [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44).
 
