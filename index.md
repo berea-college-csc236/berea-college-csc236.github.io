@@ -6,6 +6,18 @@
 
 ---
 
+## Day 24: Friday, March 20, 2026
+
+### Day 24: In class
+
+- Possible peer instruction question or quiz
+- Discuss [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44).
+- Try to complete [T14: Exploring Recursion](https://docs.google.com/document/d/1Qido7yr3NSrx052G3kqQze7PIEIRp9mlPBH3l5BRj5s).
+
+### Day 24: Outside of class
+
+- Complete [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44) which is due Monday.
+
 ## Day 23: Wednesday, March 18, 2026
 ### Day 23: In class
 
