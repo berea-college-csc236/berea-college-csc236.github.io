@@ -15,7 +15,7 @@
 
 ### Day 26: Outside of class
 
-- Complete [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM).
+- Complete Milestone 1 of [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM).
 - Read [Chapter 6 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=799819) on sorting in preparation for a potential reading quiz next time.
 
 ## Day 25: Monday, March 23, 2026
