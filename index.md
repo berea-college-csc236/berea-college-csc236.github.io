@@ -6,6 +6,18 @@
 
 ---
 
+## Day 27: Friday, March 27, 2026
+### Day 27: In class
+
+- Possible quiz or Peer Instruction question
+- Discussion of [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). 
+- Complete [T15: Understanding Recursion](https://docs.google.com/document/d/1Bte8UbQq7NSjy4XMJoEcrs8mtUgnt7jVgMQ12Eb7cmw).
+
+### Day 27: Outside of class
+
+- Complete [A09: What is Hashing?](https://docs.google.com/document/d/1m8a7SQ8TqOgRj7KzthJCtAPVAFr9EO0j1ACYUnTj6gE/edit?usp=sharing)
+- Keep working on [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). Milestone 2 is due on Monday, March 30, 2026.
+
 ## Day 26: Wednesday, March 25, 2026
 ### Day 26: In class
 
