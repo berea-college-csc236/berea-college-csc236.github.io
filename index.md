@@ -16,7 +16,8 @@
 ### Day 27: Outside of class
 
 - Complete [A09: What is Hashing?](https://docs.google.com/document/d/1m8a7SQ8TqOgRj7KzthJCtAPVAFr9EO0j1ACYUnTj6gE/edit?usp=sharing)
-- Keep working on [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). Milestone 2 is due on Monday, March 30, 2026.
+- Keep working on [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). Milestone 2 is due on Wednesday, April 1, 2026.
+- **Reminder**: In L7 there will be a choice of two different environments for L7, but you must choose environment and stick to it. For the faster environment to be an option, you need the Github Student Developer pack, whose set-up was very carefully described in [A00: Getting Started](https://docs.google.com/document/d/12iJBToSMk2A1n2mSdAmwKnFEpFVlnLz73ulsyt0htNM/edit?tab=t.0#bookmark=id.cjh2laqa175g). If you got rejected before and then forgot about it, go back and very, very slowly and methodically follow the directions that I gave there, paying very close attention to each of the details. Rushing through will likely make you miss something important. It cannot be used immediately, so you do need to do this in advance, like now, if you didn't do it in the beginning of the term.
 
 ## Day 26: Wednesday, March 25, 2026
 ### Day 26: In class
