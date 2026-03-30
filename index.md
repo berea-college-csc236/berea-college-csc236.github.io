@@ -16,7 +16,7 @@
 
 ### Day 28: Outside of class
 
-- Complete Milestone 2 of [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM) since Milestone 2 is due on Wednesday, April 1, 2026.
+- Complete Milestone 2 of [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM) since Milestone 2 is due on Wednesday, April 1, 2026.  To meet this milestone, you must have written and pushed the code needed for the completion of the basic algorithm to the repo. However, the basic algorithm might not yet be completely working.
 
 ## Day 27: Friday, March 27, 2026
 ### Day 27: In class
