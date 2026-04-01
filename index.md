@@ -6,6 +6,19 @@
 
 ---
 
+## Day 29: Wednesday, April 1, 2026
+
+### Day 29: In class
+
+- Possible quiz or Peer Instruction question(s)
+- Questions on the lab [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)? The final submission has been extended to Wednesday, April 8, 2026, but if your basic algorihtm is not yet working, it MUST be done by Monday, April 5, 2026 of the second milestone will not have been met.
+- Work hard to complete [T17: Exploring Hashing](https://docs.google.com/document/d/1Rphbo_GvKvKquZtxsSYY__cTF4ZGO4uwNEcA70dN5e0).
+
+### Day 29: Outside of class
+
+- For Monday, read [Chapter 7 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=799820) on sorting in preparation for a potential reading quiz or PI question(s). This is out last chapter reading!
+- Work to complete [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). The final submission has been extended to Wednesday, April 8, 2026. 
+
 ## Day 28: Monday, March 30, 2026
 
 ### Day 28: In class
