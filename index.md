@@ -6,13 +6,28 @@
 
 ---
 
+## Day 30: Monday, April 6, 2026
+
+### Day 30: In class
+
+- Possible quiz or Peer Instruction question(s)
+- Questions on the lab [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)? Completion is due Wednesday.
+- Complete [T17: Exploring Hashing](https://docs.google.com/document/d/1Rphbo_GvKvKquZtxsSYY__cTF4ZGO4uwNEcA70dN5e0). 
+- Begin [T18: Hash Functions and Collisions](https://docs.google.com/document/d/1LAYpzVOzkV2rSydtPBIJ14aQczKQHbne-F_YmyWpEkA).
+
+### Day 30: Outside of class
+
+- Complete [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)
+
+## No class on Friday, April 3, 2026, due to Good Friday.
+
 ## Day 29: Wednesday, April 1, 2026
 
 ### Day 29: In class
 
 - Possible quiz or Peer Instruction question(s)
 - Questions on the lab [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)? The final submission has been extended to Wednesday, April 8, 2026, but if your basic algorihtm is not yet working, it MUST be done by Monday, April 5, 2026 of the second milestone will not have been met.
-- Work hard to complete [T17: Exploring Hashing](https://docs.google.com/document/d/1Rphbo_GvKvKquZtxsSYY__cTF4ZGO4uwNEcA70dN5e0).
+- Begin [T17: Exploring Hashing](https://docs.google.com/document/d/1Rphbo_GvKvKquZtxsSYY__cTF4ZGO4uwNEcA70dN5e0).
 
 ### Day 29: Outside of class
 
