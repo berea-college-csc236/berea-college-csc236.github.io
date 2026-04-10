@@ -6,6 +6,19 @@
 
 ---
 
+## Day 31: Friday, April 10, 2026
+
+### Day 31: In class
+
+- Possible quiz or Peer Instruction question(s)
+- Complete [T18: Hash Functions and Collisions](https://docs.google.com/document/d/1LAYpzVOzkV2rSydtPBIJ14aQczKQHbne-F_YmyWpEkA).
+
+### Day 30: Outside of class
+
+- Complete [A10: How Graphic]()
+
+## no classes on Wednesday, February 8 2026 due to ALL People's of the Earth Day
+
 ## Day 30: Monday, April 6, 2026
 
 ### Day 30: In class
