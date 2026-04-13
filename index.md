@@ -6,6 +6,18 @@
 
 ---
 
+## Day 32: Monday,  April 13, 2026
+
+### Day 32: In class
+
+- Possible PI question
+- Introducing [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)
+- Begin [T19: On Sorting](https://docs.google.com/document/d/1bUGZJNs8ARo3GyLqhumF-bL6slKTrzlZmAVF5RScjAI).
+
+### Day 34: Outside of class
+
+- Read [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw) and bring questions. The environment submission is due by next time and may not be changed.
+
 ## Day 31: Friday, April 10, 2026
 
 ### Day 31: In class
@@ -44,7 +56,7 @@
 
 ### Day 29: Outside of class
 
-- For Monday, read [Chapter 7 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=799820) on sorting in preparation for a potential reading quiz or PI question(s). This is out last chapter reading!
+- For Monday, read [Chapter 7 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=799820) on sorting in preparation for a potential reading quiz or PI question(s). This is our last chapter reading!
 - Work to complete [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). The final submission has been extended to Wednesday, April 8, 2026. 
 
 ## Day 28: Monday, March 30, 2026
