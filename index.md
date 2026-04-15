@@ -6,6 +6,19 @@
 
 ---
 
+## Day 33: Wednesday,  April 15, 2026
+
+### Day 33: In class
+
+- Possible PI question
+- Discussing [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)
+- Complete [T19: On Sorting](https://docs.google.com/document/d/1bUGZJNs8ARo3GyLqhumF-bL6slKTrzlZmAVF5RScjAI).
+
+### Day 34: Outside of class
+
+- Complete milestone 1 of  [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw) and bring questions.
+
+
 ## Day 32: Monday,  April 13, 2026
 
 ### Day 32: In class
