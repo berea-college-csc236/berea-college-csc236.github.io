@@ -18,6 +18,7 @@
 ### Day 34: Outside of class
 
 - Complete [A12: Don't Get Lost in the Trees!](https://docs.google.com/document/d/1ctDtE3cBGo0VSDclWYmlDtyT9RAR812m1yV2UHS0Ow0/edit?usp=sharing).
+- Make progress on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw). Chipping away at this regularly will make it doable. 
 
 ## Day 33: Wednesday,  April 15, 2026
 
