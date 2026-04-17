@@ -6,6 +6,19 @@
 
 ---
 
+## Day 34: Friday,  April 17, 2026
+
+### Day 34: In class
+
+- Possible PI question(s)
+- Discussion of final project
+- Any questions on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)?
+- Begin [T20: Recursive Sorting](https://docs.google.com/document/d/1Zvcu_nvpkPZfn4wDhPEM7ub96dj7vb0LB9lIly3DjZs)
+
+### Day 34: Outside of class
+
+- Complete [A12: Don't Get Lost in the Trees!](https://docs.google.com/document/d/1ctDtE3cBGo0VSDclWYmlDtyT9RAR812m1yV2UHS0Ow0/edit?usp=sharing).
+
 ## Day 33: Wednesday,  April 15, 2026
 
 ### Day 33: In class
@@ -14,7 +27,7 @@
 - Discussing [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)
 - Complete [T19: On Sorting](https://docs.google.com/document/d/1bUGZJNs8ARo3GyLqhumF-bL6slKTrzlZmAVF5RScjAI).
 
-### Day 34: Outside of class
+### Day 33: Outside of class
 
 - Complete milestone 1 of  [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw) and bring questions.
 
