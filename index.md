@@ -6,6 +6,21 @@
 
 ---
 
+## Day 35: Monday,  April 20, 2026
+
+### Day 35: In class
+
+- Practice technical interview question(s)
+- Discussion of final project
+- Any questions on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)?
+- Complete [T20: Recursive Sorting](https://docs.google.com/document/d/1Zvcu_nvpkPZfn4wDhPEM7ub96dj7vb0LB9lIly3DjZs)
+- Read [Project Topics](https://docs.google.com/document/d/1J3dQ7vviL7z9zka9YjCepnXi3JqU0E9jVRpQ74p8r0Y/edit?tab=t.0#heading=h.ul61tt1vbhn9) and prioritize your interests
+
+### Day 35: Outside of class
+
+- Make appointment for first technical interview.
+- Make progress on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw). Chipping away at this regularly will make it doable. 
+
 ## Day 34: Friday,  April 17, 2026
 
 ### Day 34: In class
