@@ -10,7 +10,8 @@
 
 ### Day 35: In class
 
-- Practice technical interview question(s)
+- Discuss exam date
+- Discuss technical interview timing and do practice technical interview question(s)
 - Discussion of final project
 - Any questions on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)?
 - Complete [T20: Recursive Sorting](https://docs.google.com/document/d/1Zvcu_nvpkPZfn4wDhPEM7ub96dj7vb0LB9lIly3DjZs)
