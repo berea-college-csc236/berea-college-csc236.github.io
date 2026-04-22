@@ -5,6 +5,19 @@
 ### Berea College Spring 2026 Offering
 
 ---
+## Day 36: Wednesday,  April 22, 2026
+
+### Day 36: In class
+
+- The second exam will be Friday, May 1
+- Discuss ways to reduce the stresses of this time of the term
+- Begin work on final project
+- Any questions on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)?
+
+### Day 36: Outside of class
+
+- Make progress on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw). Chipping away at this regularly will make it doable. 
+- Do homework for the final project.
 
 ## Day 35: Monday,  April 20, 2026
 
