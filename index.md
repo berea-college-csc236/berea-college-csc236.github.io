@@ -6,6 +6,19 @@
 
 ---
 
+## Day 38: Monday, April 27, 2026
+
+### Day 38: In class
+
+- possible peer instruction question(s)
+- Discuss the final project and [Final Project Requirements](https://docs.google.com/document/d/15JyajlDZ2-LW9KPa-DKm5LZSXBN10lFX6OzK4ryG4uA/edit?tab=t.0#heading=h.c1x99npetnfu)
+- Complete [FP2: Making Progress on the Project](https://docs.google.com/document/d/1L2axw33YzWMGzPS1zUv1WoqepfmFIhdndG9zveKL-PY/edit?usp=sharing)
+
+### Day 38: Outside of class
+
+- Complete homework assigned in [FP2: Making Progress on the Project](https://docs.google.com/document/d/1L2axw33YzWMGzPS1zUv1WoqepfmFIhdndG9zveKL-PY/edit?usp=sharing)
+- Study for the upcoming exam
+
 ## Day 37: Friday,  April 24, 2026
 
 ### Day 37: In class
