@@ -48,7 +48,7 @@
 ### Day 36: Outside of class
 
 - Make progress on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw). Chipping away at this regularly will make it doable. 
-- Do homework for the final project.
+- Do homework for the final project and - Begin work on final project, submitting and by completing all assigned homework from [FP1:Initial Planning and Preliminary Video Script](https://docs.google.com/document/d/19AV9PxfdqBvBxsBTA1kcftHv5ptQS8bL_skejQpDZhE/edit?usp=sharing)
 
 ## Day 35: Monday,  April 20, 2026
 
