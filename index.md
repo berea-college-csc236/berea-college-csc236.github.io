@@ -6,6 +6,22 @@
 
 ---
 
+## Reminder: Exam E2 us Friday, May 1, 2026.
+
+## Day 39: Wednesday, April 29, 2026
+
+### Day 39: In class
+
+- possible peer instruction question(s) if requested
+- Discuss the second exam, which is this coming Friday, May 1, 2026. It will cover all material since the first exam, but with a focus on the material since the first exam.
+- Final project updates
+- Complete [FP2: Making Progress on the Project](https://docs.google.com/document/d/1L2axw33YzWMGzPS1zUv1WoqepfmFIhdndG9zveKL-PY/edit?usp=sharing)
+
+### Day 39: Outside of class
+
+- Study for the upcoming exam
+- Plan our project completion.
+
 ## Day 38: Monday, April 27, 2026
 
 ### Day 38: In class
