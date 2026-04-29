@@ -6,7 +6,7 @@
 
 ---
 
-## Reminder: Exam E2 us Friday, May 1, 2026.
+## Reminder: Exam E2 is Friday, May 1, 2026.
 
 ## Day 39: Wednesday, April 29, 2026
 
