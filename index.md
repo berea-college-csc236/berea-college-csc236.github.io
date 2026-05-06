@@ -6,7 +6,15 @@
 
 ---
 
-## Reminder: Exam E2 is Friday, May 1, 2026.
+## Day 41: Wednesday, May 6, 2026 - Presentation Day @ 8:30 am!
+
+### Day 41: In class
+
+- Complete [A12: Peer Instruction Survey II](https://forms.gle/qC7mo5FQhgXpZdLt5)
+- Complete [FPE: Project Evaluations](https://forms.gle/b29ysBp5qDfKAoKaA)
+- Final project presentations - See [2026 Spring Project Videos](https://www.youtube.com/watch?v=a0yXWcw7glo&list=PLDdBC-S25y3r7frTG45xSH0MnrzIqAWZn)
+
+## Day 40: Exam E2 is Friday, May 1, 2026.
 
 ## Day 39: Wednesday, April 29, 2026
 
@@ -20,7 +28,8 @@
 ### Day 39: Outside of class
 
 - Study for the upcoming exam
-- Plan our project completion.
+- Plan our project completion
+- Attend teaching talk on Thursday if you have not already attended 2 or more talks. The talk is Thursday, April 30, 2026, from 5:15-6:15 pm in CMIT 316.
 
 ## Day 38: Monday, April 27, 2026
 
