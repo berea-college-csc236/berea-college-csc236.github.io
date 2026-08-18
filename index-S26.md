@@ -1,0 +1,595 @@
+# CSC 236: Data Structures Website, Berea College
+
+## Dr. Jan Pearce
+
+### Berea College Spring 2026 Offering
+
+---
+
+## Day 41: Wednesday, May 6, 2026 - Presentation Day @ 8:30 am!
+
+### Day 41: In class
+
+- Complete [A12: Peer Instruction Survey II](https://forms.gle/qC7mo5FQhgXpZdLt5)
+- Complete [FPE: Project Evaluations](https://forms.gle/b29ysBp5qDfKAoKaA)
+- Final project presentations - See [2026 Spring Project Videos](https://www.youtube.com/watch?v=a0yXWcw7glo&list=PLDdBC-S25y3r7frTG45xSH0MnrzIqAWZn)
+
+## Day 40: Exam E2 is Friday, May 1, 2026.
+
+## Day 39: Wednesday, April 29, 2026
+
+### Day 39: In class
+
+- possible peer instruction question(s) if requested
+- Discuss the second exam, which is this coming Friday, May 1, 2026. It will cover all material since the first exam, but with a focus on the material since the first exam.
+- Final project updates
+- Complete [FP2: Making Progress on the Project](https://docs.google.com/document/d/1L2axw33YzWMGzPS1zUv1WoqepfmFIhdndG9zveKL-PY/edit?usp=sharing)
+
+### Day 39: Outside of class
+
+- Study for the upcoming exam
+- Plan our project completion
+- Attend teaching talk on Thursday if you have not already attended 2 or more talks. The talk is Thursday, April 30, 2026, from 5:15-6:15 pm in CMIT 316.
+
+## Day 38: Monday, April 27, 2026
+
+### Day 38: In class
+
+- possible peer instruction question(s)
+- Discuss the final project and [Final Project Requirements](https://docs.google.com/document/d/15JyajlDZ2-LW9KPa-DKm5LZSXBN10lFX6OzK4ryG4uA/edit?tab=t.0#heading=h.c1x99npetnfu)
+- Complete [FP2: Making Progress on the Project](https://docs.google.com/document/d/1L2axw33YzWMGzPS1zUv1WoqepfmFIhdndG9zveKL-PY/edit?usp=sharing)
+
+### Day 38: Outside of class
+
+- Complete homework assigned in [FP2: Making Progress on the Project](https://docs.google.com/document/d/1L2axw33YzWMGzPS1zUv1WoqepfmFIhdndG9zveKL-PY/edit?usp=sharing)
+- Study for the upcoming exam
+
+## Day 37: Friday,  April 24, 2026
+
+### Day 37: In class
+
+- Discuss optional technical interviews and how they will be used to potentially increase lowest exam score
+- Discuss upcoming exam
+- Last questions on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw), which is due Monday!
+- Before the end of class today, complete and submit [TR2 Peerwise Review for E2](https://docs.google.com/document/d/1AKBUi_i1XsbP6Aidb5rqQifVveU4rQSpBK-pKVGy8Yc/edit?tab=t.0#heading=h.xnd3q926ztgg).
+    - submit your pdf to Moodle, AND
+    - submit your questions to Peerwise
+ - **Note that due to the nature of this teamwork, it may NOT be submitted late or completed alone.**
+
+### Day 37: Outside of class
+
+  -  Complete and submit [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw).
+  
+
+## Day 36: Wednesday,  April 22, 2026
+
+### Day 36: In class
+
+- The second exam will be Friday, May 1
+- Discuss ways to reduce the stresses of this time of the term - decided to make techical interviews optional to be used to potentially increase lowest exam score
+- Begin work on final project, by completing all assigned homework from [FP1:Initial Planning and Preliminary Video Script](https://docs.google.com/document/d/19AV9PxfdqBvBxsBTA1kcftHv5ptQS8bL_skejQpDZhE/edit?usp=sharing)
+- Any questions on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)?
+
+### Day 36: Outside of class
+
+- Make progress on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw). Chipping away at this regularly will make it doable. 
+- Do homework for the final project and - Begin work on final project, submitting and by completing all assigned homework from [FP1:Initial Planning and Preliminary Video Script](https://docs.google.com/document/d/19AV9PxfdqBvBxsBTA1kcftHv5ptQS8bL_skejQpDZhE/edit?usp=sharing)
+
+## Day 35: Monday,  April 20, 2026
+
+### Day 35: In class
+
+- Discuss exam date - Friday, May 1
+- Discuss technical interview timing and do practice technical interview question(s)
+- Discussion of final project
+- Any questions on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)?
+- Complete [T20: Recursive Sorting](https://docs.google.com/document/d/1Zvcu_nvpkPZfn4wDhPEM7ub96dj7vb0LB9lIly3DjZs)
+
+### Day 35: Outside of class
+
+- Make appointment for first technical interview.
+- Make progress on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw). Chipping away at this regularly will make it doable. 
+- Read [Project Topics](https://docs.google.com/document/d/1J3dQ7vviL7z9zka9YjCepnXi3JqU0E9jVRpQ74p8r0Y/edit?tab=t.0#heading=h.ul61tt1vbhn9) and prioritize your interests
+
+## Day 34: Friday,  April 17, 2026
+
+### Day 34: In class
+
+- Possible PI question(s)
+- Discussion of final project
+- Any questions on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)?
+- Begin [T20: Recursive Sorting](https://docs.google.com/document/d/1Zvcu_nvpkPZfn4wDhPEM7ub96dj7vb0LB9lIly3DjZs)
+
+### Day 34: Outside of class
+
+- Complete [A12: Don't Get Lost in the Trees!](https://docs.google.com/document/d/1ctDtE3cBGo0VSDclWYmlDtyT9RAR812m1yV2UHS0Ow0/edit?usp=sharing).
+- Make progress on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw). Chipping away at this regularly will make it doable. 
+
+## Day 33: Wednesday,  April 15, 2026
+
+### Day 33: In class
+
+- Possible PI question
+- Discussing [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)
+- Complete [T19: On Sorting](https://docs.google.com/document/d/1bUGZJNs8ARo3GyLqhumF-bL6slKTrzlZmAVF5RScjAI).
+
+### Day 33: Outside of class
+
+- Complete milestone 1 of  [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw) and bring questions.
+
+
+## Day 32: Monday,  April 13, 2026
+
+### Day 32: In class
+
+- Possible PI question
+- Introducing [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)
+- Begin [T19: On Sorting](https://docs.google.com/document/d/1bUGZJNs8ARo3GyLqhumF-bL6slKTrzlZmAVF5RScjAI).
+
+### Day 34: Outside of class
+
+- Read [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw) and bring questions. The environment submission is due by next time and may not be changed.
+
+## Day 31: Friday, April 10, 2026
+
+### Day 31: In class
+
+- Possible quiz or Peer Instruction question(s)
+- Complete [T18: Hash Functions and Collisions](https://docs.google.com/document/d/1LAYpzVOzkV2rSydtPBIJ14aQczKQHbne-F_YmyWpEkA).
+
+### Day 31: Outside of class
+
+- Complete [A10: How Graphic](https://docs.google.com/document/d/1fNFM1cSfXSV8sgLINnaA7YMzIN8GEvq1aFQ-EzmW3lk/edit?usp=sharing)
+
+## no classes on Wednesday, February 8 2026 due to ALL People's of the Earth Day
+
+## Day 30: Monday, April 6, 2026
+
+### Day 30: In class
+
+- Possible quiz or Peer Instruction question(s)
+- Questions on the lab [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)? Completion is due Wednesday.
+- Complete [T17: Exploring Hashing](https://docs.google.com/document/d/1Rphbo_GvKvKquZtxsSYY__cTF4ZGO4uwNEcA70dN5e0). 
+- Begin [T18: Hash Functions and Collisions](https://docs.google.com/document/d/1LAYpzVOzkV2rSydtPBIJ14aQczKQHbne-F_YmyWpEkA).
+
+### Day 30: Outside of class
+
+- Complete [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)
+
+## No class on Friday, April 3, 2026, due to Good Friday.
+
+## Day 29: Wednesday, April 1, 2026
+
+### Day 29: In class
+
+- Possible quiz or Peer Instruction question(s)
+- Questions on the lab [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)? The final submission has been extended to Wednesday, April 8, 2026, but if your basic algorihtm is not yet working, it MUST be done by Monday, April 5, 2026 of the second milestone will not have been met.
+- Begin [T17: Exploring Hashing](https://docs.google.com/document/d/1Rphbo_GvKvKquZtxsSYY__cTF4ZGO4uwNEcA70dN5e0).
+
+### Day 29: Outside of class
+
+- For Monday, read [Chapter 7 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=799820) on sorting in preparation for a potential reading quiz or PI question(s). This is our last chapter reading!
+- Work to complete [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). The final submission has been extended to Wednesday, April 8, 2026. 
+
+## Day 28: Monday, March 30, 2026
+
+### Day 28: In class
+
+- Possible quiz or peer instruction questions
+- Questions on the lab [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM)? The second milestone is due next time.
+- Complete [T16: Searching](https://docs.google.com/document/d/1tYBkApVgtJaTdGhd1KCYprnOyZyP5FyKvSmw5gcCa84)
+
+### Day 28: Outside of class
+
+- Complete Milestone 2 of [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM) since Milestone 2 is due on Wednesday, April 1, 2026.  To meet this milestone, you must have written and pushed the code needed for the completion of the basic algorithm to the repo. However, the basic algorithm might not yet be completely working.
+
+## Day 27: Friday, March 27, 2026
+### Day 27: In class
+
+- Possible quiz or Peer Instruction question
+- Discussion of [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). 
+- Complete [T15: Understanding Recursion](https://docs.google.com/document/d/1Bte8UbQq7NSjy4XMJoEcrs8mtUgnt7jVgMQ12Eb7cmw).
+
+### Day 27: Outside of class
+
+- Complete [A09: What is Hashing?](https://docs.google.com/document/d/1m8a7SQ8TqOgRj7KzthJCtAPVAFr9EO0j1ACYUnTj6gE/edit?usp=sharing)
+- Keep working on [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). Milestone 2 is due on Wednesday, April 1, 2026.
+- **Reminder**: In L7 there will be a choice of two different environments for L7, but you must choose environment and stick to it. For the faster environment to be an option, you need the Github Student Developer pack, whose set-up was very carefully described in [A00: Getting Started](https://docs.google.com/document/d/12iJBToSMk2A1n2mSdAmwKnFEpFVlnLz73ulsyt0htNM/edit?tab=t.0#bookmark=id.cjh2laqa175g). If you got rejected before and then forgot about it, go back and very, very slowly and methodically follow the directions that I gave there, paying very close attention to each of the details. Rushing through will likely make you miss something important. It cannot be used immediately, so you do need to do this in advance, like now, if you didn't do it in the beginning of the term.
+
+## Day 26: Wednesday, March 25, 2026
+### Day 26: In class
+
+- Possible Peer Instruction question
+- Dealing with issues in and discussion of [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). 
+- Begin [T15: Understanding Recursion](https://docs.google.com/document/d/1Bte8UbQq7NSjy4XMJoEcrs8mtUgnt7jVgMQ12Eb7cmw).
+
+### Day 26: Outside of class
+
+- Complete Milestone 1 of [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM).
+- Read [Chapter 6 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=799819) on sorting in preparation for a potential reading quiz next time.
+
+## Day 25: Monday, March 23, 2026
+### Day 25: In class
+
+- Possible quiz or peer instruction question
+- Discuss [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44).
+- Complete [T14: Exploring Recursion](https://docs.google.com/document/d/1Qido7yr3NSrx052G3kqQze7PIEIRp9mlPBH3l5BRj5s).
+
+### Day 25: Outside of class
+
+- Complete the planning doc and milestone 1 of [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM).
+
+## Day 24: Friday, March 20, 2026
+
+### Day 24: In class
+
+- Possible peer instruction question or quiz
+- Discuss [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44).
+- Try to complete [T14: Exploring Recursion](https://docs.google.com/document/d/1Qido7yr3NSrx052G3kqQze7PIEIRp9mlPBH3l5BRj5s).
+
+### Day 24: Outside of class
+
+- Complete [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44) which is due Monday.
+
+## Day 23: Wednesday, March 18, 2026
+### Day 23: In class
+
+- TA position in CS?
+- Discuss homework
+- Possible peer instruction question
+- Discuss [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44). The second milestone is due Friday.
+- Complete [T13: Circling Back to Circular Linked Lists](https://docs.google.com/document/d/18y3Y_DldzoHN8KqVbODXm2ojXxet3Xc1pAm9StJlt5k).
+
+### Day 23: Outside of class
+
+- Optional for extra quiz credit: Attend Dr. Karl Schmitt's talk on Thursday, March 19, 2026, from 5:20-6:30 pm in CMIT 316. This is an external speaker - do not be late. If you attend, be sure to complete [EC-3: Form for Feedback on External Speakers](https://docs.google.com/document/d/1fDicpT72DS3dJYffn5sIwedCcvOejTxWVIgovc_qDu4/edit?usp=sharing) and upload it to the Quiz area in Moodle by 8 am on Friday, March 20, 2026.
+- Read [Chapter 5 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=799818).
+- Complete milestone 2 of [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44).
+
+## Day 22: Monday, March 16, 2026
+### Day 22: In class
+
+- Possible peer instruction question
+- Discuss [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44). The second milestone is due Friday.
+- Begin [T13: Circling Back to Circular Linked Lists](https://docs.google.com/document/d/18y3Y_DldzoHN8KqVbODXm2ojXxet3Xc1pAm9StJlt5k).
+
+### Day 22: Outside of class
+
+- Complete [A08: Thinking Recursively](https://docs.google.com/document/d/1rLwgk3XXBBZx-rXkoq20jws50gtztj24NBz_M8b42VQ/edit?usp=sharing).
+- Keep working on [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44). The second milestone is due on Friday, March 20, 2026, and the final submission is due on Monday, March 23, 2026.
+
+## Day 21: Friday, March 13, 2026
+
+### Day 21: In class
+
+- Possible quiz or Peer Instruction question
+- Complete [T12: Exploring Linked Lists](https://docs.google.com/document/d/1b4UHkIDdldDGyat5QdZ0FFzOFZKaubeOGuz-jsPR4I0).
+
+### Day 21: Outside of class
+
+- Complete [A07: Considering Diversity in Tech](https://docs.google.com/document/d/1GgQ0yrnytucqukz-ypOvNld4sJ4c4UNH_IkJkh3046Y/edit?usp=sharing)
+- Keep working on [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44). The second milestone is due on Friday, March 20, 2026, and the final submission is due on Monday, March 23, 2026.
+
+## Day 20: Wednesday, March 11, 2026
+
+### Day 20: In class
+
+- Potential quiz or peer-instruction question(s) on reading/videos
+- Discuss [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44)/ The first milesone is due on Friday.
+- Complete [T11: Introduction to Circular Linked Lists](https://docs.google.com/document/d/1uvElflLI-S0S3spkfCkquwi3ZgIEgM49vF9NeTPmN30/edit?usp=sharing) with your current team. This is due by 8 am on Friday, March 13, 2026.
+
+### Day 20: Outside of class
+
+- Complete Milestone one of [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44)
+
+## Day 19: Monday, March 9, 2026
+
+### Day 19: In class
+
+- Peer-instruction question(s) or quiz
+- Discuss [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8).
+- Introduction of [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44)
+- Begin [T11: Introduction to Circular Linked Lists](https://docs.google.com/document/d/1uvElflLI-S0S3spkfCkquwi3ZgIEgM49vF9NeTPmN30/edit?usp=sharing)
+
+### Day 19: Outside of class
+
+- If you have not already done so, complete  [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) by ~~Monday, March 9, 2026~~ Wednesday, March 11, 2026.
+- Read [Chapter 4 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=799817) to learn more deeply about linked lists.
+- Begin [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44) by reading the Google Doc and the codebase. Bring questions to class on Wednesday. 
+
+## Day 18: Friday, February 27, 2026
+
+### Day 18: In class
+
+- Exam E1
+
+### Day 18: Outside of class
+
+- Complete milestones and submission for [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) by Monday, March 9, 2026. The second milestone has a soft deadline, but it should be at least two days before the final submission, and the final submission. Note that in past years students have found debugging this lab to be challenging.
+- Complete [A07: A Simple Introduction To Linked Lists](https://docs.google.com/document/d/1r5316kQR2qmtEWYqUaPVcXp_yrIuPQV61RUAy_sj5KU). This is also due by 8 am on Monday, March 9, 2026. This is a simple introduction to linked lists, the topic of the next chapter. The chapter reading is open, but not due until Wednesday, March 11, 2026.
+
+### Announcement: The first exam will be on Friday, February 27, 2026. Do not plan to leave early for spring break.
+
+## Day 17: Wednesday, February 25, 2026
+
+### Day 17: In class
+
+- Discussion of the first exam structure and advice on how to prepare for it.
+- Questions on [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8).
+- Peer-instruction questions and other review for the first exam.
+
+### Day 17: Outside of class
+
+- Study for the exam, which is Friday.
+- Have a great break!
+- Complete milestones and submission for [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8) by Monday, March 9, 2026. The second milestone has a soft deadline, but it should be at least two days before the final submission, and the final submission. Note that in past years students have found debugging this lab to be challenging.
+- Complete [A07: A Simple Introduction To Linked Lists](https://docs.google.com/document/d/1r5316kQR2qmtEWYqUaPVcXp_yrIuPQV61RUAy_sj5KU). This is also due by 8 am on Monday, March 9, 2026. This is a simple introduction to linked lists, the topic of the next chapter. The chapter reading is open, but not due until Wednesday, March 11, 2026.
+
+
+## Day 16: Monday, February 23, 2026
+
+### Day 16: In class
+
+- Peer-instruction question(s)
+- Introducing [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8)
+- Complete structured review [TR1: E1 Review](https://docs.google.com/document/d/1AKBUi_i1XsbP6Aidb5rqQifVveU4rQSpBK-pKVGy8Yc)
+  - Submit your pdf to Moodle
+  - Submit your questions to Peerwise asap but for certain by 8 am tomorrow (Tuesday, February 24, 2026) Note that if this is not done by then, you will not get full credit for the teamwork.
+  - **Note that due to the nature of this teamwork, it cannot be completed late or alone.**
+
+### Day 18: Outside of class
+
+- Complete structured review [TR1: E1 Review](https://docs.google.com/document/d/1AKBUi_i1XsbP6Aidb5rqQifVveU4rQSpBK-pKVGy8Yc) including improvement of questions.
+  - Submit your pdf to Moodle
+  - Submit your questions to Peerwise asap but for certain by 8 am tomorrow (Tuesday, February 24, 2026)
+- Complete Milestone 1 including the design document submission for [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8). Note that in past years students have found debugging this lab to be challenging, but completing the design document and meeting the first milestone is not difficult. The second milestone is soft and the final milestones is due after Spring Break.
+- Complete [A05: Peer Instruction Consent Form](https://forms.gle/qTV49iJsni2XXsWr9) also for Wednesday. As long as you do it, this is basically a free 5 points on your homework because it will not take very long.
+
+## Day 15: Friday, February 20, 2026
+
+### Day 15: In class
+
+- Final questons on [L3: Virtual Pets](https://moodle.berea.edu/mod/assign/view.php?id=695005).
+- Complete and submit [T10: Stacks, Queues, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw/edit?usp=sharing)
+
+### Day 15: Outside of class
+
+- Complete [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) which is due Monday, February 23 at 8 am.
+
+
+## Day 14: Wednesday, February 18, 2026
+
+### Day 14: In class
+
+- Possible quiz or peer-instruction question(s)
+- Questions on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E)
+- Complete [T09: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8)
+- Begin [T10: Stacks, Queues, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw/edit?usp=sharing) which we will finish on Friday.
+
+### Day 14: Outside of class
+
+- Read [Sections 3.10-3.22 in our Data Structures textbook](https://moodle.berea.edu/mod/lti/view.php?id=772220) plus do questions by 8 am Friday. 
+- The final completion of [L3: Virtual Pets](https://moodle.berea.edu/mod/assign/view.php?id=695005) has been extended to Monday, so keep working on it!
+
+## Day 13: Monday, February 16, 2026
+
+### Day 13: In class
+
+- Possible peer-instruction question(s)
+- Questions on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E/edit?usp=sharing)? The fully completed lab's due date has been extended to Monday.
+- Begin [T09: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8)
+
+### Day 13: Outside of class
+
+- Read [Sections 3.1-3.9 in our Data Structures textbook](https://moodle.berea.edu/mod/lti/view.php?id=799815) and do the extra questions in preparation for a possible reading quiz.
+- Extra credit opportunity: Another talk is TODAY, Monday, February 16, 5:15-6:15 pm, in CMIT 316
+Title: "Modularity and the Hidden Environmental Impacts of Computing"
+Potential faculty candidate - we need your feedback!
+Pizza will be provided, but if you want pizza, please come by 5:10.
+EC-2: The Prompt for Teaching Talk #2  isdue by Wednesday at 8 am
+Please note that for full credit, you must submit an exemplary reflection and also come ON TIME and stay engaged for the entire time. (You will not get exemplary if you come late, leave early, are on your phone or laptop, etc.)
+
+## Day 12: Friday, February 13, 2026
+
+### Day 12: In class
+
+- Possible peer-instruction question(s) or quiz
+- Questions on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E/edit?usp=sharing). Discuss [T07: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE).
+- Complete [T08: How Long will this Take?](https://docs.google.com/document/d/1_vzhbJdc5-bmYi1CLpMEgA7WM1c4wXH0EwFb_JOJPek/edit?usp=sharing).
+
+### Day 12: Outside of class
+
+- Questions on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E/edit?usp=sharing)? Milestone 2 is due Monday, February 16 at 8 am.
+
+## Day 11: Wednesday, February 11, 2026
+
+### Day 11: In class
+
+- Possible quiz or peer instruction question(s) on reading/videos.
+- Explanation of Exponentials and Logarithms
+- Questions on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E/edit?usp=sharing)? The first milestone is due Friday.
+- Complete [T07: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE).
+
+### Day 11: Outside of class
+
+- Read [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E/edit?usp=sharing), possibly find a partner and bring questions to class on Wednesday. The first milestone is due Friday. 
+- By Friday [Chapter 2 Reading on Big O](https://moodle.berea.edu/mod/lti/view.php?id=799814) and do all activities in preparation for a potential reading quiz. **This is one of the most important topics in the entire course; you might try to find time to read it twice!**
+
+## Day 10: Monday, February 9, 2026
+
+### Day 10: In class
+
+- Possible quiz or peer instruction question
+- Debrief on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q).
+- Introduction of Introduction of [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E/edit?usp=sharing), possibly with a partner. The first milestone is due Friday.
+- Discuss [A03: AI and Learning](https://docs.google.com/document/d/1SdnNB_qRGWaYCHKx__J5lhBfhisxNhgVlY2qa0oCr34/edit?usp=sharing)
+- Complete [T06: Understanding OOP and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4).
+
+### Day 10: Outside of class
+
+- Complete [A04: Videos and Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU). Note that this is an introduction to the most and most conceptually difficult concept in the course. 
+- Read [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E/edit?usp=sharing), possibly find a partner and bring questions to class on Wednesday. The first milestone is due Friday. 
+- By Friday [Chapter 2 Reading on Big O](https://moodle.berea.edu/mod/lti/view.php?id=772218) and do all activities in preparation for a potential reading quiz. **This is one of the most important topics in the entire course; you might try to find time to read it twice!**
+
+## Day 9: Friday, February 6, 2026
+
+### Day 9: In class
+
+- Meme show!
+- Possible peer instruction question
+- Discuss [T05: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag)
+- Questions on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q). The full lab is due Monday.
+- Begin [T06: Understanding OOP and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4), which we will finish on Monday.
+
+### Day 9: Outside of class
+
+- Complete [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q) which is due Monday.
+- Complete [A03: AI and Learning](https://docs.google.com/document/d/1SdnNB_qRGWaYCHKx__J5lhBfhisxNhgVlY2qa0oCr34/edit?usp=sharing) It is also due Monday.
+
+## Day 8: Wednesday, February 4, 2026
+
+### Day 8: In class
+
+- Possible peer instruction or quiz on OOP
+- Questions on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q). The second milestone is due Friday, and the full lab is due Monday.
+- Complete and submit [T05: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag)
+
+### Day 8: Outside of class
+
+- Milestone 2: Try to complete [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q) by next time. The second milestone is due Friday, and the full lab is due Monday. Be to commit and push and also submit your link to Moodle.
+- Complete [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing) if you have not already done so. It is **now due Friday, February 6**. 
+- If you have time, begin - Complete [A03: AI and Learning](https://docs.google.com/document/d/1SdnNB_qRGWaYCHKx__J5lhBfhisxNhgVlY2qa0oCr34/edit?usp=sharing). It is due next week.
+
+## Day 7: February 2, 2026
+
+### Day 7: In class
+
+- Art Show! Share your loopy graphics with the class.
+- Introduction to [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q).
+- Begin [T05: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag), which we will likely need to complete next time.
+
+### Day 7: Outside of class
+
+- Begin [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q). This is an individual lab that has Milestone 1 due Wednesday, the second milestone due Friday, and the full lab due on Monday, February 9.
+- Complete [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing) if you have not already done so. It is **now due Friday, February 6**. 
+
+## Day 6: Friday, January 30, 2026 
+
+### Day 6: In class
+
+- Possible peer instruction or quiz on OOP
+- Discuss previous quizzes.
+- Discuss  [A02: OOP Principles](https://docs.google.com/document/d/1uH5vpyvL1rCLsmI14D3LIgUo2Q-0fCCdclOz2ZAk1Eg).
+- Discuss any questions on [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c)
+- Complete [T04: Fraction Class Understanding and Enhancement](https://docs.google.com/document/d/1NtnYd2AoMkVUivbEXej9DhO9SI1gJOD3z4ar9KneXbM/edit?tab=t.0#heading=h.c1x99npetnfu) if you did not complete it in class on Wednesday.
+
+### Day 6: Outside of class
+
+- Complete [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c) by Monday at 8 AM, **being sure to submit a link to your repository in Moodle**.
+- Complete [T04: Fraction Class Understanding and Enhancement](https://docs.google.com/document/d/1NtnYd2AoMkVUivbEXej9DhO9SI1gJOD3z4ar9KneXbM/edit?tab=t.0#heading=h.c1x99npetnfu) if you did not complete it in class.
+- At next very earliest convenience, complete [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing) if you have not already done so. It has been posted a long time now. It is **now due Friday, February 6**. PLEASE do NOT wait until the night before it is due because the assignment requires individual time with the TA, and there are only two TAs in the lab each night. They may not be able to accommodate everyone who waits until the last minute, and they have been instructed to give each student their full attention, so they will not be able to be rushed.
+
+## Day 5: Wednesday, January 28, 2026 
+
+### Day 5: In class
+
+- Discuss all questions posted on Slack in advance about Chapter 1 on OOP
+- Possible quiz or peer instruction questions
+- Discussion of reading on OOP principles and C-Turtle
+- Art show! Share your ASCII art with the class.
+- Introduction of [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c/edit?usp=sharing)
+- Complete [T04: Fraction Class Understanding and Enhancement](https://docs.google.com/document/d/1NtnYd2AoMkVUivbEXej9DhO9SI1gJOD3z4ar9KneXbM/edit?tab=t.0#heading=h.c1x99npetnfu).
+
+### Day 5: Outside of class
+
+- Read [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c/edit?usp=sharing) and do the first milestone (due Friday). The final submission is due Monday.
+- Read, complete, and submit [A02: OOP Principles](https://docs.google.com/document/d/1uH5vpyvL1rCLsmI14D3LIgUo2Q-0fCCdclOz2ZAk1Eg) for Friday.
+- Don't forget to do [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing). ~~It is due Wednesday, January 28 at 8 am.~~ The due date is extended to Friday, January 30 at 8 am due to weather challenges and campus closures. 
+
+## Monday, January 26, 2026: no class due to ice day
+
+## Day 4: Friday, Jauary 23, 2026
+
+### Day 4: In class
+
+- Possible quiz or peer instruction question
+- In Runestone change courses to **bc_cppds_s26**. We have a reading out of this book for Monday.
+- Questions on [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8) which is due Monday. (Reminders about escaping backslashes and quotes.)
+- Demo of debugging in Visual Studio
+- Complete [Teamwork T03:  Debugging Techniques](https://docs.google.com/document/d/1T0BS2SzKxoOXg_EpfDCpFd8UG219_Jbqzl8W1kogtcc/edit?usp=sharing). 
+- Work on [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8).
+
+### Day 4: Outside of class
+
+- Complete [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). The final submission is due on Monday.
+- The next textbook reading is on object-oriented programming in C++ in the main textbook for the course. It is a bit longer than the readings in the transition book, and you may find it more conceptually challenging. Again, you will need to be logged in to Moodle to get credit for the reading. The reading is on the latter part of Chapter 1 in the Runestone book **bc_cppds_s26** and is due Monday. See [R04: Read 1.5, 1.6, and 1.12-1.15 plus questions](https://moodle.berea.edu/mod/lti/view.php?id=814019). Note that the reading is only six sections of the first chapter plus questions.
+- At your convenience, do [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing), which is due Wednesday, January 28 at 8 am. The TAs are eager to meet you.
+
+## Day 3: Wednesday, January 21, 2026
+
+### Day 3: In class
+
+- Possible quiz or peer instruction question
+- Discuss [Teamwork T01: Visual Studio, Github, and ASCII Art](https://docs.google.com/document/d/1Bz1sbwxid1ydkSHaO5nDMpMgzwa29Py6zzTlWGUvBzM)
+- Discuss [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8) which is due Monday, but the first milestone is due Friday. (Be sure to read the hints in the lab on escaping backslashes and quotes!)
+- show primer on branches in Github
+- Complete [Teamwork T02: Collaboration via Branches](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ) with a partner in class.
+
+### Day 3: Outside of class
+
+- Read [Chapters 6, 7, and 8 in C++ for Python Programmers](https://moodle.berea.edu/mod/lti/view.php?id=799812) for a possible reading quiz next class. Be sure you go through Moodle and do all the exercises to get credit!
+- Complete the first milestone for [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). The final submission is due on Monday.
+- Fix any challenges you have had with the first two readings by going through Moodle. See your grades in Moodle and make them perfect by doing everything!
+- At your convenience, do [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing), which is due Friday, September 5 at 8 am. The TAs are eager to meet you.
+- If you went to the extra credit talk on Tuesday, be sure to complete [EC-1: Form for Feedback on External Speakers](https://docs.google.com/document/d/1fDicpT72DS3dJYffn5sIwedCcvOejTxWVIgovc_qDu4/edit?usp=sharing) and upload to the Quiz area in Moodle by 8 am Friday.
+
+## Reminder: No class on Monday, January 19, 2026 - Martin Luther King, Jr. Day!
+
+## Day 2: Friday, January 16, 2026
+
+### Day 2: In class
+
+- Debrief on homework and reading. Remember that I give participation points for doing the reading on-time in preparation for class, and the additional questions by 8 am. (If you do not currently have full credit, be sure to redo it by next time. If the future, I will not give participation credit for students are do not complete it by 8 am because I need to see where there were challenges. Late participation credit is not awarded.)
+- Possible short quiz on reading R01.
+- Debrief on installations, C++, the syllabus, and the AI policy in particular
+- How did the sign-up for [Github Student Developer Pack](https://education.github.com/pack) go? Note that it might take more time to get this, so don't fret since we do not need Github Copilot and you are likely better off not using it for the first lab. You will need it for Lab L7, but there is plenty of time to get it before then - just be sure to work on it soon.
+- Discuss the first lab, [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8/edit?usp=sharing)
+- Work to complete, then download, and submit [Teamwork T01: Visual Studio, Github, and ASCII Art](https://docs.google.com/document/d/1Bz1sbwxid1ydkSHaO5nDMpMgzwa29Py6zzTlWGUvBzM). It is due by 8 am on Wednesday, January 21.
+
+### Day 2: Outside of class
+
+- Extra credit opportunity on Tuesday, January 20! Help us to choose a new professor! Come on-time and stay fully engaged with a potential faculty talk, give a bit of feedback to help us, and you will earn a replacement quiz with full credit. (This is a great way to replace a low quiz grade!) 
+Pizza at 5:20. Talk begins at 5:30. Do not be late if you want the extra credit! Also, be sure to complete [EC-1: Form for Feedback on External Speakers](https://docs.google.com/document/d/1fDicpT72DS3dJYffn5sIwedCcvOejTxWVIgovc_qDu4/edit?usp=sharing) and upload to the Quiz area in Moodle by 8 am Friday.
+- Read [Chapters 3, 4,and 5 in C++ for Python Programmers](https://moodle.berea.edu/mod/lti/view.php?id=799811) for a potential reading quiz on Wednesday. Be sure to go through the Moodle link to get full credit. Due at 8 am on Wednesday, January 21.
+- Read [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). This is an individual Lab. The first milestone is due Friday, January 23 at 8 am. The final completion milestone of the lab is due Monday, January 26 at 8 am.
+- Don't procrastinate on [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing), which is due Wednesday, January 28 at 8 am. You can do this at any time before then, but it is best to schedule it at your convenience rather than waiting until the last minute.
+
+## Day 1: Wednesday, January 14, 2026
+
+### Day 1: In class
+
+- Welcome!
+- List all of the data structures you used in Python
+- What is data structures about? And what is it NOT about?
+- ![old style car radio tuner](radiotuner.jpg "old style car radio tuner")
+- ![TV remote](remote.jpg "TV remote")
+- Read the first part of [The Impact of AI on Computer Science Education](https://cacm.acm.org/news/the-impact-of-ai-on-computer-science-education/)
+- Discussion of course: content, texts, syllabus, flow, other ideas
+- Sign up for our first text: [C++ for Python Programmers](https://runestone.academy). Be sure to use (or make) the login from your Berea email and Berea username and then sign-up for the book *bc_cpp4py_s26*. (Note that the account you used in CSC 226 should be fine as long as the email address is your Berea College one.)
+- Data structures game
+
+**Day 1: Outside of class**:
+
+- Complete [A00:Getting Started](https://docs.google.com/document/d/12iJBToSMk2A1n2mSdAmwKnFEpFVlnLz73ulsyt0htNM/edit?usp=sharing) and submit to Moodle by 8 am on Friday. Note that there are 6 tasks, some of which will take some time:
+  1. Help us get to know you better
+  2. Connect Data Structures to your career
+  3. Set-up your Required IDE (this will take some time!)
+  4. Read the [syllabus](https://docs.google.com/document/d/11yEERg09nUcVji8k9yzUr6asPgpxqpVKSeccP5p4wOQ/edit?usp=sharing) to understand the course structure
+  5. Read both [Chapters 1 and 2 of C++ for Python Programmers and the course syllabus](https://moodle.berea.edu/mod/lti/view.php?id=799810) in preparation for a potential reading quiz.
+  6. Introduce yourself to the class and the TAs on Slack
+
+- An additional assignment has been posted with a longer deadline. See [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing), which is due Wednesday, January 28 at 8 am. You can do this at any time before then. The TAs are eager to meet you. art of becoming a professional is learning to manage your time both effectively and efficiently. Assignments with longer deadlines like this are best to do at your earliest convenience, and part of becoming a professional is to learn to manage your own calendar. Mark your calendar for your best evening to go that is well before the deadline, so you are not held up by any procrastinators who have not yet learned to manage their calendars, and who do everything at the very last minute.
+
+---
+
+###### Copyright © 2026 | Licensed under a Creative Commons Attribution-Share Alike 3.0 United States License
