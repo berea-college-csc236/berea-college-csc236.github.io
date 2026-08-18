@@ -20,7 +20,7 @@
 - Sign up for our first text: [C++ for Python Programmers](https://runestone.academy). Be sure to use (or make) the login from your Berea email and Berea username and then sign-up for the book *bc_cpp4py-f26*. (Note that the account you used in CSC 226 should be fine as long as the email address is your Berea College one.)
 - Data structures game
 
-**Day 1: Outside of class**:
+**Day 1: Outside of class**: (Note: all assignments in this course are due by noon on the due date unless otherwise specified.)
 
 - Complete [A00:Getting Started](https://docs.google.com/document/d/12iJBToSMk2A1n2mSdAmwKnFEpFVlnLz73ulsyt0htNM/edit?usp=sharing) and submit to Moodle by 8 am on Friday. Note that there are 6 tasks, some of which will take some time:
   1. Help us get to know you better
@@ -30,7 +30,7 @@
   5. Read both [Chapters 1 and 2 of C++ for Python Programmers and the course syllabus](https://moodle.berea.edu/mod/lti/view.php?id=799810) in preparation for a potential reading quiz.
   6. Introduce yourself to the class and the TAs on Slack
 
-- An additional assignment has been posted with a longer deadline. See [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing), which is due Wednesday, January 28 at 8 am. You can do this at any time before then. The TAs are eager to meet you. art of becoming a professional is learning to manage your time both effectively and efficiently. Assignments with longer deadlines like this are best to do at your earliest convenience, and part of becoming a professional is to learn to manage your own calendar. Mark your calendar for your best evening to go that is well before the deadline, so you are not held up by any procrastinators who have not yet learned to manage their calendars, and who do everything at the very last minute.
+- An additional assignment has been posted with a longer deadline. See [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing), which is due Wednesday, September 2 at noon. You can do this at any time before then. The TAs are eager to meet you. art of becoming a professional is learning to manage your time both effectively and efficiently. Assignments with longer deadlines like this are best to do at your earliest convenience, and part of becoming a professional is to learn to manage your own calendar. Mark your calendar for your best evening to go that is well before the deadline, so you are not held up by any procrastinators who have not yet learned to manage their calendars, and who do everything at the very last minute.
 
 ---
 
