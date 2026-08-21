@@ -19,9 +19,10 @@
 
 ### Day 2: Outside of class
 
-- Read [Chapters 3, 4,and 5 in C++ for Python Programmers](https://moodle.berea.edu/mod/lti/view.php?id=799811) for a potential reading quiz on Monday. Be sure to go through the Moodle link to get full credit. Due at noon on Monday.
+- Be sure to complete and submit [Teamwork T01: Visual Studio, Github, and ASCII Art] by noon on Monday.
+- Read [Chapters 3, 4,and 5 in C++ for Python Programmers](https://moodle.berea.edu/mod/lti/view.php?id=844511) for a potential reading quiz on Monday. Be sure to go through the Moodle link to get full credit. **Due at noon on Monday.**
 - Read [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). This is an individual Lab. The first milestone is due Friday, January 23 at noon. The final completion milestone of the lab is due Monday, January 26 at noon.
-- Don't procrastinate on [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing), which is due Wednesday, January 28 at 8 am. You can do this at any time before then, but it is best to schedule it at your convenience rather than waiting until the last minute.
+- Don't procrastinate on [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing), which is due Wednesday, September 2 at noon. You can do this at any time before then, but it is best to schedule it at your convenience rather than waiting until the last minute.
 
 ## Day 1: Wednesday, August 19, 2026
 
