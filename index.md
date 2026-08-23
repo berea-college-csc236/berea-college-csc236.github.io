@@ -6,6 +6,22 @@
 
 ---
 
+## Day 3: Monday, August 24, 2026
+
+### Day 3: In class
+
+- Possible quiz or peer instruction question
+- Discuss [Teamwork T01: Visual Studio, Github, and ASCII Art](https://docs.google.com/document/d/1Bz1sbwxid1ydkSHaO5nDMpMgzwa29Py6zzTlWGUvBzM)
+- Discuss [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8) which is due Friday, but the first milestone is due Wednesday. (Be sure to read the hints in the lab on escaping backslashes and quotes!)
+- Complete [Teamwork T02:  Debugging Techniques](https://docs.google.com/document/d/1T0BS2SzKxoOXg_EpfDCpFd8UG219_Jbqzl8W1kogtcc/edit?usp=sharing). 
+
+### Day 3: Outside of class
+
+- Read [Chapters 6, 7, and 8 in C++ for Python Programmers](https://moodle.berea.edu/mod/lti/view.php?id=844512) for a possible reading quiz next class. Be sure you go through Moodle and do all the exercises to get credit!
+- Complete the first milestone for [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8). The final submission is due on Monday.
+- Fix any challenges you have had with the first two readings by going through Moodle. See your grades in Moodle and make them perfect by doing everything!
+- At your convenience, do [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing), Wednesday, September 2 at noon. The TAs are eager to meet you.
+
 ## Day 2: Friday, August 21, 2026
 
 ### Day 2: In class
