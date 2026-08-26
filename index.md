@@ -11,15 +11,14 @@
 ### Day 4: In class
 
 - Possible quiz or peer instruction question on reading
-- Discuss Runestone readings and quizzes.
-  - Runestone logs everything you do in Runestone, and I can view the logs. I am sure none of you would do this but lying about what you did or when you did it will not work since the platform has been tested by tens of thousands of students for more than a decade and is very robust. 
+- Discuss Runestone readings and quizzes and how to maximize your points. 
+  - Runestone logs everything you do in Runestone, and the TAs and I can view the logs. I am sure none of you would do this but lying about what you did or when you did it will not work since the platform has been tested by tens of thousands of students for more than a decade and is very robust. 
   - You must go though the Moodle link for readings to get full credit.
-  - For quizzes, you must go through the Moodle link and cannot leave the page or refresh. If you do, you will get a zero. If you have a problem, you need to communicate in real-time. Telling me well after the fact will not sufficice -- you need to show me the problem. 
+  - For quizzes, you must go through the Moodle link and cannot leave the page or refresh. If you do either, you will get a zero. If you have a problem, you need to communicate in real-time. Telling me after the fact will not suffice - you need to show me the problem. 
 - Discuss [Teamwork T02:  Debugging Techniques](https://docs.google.com/document/d/1T0BS2SzKxoOXg_EpfDCpFd8UG219_Jbqzl8W1kogtcc/edit?usp=sharing). What did you learn about debuggers? Did you identify the problem in the code using the debugger?
-- In Moodle add the main course **bc_cppds2_f26**. We will have a reading out of this book on Monday.
+- In Moodle click to add the main book **bc_cppds2_f26**. We will have a quiz on the reading out of this book on Monday.
 - Questions on [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8) which is due Friday. (Reminders about escaping backslashes and quotes.)
-- Demo of debugging in Visual Studio
-- Complete [Teamwork T03: Collaboration via Branches](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ) with a partner in class
+- Complete [Teamwork T03: Collaboration via Branches](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ) with a partner in class. Be sure to go slowly and carefully, and ask questions if you are unsure. This is a new skill for some of you and a new IDE for most of you.
 - Work on [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8).
 
 ### Day 4: Outside of class
