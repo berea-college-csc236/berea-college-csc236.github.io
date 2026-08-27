@@ -6,6 +6,22 @@
 
 ---
 
+## Day 5: Friday, August 28, 2026 
+
+### Day 5: In class
+
+- Art show! Share your ASCII art with the class.
+- Introduction of [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c/edit?usp=sharing)
+- Complete [T04: Fraction Class Understanding and Enhancement](https://docs.google.com/document/d/1NtnYd2AoMkVUivbEXej9DhO9SI1gJOD3z4ar9KneXbM/edit?tab=t.0#heading=h.c1x99npetnfu).
+
+### Day 5: Outside of class
+
+- Read [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c/edit?usp=sharing) and do the first milestone (due Wednesday). The final submission is due Friday.
+- For Monday, in Moodle, click to add the main book **bc_cppds2_f26**, [Problem Solving with Algorithms and Data Structures using C++](https://moodle.berea.edu/mod/lti/view.php?id=844481) and then complete [R04: Read 1.5, 1.6, and 1.12-1.15 plus questions](https://moodle.berea.edu/mod/lti/view.php?id=844513). We **will** have a quiz on the reading out of this book on Monday.
+- Don't forget to do [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing) which is due Wednesday, September 2 at noon. The TAs are eager to meet you!
+
+---
+
 ## Day 4: Wednesday, August 26, 2026
 
 ### Day 4: In class
