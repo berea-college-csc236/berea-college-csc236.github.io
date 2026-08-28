@@ -12,7 +12,8 @@
 
 - Art show! Share your ASCII art with the class.
 - Introduction of [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c/edit?usp=sharing)
-- Complete [T04: Fraction Class Understanding and Enhancement](https://docs.google.com/document/d/1NtnYd2AoMkVUivbEXej9DhO9SI1gJOD3z4ar9KneXbM/edit?tab=t.0#heading=h.c1x99npetnfu).
+- Complete [Teamwork T03: Collaboration via Branches](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ)
+- Begin [T04: Fraction Class Understanding and Enhancement](https://docs.google.com/document/d/1NtnYd2AoMkVUivbEXej9DhO9SI1gJOD3z4ar9KneXbM/edit?tab=t.0#heading=h.c1x99npetnfu) which we will complete next time.
 
 ### Day 5: Outside of class
 
@@ -35,7 +36,7 @@
   - In Moodle, click to add the main book **bc_cppds2_f26**, [Problem Solving with Algorithms and Data Structures using C++](https://moodle.berea.edu/mod/lti/view.php?id=844481). We **will** have a quiz on the reading out of this book on Monday.
 - Discuss [Teamwork T02:  Debugging Techniques](https://docs.google.com/document/d/1T0BS2SzKxoOXg_EpfDCpFd8UG219_Jbqzl8W1kogtcc/edit?usp=sharing). What did you learn about debuggers? Did you identify the problem in the code using the debugger?
 - Questions on [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8) which is due Friday. (Reminders about escaping backslashes and quotes.)
-- Complete [Teamwork T03: Collaboration via Branches](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ) with a partner in class. Be sure to go slowly and carefully, and ask questions if you are unsure. This is a new skill for some of you and a new IDE for most of you.
+- Begin [Teamwork T03: Collaboration via Branches](https://docs.google.com/document/d/1fB24sIofHbsWZ2xJAQzCJ_RoIkfUhXZWYb0XJSjhAKQ) with a partner in class. Be sure to go slowly and carefully, and ask questions if you are unsure. This is a new skill for some of you and a new IDE for most of you.
 - Work on [L0: ASCII-Art](https://docs.google.com/document/d/14j_z0Q-HcVHP9KLok0PGk6o7U3wKpC7BN_tygccKfK8).
 
 ### Day 4: Outside of class
