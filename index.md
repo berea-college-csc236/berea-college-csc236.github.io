@@ -19,7 +19,7 @@
 
 ### Day 6: Outside of class
 
-- Complete [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c) first Milestone by Wednesday at Noon, **Be sure to submit a link to your repository in Moodle**.
+- Complete the first MIlestone of [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c). The first Milestone is due Wednesday at Noon, **Be sure to submit a link to your repository in Moodle** - we not begin grading it until after the deadline.
 - Complete [T04: Fraction Class Understanding and Enhancement](https://docs.google.com/document/d/1NtnYd2AoMkVUivbEXej9DhO9SI1gJOD3z4ar9KneXbM/edit?tab=t.0#heading=h.c1x99npetnfu) if you did not complete it in class.
 - At next very earliest convenience, complete [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing). If need be I will make a schedule, so there are not so many waiting until the last minute.
 
