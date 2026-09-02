@@ -6,6 +6,22 @@
 
 ---
 
+## Day 7: September 2, 2026
+
+### Day 7: In class
+
+- Peer Instruction question
+- Any questions on [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c). It is due Friday.
+- Introduction to [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q).
+- Try to complete [T05: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag), but we will likely need to complete it next time.
+
+### Day 7: Outside of class
+
+- Complete [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c), which is due Friday.
+- Read [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q) by Friday. This is an individual lab that has Milestone 1 due Wednesday, September 9, the second milestone due Friday, September 11,and the full lab due on Monday, September 14.
+- Complete [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing) if you have not already done so. It is **now due Wednesday, September 9**. 
+
+---
 
 ## Day 6: Monday, August 31, 2026
 
