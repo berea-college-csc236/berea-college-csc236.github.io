@@ -10,6 +10,7 @@
 
 ### Day 7: In class
 
+- Change teams, so everyone is working with a new set of people. It is important to learn to work with a variety of different people since most of use need to do that in our careers.
 - Peer Instruction question
 - Any questions on [L1: Loopy Graphics with C-Turtle](https://docs.google.com/document/d/1yMQGsJwNXTUsabYNo_k56b9-Jwk1EKFaGgM8e2fVt2c). It is due Friday.
 - Introduction to [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q).
