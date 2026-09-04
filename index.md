@@ -15,6 +15,7 @@
 ### Day 8: In class
 
 - Be sure to sit with your new team.
+- Peer instruction question
 - Art Show! Share your C-Turtle graphics with the class by posting your completed art in the Slack channel along with a short "ertist's statement" (which is just an explanation.)
 - Discussion of [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q) which you were asked to read.
 - Complete and submit [T05: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag)
