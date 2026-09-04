@@ -6,7 +6,28 @@
 
 ---
 
-## Day 7: September 2, 2026
+## No class on Monday, September 7, 2026 - Enjoy your Labor Day weekend!
+
+---
+
+## Day 8: Friday, September 4, 2026
+
+### Day 8: In class
+
+- Be sure to sit with your new team.
+- Art Show! Share your C-Turtle graphics with the class by posting your completed art in the Slack channel along with a short "ertist's statement" (which is just an explanation.)
+- Discussion of [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q) which you were asked to read.
+- Complete and submit [T05: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag)
+
+### Day 8: Outside of class
+
+- Complete Milestone 1 in [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q) by next time. This is an individual lab that has Milestone 1 due Wednesday, September 9, the second milestone due Friday, September 11, and the full lab due on Monday, September 14.
+- Complete [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing) if you have not already done so. It is **now due Wednesday, September 9**. 
+- If you have time, begin [A03: AI and Learning](https://docs.google.com/document/d/1SdnNB_qRGWaYCHKx__J5lhBfhisxNhgVlY2qa0oCr34/edit?usp=sharing). It will likely be due Monday, Septmber 14, 2026
+
+---
+
+## Day 7: Wednesday, September 2, 2026
 
 ### Day 7: In class
 
