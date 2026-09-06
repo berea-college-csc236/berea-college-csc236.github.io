@@ -22,7 +22,9 @@
 
 ### Day 8: Outside of class
 
-- Complete Milestone 1 in [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q) by next time. This is an individual lab that has Milestone 1 due Wednesday, September 9, the second milestone due Friday, September 11, and the full lab due on Monday, September 14.
+- Complete Milestone 1 in [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q) by next time. This is an individual lab that had milestone 1 due by Noon on W 9/9/26 for Milestone 1: Complete the Planning Prompts in the README. Be sure to commit and push. 
+By Noon on F 9/11/26 Milestone 2:  Make a sincere attempt to complete everything, so you can come to class with questions.  To meet this milestone, you must have written and pushed all parts of the code needed for completion to the repo. However, it might not yet be working.
+By Noon on M 9/14/26 Final Milestone: Lab should be complete. 
 - Complete [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing) if you have not already done so. It is **now due Wednesday, September 9**. 
 - If you have time, begin [A03: AI and Learning](https://docs.google.com/document/d/1SdnNB_qRGWaYCHKx__J5lhBfhisxNhgVlY2qa0oCr34/edit?usp=sharing). It will likely be due Monday, Septmber 14, 2026
 
