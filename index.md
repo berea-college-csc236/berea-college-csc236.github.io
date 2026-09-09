@@ -6,6 +6,23 @@
 
 ---
 
+## Day 9: Wednesday, September 9, 2026
+
+### Day 9: In class
+
+- Meme show! Please share your memes in the Slack channel! (If it makes fun of me, don't worry, I can take it!)
+- Possible peer instruction question
+- Discuss [T05: Dice Rolls](https://docs.google.com/document/d/1_NSKvTy24AhjQd5ixLgGthsYy15hjKT70aVPaLYtuag)
+- Questions on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q). The full lab is due Monday.
+- Try to complete [T06: Understanding OOP and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4).
+
+### Day 9: Outside of class
+
+- Make progress on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q). By Noon on F 9/11/26 Milestone 2:  Make a sincere attempt to complete everything, so you can come to class with questions on Friday. To meet this milestone, you must have written and pushed all parts of the code needed for completion to the repo.  However, it might not yet be working. There must be multiple commits. By Noon on M 9/14/26 Final Milestone: Lab should be complete. 
+- Complete [A03: AI and Learning](https://docs.google.com/document/d/1SdnNB_qRGWaYCHKx__J5lhBfhisxNhgVlY2qa0oCr34/edit?usp=sharing) It is also due Monday and is both valuable and not hard.
+
+---
+
 ## No class on Monday, September 7, 2026 - Enjoy your Labor Day weekend!
 
 ---
@@ -23,7 +40,7 @@
 ### Day 8: Outside of class
 
 - Complete Milestone 1 in [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q) by next time. This is an individual lab that had milestone 1 due by Noon on W 9/9/26 for Milestone 1: Complete the Planning Prompts in the README. Be sure to commit and push. 
-By Noon on F 9/11/26 Milestone 2:  Make a sincere attempt to complete everything, so you can come to class with questions.  To meet this milestone, you must have written and pushed all parts of the code needed for completion to the repo. However, it might not yet be working.
+By Noon on F 9/11/26 Milestone 2:  Make a sincere attempt to complete everything, so you can come to class with questions. To meet this milestone, you must have written and pushed all parts of the code needed for completion to the repo. However, it might not yet be working.
 By Noon on M 9/14/26 Final Milestone: Lab should be complete. 
 - Complete [A01: Interview with a CSC 236 TA](https://docs.google.com/document/d/1NtM4BUvfbsyYlgH63H92zRcvMYrIIYVDortntHz_nxg/edit?usp=sharing) if you have not already done so. It is **now due Wednesday, September 9**. 
 - If you have time, begin [A03: AI and Learning](https://docs.google.com/document/d/1SdnNB_qRGWaYCHKx__J5lhBfhisxNhgVlY2qa0oCr34/edit?usp=sharing). It will likely be due Monday, Septmber 14, 2026
