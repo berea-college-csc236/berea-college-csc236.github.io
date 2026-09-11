@@ -6,6 +6,21 @@
 
 ---
 
+## Day 10: Friday, September 11, 2026
+
+### Day 10: In class
+
+- Possible peer instruction question
+- Questions on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q). Remember that the full lab is due Monday.
+- Complete [T06: Understanding OOP and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4). Note that if your partner is missing, you typically need to either make a copy and complete it on your own, OR I will try to help you find partners in class. What you must not do is complete it in teh same document with a missing partner because that circumvents learning and is not only unfair to your partner, but it is an academic integrity violation if they also submit the work. If you are missing a partner, please let me know in class, so I can help.
+
+### Day 10: Outside of class
+
+- Complete [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q) by Noon on M 9/14/26 when the Final Milestone: Lab should be complete. 
+- Complete [A03: AI and Learning](https://docs.google.com/document/d/1SdnNB_qRGWaYCHKx__J5lhBfhisxNhgVlY2qa0oCr34/edit?usp=sharing) It is also due Monday and is both valuable and not hard.
+
+---
+
 ## Day 9: Wednesday, September 9, 2026
 
 ### Day 9: In class
