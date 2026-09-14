@@ -30,7 +30,7 @@
 
 - Possible peer instruction question
 - Questions on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q). Remember that the full lab is due Monday.
-- Begin [T08: How Long will this Take?](https://docs.google.com/document/d/1_vzhbJdc5-bmYi1CLpMEgA7WM1c4wXH0EwFb_JOJPek/edit?usp=sharing).
+- Begin [T06: Understanding OOP and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4), which we will finish on Monday.
 
 ### Day 10: Outside of class
 
