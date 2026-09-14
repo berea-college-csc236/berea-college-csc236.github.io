@@ -6,9 +6,9 @@
 
 ---
 
-## Day 10: Monday, September 14, 2026
+## Day 11: Monday, September 14, 2026
 
-### Day 10: In class
+### Day 11: In class
 
 - Possible quiz or peer instruction question
 - Debrief on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q).
@@ -16,7 +16,7 @@
 - Discuss [A03: AI and Learning](https://docs.google.com/document/d/1SdnNB_qRGWaYCHKx__J5lhBfhisxNhgVlY2qa0oCr34/edit?usp=sharing)
 - Complete [T06: Understanding OOP and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4).
 
-### Day 10: Outside of class
+### Day 11: Outside of class
 
 - Complete [A04: Videos and Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU). Note that this is an introduction to the most and most conceptually difficult concept in the course. 
 - Read [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E/edit?usp=sharing), possibly find a partner and bring questions to class on Wednesday. The first milestone is due Friday. 
@@ -30,7 +30,7 @@
 
 - Possible peer instruction question
 - Questions on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q). Remember that the full lab is due Monday.
-- Complete [T06: Understanding OOP and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4). Note that if your partner is missing, you typically need to either make a copy and complete it on your own, OR I will try to help you find partners in class. What you must not do is complete it in teh same document with a missing partner because that circumvents learning and is not only unfair to your partner, but it is an academic integrity violation if they also submit the work. If you are missing a partner, please let me know in class, so I can help.
+- Begin [T08: How Long will this Take?](https://docs.google.com/document/d/1_vzhbJdc5-bmYi1CLpMEgA7WM1c4wXH0EwFb_JOJPek/edit?usp=sharing).
 
 ### Day 10: Outside of class
 
