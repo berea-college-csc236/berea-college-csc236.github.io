@@ -14,7 +14,7 @@
 - Debrief on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q).
 - Introduction of Introduction of [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E/edit?usp=sharing), possibly with a partner. The first milestone is due Friday.
 - Discuss [A03: AI and Learning](https://docs.google.com/document/d/1SdnNB_qRGWaYCHKx__J5lhBfhisxNhgVlY2qa0oCr34/edit?usp=sharing)
-- Complete [T06: Understanding OOP and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4).
+- Complete [T07: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE).
 
 ### Day 11: Outside of class
 
@@ -30,12 +30,13 @@
 
 - Possible peer instruction question
 - Questions on [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q). Remember that the full lab is due Monday.
-- Begin [T06: Understanding OOP and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4), which we will finish on Monday.
+- Try to complete [T06: Understanding OOP and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4), which we will finish on Monday.
 
 ### Day 10: Outside of class
 
 - Complete [L2: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q) by Noon on M 9/14/26 when the Final Milestone: Lab should be complete. 
 - Complete [A03: AI and Learning](https://docs.google.com/document/d/1SdnNB_qRGWaYCHKx__J5lhBfhisxNhgVlY2qa0oCr34/edit?usp=sharing) It is also due Monday and is both valuable and not hard.
+- Complete [T06: Understanding OOP and ADTs](https://docs.google.com/document/d/1ATMtz10pvIA3XUIBjPXr33Iy4wsnADLLU8fUbj8uJC4).
 
 ---
 
