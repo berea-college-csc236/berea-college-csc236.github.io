@@ -6,6 +6,22 @@
 
 ---
 
+## Day 12: Wednesday, September 16, 2026
+
+### Day 12: In class
+
+- Possible peer-instruction question(s)
+
+- Discuss [A04: Videos and Blogs on Big O](https://docs.google.com/document/d/1gRU-Iu-byp5Cs-HCMUgLM5Oy9Q_qG5NP_GbuSYcSOqU). 
+- Questions on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E/edit?usp=sharing). 
+- Complete [T07: How Long will this Take?](https://docs.google.com/document/d/1_vzhbJdc5-bmYi1CLpMEgA7WM1c4wXH0EwFb_JOJPek/edit?usp=sharing).
+
+### Day 12: Outside of class
+
+- By Friday [Chapter 2 Reading on Big O](https://moodle.berea.edu/mod/lti/view.php?id=772218) and do all activities in preparation for a potential reading quiz. **This is one of the most important topics in the entire course; you might try to find time to read it twice!**
+
+---
+
 ## Day 11: Monday, September 14, 2026
 
 ### Day 11: In class
