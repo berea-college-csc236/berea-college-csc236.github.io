@@ -19,6 +19,7 @@
 ### Day 12: Outside of class
 
 - By Friday [Chapter 2 Reading on Big O](https://moodle.berea.edu/mod/lti/view.php?id=772218) and do all activities in preparation for a potential reading quiz. **This is one of the most important topics in the entire course; you might try to find time to read it twice!**
+- Complete Milestone 1 of [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E/edit?usp=sharing). If you wish to complete it with a partner, you must have a partner and have worked together on Milestone 1. Groups may not change after Milestone 1.
 
 ---
 
