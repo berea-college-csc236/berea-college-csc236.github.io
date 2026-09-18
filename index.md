@@ -6,6 +6,22 @@
 
 ---
 
+## Day 13: Friday, September 18, 2026
+
+### Day 13: In class
+
+- Possible peer-instruction question(s) or quiz on reading
+- Questions on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E/edit?usp=sharing)? Milestone 2 is due Monday.
+- Complete [T08: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE). Note that this teamwork demonstrates the power efficiency and scalability of targeted parallelism. Failing to attend to these directions will cost you in both understanding and in spending much more time.
+
+### Day 13: Outside of class
+
+- Complete Milestone 2 of [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E/edit?usp=sharing).
+- Complete [A05: Peer Instruction Consent Form](https://forms.gle/qTV49iJsni2XXsWr9) also for Monday. As long as you do it, this is basically a free 5 points on your homework because it will not take very long.
+- Complete [A06: Considering Diversity in Tech](https://docs.google.com/document/d/1GgQ0yrnytucqukz-ypOvNld4sJ4c4UNH_IkJkh3046Y/edit?usp=sharing) for Wednesday.
+
+---
+
 ## Day 12: Wednesday, September 16, 2026
 
 ### Day 12: In class
