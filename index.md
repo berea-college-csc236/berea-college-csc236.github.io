@@ -6,13 +6,30 @@
 
 ---
 
+
+## Day 14: Wednesday, February 18, 2026
+
+### Day 14: In class
+
+- Possible quiz or peer-instruction question(s)
+- Questions on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E)
+- Complete [T08: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE).
+- Begin [T09: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8)
+
+### Day 14: Outside of class
+
+- Read [Sections 3.1-3.9 in our Data Structures textbook](https://moodle.berea.edu/mod/lti/view.php?id=844515) and do the extra questions in preparation for a possible reading quiz.
+- Complete [A06: Considering Diversity in Tech](https://docs.google.com/document/d/1GgQ0yrnytucqukz-ypOvNld4sJ4c4UNH_IkJkh3046Y/edit?usp=sharing) for Wednesday.
+
+---
+
 ## Day 13: Friday, September 18, 2026
 
 ### Day 13: In class
 
 - Possible peer-instruction question(s) or quiz on reading
 - Questions on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E/edit?usp=sharing)? Milestone 2 is due Monday.
-- Complete [T08: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE). Note that this teamwork demonstrates the power efficiency and scalability of targeted parallelism. Failing to attend to these directions will cost you in both understanding and in spending much more time.
+- Try to complete [T08: Measuring Algorithmic Efficiency](https://docs.google.com/document/d/185ZJAtxajKhSpLDJy68dqiV4Dsn5mfdcHI-A3HYGcRE). Note that this teamwork demonstrates the power efficiency and scalability of targeted parallelism. Failing to attend to these directions will cost you in both understanding and in spending much more time.
 
 ### Day 13: Outside of class
 
