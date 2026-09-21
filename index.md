@@ -6,8 +6,7 @@
 
 ---
 
-
-## Day 14: September 21, 2026
+## Day 14: Monday, September 21, 2026
 
 ### Day 14: In class
 
