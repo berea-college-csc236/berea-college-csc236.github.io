@@ -6,6 +6,22 @@
 
 ---
 
+## Day 15: Wednesday, September 23, 2026
+
+### Day 15: In class
+
+- Possible quiz or peer-instruction question(s)
+- Questions on [L3: Virtual Pets](https://moodle.berea.edu/mod/assign/view.php?id=695005).
+- Complete [T09: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8)
+
+### Day 15: Outside of class
+
+- Read [Sections 3.10-3.22 in our Data Structures textbook](https://moodle.berea.edu/mod/lti/view.php?id=844516) plus do questions by Noon Friday. 
+- Complete [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) which is has been extended to Noon on Monday, September 28.
+
+
+---
+
 ## Day 14: Monday, September 21, 2026
 
 ### Day 14: In class

@@ -349,7 +349,7 @@
 
 ### Day 15: In class
 
-- Final questons on [L3: Virtual Pets](https://moodle.berea.edu/mod/assign/view.php?id=695005).
+- Final questions on [L3: Virtual Pets](https://moodle.berea.edu/mod/assign/view.php?id=695005).
 - Complete and submit [T10: Stacks, Queues, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw/edit?usp=sharing)
 
 ### Day 15: Outside of class
