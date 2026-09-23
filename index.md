@@ -18,7 +18,7 @@
 
 - Read [Sections 3.10-3.22 in our Data Structures textbook](https://moodle.berea.edu/mod/lti/view.php?id=844516) plus do questions by Noon Friday. 
 - Complete [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E) which is has been extended to Noon on Monday, September 28.
-
+- This Saturday, September 26, 2026 in CMIT 216 at 11 am there will be an extra credit opportunity. We will have a CS Alumni Panel with many alumni. If you wish to earn extra credit, you must be on-time and paying attention to the entire panel discussion. This will be followed by a networking lunch which is SOLELY for students who attend the panel.
 
 ---
 
