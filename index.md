@@ -6,6 +6,17 @@
 
 ---
 
+## Day 16: Friday, September 25, 2026
+
+### Day 16: In class
+
+- Change teams
+- Possible quiz or peer-instruction question(s)
+- Final questions on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E)
+- Complete [T10: Stacks, Queues, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw/edit?usp=sharing).
+
+---
+
 ## Day 15: Wednesday, September 23, 2026
 
 ### Day 15: In class
