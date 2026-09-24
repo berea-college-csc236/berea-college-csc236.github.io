@@ -25,6 +25,10 @@
 - Questions on [L3: Virtual Pets](https://moodle.berea.edu/mod/assign/view.php?id=695005).
 - Complete [T09: Planets, Big O, and Θ](https://docs.google.com/document/d/1g7e2TkNEzQwe2hKxmZqulmvhgFKKD6C-xYLuO5CNDB8)
 
+### Day 16: Outside of class
+
+- The final completion of [L3: Virtual Pets](https://moodle.berea.edu/mod/assign/view.php?id=695005) is due on Monday, September 28, 2026 at Noon.
+
 ### Day 15: Outside of class
 
 - Read [Sections 3.10-3.22 in our Data Structures textbook](https://moodle.berea.edu/mod/lti/view.php?id=844516) plus do questions by Noon Friday. 
