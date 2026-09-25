@@ -14,6 +14,10 @@
 - Possible quiz or peer-instruction question(s)
 - Final questions on [L3: Virtual Pets](https://docs.google.com/document/d/1kYb8aUO5n0pKBxCXIdmLToGcWlauTVjOTpC8k5xuY6E)
 - Complete [T10: Stacks, Queues, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw/edit?usp=sharing).
+
+### Day 16: Outside of class
+
+- The final completion of [L3: Virtual Pets](https://moodle.berea.edu/mod/assign/view.php?id=695005) is due on Monday, September 28, 2026 at Noon.
 - This Saturday, September 26, 2026 in CMIT 216 11 am to 12:30 pm there will be an extra credit opportunity. We will have a CS Alumni Panel with many alumni. If you wish to earn extra credit, you must be on-time and paying attention to the entire panel discussion. This will be followed by a networking lunch which is SOLELY for students who attend the panel.
 
 ---
