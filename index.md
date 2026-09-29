@@ -6,6 +6,26 @@
 
 ---
 
+## Announcement: The first exam will be Friday, October 9, 2026.
+
+## Day 18: Wednesday,  September 30, 2026
+
+### Day 18: In class
+
+- Discuss upcoming exam
+- Discuss  [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8).
+- Before the end of class today, complete and submit [TR1 Peerwise Review for E2](https://docs.google.com/document/d/1qDUv1EbH4jYf07M5kaymp1cfEwuX5jZNMMqm-WUyFYA/edit?usp=sharing).
+    - submit your pdf to Moodle, AND
+    - submit your questions to Peerwise
+ - **Note that due to the nature of this teamwork, it may NOT be submitted late or completed alone.**
+
+### Day 18: Outside of class
+
+- Complete Milestone 1 including the design document submission for [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8). Note that in past years students have found debugging this lab to be challenging, but completing the design document and meeting the first milestone is not difficult. The second milestone is soft and the final milestones is due after the first exam.
+  
+
+---
+
 ## Day 17: Monday, September 28, 2026
 
 ### Day 17: In class
