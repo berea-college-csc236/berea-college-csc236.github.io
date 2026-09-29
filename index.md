@@ -6,6 +6,21 @@
 
 ---
 
+## Day 17: Monday, September 28, 2026
+
+### Day 17: In class
+
+- Discussion of the first exam structure and advice on how to prepare for it.
+- Complete [T10: Stacks, Queues, and Deques](https://docs.google.com/document/d/1onOKUi5X-QexiWbXRfN1uftjtoONvOzw4MViPjHzbvw/edit?usp=sharing). You have 20-30 minutes of class.
+- Introduction of [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8).
+- Peer-instruction questions and other review for the first exam.
+
+### Day 17: Outside of class
+
+- Complete [A07: Individual E1 Review and Reflection](https://docs.google.com/document/d/13yIHXsGh3g-TfJSZ3VYjkG3f_UVnmZIJKIHkepHgEe0/edit?usp=sharing).  - **Note that due to the nature of this assignment, it may NOT be submitted late.**
+
+---
+
 ## Day 16: Friday, September 25, 2026
 
 ### Day 16: In class
