@@ -14,7 +14,7 @@
 
 - Discuss upcoming exam
 - Discuss  [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8).
-- Before the end of class today, complete and submit [TR1 Peerwise Review for E2](https://docs.google.com/document/d/1qDUv1EbH4jYf07M5kaymp1cfEwuX5jZNMMqm-WUyFYA/edit?usp=sharing).
+- Before the end of class today, complete and submit [TR1 Peerwise Review for E1](https://docs.google.com/document/d/1qDUv1EbH4jYf07M5kaymp1cfEwuX5jZNMMqm-WUyFYA/edit?usp=sharing).
     - submit your pdf to Moodle, AND
     - submit your questions to Peerwise
  - **Note that due to the nature of this teamwork, it may NOT be submitted late or completed alone.**
