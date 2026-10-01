@@ -8,6 +8,23 @@
 
 ## Announcement: The first exam will be Friday, October 9, 2026.
 
+## Day 19: Friday, October 2, 2026
+
+### Day 19: In class
+
+- Watch [Linked Lists Explained in 60 Seconds!](https://youtu.be/558b4XAg23Y?feature=shared) and [Linked lists in 4 minutes](https://youtu.be/F8AbOfQwl1c?si=bqV8mKTEfsVohGhQ)
+- Peer-instruction question(s) or quiz
+- Discuss [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8).
+- Complete [T11: Introduction to Circular Linked Lists](https://docs.google.com/document/d/1uvElflLI-S0S3spkfCkquwi3ZgIEgM49vF9NeTPmN30/edit?usp=sharing)
+
+### Day 19: Outside of class
+
+- Complete [A08: A Simple Introduction To Linked Lists](https://docs.google.com/document/d/1r5316kQR2qmtEWYqUaPVcXp_yrIuPQV61RUAy_sj5KU). This is due by Noon on Monday, March 9, 2026. This is a simple introduction to linked lists, the topic of the next chapter. The chapter reading is open, but not due until later.
+- Make progress on milestone 2 of [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8). The second milestone is soft and on Mountain Day, Wednesday, October 7, 2026.
+- For after the first exam, read [Chapter 4 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=799817) to learn more deeply about linked lists.
+
+---
+
 ## Day 18: Wednesday,  September 30, 2026
 
 ### Day 18: In class
@@ -23,7 +40,6 @@
 
 - Complete Milestone 1 including the design document submission for [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8). Note that in past years students have found debugging this lab to be challenging, but completing the design document and meeting the first milestone is not difficult. The second milestone is soft and the final milestones is due after the first exam.
   
-
 ---
 
 ## Day 17: Monday, September 28, 2026
