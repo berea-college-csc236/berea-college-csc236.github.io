@@ -12,6 +12,7 @@
 
 ### Day 19: In class
 
+- Discuss Exam E1
 - Watch [Linked Lists Explained in 60 Seconds!](https://youtu.be/558b4XAg23Y?feature=shared) and [Linked lists in 4 minutes](https://youtu.be/F8AbOfQwl1c?si=bqV8mKTEfsVohGhQ)
 - Peer-instruction question(s) or quiz
 - Discuss [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8).
