@@ -7,6 +7,26 @@
 ---
 
 ## Announcement: The first exam will be Friday, October 9, 2026.
+## Announcement: No class on Mountain Day, Wednesday, October 7, 2026.
+
+---
+
+## Day 20: Monday, October 5, 2026
+
+### Day 20: In class
+
+- Final questions about Exam E1
+- Peer-instruction question(s) or quiz on chapter 3
+- Discuss [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8).
+- Complete [T11: Introduction to Circular Linked Lists](https://docs.google.com/document/d/1uvElflLI-S0S3spkfCkquwi3ZgIEgM49vF9NeTPmN30/edit?usp=sharing), which we will complete on Monday, October 5, 2026.
+
+### Day 20: Outside of class
+
+- Study for the first exam, E1.
+- Make more progress on milestone 2 of [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8). The second milestone is soft and on Mountain Day, Wednesday, October 7, 2026.
+- For after the first exam, read [Chapter 4 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=799817) to learn more deeply about linked lists. The developers at Runestone are trying to fix the problems that you have identified. I will alert you here when they are fixed.
+
+---
 
 ## Day 19: Friday, October 2, 2026
 
