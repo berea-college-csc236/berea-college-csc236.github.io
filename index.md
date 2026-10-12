@@ -6,7 +6,33 @@
 
 ---
 
-## Announcement: The first exam will be Friday, October 9, 2026.
+## Day 22: Monday, October 12, 2026
+
+### Day 22: In class
+
+- Possible quiz or peer instruction question
+- Discuss [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8)
+- Introduce [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44). The first milestone is due Wednesday, October 14, 2026, and the second is due Friday, October 16, 2026.
+- Complete [T12: Exploring Linked Lists](https://docs.google.com/document/d/1b4UHkIDdldDGyat5QdZ0FFzOFZKaubeOGuz-jsPR4I0).
+
+### Day 22: Outside of class
+
+- Complete the first Milestone of [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44).
+
+---
+
+## Day 21: Exam Day: Friday, October 9, 2026.
+
+### Day 21: In class
+- Exam E1
+
+### Day 21: Outside of class
+
+- Complete [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8). 
+- Read [Chapter 4 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=799817) to learn more deeply about linked lists.
+
+---
+
 ## Announcement: No class on Mountain Day, Wednesday, October 7, 2026.
 
 ---
@@ -24,7 +50,7 @@
 
 - Study for the first exam, E1.
 - Make more progress on milestone 2 of [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8). The second milestone is soft and on Mountain Day, Wednesday, October 7, 2026.
-- For after the first exam, read [Chapter 4 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=799817) to learn more deeply about linked lists. The developers at Runestone are trying to fix the problems that you have identified. I will alert you here when they are fixed.
+- For Monday after the first exam, read [Chapter 4 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=799817) to learn more deeply about linked lists. The developers at Runestone are trying to fix the problems that you have identified. I will alert you here when they are fixed.
 
 ---
 
