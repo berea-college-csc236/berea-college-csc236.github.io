@@ -12,8 +12,8 @@
 
 - Possible quiz or peer instruction question
 - Discuss [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8)
-- Introduce [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44). The first milestone is due Wednesday, October 14, 2026, and the second is due Friday, October 16, 2026.
-- Complete [T12: Exploring Linked Lists](https://docs.google.com/document/d/1b4UHkIDdldDGyat5QdZ0FFzOFZKaubeOGuz-jsPR4I0).
+- Introduce [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44). The first milestone is due Wednesday, October 14, 2026, and the second is has a soft deadline of Friday, October 16, 2026 - be sure to get it done by Monday, October 19, 2026.
+- Begin [T12: Exploring Linked Lists](https://docs.google.com/document/d/1b4UHkIDdldDGyat5QdZ0FFzOFZKaubeOGuz-jsPR4I0), which we will have 15 minutes to work on in class on Wednesday.
 
 ### Day 22: Outside of class
 
@@ -24,6 +24,7 @@
 ## Day 21: Exam Day: Friday, October 9, 2026.
 
 ### Day 21: In class
+
 - Exam E1
 
 ### Day 21: Outside of class
