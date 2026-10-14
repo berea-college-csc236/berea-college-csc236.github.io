@@ -6,13 +6,33 @@
 
 ---
 
+## Reminder: No class on Reading Day, Friday, October 16, 2026.
+
+---
+
+## Day 23: Wednesday, October 14, 2026
+
+### Day 23: In class
+
+- Possible quiz or peer instruction question
+- Questions on [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44)? The second milestone has a soft deadline of Friday, October 16, 2026 - be sure to for sure get it done by Monday, October 19, 2026.
+- Complete [T12: Exploring Linked Lists](https://docs.google.com/document/d/1b4UHkIDdldDGyat5QdZ0FFzOFZKaubeOGuz-jsPR4I0) - you will have 15 minutes to work on it in class.
+- Begin [T13: Circling Back to Circular Linked Lists](https://docs.google.com/document/d/18y3Y_DldzoHN8KqVbODXm2ojXxet3Xc1pAm9StJlt5k). We will have to finish this in class after Reading Period.
+
+### Day 23: Outside of class
+
+- Complete the second Milestone of [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44) sometime between Friday and Monday at Noon.
+- Complete [R09: Read Chapter 5 on Recursion plus questions](https://moodle.berea.edu/mod/lti/view.php?id=799818) by Monday, October 19, 2026. 
+
+---
+
 ## Day 22: Monday, October 12, 2026
 
 ### Day 22: In class
 
 - Possible quiz or peer instruction question
 - Discuss [L4: The Game of War](https://docs.google.com/document/d/1pFPUvSWkVjKE1b2Rsx3HvijuDqe0elcTesyrE3AaaH8)
-- Introduce [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44). The first milestone is due Wednesday, October 14, 2026, and the second is has a soft deadline of Friday, October 16, 2026 - be sure to get it done by Monday, October 19, 2026.
+- Introduce [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44). The first milestone is due Wednesday, October 14, 2026, and the second  has a soft deadline of Friday, October 16, 2026 - be sure to get it done by Monday, October 19, 2026.
 - Begin [T12: Exploring Linked Lists](https://docs.google.com/document/d/1b4UHkIDdldDGyat5QdZ0FFzOFZKaubeOGuz-jsPR4I0), which we will have 15 minutes to work on in class on Wednesday.
 
 ### Day 22: Outside of class
