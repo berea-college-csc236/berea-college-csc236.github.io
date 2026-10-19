@@ -6,6 +6,22 @@
 
 ---
 
+## Day 24: Monday, October 19, 2026
+
+### Day 24: In class
+
+- Possible peer instruction question or quiz
+- Discuss [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44), which is due on Friday, October 23, 2026.
+- Complete [T14: Exploring Recursion](https://docs.google.com/document/d/1Qido7yr3NSrx052G3kqQze7PIEIRp9mlPBH3l5BRj5s).
+
+### Day 24: Outside of class
+
+- Complete [A08: Thinking Recursively](https://docs.google.com/document/d/1rLwgk3XXBBZx-rXkoq20jws50gtztj24NBz_M8b42VQ/edit?usp=sharing).
+- Please look over your exam which will be returned to you toward the end of class. We will discuss it in class on Wednesday, October 21, 2026.
+- Keep working on [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44) which is due Friday, October 23, 2026.
+
+---
+
 ## Reminder: No class on Reading Day, Friday, October 16, 2026.
 
 ---
@@ -15,7 +31,7 @@
 ### Day 23: In class
 
 - Possible quiz or peer instruction question
-- Questions on [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44)? The second milestone has a soft deadline of Friday, October 16, 2026 - be sure to for sure get it done by Monday, October 19, 2026.
+- Questions on [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44)? 
 - Complete [T12: Exploring Linked Lists](https://docs.google.com/document/d/1b4UHkIDdldDGyat5QdZ0FFzOFZKaubeOGuz-jsPR4I0) - you will have 15 minutes to work on it in class.
 - Begin [T13: Circling Back to Circular Linked Lists](https://docs.google.com/document/d/18y3Y_DldzoHN8KqVbODXm2ojXxet3Xc1pAm9StJlt5k). We will have to finish this in class after Reading Period.
 
