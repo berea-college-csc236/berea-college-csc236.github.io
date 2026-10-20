@@ -6,6 +6,22 @@
 
 ---
 
+## Day 25: Friday, October 23, 2026
+
+### Day 25: In class
+
+- Possible peer instruction question or quiz
+- Discuss questions on the exam
+- Discuss [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44).
+- Begin [T15: Understanding Recursion](https://docs.google.com/document/d/1Bte8UbQq7NSjy4XMJoEcrs8mtUgnt7jVgMQ12Eb7cmw).
+
+### Day 25: Outside of class
+
+- Read [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). The planning document is due Monday, October 26, 2026. Bring questions for Friday's class.
+- Complete [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44) which is due Friday, October 23, 2026.
+
+---
+
 ## Day 24: Monday, October 19, 2026
 
 ### Day 24: In class
