@@ -6,13 +6,13 @@
 
 ---
 
-## Day 25: Friday, October 23, 2026
+## Day 25: Wednesday, October 21, 2026
 
 ### Day 25: In class
 
 - Possible peer instruction question or quiz
-- Discuss questions on the exam
-- Discuss [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44).
+- Discuss questions from the exam
+- Discuss [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44), which is due on Friday, October 23, 2026.
 - Begin [T15: Understanding Recursion](https://docs.google.com/document/d/1Bte8UbQq7NSjy4XMJoEcrs8mtUgnt7jVgMQ12Eb7cmw).
 
 ### Day 25: Outside of class
