@@ -6,6 +6,21 @@
 
 ---
 
+## Day 27: Monday, October 26, 2026
+
+### Day 27: In class
+
+- Possible peer instruction question or quiz
+- Discuss  [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). 
+- Complete [T16: Searching](https://docs.google.com/document/d/1tYBkApVgtJaTdGhd1KCYprnOyZyP5FyKvSmw5gcCa84)
+
+### Day 27: Outside of class
+
+- Read [R10: Chapter 6 in the main textbook](https://moodle.berea.edu/mod/lti/view.php?id=799819) on sorting in preparation for a potential reading quiz next time.
+- Keep making progress on [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM).
+
+---
+
 ## Day 26: Friday, October 23, 2026
 
 ### Day 26: In class
