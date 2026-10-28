@@ -13,7 +13,7 @@
 - Change into Afrotech and non-Afrotech groups
 - Possible peer instruction question or quiz
 - Discuss questions on [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). 
-- Begin [T18: Hash Functions and Collisions](https://docs.google.com/document/d/1LAYpzVOzkV2rSydtPBIJ14aQczKQHbne-F_YmyWpEkA).
+- Begin [T17: Exploring Hashing](https://docs.google.com/document/d/1Rphbo_GvKvKquZtxsSYY__cTF4ZGO4uwNEcA70dN5e0).
 
 ### Day 28: Outside of class
 
