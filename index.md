@@ -6,6 +6,21 @@
 
 ---
 
+## Day 28: Wednesday, October 28, 2026
+
+### Day 28: In class
+
+- Change into Afrotech and non-Afrotech groups
+- Possible peer instruction question or quiz
+- Discuss questions on [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). 
+- Begin [T18: Hash Functions and Collisions](https://docs.google.com/document/d/1LAYpzVOzkV2rSydtPBIJ14aQczKQHbne-F_YmyWpEkA).
+
+### Day 28: Outside of class
+
+- Complete Milestone 2 in [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM).
+
+---
+
 ## Day 27: Monday, October 26, 2026
 
 ### Day 27: In class
