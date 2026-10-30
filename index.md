@@ -6,6 +6,25 @@
 
 ---
 
+## Day 29: Friday, October 30, 2026
+
+### Day 29: In class
+
+- At least one person attending virtually
+- In Afrotech and non-Afrotech groups
+- Possible peer instruction question or quiz
+- Discuss questions on [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). 
+- Complete [T17: Exploring Hashing](https://docs.google.com/document/d/1Rphbo_GvKvKquZtxsSYY__cTF4ZGO4uwNEcA70dN5e0).
+- Begin [T18: Hash Functions and Collisions](https://docs.google.com/document/d/1LAYpzVOzkV2rSydtPBIJ14aQczKQHbne-F_YmyWpEkA).
+
+### Day 29: Outside of class
+
+- Complete [A09: What is Hashing?](https://docs.google.com/document/d/1m8a7SQ8TqOgRj7KzthJCtAPVAFr9EO0j1ACYUnTj6gE/edit?usp=sharing)
+- Keep working on [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM).
+- **Reminder**: In L7 there will be a choice of two different environments, but you must choose environment and stick to it. For the faster environment to be an option, you need the Github Student Developer pack, whose set-up was very carefully described in [A00: Getting Started](https://docs.google.com/document/d/12iJBToSMk2A1n2mSdAmwKnFEpFVlnLz73ulsyt0htNM/edit?tab=t.0#bookmark=id.cjh2laqa175g). If you got rejected before and then forgot about it, go back and very, very slowly and methodically follow the directions that I gave there, paying very close attention to each of the details. Rushing through will likely make you miss something important. It cannot be used immediately, so you do need to do this in advance, like now, if you didn't do it in the beginning of the term. In particular, you must have the Github Student Developer Pack at least three full days before you can use anything for free, so do NOT dally!
+
+---
+
 ## Day 28: Wednesday, October 28, 2026
 
 ### Day 28: In class
