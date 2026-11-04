@@ -6,6 +6,22 @@
 
 ---
 
+## Day 31: Wednesday, November 4, 2026
+
+### Day 31: In class
+
+- Hopefully, lots of people attending virtually
+- Possible peer instruction or quiz question
+- Discuss questions on [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). 
+- Complete [T19: On Sorting](https://docs.google.com/document/d/1bUGZJNs8ARo3GyLqhumF-bL6slKTrzlZmAVF5RScjAI).
+
+### Day 31: Outside of class
+
+- Keep working on [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM). The final submission has been changed to Monday.
+- Read [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw) and bring questions. The environment submission is due by next time and may not be changed.
+
+---
+
 ## Day 30: Monday, November 2, 2026
 
 ### Day 30: In class
