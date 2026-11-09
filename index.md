@@ -6,6 +6,20 @@
 
 ---
 
+## Day 33: Monday,  November 9, 2026
+
+### Day 33: In class
+
+- Possible PI question
+- Introduction to [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)
+- Begin [T20: Recursive Sorting](https://docs.google.com/document/d/1Zvcu_nvpkPZfn4wDhPEM7ub96dj7vb0LB9lIly3DjZs)
+
+### Day 33: Outside of class
+
+- Complete milestone 1 AND make additional progress on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw). Only chipping away at this regularly will make it doable.
+
+---
+
 ## Day 32: Friday, November 6, 2026
 
 ### Day 32: In class
