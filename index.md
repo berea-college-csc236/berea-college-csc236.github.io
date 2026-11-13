@@ -6,6 +6,21 @@
 
 ---
 
+## Day 35: Friday,  November 13, 2026
+
+### Day 35: In class
+
+- Possible PI question
+- Demonstration of [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)
+- Begin [T21: Exploring Trees](https://docs.google.com/document/d/1t0mL8FmPE1f4IfV03tyQcT1FPfdepX37KHRBftUxSh0)
+
+### Day 35: Outside of class
+
+- Optional Extra Credit TODAY: Attend the presentation by Dr. Moumita Kamal today. The title of the presentation is "Toward Trustworthy AI: Exploring Reliability, Fairness, and Explainability." Note that you must arrive to CMIT 316 BEFORE 5 pm and be fully engaged in the presentation for extra credit. Arriving late, leaving before 6 pm, or being distracted will not count for extra credit.
+- Complete [A11: How Graphic](https://docs.google.com/document/d/1fNFM1cSfXSV8sgLINnaA7YMzIN8GEvq1aFQ-EzmW3lk/edit?usp=sharing)
+- Keep making progress on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw). 
+
+
 ## Day 34: Wednesday,  November 11, 2026
 
 ### Day 34: In class
