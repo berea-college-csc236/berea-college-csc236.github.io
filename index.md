@@ -16,7 +16,7 @@
 
 ### Day 35: Outside of class
 
-- Optional Extra Credit TODAY: Attend the presentation by Dr. Moumita Kamal today. The title of the presentation is "Toward Trustworthy AI: Exploring Reliability, Fairness, and Explainability." Note that you must arrive to CMIT 316 BEFORE 5 pm and be fully engaged in the presentation for extra credit. Arriving late, leaving before 6 pm, or being distracted will not count for extra credit.
+- Optional Extra Credit TODAY: Attend the presentation by Dr. Moumita Kamal today. The title of the presentation is "Toward Trustworthy AI: Exploring Reliability, Fairness, and Explainability." Note that you must arrive to CMIT 316 BEFORE 5 pm and be fully engaged in the presentation for extra credit. Arriving late, leaving before 6 pm, or being distracted will not count for extra credit. In addition, you must complete the feedback form, [AEC1: Extra Credit - Feedback for Kamal](https://docs.google.com/document/d/1qbAp9EJYMhM6I5WU7h7FJgh78sZ1LlD9RNk-fSb4VUw/edit?usp=sharing) which will not be accepted late.
 - Complete [A11: How Graphic](https://docs.google.com/document/d/1fNFM1cSfXSV8sgLINnaA7YMzIN8GEvq1aFQ-EzmW3lk/edit?usp=sharing)
 - Keep making progress on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw). 
 
