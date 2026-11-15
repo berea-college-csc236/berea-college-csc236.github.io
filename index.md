@@ -6,6 +6,23 @@
 
 ---
 
+## Day 36: Monday,  November 16, 2026
+
+### Day 36: In class
+
+- Possible PI question
+- Demonstration of [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)
+- Begin [T22: Exploring Graphs](https://docs.google.com/document/d/1lq4QQeKIZg7rA1KItCHP8jRKkDQsMkVGZdTr1DlDBHY)
+
+### Day 36: Outside of class
+
+- Another Optional Extra Credit Opportunity TODAY: Attend the presentation by Dr. Feyi Oyeniyi today. The title of the presentation is "Beyond the Black Box: Building Trustworthy and Secure AI Systems." Note that you must arrive to CMIT 316 BEFORE 5 pm and be fully engaged in the presentation for extra credit. Arriving late, leaving before 6 pm, or being distracted will not count for extra credit. In addition, you must complete the feedback form, [AEC2: Extra Credit - Feedback for Oyeniyi](https://docs.google.com/document/d/1jK_4lNPbYIMAUNB4cxAidvwoYsTlPZygaMWSewdfkR4/edit?usp=sharing) which will not be accepted late.
+- Complete [A13: Individual E2 Review and Reflection](https://docs.google.com/document/d/1KZuZyPmaG4q6Co6lNoMJgXi8JJR9iswlpKSM-l5iV9A/edit?usp=sharing).  
+  - **Note that due to the nature of this assignment, it may NOT be submitted late.**
+- Keep making progress on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw). 
+
+---
+
 ## Day 35: Friday,  November 13, 2026
 
 ### Day 35: In class
@@ -17,7 +34,7 @@
 ### Day 35: Outside of class
 
 - Optional Extra Credit TODAY: Attend the presentation by Dr. Moumita Kamal today. The title of the presentation is "Toward Trustworthy AI: Exploring Reliability, Fairness, and Explainability." Note that you must arrive to CMIT 316 BEFORE 5 pm and be fully engaged in the presentation for extra credit. Arriving late, leaving before 6 pm, or being distracted will not count for extra credit. In addition, you must complete the feedback form, [AEC1: Extra Credit - Feedback for Kamal](https://docs.google.com/document/d/1qbAp9EJYMhM6I5WU7h7FJgh78sZ1LlD9RNk-fSb4VUw/edit?usp=sharing) which will not be accepted late.
-- Complete [A11: How Graphic](https://docs.google.com/document/d/1fNFM1cSfXSV8sgLINnaA7YMzIN8GEvq1aFQ-EzmW3lk/edit?usp=sharing)
+- Complete [A12: How Graphic](https://docs.google.com/document/d/1fNFM1cSfXSV8sgLINnaA7YMzIN8GEvq1aFQ-EzmW3lk/edit?usp=sharing)
 - Keep making progress on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw). 
 
 
@@ -31,7 +48,7 @@
 
 ### Day 34: Outside of class
 
-- Complete [A10: Don't Get Lost in the Trees!](https://docs.google.com/document/d/1ctDtE3cBGo0VSDclWYmlDtyT9RAR812m1yV2UHS0Ow0/edit?usp=sharing).
+- Complete [A11: Don't Get Lost in the Trees!](https://docs.google.com/document/d/1ctDtE3cBGo0VSDclWYmlDtyT9RAR812m1yV2UHS0Ow0/edit?usp=sharing).
 - Make progress on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw). Chipping away at this regularly will make it doable. 
 
 ---
@@ -113,7 +130,7 @@
 
 ### Day 29: Outside of class
 
-- Complete [A09: What is Hashing?](https://docs.google.com/document/d/1m8a7SQ8TqOgRj7KzthJCtAPVAFr9EO0j1ACYUnTj6gE/edit?usp=sharing)
+- Complete [A10: What is Hashing?](https://docs.google.com/document/d/1m8a7SQ8TqOgRj7KzthJCtAPVAFr9EO0j1ACYUnTj6gE/edit?usp=sharing)
 - Keep working on [L6: Recursive Art](https://docs.google.com/document/d/1G8fM7h32cE0IALTYOj5SsBa5i9kk9VMih81LOMtuGtM).
 - **Reminder**: In L7 there will be a choice of two different environments, but you must choose environment and stick to it. For the faster environment to be an option, you need the Github Student Developer pack, whose set-up was very carefully described in [A00: Getting Started](https://docs.google.com/document/d/12iJBToSMk2A1n2mSdAmwKnFEpFVlnLz73ulsyt0htNM/edit?tab=t.0#bookmark=id.cjh2laqa175g). If you got rejected before and then forgot about it, go back and very, very slowly and methodically follow the directions that I gave there, paying very close attention to each of the details. Rushing through will likely make you miss something important. It cannot be used immediately, so you do need to do this in advance, like now, if you didn't do it in the beginning of the term. In particular, you must have the Github Student Developer Pack at least three full days before you can use anything for free, so do NOT dally!
 
@@ -190,7 +207,7 @@
 
 ### Day 24: Outside of class
 
-- Complete [A08: Thinking Recursively](https://docs.google.com/document/d/1rLwgk3XXBBZx-rXkoq20jws50gtztj24NBz_M8b42VQ/edit?usp=sharing).
+- Complete [A09: Thinking Recursively](https://docs.google.com/document/d/1rLwgk3XXBBZx-rXkoq20jws50gtztj24NBz_M8b42VQ/edit?usp=sharing).
 - Please look over your exam which will be returned to you toward the end of class. We will discuss it in class on Wednesday, October 21, 2026.
 - Keep working on [L5: Binary Addition](https://docs.google.com/document/d/1KS2uAtLjIQCFkSlgY8C_aJuTTjV3ODKN86ZMdlyAP44) which is due Friday, October 23, 2026.
 
@@ -311,7 +328,8 @@
 
 ### Day 17: Outside of class
 
-- Complete [A07: Individual E1 Review and Reflection](https://docs.google.com/document/d/13yIHXsGh3g-TfJSZ3VYjkG3f_UVnmZIJKIHkepHgEe0/edit?usp=sharing).  - **Note that due to the nature of this assignment, it may NOT be submitted late.**
+- Complete [A07: Individual E1 Review and Reflection](https://docs.google.com/document/d/13yIHXsGh3g-TfJSZ3VYjkG3f_UVnmZIJKIHkepHgEe0/edit?usp=sharing).  
+  - **Note that due to the nature of this assignment, it may NOT be submitted late.**
 
 ---
 
