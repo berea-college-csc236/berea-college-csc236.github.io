@@ -11,7 +11,7 @@
 ### Day 37: In class
 
 - Possible PI question
-- last questions on [L7: Measure and Analyze Sorting Algorithms](https://docs.
+- last questions on [L7: Measure and Analyze Sorting Algorithms](https://docs.google.com/document/d/1jZIoUnnZqPYIHW-0dE1Vz-c21flle_659W7DFURkCxw)
 - Friday at Noon, complete and submit [TR2 Peerwise Review for E2](https://docs.google.com/document/d/1AKBUi_i1XsbP6Aidb5rqQifVveU4rQSpBK-pKVGy8Yc/edit?tab=t.0#heading=h.xnd3q926ztgg).
     - submit your pdf to Moodle, AND
     - submit your questions to Peerwise
