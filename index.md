@@ -6,7 +6,22 @@
 
 ---
 
-## Day 37: Monday,  November 16, 2026
+## Day 38: Friday,  November 20, 2026
+
+### Day 38: In class
+
+- Peer Instruction question(s)
+- The second exam will be Monday, November 30. 
+- Begin work on final project, by completing all assigned homework from [FP1:Initial Planning and Preliminary Video Script](https://docs.google.com/document/d/19AV9PxfdqBvBxsBTA1kcftHv5ptQS8bL_skejQpDZhE/edit?usp=sharing)
+
+### Day 38: Outside of class
+
+- Study for the upcoming exam, which will be Monday, November 30, 2026.
+- Optional: Make progress on your project.
+
+---
+
+## Day 37: Wednesday,  November 18, 2026
 
 ### Day 37: In class
 
